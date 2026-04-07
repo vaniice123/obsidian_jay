@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/microbiome-kb/wiki/index/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/microbiome-kb/wiki/index/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 # 마이크로바이옴 지식 베이스 — 인덱스
