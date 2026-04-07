@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/microbiome-kb/wiki/gut-brain-axis/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/microbiome-kb/wiki/gut-brain-axis/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 # 장-뇌 축(Gut-Brain Axis)
