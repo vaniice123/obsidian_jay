@@ -43,3 +43,16 @@
 
 ## 바이오프로세스
 - [[Microbiome-KB/wiki/bioprocess-engineering\|bioprocess-engineering]] — 바이오프로세스 공학: 고농도 배양, 원심분리 정제, in vitro 장내 반응기, 유세포 분석
+
+---
+
+## 핵산 치료제
+- [[Microbiome-KB/wiki/antisense-oligonucleotides\|antisense-oligonucleotides]] — ASO: RNase H gapmer, 스플라이스 스위칭, 엑손 스키핑, 화학 변형, FDA 승인 약물
+- [[Microbiome-KB/wiki/peptide-nucleic-acids\|peptide-nucleic-acids]] — PNA: 합성 핵산 유사체, 유전자 발현 조절, 유전체 편집 보조, 진단
+
+## 신경과학/통증
+- [[Microbiome-KB/wiki/nav17-pain-therapeutics\|nav17-pain-therapeutics]] — Nav1.7 나트륨 채널과 통증: 유전학, 소분자 억제제, VX-548 (Nav1.8), 골관절염
+- [[Microbiome-KB/wiki/als-tdp43-therapeutics\|als-tdp43-therapeutics]] — ALS/FTD: TDP-43 병리, STMN2/UNC13A cryptic exon, ASO 치료 전략, 바이오마커
+
+## 암/리프로그래밍
+- [[Microbiome-KB/wiki/cancer-reprogramming\|cancer-reprogramming]] — 암 세포 리프로그래밍: 네트워크 추론, EMT 역전, 분화 궤적 제어
