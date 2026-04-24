@@ -1,0 +1,117 @@
+---
+{"dg-publish":true,"permalink":"/jay-s-knowledge-base/raw/446-baughn-2023-mechanism-of-istmn2i-cryptic-splice-polyadenylatio/","dg-note-properties":{}}
+---
+
+
+# Mechanism of <i>STMN2</i> cryptic splice-polyadenylation and its correction for TDP-43 proteinopathies
+
+- **저자**: Michael W. Baughn, Ze’ev Melamed, Jone López-Erauskin, Melinda S. Beccari, Karen Ling, Aamir Zuberi, Maximilliano Presa, Elena Gonzalo-Gil, Roy Maimon, Sonia Vazquez-Sanchez, Som Chaturvedi, Mariana Bravo-Hernández, Vanessa Taupin, Stephen Moore, Jonathan W. Artates, Eitan Acks, I. Sandra Ndayambaje, Ana R. Agra de Almeida Quadros, Paayman Jafar-nejad, Frank Rigo, C. Frank Bennett, Cathleen Lutz, Clotilde Lagier-Tourenne, Don W. Cleveland
+- **연도**: 2023-03-17
+- **저널**: *Science*
+- **DOI**: 10.1126/science.abq5622
+- **URL**: https://www.science.org/doi/10.1126/science.abq5622
+- **권호**: Vol. 379(6637), pp. 1140–1149
+- **유형**: article-journal
+- **출처**: Zotero library export (auto-generated)
+
+## Abstract
+
+Loss of nuclear TDP-43 is a hallmark of neurodegeneration in TDP-43 proteinopathies, including amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD). TDP-43 mislocalization results in cryptic splicing and polyadenylation of pre–messenger RNAs (pre-mRNAs) encoding stathmin-2 (also known as SCG10), a protein that is required for axonal regeneration. We found that TDP-43 binding to a GU-rich region sterically blocked recognition of the cryptic 3′ splice site in
+              STMN2
+              pre-mRNA. Targeting dCasRx or antisense oligonucleotides (ASOs) suppressed cryptic splicing, which restored axonal regeneration and stathmin-2–dependent lysosome trafficking in TDP-43–deficient human motor neurons. In mice that were gene-edited to contain human
+              STMN2
+              cryptic splice-polyadenylation sequences, ASO injection into cerebral spinal fluid successfully corrected
+              Stmn2
+              pre-mRNA misprocessing and restored stathmin-2 expression levels independently of TDP-43 binding.
+            
+          , , 
+            Rescue from TDP-43 proteinopathies
+            
+              Loss of the RNA-binding protein TDP-43 from the nuclei of affected neurons is a hallmark of neurodegeneration in TDP-43 proteinopathies, including amyotrophic lateral sclerosis and frontotemporal dementia. The RNA most affected by reduced TDP-43,
+              STMN2
+              , encodes stathmin-2, a protein required for axonal regeneration after injury. Baughn
+              et al
+              . found that TDP-43 sterically blocks recognition of a cryptic splice site in
+              STMN2
+              pre-mRNA (see the Perspective by O’Brien and Mizielinska). The CRISPR effector dCasRx or antisense oligonucleotides could block
+              STMN2
+              pre-mRNA cryptic splicing. This approach was able to rescue stathmin-2 levels in TDP-43–deficient human motor neurons and mouse genes edited to contain human
+              STMN2
+              cryptic splice/polyadenylation sequences. —SMH
+            
+          , 
+            An antisense oligonucleotide approach shows potential for therapeutic restoration of stathmin-2 in TDP-43 proteinopathies.
+          , 
+            
+              INTRODUCTION
+              
+                Nuclear clearance and cytoplasmic aggregation of the RNA-binding protein TDP-43 is the hallmark of neurodegenerative diseases called TDP-43 proteinopathies. This includes almost all instances of amyotrophic lateral sclerosis (ALS) and about half of frontotemporal dementia. In ALS, the motor neurons that innervate and trigger contraction of skeletal muscles degenerate, resulting in paralysis. One of the most highly abundant motor neuron mRNAs encodes stathmin-2, a protein necessary for axonal regeneration and maintenance of neuromuscular junctions (NMJs). Loss of functional TDP-43 is accompanied by misprocessing of the
+                STMN2
+                RNA precursor, which is driven by use of cryptic splicing and polyadenylation sites, and producing a truncated RNA that encodes a nonfunctional stathmin-2 fragment.
+              
+            
+            
+              RATIONALE
+              
+                Recognizing that stathmin-2 is essential for axonal recovery after injury and NMJ maintenance, a central interest in TDP-43 proteinopathies is to determine the mechanism through which TDP-43 enables correct processing of
+                STMN2
+                mRNAs and to develop methods to restore stathmin-2 synthesis in neurons with TDP-43 dysfunction.
+              
+            
+            
+              RESULTS
+              
+                We found that TDP-43 binding to a 24-base, GU-rich motif within the first intron of the
+                STMN2
+                pre-mRNA was required to suppress cryptic splicing and polyadenylation. Conversion of this GU-rich binding motif into a 19-base sequence bound by the MS2 bacteriophage coat protein (MCP) ablated TDP-43 binding and produced constitutive misprocessing of
+                STMN2
+                . Correct processing of this modified
+                STMN2
+                pre-mRNA was restored by binding of MCP, suggesting that TDP-43 normally functions by sterically blocking access to the cryptic sites of RNA-processing factors. Further genome editing revealed that the cryptic 3′ splice acceptor, not the cryptic polyadenylation site, was essential for initiating
+                STMN2
+                pre-mRNA misprocessing.
+              
+              
+                Rescue of stathmin-2 expression and axonal regeneration after injury in human motor neurons depleted of TDP-43 was achieved with steric binding antisense oligonucleotides (ASOs). Humanization (by insertion of the human
+                STMN2
+                cryptic exon) sensitized mouse
+                Stmn2
+                to TDP-43 expression level. Mice alternately humanized with the cryptic exon containing a disrupted TDP-43 binding site produced chronic
+                Stmn2
+                pre-mRNA misprocessing independent of TDP-43 level. ASOs were identified that when injected into cerebral spinal fluid of mice with constitutive humanized
+                Stmn2
+                RNA misprocessing, restored stathmin-2 mRNA and protein levels.
+              
+            
+            
+              CONCLUSION
+              
+                We determined that TDP-43 binding in the first intron of the
+                STMN2
+                pre-mRNA sterically blocked access of RNA processing factors that would otherwise recognize and use a cryptic 3′ splice site. We identified RNA-targeted CRISPR effectors and ASOs that restored
+                STMN2
+                levels despite reduced TDP-43. ASO injection into cerebral spinal fluid, an approach feasible for human therapy, rescued stathmin-2 protein levels in the central nervous system of mice with chronically misprocessed
+                Stmn2
+                pre-mRNAs.
+              
+              
+                
+                  Steric blocking of cryptic splicing rescues stathmin-2 levels in the central nervous system.
+                  
+                    (
+                    A
+                    ) TDP-43 sterically blocks recognition of a cryptic splice site in
+                    STMN2
+                    pre-RNA, enabling correct processing of intron 1, stathmin-2 protein synthesis, and axonal regeneration after injury. (
+                    B
+                    ) Nuclear clearance of TDP-43 in ALS and other TDP-43 proteinopathies results in cryptic splicing within the first
+                    STMN2
+                    intron and loss of stathmin-2 protein. (
+                    C
+                    ) ASOs or targeted RNA-binding proteins can substitute for TDP-43 steric blocking of cryptic splicing within
+                    STMN2
+                    pre-mRNAs. (
+                    D
+                    ) Identification of ASOs capable of blocking
+                    STMN2
+                    cryptic splicing and restoring stathmin-2 protein levels in the mammalian central nervous system independently of TDP-43 function.

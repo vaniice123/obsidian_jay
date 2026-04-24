@@ -1,0 +1,4 @@
+---
+{"dg-publish":true,"permalink":"/jay-s-knowledge-base/raw/478-sharma-2026-dr-reddys-beyond-the-pill-semaglutide/","title":"Dr Reddy’s plans 'beyond the pill' strategy for Semaglutide - BusinessToday","tags":["clippings"],"dg-note-properties":{"title":"Dr Reddy’s plans 'beyond the pill' strategy for Semaglutide - BusinessToday","source":"https://www.businesstoday.in/latest/corporate/story/dr-reddys-plans-beyond-the-pill-strategy-for-semaglutide-517068-2026-02-19","author":["[[Neetu Chandra Sharma]]"],"published":"2026-02-19","created":"2026-04-05","description":"With multiple rivals set to enter the generic race, Dr Reddy’s lines up obesity centres, nutrition products and patient support alongside its Day 1 launch, focusing on market creation beyond pricing.","tags":["clippings"]}}
+---
+
