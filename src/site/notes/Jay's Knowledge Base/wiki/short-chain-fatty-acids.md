@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/microbiome-kb/wiki/short-chain-fatty-acids/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/jay-s-knowledge-base/wiki/short-chain-fatty-acids/","dg-note-properties":{}}
 ---
 
 
@@ -25,7 +25,7 @@
 ### 면역 조절
 - G-단백질 결합 수용체(GPCR): FFA2, FFA3를 통한 항염증 신호
 - 조절 T세포(Treg) 분화 촉진
-- 미세아교세포(microglia) 활성화 조절 → [[Microbiome-KB/wiki/gut-brain-axis\|gut-brain-axis]]
+- 미세아교세포(microglia) 활성화 조절 → [[Jay's Knowledge Base/wiki/gut-brain-axis\|gut-brain-axis]]
 
 ### 대사 조절
 - 인슐린 감수성 개선, 포도당 내성 향상
@@ -38,7 +38,7 @@
 - 고섬유질 식이 → SCFA 증가 → 파킨슨병 운동기능 개선
 
 ### 근육 건강
-- 혈류 흡수 → 골격근 대사에 영향 → [[Microbiome-KB/wiki/gut-muscle-axis\|gut-muscle-axis]]
+- 혈류 흡수 → 골격근 대사에 영향 → [[Jay's Knowledge Base/wiki/gut-muscle-axis\|gut-muscle-axis]]
 - 항염증 → 근육 분해 억제
 - 미토콘드리아 기능 지원
 
@@ -48,8 +48,8 @@
 - **발효식품**: 김치, 요거트, 된장 등
 - **운동**: 규칙적 신체 활동이 SCFA 생산균 증가
 
-## [[Microbiome-KB/wiki/dysbiosis\|dysbiosis]]와의 관계
+## [[Jay's Knowledge Base/wiki/dysbiosis\|dysbiosis]]와의 관계
 - 디스바이오시스 → SCFA 생산 감소 → 장벽 약화 → 전신 염증 → 질환 악화의 악순환
 - SCFA 생산 회복이 디스바이오시스 교정의 핵심 목표 중 하나
 
-**출처**: `raw/02-postbiotics-biotherapeutic-potential.md`, `raw/03-gut-immune-brain-axis.md`, `raw/04-gut-muscle-axis-sarcopenia.md`, `raw/05-multi-omics-analysis-methods.md`
+**출처**: [[Jay's Knowledge Base/raw/02-postbiotics-biotherapeutic-potential\|raw/02-postbiotics-biotherapeutic-potential]], [[Jay's Knowledge Base/raw/03-gut-immune-brain-axis\|raw/03-gut-immune-brain-axis]], [[Jay's Knowledge Base/raw/04-gut-muscle-axis-sarcopenia\|raw/04-gut-muscle-axis-sarcopenia]], [[Jay's Knowledge Base/raw/05-multi-omics-analysis-methods\|raw/05-multi-omics-analysis-methods]]

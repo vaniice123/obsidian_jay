@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/microbiome-kb/wiki/microbiome-analysis-technologies/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/jay-s-knowledge-base/wiki/microbiome-analysis-technologies/","dg-note-properties":{}}
 ---
 
 
@@ -59,7 +59,7 @@
 | 오믹스 | 분석 대상 | 마이크로바이옴 적용 |
 |--------|----------|-------------------|
 | **메타게노믹스** | DNA/유전자 | 미생물 종 구성, 기능 유전자 |
-| **대사체(Metabolomics)** | 대사산물 | [[Microbiome-KB/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]], 담즙산, 트립토판 대사물 |
+| **대사체(Metabolomics)** | 대사산물 | [[Jay's Knowledge Base/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]], 담즙산, 트립토판 대사물 |
 | **메타단백체(Metaproteomics)** | 단백질 발현 | 실제 기능 활성 확인 |
 | **전사체(Transcriptomics)** | RNA 발현 | 유전자 발현 패턴 |
 | **숙주 게놈(miGWAS)** | 숙주 유전 변이 | 숙주 유전자-미생물 상관관계 |
@@ -68,4 +68,8 @@
 - 마이크로바이옴 데이터는 **구성적(compositional)** 특성 → 전통적 통계 방법 적용에 제약
 - 전문 도구 필요: ALDEx2, ANCOM, DESeq2
 
-**출처**: `raw/05-multi-omics-analysis-methods.md`
+## 균수 정량(Enumeration)
+
+포스트바이오틱(비활성 세포) 제품은 생균수(CFU)로 정량할 수 없으므로 **flow cytometry 기반 절대균수** 측정이 표준화되고 있다. 살균 *A. muciniphila* MucT 대상 Arioli (2025) 프로토콜은 동결건조 세포의 재수화 조건·희석액을 최적화해 현미경 계수 대비 낮은 CV(12.3~24.1%)를 달성했고, 6개 실험실 ring test에서 재현성이 검증되어 산업 배치의 mass balance 검증 및 타 포스트바이오틱 원료의 품질 규격에도 이식 가능하다. 공정 연계는 [[Jay's Knowledge Base/wiki/bioprocess-engineering\|bioprocess-engineering]] 참조.
+
+**출처**: [[Jay's Knowledge Base/raw/05-multi-omics-analysis-methods\|raw/05-multi-omics-analysis-methods]], [[Jay's Knowledge Base/raw/488-arioli-2025-quantification-of-pasteurized-akkermansia-muciniphila\|raw/488-arioli-2025-quantification-of-pasteurized-akkermansia-muciniphila]]

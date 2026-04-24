@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/microbiome-kb/wiki/gut-brain-axis/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/jay-s-knowledge-base/wiki/gut-brain-axis/","dg-note-properties":{}}
 ---
 
 # 장-뇌 축(Gut-Brain Axis)
 
-장-뇌 축(gut-brain axis)은 장내 미생물이 면역, 신경, 내분비 경로를 통해 뇌와 양방향으로 소통하는 시스템이다. 선천면역과 적응면역 모두가 이 축의 핵심 매개체이며, [[Microbiome-KB/wiki/dysbiosis\|dysbiosis]]는 우울증, 파킨슨병, 알츠하이머 등 다양한 신경/정신 질환과 연관된다.
+장-뇌 축(gut-brain axis)은 장내 미생물이 면역, 신경, 내분비 경로를 통해 뇌와 양방향으로 소통하는 시스템이다. 선천면역과 적응면역 모두가 이 축의 핵심 매개체이며, [[Jay's Knowledge Base/wiki/dysbiosis\|dysbiosis]]는 우울증, 파킨슨병, 알츠하이머 등 다양한 신경/정신 질환과 연관된다.
 
 ## 소통 경로
 
@@ -12,7 +12,7 @@
 |------|------|
 | **미주신경(vagus nerve)** | 장-뇌 직접 신경 연결, 자율신경계 조절 |
 | **장신경계(ENS)** | "제2의 뇌", 면역 세포와 상호작용 |
-| **미생물 대사산물** | [[Microbiome-KB/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]], 이차 담즙산 |
+| **미생물 대사산물** | [[Jay's Knowledge Base/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]], 이차 담즙산 |
 | **내분비 경로** | 세로토닌(장에서 95% 생산), 트립토판 대사 |
 | **HPA 축** | 시상하부-뇌하수체-부신 축, 스트레스 반응 |
 | **면역 경로** | 사이토카인, 미세아교세포(microglia) 활성화 |
@@ -52,12 +52,33 @@
 
 ### 포스트바이오틱스
 - 열 처리 L. gasseri → 시험 관련 스트레스 완화, 수면 개선
-- 자세한 내용 → [[Microbiome-KB/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]]
+- 자세한 내용 → [[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]]
 
 ### 식이/생활습관
 - 고섬유질 식이 → 인지 능력 개선
 - "사이코바이오틱 식이" → 미생물 안정화, 스트레스 감소
 - 운동, 발효식품 → 미생물 다양성 지원
+
+## 장내 미생물-내수용감각-인지 노화 경로
+
+노화에 따른 장내 미생물군 변화가 내수용감각(interoception)을 통해 인지 기능 저하를 직접 유발한다는 것이 마우스 모델에서 규명되었다 (Cox et al., 2026, *Nature*).
+
+### 3단계 경로
+1. **위장관 노화** → *Parabacteroides goldsteinii* 증가 → 중쇄지방산(MCFAs) 대사산물 축적
+2. **장 골수세포(myeloid cells)** 가 MCFAs 감지 → 염증 반응 유도
+3. **미주신경 신호 장애** → 해마 활동 감소 → 기억 형성 능력 저하
+
+### 핵심 실험 결과
+- 무균(germ-free) 노령 쥐는 인지 저하 없이 어린 쥐 수준 유지 → 미생물군이 핵심 원인
+- *P. goldsteinii* 단독 접종만으로 어린 쥐의 인지 기능 저하 재현
+- 미주신경 자극(VNS)으로 늙은 쥐의 인지 능력을 어린 쥐 수준으로 회복
+
+### 치료적 함의
+- VNS는 이미 FDA 승인 (우울증, 간질, 뇌졸중 보조)
+- 장내 미생물 대사산물 조절을 통한 비침습적 인지 개선 가능성
+- "뇌를 원격 조종하는 것과 같다" — 장 접근성을 활용한 뇌 기능 제어 전략
+
+관련: [[Jay's Knowledge Base/raw/487-cox-2026-intestinal-interoceptive-dysfunction-drives-age-associated-cognitive-decline\|raw/487-cox-2026-intestinal-interoceptive-dysfunction-drives-age-associated-cognitive-decline]]
 
 ## 뇌-장-근육 축(Brain-Gut-Muscle Axis)
 
@@ -71,7 +92,7 @@
 
 비약물적 중재(운동)가 뇌-장-근육 축을 통해 뇌 노화를 지연시키는 통합적 관점을 제시한다.
 
-관련: [[Microbiome-KB/wiki/gut-muscle-axis\|gut-muscle-axis]]
+관련: [[Jay's Knowledge Base/wiki/gut-muscle-axis\|gut-muscle-axis]]
 
 ## 미래 방향
 - CRISPR을 이용한 정밀 마이크로바이옴 편집
@@ -79,4 +100,4 @@
 - 일주기 생물학(circadian biology)과의 교차 연구
 - 개인별 면역 프로파일에 기반한 정밀의학
 
-**출처**: `raw/03-gut-immune-brain-axis.md`, `raw/304-sun-unknown-the-brain-gut-muscle-axis-a-mechanism-for-exercise-mediated.md`
+**출처**: [[Jay's Knowledge Base/raw/03-gut-immune-brain-axis\|raw/03-gut-immune-brain-axis]], [[Jay's Knowledge Base/raw/304-sun-unknown-the-brain-gut-muscle-axis-a-mechanism-for-exercise-mediated\|raw/304-sun-unknown-the-brain-gut-muscle-axis-a-mechanism-for-exercise-mediated]], [[Jay's Knowledge Base/raw/487-cox-2026-intestinal-interoceptive-dysfunction-drives-age-associated-cognitive-decline\|raw/487-cox-2026-intestinal-interoceptive-dysfunction-drives-age-associated-cognitive-decline]]

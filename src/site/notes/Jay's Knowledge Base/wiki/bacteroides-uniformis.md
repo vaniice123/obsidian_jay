@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/microbiome-kb/wiki/bacteroides-uniformis/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/jay-s-knowledge-base/wiki/bacteroides-uniformis/","dg-note-properties":{}}
 ---
 
 
 # *Bacteroides uniformis*
 
-*Bacteroides uniformis*는 Bacteroidetes 문에 속하는 그람음성 혐기성 장내 상재균으로, 건강한 모유수유 영아의 대변에서 분리되어 프로바이오틱 후보로 연구되고 있다. HealthBiome NGP 파이프라인 균주 중 하나이며, 운동 능력 향상, 비만/당뇨 개선, 비알코올성 지방간(NASH) 완화, 장-지방 조직 축 염증 억제 등 다양한 전임상 효능이 보고되었다.
+*Bacteroides uniformis*는 Bacteroidetes 문에 속하는 그람음성 혐기성 장내 상재균으로, 건강한 모유수유 영아의 대변에서 분리되어 프로바이오틱 후보로 연구되고 있다. NGP 파이프라인 균주 중 하나로 꼽히며, 운동 능력 향상, 비만/당뇨 개선, 비알코올성 지방간(NASH) 완화, 장-지방 조직 축 염증 억제 등 다양한 전임상 효능이 보고되었다.
 
 대표적으로 연구된 균주는 **CECT 7771**과 **CBA7346**이며, CECT 7771은 건강한 모유수유 영아에서 분리되어 비만 모델에서 전임상 효능이 검증되었고, 면역적격(immunocompetent) 및 면역억제(immunosuppressed) 마우스 모두에서 안전성이 확인되었다 (Fernandez-Murga & Sanz, 2016). *B. uniformis*는 또한 α-cyclodextrin을 선호 기질로 이용하며, 이를 통해 지구력 운동 능력을 개선하는 독특한 장-근육 축(gut-muscle axis) 효과가 주목받고 있다.
 
@@ -47,27 +47,27 @@
 
 ## 관련 raw/ 소스
 
-- [[Microbiome-KB/raw/216-morita-2023-ibacteroides-uniformisi-and-its-preferred-substr\|raw/216-morita-2023-ibacteroides-uniformisi-and-its-preferred-substr]]
-- [[Microbiome-KB/raw/217-morita-2020-ibacteroides-uniformisi-enhances-endurance-exerc\|raw/217-morita-2020-ibacteroides-uniformisi-enhances-endurance-exerc]]
-- [[Microbiome-KB/raw/218-lee-2021-amelioration-of-hepatic-steatosis-in-mice-through-b\|raw/218-lee-2021-amelioration-of-hepatic-steatosis-in-mice-through-b]]
-- [[Microbiome-KB/raw/219-xu-2024-prophylactic-treatment-with-ibacteroides-uniformisi\|raw/219-xu-2024-prophylactic-treatment-with-ibacteroides-uniformisi]]
-- [[Microbiome-KB/raw/220-fernandez-murga-2016-safety-assessment-of-bacteroides-unifor\|raw/220-fernandez-murga-2016-safety-assessment-of-bacteroides-unifor]]
-- [[Microbiome-KB/raw/221-shoemaker-1987-facilitated-transfer-of-incpi-r751-derivative\|raw/221-shoemaker-1987-facilitated-transfer-of-incpi-r751-derivative]]
-- [[Microbiome-KB/raw/222-shoemaker-1988-tetracycline-dependent-appearance-of-plasmidl\|raw/222-shoemaker-1988-tetracycline-dependent-appearance-of-plasmidl]]
-- [[Microbiome-KB/raw/223-shoemaker-1990-a-cryptic-65-kilobase-pair-transposonlike-ele\|raw/223-shoemaker-1990-a-cryptic-65-kilobase-pair-transposonlike-ele]]
-- [[Microbiome-KB/raw/224-zhu-2024-bacteroides-uniformis-ameliorates-carbohydrate-and\|raw/224-zhu-2024-bacteroides-uniformis-ameliorates-carbohydrate-and]]
-- [[Microbiome-KB/raw/225-fabersani-2021-bacteroides-uniformis-cect-7771-alleviates-in\|raw/225-fabersani-2021-bacteroides-uniformis-cect-7771-alleviates-in]]
-- [[Microbiome-KB/raw/226-shoemaker-chromosome-of-bacteroides-uniformis-to-escherichia\|raw/226-shoemaker-chromosome-of-bacteroides-uniformis-to-escherichia]]
+- [[Jay's Knowledge Base/raw/216-morita-2023-ibacteroides-uniformisi-and-its-preferred-substr\|raw/216-morita-2023-ibacteroides-uniformisi-and-its-preferred-substr]]
+- [[Jay's Knowledge Base/raw/217-morita-2020-ibacteroides-uniformisi-enhances-endurance-exerc\|raw/217-morita-2020-ibacteroides-uniformisi-enhances-endurance-exerc]]
+- [[Jay's Knowledge Base/raw/218-lee-2021-amelioration-of-hepatic-steatosis-in-mice-through-b\|raw/218-lee-2021-amelioration-of-hepatic-steatosis-in-mice-through-b]]
+- [[Jay's Knowledge Base/raw/219-xu-2024-prophylactic-treatment-with-ibacteroides-uniformisi\|raw/219-xu-2024-prophylactic-treatment-with-ibacteroides-uniformisi]]
+- [[Jay's Knowledge Base/raw/220-fernandez-murga-2016-safety-assessment-of-bacteroides-unifor\|raw/220-fernandez-murga-2016-safety-assessment-of-bacteroides-unifor]]
+- [[Jay's Knowledge Base/raw/221-shoemaker-1987-facilitated-transfer-of-incpi-r751-derivative\|raw/221-shoemaker-1987-facilitated-transfer-of-incpi-r751-derivative]]
+- [[Jay's Knowledge Base/raw/222-shoemaker-1988-tetracycline-dependent-appearance-of-plasmidl\|raw/222-shoemaker-1988-tetracycline-dependent-appearance-of-plasmidl]]
+- [[Jay's Knowledge Base/raw/223-shoemaker-1990-a-cryptic-65-kilobase-pair-transposonlike-ele\|raw/223-shoemaker-1990-a-cryptic-65-kilobase-pair-transposonlike-ele]]
+- [[Jay's Knowledge Base/raw/224-zhu-2024-bacteroides-uniformis-ameliorates-carbohydrate-and\|raw/224-zhu-2024-bacteroides-uniformis-ameliorates-carbohydrate-and]]
+- [[Jay's Knowledge Base/raw/225-fabersani-2021-bacteroides-uniformis-cect-7771-alleviates-in\|raw/225-fabersani-2021-bacteroides-uniformis-cect-7771-alleviates-in]]
+- [[Jay's Knowledge Base/raw/226-shoemaker-chromosome-of-bacteroides-uniformis-to-escherichia\|raw/226-shoemaker-chromosome-of-bacteroides-uniformis-to-escherichia]]
 
 ---
 
 ## 관련 wiki 링크
 
-- [[Microbiome-KB/wiki/gut-muscle-axis\|gut-muscle-axis]] — 장-근육 축과 운동 능력
-- [[Microbiome-KB/wiki/gut-microbiome-and-disease\|gut-microbiome-and-disease]] — 장내 미생물과 질병 관계 종합
-- [[Microbiome-KB/wiki/microbiome-therapeutics\|microbiome-therapeutics]] — NGP 및 LBP 개발
-- [[Microbiome-KB/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]] — 바이오틱스 비교
-- [[Microbiome-KB/wiki/roseburia-intestinalis\|roseburia-intestinalis]] — 또 다른 NGP 파이프라인 관련 균주
-- [[Microbiome-KB/wiki/obesity-body-composition\|obesity-body-composition]] — 비만 및 대사와 장내 미생물
-- [[Microbiome-KB/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]] — SCFAs 작용 기전
-- [[Microbiome-KB/wiki/dysbiosis\|dysbiosis]] — 장내 미생물 불균형
+- [[Jay's Knowledge Base/wiki/gut-muscle-axis\|gut-muscle-axis]] — 장-근육 축과 운동 능력
+- [[Jay's Knowledge Base/wiki/gut-microbiome-and-disease\|gut-microbiome-and-disease]] — 장내 미생물과 질병 관계 종합
+- [[Jay's Knowledge Base/wiki/microbiome-therapeutics\|microbiome-therapeutics]] — NGP 및 LBP 개발
+- [[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]] — 바이오틱스 비교
+- [[Jay's Knowledge Base/wiki/roseburia-intestinalis\|roseburia-intestinalis]] — 또 다른 NGP 파이프라인 관련 균주
+- [[Jay's Knowledge Base/wiki/obesity-body-composition\|obesity-body-composition]] — 비만 및 대사와 장내 미생물
+- [[Jay's Knowledge Base/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]] — SCFAs 작용 기전
+- [[Jay's Knowledge Base/wiki/dysbiosis\|dysbiosis]] — 장내 미생물 불균형

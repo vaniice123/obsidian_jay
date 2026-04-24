@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/microbiome-kb/wiki/lbp-regulatory-cmc/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/jay-s-knowledge-base/wiki/lbp-regulatory-cmc/","dg-note-properties":{}}
 ---
 
 
@@ -23,26 +23,28 @@ EFSA의 QPS(Qualified Presumption of Safety) 시스템은 식품 및 사료에 �
 - **규제 환경 비교**: 미국(FDA), 유럽(EMA), 한국(식약처) 간 LBP/프로바이오틱스 규제 체계의 차이점 및 수렴 경향. 식품 vs 의약품 경로에 따른 요구사항 상이 (Spacova 2023)
 - **US 규제 고려사항**: 미국에서의 LBP 개발 시 IND 신청, GMP 요건, 임상시험 설계 등 실무적 규제 고려사항 정리 (Dreher-Lesnick 2017)
 - **개념-상용화 경로**: 마이크로바이옴 의약품의 컨셉트 단계부터 상용화까지의 전체 개발 경로 및 CMC 전략 개관 (Pattni)
+- **FDA 동물대체시험법(NAMs)**: FDA는 2022년 신약 개발 시 동물실험 의무를 폐지하고, 2026년 3월 NAMs(New Approach Methodologies) 지침 초안 발표. 오가노이드, 장기칩(Organ-on-a-chip), in silico 기법 등을 IND 신청에 활용 가능. 다만 검증 기준이 불명확하여 소규모 바이오텍에는 불확실성 요인. Big Pharma BD에서는 기존 in vivo 데이터 선호 관성이 여전함 ([[Jay's Knowledge Base/raw/483-yoon-2026-fda-animal-alternative-testing-nams\|출처]])
 
 ## 관련 raw/ 소스
 
-- [[Microbiome-KB/raw/21-paquet-2021-entering-first-in-human-clinical-study-with-a-si\|raw/21-paquet-2021-entering-first-in-human-clinical-study-with-a-si]]
-- [[Microbiome-KB/raw/36-unknown-2020-update-of-the-list-of-qpsrecommended-biological\|raw/36-unknown-2020-update-of-the-list-of-qpsrecommended-biological]]
-- [[Microbiome-KB/raw/39-pattni-microbiome-medicinal-products-concept-to-commercial\|raw/39-pattni-microbiome-medicinal-products-concept-to-commercial]]
-- [[Microbiome-KB/raw/103-machado-2022-insights-into-the-antimicrobial-resistance-prof\|raw/103-machado-2022-insights-into-the-antimicrobial-resistance-prof]]
-- [[Microbiome-KB/raw/106-unknown-guidance-on-the-characterisation-of-microorganisms-u\|raw/106-unknown-guidance-on-the-characterisation-of-microorganisms-u]]
-- [[Microbiome-KB/raw/107-unknown-guidance-on-the-assessment-of-bacterial-susceptibili\|raw/107-unknown-guidance-on-the-assessment-of-bacterial-susceptibili]]
-- [[Microbiome-KB/raw/155-dreher-lesnick-2017-us-regulatory-considerations-for-develop\|raw/155-dreher-lesnick-2017-us-regulatory-considerations-for-develop]]
-- [[Microbiome-KB/raw/162-unknown-early-clinical-trials-with-live-biotherapeutic-produ\|raw/162-unknown-early-clinical-trials-with-live-biotherapeutic-produ]]
-- [[Microbiome-KB/raw/163-spacova-2023-comparing-technology-and-regulatory-landscape-o\|raw/163-spacova-2023-comparing-technology-and-regulatory-landscape-o]]
-- [[Microbiome-KB/raw/164-tseng-2025-development-of-live-biotherapeutic-products-a-pos\|raw/164-tseng-2025-development-of-live-biotherapeutic-products-a-pos]]
-- [[Microbiome-KB/raw/237-paquet-2021-entering-first-in-human-clinical-study-with-a-si\|raw/237-paquet-2021-entering-first-in-human-clinical-study-with-a-si]]
-- [[Microbiome-KB/raw/239-hoffmann-2013-probiotics-finding-the-right-regulatory-balanc\|raw/239-hoffmann-2013-probiotics-finding-the-right-regulatory-balanc]]
+- [[Jay's Knowledge Base/raw/21-paquet-2021-entering-first-in-human-clinical-study-with-a-si\|raw/21-paquet-2021-entering-first-in-human-clinical-study-with-a-si]]
+- [[Jay's Knowledge Base/raw/36-unknown-2020-update-of-the-list-of-qpsrecommended-biological\|raw/36-unknown-2020-update-of-the-list-of-qpsrecommended-biological]]
+- [[Jay's Knowledge Base/raw/39-pattni-microbiome-medicinal-products-concept-to-commercial\|raw/39-pattni-microbiome-medicinal-products-concept-to-commercial]]
+- [[Jay's Knowledge Base/raw/103-machado-2022-insights-into-the-antimicrobial-resistance-prof\|raw/103-machado-2022-insights-into-the-antimicrobial-resistance-prof]]
+- [[Jay's Knowledge Base/raw/106-unknown-guidance-on-the-characterisation-of-microorganisms-u\|raw/106-unknown-guidance-on-the-characterisation-of-microorganisms-u]]
+- [[Jay's Knowledge Base/raw/107-unknown-guidance-on-the-assessment-of-bacterial-susceptibili\|raw/107-unknown-guidance-on-the-assessment-of-bacterial-susceptibili]]
+- [[Jay's Knowledge Base/raw/155-dreher-lesnick-2017-us-regulatory-considerations-for-develop\|raw/155-dreher-lesnick-2017-us-regulatory-considerations-for-develop]]
+- [[Jay's Knowledge Base/raw/162-unknown-early-clinical-trials-with-live-biotherapeutic-produ\|raw/162-unknown-early-clinical-trials-with-live-biotherapeutic-produ]]
+- [[Jay's Knowledge Base/raw/163-spacova-2023-comparing-technology-and-regulatory-landscape-o\|raw/163-spacova-2023-comparing-technology-and-regulatory-landscape-o]]
+- [[Jay's Knowledge Base/raw/164-tseng-2025-development-of-live-biotherapeutic-products-a-pos\|raw/164-tseng-2025-development-of-live-biotherapeutic-products-a-pos]]
+- [[Jay's Knowledge Base/raw/237-paquet-2021-entering-first-in-human-clinical-study-with-a-si\|raw/237-paquet-2021-entering-first-in-human-clinical-study-with-a-si]]
+- [[Jay's Knowledge Base/raw/239-hoffmann-2013-probiotics-finding-the-right-regulatory-balanc\|raw/239-hoffmann-2013-probiotics-finding-the-right-regulatory-balanc]]
+- [[Jay's Knowledge Base/raw/483-yoon-2026-fda-animal-alternative-testing-nams\|raw/483-yoon-2026-fda-animal-alternative-testing-nams]]
 
 ## 관련 wiki 링크
 
-- [[Microbiome-KB/wiki/next-generation-probiotics\|next-generation-probiotics]]
-- [[Microbiome-KB/wiki/akkermansia-muciniphila\|akkermansia-muciniphila]]
-- [[Microbiome-KB/wiki/microbiome-therapeutics\|microbiome-therapeutics]]
-- [[Microbiome-KB/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]]
-- [[Microbiome-KB/wiki/bioprocess-engineering\|bioprocess-engineering]]
+- [[Jay's Knowledge Base/wiki/next-generation-probiotics\|next-generation-probiotics]]
+- [[Jay's Knowledge Base/wiki/akkermansia-muciniphila\|akkermansia-muciniphila]]
+- [[Jay's Knowledge Base/wiki/microbiome-therapeutics\|microbiome-therapeutics]]
+- [[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]]
+- [[Jay's Knowledge Base/wiki/bioprocess-engineering\|bioprocess-engineering]]

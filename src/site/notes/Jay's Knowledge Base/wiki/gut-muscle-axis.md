@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/microbiome-kb/wiki/gut-muscle-axis/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/jay-s-knowledge-base/wiki/gut-muscle-axis/","dg-note-properties":{}}
 ---
 
 # 장-근육 축(Gut-Muscle Axis)
@@ -9,7 +9,7 @@
 ## 핵심 기전
 
 ### 미생물 대사산물
-- 장내 미생물이 식이섬유를 혐기 발효 → [[Microbiome-KB/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]] 생산
+- 장내 미생물이 식이섬유를 혐기 발효 → [[Jay's Knowledge Base/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]] 생산
 - SCFAs가 혈류로 흡수 → 근육 대사에 직접 영향
 - 부티레이트: 항염증, 인슐린 감수성 개선, 미토콘드리아 기능 지원
 - **Urolithin A**: 미생물-숙주 상호작용 유래 대사산물, 미토콘드리아 기능 복원 (Zhao 2021)
@@ -103,8 +103,8 @@ GLP-1 수용체 작용제(semaglutide, tirzepatide)의 체중 감량분 중 **25
 
 - **ActRII → SMAD2/3 경로**: myostatin/activin이 ActRII에 결합 → SMAD2/3 인산화 → Atrogin-1/MuRF1 활성화(근단백 분해) + PI3K/Akt/mTOR 억제(근단백 합성 차단)
 - **Follistatin**: 가장 강력한 자연 억제자 — myostatin에 직접 결합하여 ActRII 접근 차단
-- **마이크로바이옴 접근**: [[Microbiome-KB/wiki/akkermansia-muciniphila\|akkermansia-muciniphila]]의 HB05P가 follistatin 수치를 유의하게 상승(p=0.0063)시키고, SCFA → Akt/mTOR 활성화, 장벽 강화 → 염증성 myostatin 발현 억제 등 간접 경로로 ActRII 축에 수렴
-- 상세 → [[Microbiome-KB/wiki/glp1-muscle-loss\|glp1-muscle-loss]]
+- **마이크로바이옴 접근**: 살균 [[Jay's Knowledge Base/wiki/akkermansia-muciniphila\|akkermansia-muciniphila]] 포스트바이오틱이 follistatin 수치를 유의하게 상승(RCT p=0.0063)시키고, SCFA → Akt/mTOR 활성화, 장벽 강화 → 염증성 myostatin 발현 억제 등 간접 경로로 ActRII 축에 수렴
+- 상세 → [[Jay's Knowledge Base/wiki/glp1-muscle-loss\|glp1-muscle-loss]]
 
 ## 치료적 접근
 
@@ -116,11 +116,11 @@ GLP-1 수용체 작용제(semaglutide, tirzepatide)의 체중 감량분 중 **25
 ### 2. 영양 전략
 - 식이섬유 → 미생물 대사산물 생산 지원
 - 충분한 단백질 + BCAAs(특히 발린)
-- [[Microbiome-KB/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]] 병용
+- [[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]] 병용
 
 ### 3. FMT
 - 전임상에서 가장 강력한 근거 (악력 30-50%↑)
-- 임상 번역 진행 중 → [[Microbiome-KB/wiki/microbiome-therapeutics\|microbiome-therapeutics]] 참조
+- 임상 번역 진행 중 → [[Jay's Knowledge Base/wiki/microbiome-therapeutics\|microbiome-therapeutics]] 참조
 
 ### 4. 프로바이오틱스
 - L. casei LC122, B. longum BL986, L. plantarum TWK10
@@ -142,7 +142,7 @@ GLP-1 수용체 작용제(semaglutide, tirzepatide)의 체중 감량분 중 **25
 ## 확장 개념
 
 ### 뇌-장-근육 축(Brain-Gut-Muscle Axis)
-Sun (2026)은 운동이 장내 미생물의 조성과 다양성을 조절하고, 골격근에서 마이오카인 분비를 촉진하여 신경가소성, 염증 반응, 인지 기능에 영향을 미치는 삼중 축(triple-axis) 모델을 제안했다. 이 기전은 운동 매개 뇌 노화 지연의 새로운 설명 틀로, 기존 [[Microbiome-KB/wiki/gut-brain-axis\|gut-brain-axis]]와 장-근육 축을 통합하는 시도이다.
+Sun (2026)은 운동이 장내 미생물의 조성과 다양성을 조절하고, 골격근에서 마이오카인 분비를 촉진하여 신경가소성, 염증 반응, 인지 기능에 영향을 미치는 삼중 축(triple-axis) 모델을 제안했다. 이 기전은 운동 매개 뇌 노화 지연의 새로운 설명 틀로, 기존 [[Jay's Knowledge Base/wiki/gut-brain-axis\|gut-brain-axis]]와 장-근육 축을 통합하는 시도이다.
 
 ### 장-근육-면역 축(Gut-Muscle-Immune Axis)
 Réka (2025)는 SCFA와 운동, 장내 세균 간 교차 급식(cross-feeding)이 면역 매개 근육 항상성 유지에 핵심 역할을 한다고 제시했다. 기존 장-근육 축에 면역 구성요소를 명시적으로 포함한 확장 모델로, 운동-미생물-면역 상호작용의 통합적 이해를 강조한다.
@@ -158,4 +158,4 @@ Réka (2025)는 SCFA와 운동, 장내 세균 간 교차 급식(cross-feeding)�
 8. Sun et al. (2026) — 뇌-장-근육 축: 운동 매개 뇌 노화 보호
 9. Réka (2025) — 장-근육-면역 축: SCFA, 운동, 교차 급식
 
-**출처**: `raw/04-gut-muscle-axis-sarcopenia.md`, `raw/08-zhao-2021-gut-muscle-axis-narrative-review.md`, `raw/09-liu-2021-gut-microbiota-sarcopenia-systematic-review.md`, `raw/10-li-2024-exercise-prevention-sarcopenia-gut-muscle-axis.md`, `raw/11-gao-2025-gut-muscle-axis-age-related-sarcopenia.md`, `raw/12-bimagrumab-believe-phase2b-glp1-muscle-preservation.md`, `raw/14-hb05p-glp1-companion-strategic-positioning.md`, `raw/293-zhao-2021-a-narrative-review-of-gut-muscle-axis-and-sarcopenia-the-pot.md`, `raw/294-zhao-2021-a-narrative-review-of-gut-muscle-axis-and-sarcopenia-the-pot.md`, `raw/295-heymsfield-2026-bimagrumab-plus-semaglutide-alone-or-in-combination-for-the.md`, `raw/296-unknown-2025-age-related-sarcopenia-and-the-gut-microbiome-mechanistic-in.md`, `raw/297-unknown-2026-the-brain-gut-muscle-axis-exercise-mediated-protection-in-br.md`, `raw/298-liao-2020-exploring-the-preventive-effect-and-mechanism-of-senile-sarc.md`, `raw/299-liao-2020-.md`, `raw/300-li-2024-exploring-the-relationship-between-gut-microbiota-and-sarcop.md`, `raw/301-li-2024-gut-microbiota-and-sarcopenia-based-on-gut-muscle-axis.md`, `raw/302-liu-2023-linking-gut-microbiota-and-musculoskeletal-health.md`, `raw/303-réka-2025-the-gut-muscle-immune-axis-in-motion-scfa-exercise-cross-fee.md`, `raw/304-sun-unknown-the-brain-gut-muscle-axis-a-mechanism-for-exercise-mediated.md`, `raw/305-xu-2025-the-gut-muscle-axis-a-comprehensive-review-of-physical-activ.md`, `raw/306-xu-2025-the-gut-muscle-axis-a-comprehensive-review-of-the-interplay.md`
+**출처**: [[Jay's Knowledge Base/raw/04-gut-muscle-axis-sarcopenia\|raw/04-gut-muscle-axis-sarcopenia]], [[Jay's Knowledge Base/raw/08-zhao-2021-gut-muscle-axis-narrative-review\|raw/08-zhao-2021-gut-muscle-axis-narrative-review]], [[Jay's Knowledge Base/raw/09-liu-2021-gut-microbiota-sarcopenia-systematic-review\|raw/09-liu-2021-gut-microbiota-sarcopenia-systematic-review]], [[Jay's Knowledge Base/raw/10-li-2024-exercise-prevention-sarcopenia-gut-muscle-axis\|raw/10-li-2024-exercise-prevention-sarcopenia-gut-muscle-axis]], [[Jay's Knowledge Base/raw/11-gao-2025-gut-muscle-axis-age-related-sarcopenia\|raw/11-gao-2025-gut-muscle-axis-age-related-sarcopenia]], [[Jay's Knowledge Base/raw/12-bimagrumab-believe-phase2b-glp1-muscle-preservation\|raw/12-bimagrumab-believe-phase2b-glp1-muscle-preservation]], [[Jay's Knowledge Base/raw/14-hb05p-glp1-companion-strategic-positioning\|raw/14-hb05p-glp1-companion-strategic-positioning]], [[Jay's Knowledge Base/raw/293-zhao-2021-a-narrative-review-of-gut-muscle-axis-and-sarcopenia-the-pot\|raw/293-zhao-2021-a-narrative-review-of-gut-muscle-axis-and-sarcopenia-the-pot]], [[Jay's Knowledge Base/raw/294-zhao-2021-a-narrative-review-of-gut-muscle-axis-and-sarcopenia-the-pot\|raw/294-zhao-2021-a-narrative-review-of-gut-muscle-axis-and-sarcopenia-the-pot]], [[Jay's Knowledge Base/raw/295-heymsfield-2026-bimagrumab-plus-semaglutide-alone-or-in-combination-for-the\|raw/295-heymsfield-2026-bimagrumab-plus-semaglutide-alone-or-in-combination-for-the]], [[Jay's Knowledge Base/raw/296-unknown-2025-age-related-sarcopenia-and-the-gut-microbiome-mechanistic-in\|raw/296-unknown-2025-age-related-sarcopenia-and-the-gut-microbiome-mechanistic-in]], [[Jay's Knowledge Base/raw/297-unknown-2026-the-brain-gut-muscle-axis-exercise-mediated-protection-in-br\|raw/297-unknown-2026-the-brain-gut-muscle-axis-exercise-mediated-protection-in-br]], [[Jay's Knowledge Base/raw/298-liao-2020-exploring-the-preventive-effect-and-mechanism-of-senile-sarc\|raw/298-liao-2020-exploring-the-preventive-effect-and-mechanism-of-senile-sarc]], [[Jay's Knowledge Base/raw/299-liao-2020-\|raw/299-liao-2020-]], [[Jay's Knowledge Base/raw/300-li-2024-exploring-the-relationship-between-gut-microbiota-and-sarcop\|raw/300-li-2024-exploring-the-relationship-between-gut-microbiota-and-sarcop]], [[Jay's Knowledge Base/raw/301-li-2024-gut-microbiota-and-sarcopenia-based-on-gut-muscle-axis\|raw/301-li-2024-gut-microbiota-and-sarcopenia-based-on-gut-muscle-axis]], [[Jay's Knowledge Base/raw/302-liu-2023-linking-gut-microbiota-and-musculoskeletal-health\|raw/302-liu-2023-linking-gut-microbiota-and-musculoskeletal-health]], [[Jay's Knowledge Base/raw/303-réka-2025-the-gut-muscle-immune-axis-in-motion-scfa-exercise-cross-fee\|raw/303-réka-2025-the-gut-muscle-immune-axis-in-motion-scfa-exercise-cross-fee]], [[Jay's Knowledge Base/raw/304-sun-unknown-the-brain-gut-muscle-axis-a-mechanism-for-exercise-mediated\|raw/304-sun-unknown-the-brain-gut-muscle-axis-a-mechanism-for-exercise-mediated]], [[Jay's Knowledge Base/raw/305-xu-2025-the-gut-muscle-axis-a-comprehensive-review-of-physical-activ\|raw/305-xu-2025-the-gut-muscle-axis-a-comprehensive-review-of-physical-activ]], [[Jay's Knowledge Base/raw/306-xu-2025-the-gut-muscle-axis-a-comprehensive-review-of-the-interplay\|raw/306-xu-2025-the-gut-muscle-axis-a-comprehensive-review-of-the-interplay]]

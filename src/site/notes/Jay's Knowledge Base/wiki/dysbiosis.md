@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/microbiome-kb/wiki/dysbiosis/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/jay-s-knowledge-base/wiki/dysbiosis/","dg-note-properties":{}}
 ---
 
 
@@ -22,20 +22,20 @@
 ## 결과
 - 장벽 기능 약화 ("leaky gut") → 내독소(LPS) 혈류 유입
 - 전신 저등급 만성 염증
-- [[Microbiome-KB/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]] 생산 감소
+- [[Jay's Knowledge Base/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]] 생산 감소
 - 면역 조절 이상
 
 ## 관련 질환
-- 소화기: IBD, IBS, 대장암 → [[Microbiome-KB/wiki/gut-microbiome-and-disease\|gut-microbiome-and-disease]]
+- 소화기: IBD, IBS, 대장암 → [[Jay's Knowledge Base/wiki/gut-microbiome-and-disease\|gut-microbiome-and-disease]]
 - 대사: 비만, 당뇨, 대사증후군
-- 신경: 우울증, 파킨슨, 알츠하이머 → [[Microbiome-KB/wiki/gut-brain-axis\|gut-brain-axis]]
-- 근골격: 근감소증 → [[Microbiome-KB/wiki/gut-muscle-axis\|gut-muscle-axis]]
+- 신경: 우울증, 파킨슨, 알츠하이머 → [[Jay's Knowledge Base/wiki/gut-brain-axis\|gut-brain-axis]]
+- 근골격: 근감소증 → [[Jay's Knowledge Base/wiki/gut-muscle-axis\|gut-muscle-axis]]
 - 면역: 자가면역 질환, 알레르기
 
 ## 회복 전략
-- [[Microbiome-KB/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]] 보충
+- [[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]] 보충
 - 식이 개선 (고섬유질, 발효식품)
-- FMT → [[Microbiome-KB/wiki/microbiome-therapeutics\|microbiome-therapeutics]]
+- FMT → [[Jay's Knowledge Base/wiki/microbiome-therapeutics\|microbiome-therapeutics]]
 - 항생제 사용 최소화
 
-**출처**: `raw/01-microbiome-health-disease-overview.md`, `raw/03-gut-immune-brain-axis.md`, `raw/04-gut-muscle-axis-sarcopenia.md`
+**출처**: [[Jay's Knowledge Base/raw/01-microbiome-health-disease-overview\|raw/01-microbiome-health-disease-overview]], [[Jay's Knowledge Base/raw/03-gut-immune-brain-axis\|raw/03-gut-immune-brain-axis]], [[Jay's Knowledge Base/raw/04-gut-muscle-axis-sarcopenia\|raw/04-gut-muscle-axis-sarcopenia]]

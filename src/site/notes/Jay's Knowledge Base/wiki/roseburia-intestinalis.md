@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/microbiome-kb/wiki/roseburia-intestinalis/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/jay-s-knowledge-base/wiki/roseburia-intestinalis/","dg-note-properties":{}}
 ---
 
 
@@ -9,7 +9,7 @@
 
 *R. intestinalis*의 핵심 대사산물은 **부티르산(butyric acid)**이며, 이를 통해 장 장벽 강화, 면역 조절, 항염증, 항종양 면역 활성화 등 다계통적 효과를 발휘한다. Zhang et al. (2022)의 안전성 평가에서 게놈 내 독성 유전자와 항생제 내성 유전자가 거의 없고, 경구 투여 시 독성이 관찰되지 않아 프로바이오틱스로서의 안전성이 확인되었다.
 
-HealthBiome NGP 파이프라인에는 같은 속(genus)인 *Roseburia faecis*가 포함되어 있으며, *R. intestinalis*의 기전 연구 결과는 *R. faecis* 개발에 직접적으로 참고할 수 있는 중요한 기초 자료이다.
+같은 속(genus)인 *Roseburia faecis* 또한 NGP 파이프라인에서 활발히 개발되고 있으며, *R. intestinalis*의 기전 연구 결과는 *R. faecis* 개발에 직접적으로 참고할 수 있는 중요한 기초 자료이다.
 
 ---
 
@@ -46,28 +46,28 @@ HealthBiome NGP 파이프라인에는 같은 속(genus)인 *Roseburia faecis*가
 
 ## 관련 raw/ 소스
 
-- [[Microbiome-KB/raw/181-hazan-2021-s160-the-role-of-roseburia-in-covid-19-pathogenes\|raw/181-hazan-2021-s160-the-role-of-roseburia-in-covid-19-pathogenes]]
-- [[Microbiome-KB/raw/196-tan-2019-roseburia-intestinalis-inhibits-oncostatin-m-and-ma\|raw/196-tan-2019-roseburia-intestinalis-inhibits-oncostatin-m-and-ma]]
-- [[Microbiome-KB/raw/197-xu-2021-new-pathway-ameliorating-ulcerative-colitis-focus-on\|raw/197-xu-2021-new-pathway-ameliorating-ulcerative-colitis-focus-on]]
-- [[Microbiome-KB/raw/198-ruan-2022-roseburia-intestinalis-and-its-metabolite-butyrate\|raw/198-ruan-2022-roseburia-intestinalis-and-its-metabolite-butyrate]]
-- [[Microbiome-KB/raw/199-kim-2022-multiomics-analysis-reveals-the-biological-effects\|raw/199-kim-2022-multiomics-analysis-reveals-the-biological-effects]]
-- [[Microbiome-KB/raw/200-kang-2023-iroseburia-intestinalisi-generated-butyrate-boosts\|raw/200-kang-2023-iroseburia-intestinalisi-generated-butyrate-boosts]]
-- [[Microbiome-KB/raw/201-sun-2024-roseburia-intestinalis-supplementation-could-revers\|raw/201-sun-2024-roseburia-intestinalis-supplementation-could-revers]]
-- [[Microbiome-KB/raw/202-zhu-2018-roseburia-intestinalis-inhibits-interleukin17-excre\|raw/202-zhu-2018-roseburia-intestinalis-inhibits-interleukin17-excre]]
-- [[Microbiome-KB/raw/203-zhang-2022-assessment-of-the-safety-and-probiotic-properties\|raw/203-zhang-2022-assessment-of-the-safety-and-probiotic-properties]]
-- [[Microbiome-KB/raw/204-xiao-2019-a-new-colitis-therapy-strategy-via-the-target-colo\|raw/204-xiao-2019-a-new-colitis-therapy-strategy-via-the-target-colo]]
-- [[Microbiome-KB/raw/205-tamanai-shacoori-2017-roseburia-spp-a-marker-of-health\|raw/205-tamanai-shacoori-2017-roseburia-spp-a-marker-of-health]]
-- [[Microbiome-KB/raw/206-shen-2018-insights-into-roseburia-intestinalis-which-allevia\|raw/206-shen-2018-insights-into-roseburia-intestinalis-which-allevia]]
-- [[Microbiome-KB/raw/207-song-2024-the-possible-preventative-role-of-lactate-and-buty\|raw/207-song-2024-the-possible-preventative-role-of-lactate-and-buty]]
+- [[Jay's Knowledge Base/raw/181-hazan-2021-s160-the-role-of-roseburia-in-covid-19-pathogenes\|raw/181-hazan-2021-s160-the-role-of-roseburia-in-covid-19-pathogenes]]
+- [[Jay's Knowledge Base/raw/196-tan-2019-roseburia-intestinalis-inhibits-oncostatin-m-and-ma\|raw/196-tan-2019-roseburia-intestinalis-inhibits-oncostatin-m-and-ma]]
+- [[Jay's Knowledge Base/raw/197-xu-2021-new-pathway-ameliorating-ulcerative-colitis-focus-on\|raw/197-xu-2021-new-pathway-ameliorating-ulcerative-colitis-focus-on]]
+- [[Jay's Knowledge Base/raw/198-ruan-2022-roseburia-intestinalis-and-its-metabolite-butyrate\|raw/198-ruan-2022-roseburia-intestinalis-and-its-metabolite-butyrate]]
+- [[Jay's Knowledge Base/raw/199-kim-2022-multiomics-analysis-reveals-the-biological-effects\|raw/199-kim-2022-multiomics-analysis-reveals-the-biological-effects]]
+- [[Jay's Knowledge Base/raw/200-kang-2023-iroseburia-intestinalisi-generated-butyrate-boosts\|raw/200-kang-2023-iroseburia-intestinalisi-generated-butyrate-boosts]]
+- [[Jay's Knowledge Base/raw/201-sun-2024-roseburia-intestinalis-supplementation-could-revers\|raw/201-sun-2024-roseburia-intestinalis-supplementation-could-revers]]
+- [[Jay's Knowledge Base/raw/202-zhu-2018-roseburia-intestinalis-inhibits-interleukin17-excre\|raw/202-zhu-2018-roseburia-intestinalis-inhibits-interleukin17-excre]]
+- [[Jay's Knowledge Base/raw/203-zhang-2022-assessment-of-the-safety-and-probiotic-properties\|raw/203-zhang-2022-assessment-of-the-safety-and-probiotic-properties]]
+- [[Jay's Knowledge Base/raw/204-xiao-2019-a-new-colitis-therapy-strategy-via-the-target-colo\|raw/204-xiao-2019-a-new-colitis-therapy-strategy-via-the-target-colo]]
+- [[Jay's Knowledge Base/raw/205-tamanai-shacoori-2017-roseburia-spp-a-marker-of-health\|raw/205-tamanai-shacoori-2017-roseburia-spp-a-marker-of-health]]
+- [[Jay's Knowledge Base/raw/206-shen-2018-insights-into-roseburia-intestinalis-which-allevia\|raw/206-shen-2018-insights-into-roseburia-intestinalis-which-allevia]]
+- [[Jay's Knowledge Base/raw/207-song-2024-the-possible-preventative-role-of-lactate-and-buty\|raw/207-song-2024-the-possible-preventative-role-of-lactate-and-buty]]
 
 ---
 
 ## 관련 wiki 링크
 
-- [[Microbiome-KB/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]] — 부티르산 등 SCFAs의 작용 기전
-- [[Microbiome-KB/wiki/gut-microbiome-and-disease\|gut-microbiome-and-disease]] — 장내 미생물과 질병 관계 종합
-- [[Microbiome-KB/wiki/dysbiosis\|dysbiosis]] — 장내 미생물 불균형
-- [[Microbiome-KB/wiki/microbiome-therapeutics\|microbiome-therapeutics]] — NGP 및 LBP 개발
-- [[Microbiome-KB/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]] — 바이오틱스 비교
-- [[Microbiome-KB/wiki/gut-brain-axis\|gut-brain-axis]] — 뇌-장 축과 인지 기능
-- [[Microbiome-KB/wiki/bacteroides-uniformis\|bacteroides-uniformis]] — 또 다른 NGP 파이프라인 균주
+- [[Jay's Knowledge Base/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]] — 부티르산 등 SCFAs의 작용 기전
+- [[Jay's Knowledge Base/wiki/gut-microbiome-and-disease\|gut-microbiome-and-disease]] — 장내 미생물과 질병 관계 종합
+- [[Jay's Knowledge Base/wiki/dysbiosis\|dysbiosis]] — 장내 미생물 불균형
+- [[Jay's Knowledge Base/wiki/microbiome-therapeutics\|microbiome-therapeutics]] — NGP 및 LBP 개발
+- [[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]] — 바이오틱스 비교
+- [[Jay's Knowledge Base/wiki/gut-brain-axis\|gut-brain-axis]] — 뇌-장 축과 인지 기능
+- [[Jay's Knowledge Base/wiki/bacteroides-uniformis\|bacteroides-uniformis]] — 또 다른 NGP 파이프라인 균주

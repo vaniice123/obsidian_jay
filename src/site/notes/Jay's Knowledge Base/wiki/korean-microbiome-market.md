@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/microbiome-kb/wiki/korean-microbiome-market/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/jay-s-knowledge-base/wiki/korean-microbiome-market/","dg-note-properties":{}}
 ---
 
 
@@ -48,7 +48,7 @@
 
 ## GLP-1 Companion 서플리먼트 시장
 
-GLP-1 수용체 작용제 시장 확대에 따라 **companion 서플리먼트**가 새로운 카테고리로 형성 중이다 ([[Microbiome-KB/wiki/glp1-muscle-loss\|glp1-muscle-loss]] 참조).
+GLP-1 수용체 작용제 시장 확대에 따라 **companion 서플리먼트**가 새로운 카테고리로 형성 중이다 ([[Jay's Knowledge Base/wiki/glp1-muscle-loss\|glp1-muscle-loss]] 참조).
 
 | 지표 | 수치 |
 |------|------|
@@ -64,12 +64,29 @@ Semaglutide 특허 만료(2026.03.20) 후 **40개 이상 제조사, 50+ 브랜�
 - Dr. Reddy's **"beyond the pill"** 전략 공개 → companion 제품 차별화 시대 개막
 - Companion + 제네릭 GLP-1 번들 전략이 인도/신흥국 시장에서 유효
 
+### Lilly의 DTC 플랫폼 확장
+
+Eli Lilly는 GLP-1 포트폴리오로 구축한 DTC(direct-to-consumer) 인프라를 향후 다른 약물 클래스에 활용할 수 있다. 2026년 4월 Centessa Pharmaceuticals 인수($63억)로 확보한 orexin 수용체 작용제가 대표적 사례이며, 수면장애 → ADHD/피로 등으로 적응증 확장 시 DTC 채널이 핵심 유통 경로가 될 수 있다. 이는 **마이크로바이옴 companion 서플리먼트에게도 기회**: Lilly가 DTC로 환자 접점을 넓힐수록 companion 제품의 번들 전략이 더 유효해진다 ([[Jay's Knowledge Base/raw/476-bayer-2026-eli-lilly-centessa-orexin-acquisition\|출처]]).
+
 ### Akkermansia 서플리먼트 시장
 - 글로벌: 2025년 $4,250만 → 2034년 $8,930만 (CAGR 7.8%)
-- [[Microbiome-KB/wiki/akkermansia-muciniphila\|akkermansia-muciniphila]] 기반 HB05P가 세계 최초 FDA NDI 인정 + 한국 식약처 근력 유지 기능성 인정
+- 살균 [[Jay's Knowledge Base/wiki/akkermansia-muciniphila\|akkermansia-muciniphila]] 포스트바이오틱 원료가 FDA NDI 인정 및 한국 식약처 근력 유지 기능성 인정을 획득
 
 ## 관련 항목
-- [[Microbiome-KB/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]] — 바이오틱스 종류 비교
-- [[Microbiome-KB/wiki/microbiome-therapeutics\|microbiome-therapeutics]] — 치료제 개발 현황
+- [[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]] — 바이오틱스 종류 비교
+- [[Jay's Knowledge Base/wiki/microbiome-therapeutics\|microbiome-therapeutics]] — 치료제 개발 현황
 
-**출처**: `raw/07-korean-health-supplement-microbiome-market.md`, `raw/13-hb05p-actrii-pathway-literature-survey-and-market.md`, `raw/14-hb05p-glp1-companion-strategic-positioning.md`
+## 최근 업계 동향 (2026)
+
+- **종근당건강**: 2025년 영업이익 323억 원(5년 만에 최대). 건기식 시장 과열로 매출은 4,729억 원(-4.9%)이나 비용 효율화로 수익성 개선 ([[Jay's Knowledge Base/raw/482-cheon-2026-ckd-health-earnings-functional-food-market\|출처]])
+- **JW홀딩스**: 바이오 전문 VC '솔리더스인베스트먼트' 100% 인수(306억 원). 알테오젠·오름테라퓨틱 등에 투자 이력이 있는 VC로, 오픈 이노베이션 투자 확대 ([[Jay's Knowledge Base/raw/481-yoo-2026-jw-holdings-solidus-bio-vc-acquisition\|출처]])
+- **삼성바이오로직스**: GLP-1 펩타이드 생산시설 M&A에 관심 표명. 미국 록빌 공장 인수 완료, 연내 6공장 착공 결정. CDMO 전문 기업으로 재편 ([[Jay's Knowledge Base/raw/479-park-2026-samsung-biologics-glp1-cdmo-expansion\|출처]])
+- **Dr. Reddy's**: 인도 semaglutide 제네릭 Day-1 출시와 함께 "beyond the pill" 전략 공개 — 비만 센터, 영양 제품, 환자 지원 프로그램 번들. companion + 제네릭 GLP-1 번들이 신흥국 모델로 부상 ([[Jay's Knowledge Base/raw/478-sharma-2026-dr-reddys-beyond-the-pill-semaglutide\|출처]])
+
+## 규제 환경 변화
+
+### 글로벌 건기식 규제 강화 (2024~)
+
+미국·중국·일본 등 주요국이 2024년을 기점으로 건기식 규제를 전례 없이 강화. 일본은 '붉은 누룩(紅麹)' 사태 후 법 개정, 미국·중국도 독성·임상 데이터 요구 수준 상향. 과학적 효능 입증 없이는 해외 시장 진입이 사실상 불가능한 비관세 장벽 형성. K-푸드 업체들의 인증 확보 비용·시간이 급증 ([[Jay's Knowledge Base/raw/480-shin-2026-global-health-food-regulation-kfood\|출처]]).
+
+**출처**: [[Jay's Knowledge Base/raw/07-korean-health-supplement-microbiome-market\|raw/07-korean-health-supplement-microbiome-market]], [[Jay's Knowledge Base/raw/13-hb05p-actrii-pathway-literature-survey-and-market\|raw/13-hb05p-actrii-pathway-literature-survey-and-market]], [[Jay's Knowledge Base/raw/14-hb05p-glp1-companion-strategic-positioning\|raw/14-hb05p-glp1-companion-strategic-positioning]], [[Jay's Knowledge Base/raw/476-bayer-2026-eli-lilly-centessa-orexin-acquisition\|raw/476-bayer-2026-eli-lilly-centessa-orexin-acquisition]], [[Jay's Knowledge Base/raw/478-sharma-2026-dr-reddys-beyond-the-pill-semaglutide\|raw/478-sharma-2026-dr-reddys-beyond-the-pill-semaglutide]], [[Jay's Knowledge Base/raw/479-park-2026-samsung-biologics-glp1-cdmo-expansion\|raw/479-park-2026-samsung-biologics-glp1-cdmo-expansion]], [[Jay's Knowledge Base/raw/480-shin-2026-global-health-food-regulation-kfood\|raw/480-shin-2026-global-health-food-regulation-kfood]], [[Jay's Knowledge Base/raw/481-yoo-2026-jw-holdings-solidus-bio-vc-acquisition\|raw/481-yoo-2026-jw-holdings-solidus-bio-vc-acquisition]], [[Jay's Knowledge Base/raw/482-cheon-2026-ckd-health-earnings-functional-food-market\|raw/482-cheon-2026-ckd-health-earnings-functional-food-market]]

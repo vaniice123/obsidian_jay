@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/microbiome-kb/wiki/microbiome-cancer-immunotherapy/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/jay-s-knowledge-base/wiki/microbiome-cancer-immunotherapy/","dg-note-properties":{}}
 ---
 
 
@@ -22,6 +22,7 @@
   - 장내 투여 시 종양 내 미생물 조성 및 대사체를 변화시키는 크로스토크 확인 — 폐암 모델에서도 항암 효과 (Zhu et al., 2023)
   - Anti-PD-L1 면역치료 효능 강화 (Hou et al., 2021; Chen et al., 2020)
   - Pentadecanoic acid (C15:0) 생성을 통한 항암 효과 (Xu et al., 2024)
+  - **포스트바이오틱(살균체)의 균주별 세포독성 비교**: Kurt Cakmaktas et al. (2026, *J. Agric. Food Res.*)은 3개 *A. muciniphila* 균주 포스트바이오틱을 위암(AGS)·대장암(HCT116) 세포에 처리, MTT 대사활성을 **용량·시간 의존적으로 감소**시켰으며 규모는 유사하나 **균주 특이적 경향** 관찰. LC-QTOF-MS + ¹H NMR 통합 프로파일링으로 상피·redox 경로 관련 6개 단백질/대사체를 식별. 포스트바이오틱 균주 선택의 **합리적 criteria** 수립 근거를 제공
 - **Roseburia intestinalis와 면역관문억제제**: *R. intestinalis* 유래 부티르산이 TBX21 프로모터의 H3K27 아세틸화를 촉진하여 CD8+ T 세포의 세포독성을 증강시키고, anti-PD-1 효능을 부스팅 (Kang et al., 2023)
 - **장내 미생물 시그니처와 CRC 진단**: 다국적 대규모 메타게놈 분석에서 *F. nucleatum*, *Parvimonas micra* 등의 CRC 연관 시그니처가 나이와 무관하게 일관됨 (Qin et al., 2023)
 - **Fusobacterium nucleatum**: 특정 clade (Fna C2)가 CRC 조직에 선택적으로 농축 (Zepeda-Rivera et al., 2024)
@@ -31,47 +32,48 @@
 
 ## 관련 raw/ 소스
 
-- [[Microbiome-KB/raw/22-gomes-2023-modulation-of-the-tumor-microenvironment-by-micro\|raw/22-gomes-2023-modulation-of-the-tumor-microenvironment-by-micro]]
-- [[Microbiome-KB/raw/24-peng-2020-the-gut-microbiome-is-associated-with-clinical-res\|raw/24-peng-2020-the-gut-microbiome-is-associated-with-clinical-res]]
-- [[Microbiome-KB/raw/40-zhang-2023-iakkermansia-muciniphilai-inhibits-tryptophan-met\|raw/40-zhang-2023-iakkermansia-muciniphilai-inhibits-tryptophan-met]]
-- [[Microbiome-KB/raw/50-queen-2023-understanding-the-mechanisms-and-translational-im\|raw/50-queen-2023-understanding-the-mechanisms-and-translational-im]]
-- [[Microbiome-KB/raw/54-jiang-2023-microbiota-a-key-factor-affecting-and-regulating\|raw/54-jiang-2023-microbiota-a-key-factor-affecting-and-regulating]]
-- [[Microbiome-KB/raw/58-anderson-2023-the-role-of-the-gut-microbiome-in-cancer-a-rev\|raw/58-anderson-2023-the-role-of-the-gut-microbiome-in-cancer-a-rev]]
-- [[Microbiome-KB/raw/59-liu-2023-gut-microbial-structural-variation-associates-with\|raw/59-liu-2023-gut-microbial-structural-variation-associates-with]]
-- [[Microbiome-KB/raw/64-rahman-2023-colorectal-disease-and-the-gut-microbiome\|raw/64-rahman-2023-colorectal-disease-and-the-gut-microbiome]]
-- [[Microbiome-KB/raw/66-jiang-2024-gut-microbiota-influences-the-efficiency-of-immun\|raw/66-jiang-2024-gut-microbiota-influences-the-efficiency-of-immun]]
-- [[Microbiome-KB/raw/75-schorr-2023-intracellular-bacteria-in-cancerprospects-and-de\|raw/75-schorr-2023-intracellular-bacteria-in-cancerprospects-and-de]]
-- [[Microbiome-KB/raw/76-yadav-2024-gut-microbiomecolorectal-cancer-relationship\|raw/76-yadav-2024-gut-microbiomecolorectal-cancer-relationship]]
-- [[Microbiome-KB/raw/77-asokan-2023-car-t-cell-therapy-and-the-gut-microbiota\|raw/77-asokan-2023-car-t-cell-therapy-and-the-gut-microbiota]]
-- [[Microbiome-KB/raw/79-faghfuri-2024-the-role-of-akkermansia-muciniphila-in-colorec\|raw/79-faghfuri-2024-the-role-of-akkermansia-muciniphila-in-colorec]]
-- [[Microbiome-KB/raw/80-zepeda-rivera-2024-a-distinct-fusobacterium-nucleatum-clade\|raw/80-zepeda-rivera-2024-a-distinct-fusobacterium-nucleatum-clade]]
-- [[Microbiome-KB/raw/82-shuwen-2023-synergistic-effect-of-sodium-butyrate-and-oxalip\|raw/82-shuwen-2023-synergistic-effect-of-sodium-butyrate-and-oxalip]]
-- [[Microbiome-KB/raw/83-an-2016-combination-therapy-of-lactobacillus-plantarum-super\|raw/83-an-2016-combination-therapy-of-lactobacillus-plantarum-super]]
-- [[Microbiome-KB/raw/90-qin-2023-consistent-signatures-in-the-human-gut-microbiome-o\|raw/90-qin-2023-consistent-signatures-in-the-human-gut-microbiome-o]]
-- [[Microbiome-KB/raw/91-franco-2024-microbes-and-vitamin-d-aid-immunotherapy\|raw/91-franco-2024-microbes-and-vitamin-d-aid-immunotherapy]]
-- [[Microbiome-KB/raw/105-yang-2024-crosstalk-between-gut-microbiota-and-cancer-chemot\|raw/105-yang-2024-crosstalk-between-gut-microbiota-and-cancer-chemot]]
-- [[Microbiome-KB/raw/108-wang-2020-a-purified-membrane-protein-from-iakkermansia-muci\|raw/108-wang-2020-a-purified-membrane-protein-from-iakkermansia-muci]]
-- [[Microbiome-KB/raw/109-luo-2021-extracellular-vesicles-from-akkermansia-muciniphila\|raw/109-luo-2021-extracellular-vesicles-from-akkermansia-muciniphila]]
-- [[Microbiome-KB/raw/110-hou-2021-akkermansia-muciniphila-potentiates-the-antitumor-e\|raw/110-hou-2021-akkermansia-muciniphila-potentiates-the-antitumor-e]]
-- [[Microbiome-KB/raw/121-xu-2024-akkermansia-muciniphila-derived-pentadecanoic-acid-e\|raw/121-xu-2024-akkermansia-muciniphila-derived-pentadecanoic-acid-e]]
-- [[Microbiome-KB/raw/125-kim-2024-a-conserved-pilin-from-uncultured-gut-bacterial-cla\|raw/125-kim-2024-a-conserved-pilin-from-uncultured-gut-bacterial-cla]]
-- [[Microbiome-KB/raw/126-kim-2024-a-conserved-pilin-from-uncultured-gut-bacterial-cla\|raw/126-kim-2024-a-conserved-pilin-from-uncultured-gut-bacterial-cla]]
-- [[Microbiome-KB/raw/128-zhu-2023-microbiome-and-spatially-resolved-metabolomics-anal\|raw/128-zhu-2023-microbiome-and-spatially-resolved-metabolomics-anal]]
-- [[Microbiome-KB/raw/129-chen-2020-iakkermansia-muciniphilai-enhances-the-antitumor-e\|raw/129-chen-2020-iakkermansia-muciniphilai-enhances-the-antitumor-e]]
-- [[Microbiome-KB/raw/130-su-2022-commentary-intermittent-fasting-and-akkermansia-muci\|raw/130-su-2022-commentary-intermittent-fasting-and-akkermansia-muci]]
-- [[Microbiome-KB/raw/131-wang-2020-a-purified-membrane-protein-from-iakkermansia-muci\|raw/131-wang-2020-a-purified-membrane-protein-from-iakkermansia-muci]]
-- [[Microbiome-KB/raw/165-otsuka-2024-butyricimonas-is-a-key-gut-microbiome-component\|raw/165-otsuka-2024-butyricimonas-is-a-key-gut-microbiome-component]]
-- [[Microbiome-KB/raw/185-liu-2023-ieubacterium-rectalei-improves-the-efficacy-of-anti\|raw/185-liu-2023-ieubacterium-rectalei-improves-the-efficacy-of-anti]]
-- [[Microbiome-KB/raw/200-kang-2023-iroseburia-intestinalisi-generated-butyrate-boosts\|raw/200-kang-2023-iroseburia-intestinalisi-generated-butyrate-boosts]]
-- [[Microbiome-KB/raw/248-birebent-2025-surrogate-markers-of-intestinal-dysfunction-as\|raw/248-birebent-2025-surrogate-markers-of-intestinal-dysfunction-as]]
-- [[Microbiome-KB/raw/264-sun-2025-enhancing-immunotherapy-efficacy-in-nsclc-through-t\|raw/264-sun-2025-enhancing-immunotherapy-efficacy-in-nsclc-through-t]]
-- [[Microbiome-KB/raw/282-marcos-kovandzic-2025-gut-microbiota-modulation-through-iakk\|raw/282-marcos-kovandzic-2025-gut-microbiota-modulation-through-iakk]]
+- [[Jay's Knowledge Base/raw/22-gomes-2023-modulation-of-the-tumor-microenvironment-by-micro\|raw/22-gomes-2023-modulation-of-the-tumor-microenvironment-by-micro]]
+- [[Jay's Knowledge Base/raw/24-peng-2020-the-gut-microbiome-is-associated-with-clinical-res\|raw/24-peng-2020-the-gut-microbiome-is-associated-with-clinical-res]]
+- [[Jay's Knowledge Base/raw/40-zhang-2023-iakkermansia-muciniphilai-inhibits-tryptophan-met\|raw/40-zhang-2023-iakkermansia-muciniphilai-inhibits-tryptophan-met]]
+- [[Jay's Knowledge Base/raw/50-queen-2023-understanding-the-mechanisms-and-translational-im\|raw/50-queen-2023-understanding-the-mechanisms-and-translational-im]]
+- [[Jay's Knowledge Base/raw/54-jiang-2023-microbiota-a-key-factor-affecting-and-regulating\|raw/54-jiang-2023-microbiota-a-key-factor-affecting-and-regulating]]
+- [[Jay's Knowledge Base/raw/58-anderson-2023-the-role-of-the-gut-microbiome-in-cancer-a-rev\|raw/58-anderson-2023-the-role-of-the-gut-microbiome-in-cancer-a-rev]]
+- [[Jay's Knowledge Base/raw/59-liu-2023-gut-microbial-structural-variation-associates-with\|raw/59-liu-2023-gut-microbial-structural-variation-associates-with]]
+- [[Jay's Knowledge Base/raw/64-rahman-2023-colorectal-disease-and-the-gut-microbiome\|raw/64-rahman-2023-colorectal-disease-and-the-gut-microbiome]]
+- [[Jay's Knowledge Base/raw/66-jiang-2024-gut-microbiota-influences-the-efficiency-of-immun\|raw/66-jiang-2024-gut-microbiota-influences-the-efficiency-of-immun]]
+- [[Jay's Knowledge Base/raw/75-schorr-2023-intracellular-bacteria-in-cancerprospects-and-de\|raw/75-schorr-2023-intracellular-bacteria-in-cancerprospects-and-de]]
+- [[Jay's Knowledge Base/raw/76-yadav-2024-gut-microbiomecolorectal-cancer-relationship\|raw/76-yadav-2024-gut-microbiomecolorectal-cancer-relationship]]
+- [[Jay's Knowledge Base/raw/77-asokan-2023-car-t-cell-therapy-and-the-gut-microbiota\|raw/77-asokan-2023-car-t-cell-therapy-and-the-gut-microbiota]]
+- [[Jay's Knowledge Base/raw/79-faghfuri-2024-the-role-of-akkermansia-muciniphila-in-colorec\|raw/79-faghfuri-2024-the-role-of-akkermansia-muciniphila-in-colorec]]
+- [[Jay's Knowledge Base/raw/80-zepeda-rivera-2024-a-distinct-fusobacterium-nucleatum-clade\|raw/80-zepeda-rivera-2024-a-distinct-fusobacterium-nucleatum-clade]]
+- [[Jay's Knowledge Base/raw/82-shuwen-2023-synergistic-effect-of-sodium-butyrate-and-oxalip\|raw/82-shuwen-2023-synergistic-effect-of-sodium-butyrate-and-oxalip]]
+- [[Jay's Knowledge Base/raw/83-an-2016-combination-therapy-of-lactobacillus-plantarum-super\|raw/83-an-2016-combination-therapy-of-lactobacillus-plantarum-super]]
+- [[Jay's Knowledge Base/raw/90-qin-2023-consistent-signatures-in-the-human-gut-microbiome-o\|raw/90-qin-2023-consistent-signatures-in-the-human-gut-microbiome-o]]
+- [[Jay's Knowledge Base/raw/91-franco-2024-microbes-and-vitamin-d-aid-immunotherapy\|raw/91-franco-2024-microbes-and-vitamin-d-aid-immunotherapy]]
+- [[Jay's Knowledge Base/raw/105-yang-2024-crosstalk-between-gut-microbiota-and-cancer-chemot\|raw/105-yang-2024-crosstalk-between-gut-microbiota-and-cancer-chemot]]
+- [[Jay's Knowledge Base/raw/108-wang-2020-a-purified-membrane-protein-from-iakkermansia-muci\|raw/108-wang-2020-a-purified-membrane-protein-from-iakkermansia-muci]]
+- [[Jay's Knowledge Base/raw/109-luo-2021-extracellular-vesicles-from-akkermansia-muciniphila\|raw/109-luo-2021-extracellular-vesicles-from-akkermansia-muciniphila]]
+- [[Jay's Knowledge Base/raw/110-hou-2021-akkermansia-muciniphila-potentiates-the-antitumor-e\|raw/110-hou-2021-akkermansia-muciniphila-potentiates-the-antitumor-e]]
+- [[Jay's Knowledge Base/raw/121-xu-2024-akkermansia-muciniphila-derived-pentadecanoic-acid-e\|raw/121-xu-2024-akkermansia-muciniphila-derived-pentadecanoic-acid-e]]
+- [[Jay's Knowledge Base/raw/125-kim-2024-a-conserved-pilin-from-uncultured-gut-bacterial-cla\|raw/125-kim-2024-a-conserved-pilin-from-uncultured-gut-bacterial-cla]]
+- [[Jay's Knowledge Base/raw/126-kim-2024-a-conserved-pilin-from-uncultured-gut-bacterial-cla\|raw/126-kim-2024-a-conserved-pilin-from-uncultured-gut-bacterial-cla]]
+- [[Jay's Knowledge Base/raw/128-zhu-2023-microbiome-and-spatially-resolved-metabolomics-anal\|raw/128-zhu-2023-microbiome-and-spatially-resolved-metabolomics-anal]]
+- [[Jay's Knowledge Base/raw/129-chen-2020-iakkermansia-muciniphilai-enhances-the-antitumor-e\|raw/129-chen-2020-iakkermansia-muciniphilai-enhances-the-antitumor-e]]
+- [[Jay's Knowledge Base/raw/130-su-2022-commentary-intermittent-fasting-and-akkermansia-muci\|raw/130-su-2022-commentary-intermittent-fasting-and-akkermansia-muci]]
+- [[Jay's Knowledge Base/raw/131-wang-2020-a-purified-membrane-protein-from-iakkermansia-muci\|raw/131-wang-2020-a-purified-membrane-protein-from-iakkermansia-muci]]
+- [[Jay's Knowledge Base/raw/165-otsuka-2024-butyricimonas-is-a-key-gut-microbiome-component\|raw/165-otsuka-2024-butyricimonas-is-a-key-gut-microbiome-component]]
+- [[Jay's Knowledge Base/raw/185-liu-2023-ieubacterium-rectalei-improves-the-efficacy-of-anti\|raw/185-liu-2023-ieubacterium-rectalei-improves-the-efficacy-of-anti]]
+- [[Jay's Knowledge Base/raw/200-kang-2023-iroseburia-intestinalisi-generated-butyrate-boosts\|raw/200-kang-2023-iroseburia-intestinalisi-generated-butyrate-boosts]]
+- [[Jay's Knowledge Base/raw/248-birebent-2025-surrogate-markers-of-intestinal-dysfunction-as\|raw/248-birebent-2025-surrogate-markers-of-intestinal-dysfunction-as]]
+- [[Jay's Knowledge Base/raw/264-sun-2025-enhancing-immunotherapy-efficacy-in-nsclc-through-t\|raw/264-sun-2025-enhancing-immunotherapy-efficacy-in-nsclc-through-t]]
+- [[Jay's Knowledge Base/raw/282-marcos-kovandzic-2025-gut-microbiota-modulation-through-iakk\|raw/282-marcos-kovandzic-2025-gut-microbiota-modulation-through-iakk]]
+- [[Jay's Knowledge Base/raw/493-kurt-cakmaktas-2026-comparative-cytotoxicity-and-molecular-profiling-of\|raw/493-kurt-cakmaktas-2026-comparative-cytotoxicity-and-molecular-profiling-of]] — 3종 *A. muciniphila* 균주 포스트바이오틱의 AGS·HCT116 세포 비교 세포독성 + 프로테오믹스/메타볼로믹스 프로파일링
 
 ## 관련 wiki 링크
 
-- [[Microbiome-KB/wiki/akkermansia-muciniphila\|akkermansia-muciniphila]]
-- [[Microbiome-KB/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]]
-- [[Microbiome-KB/wiki/gut-microbiome-and-disease\|gut-microbiome-and-disease]]
-- [[Microbiome-KB/wiki/microbiome-therapeutics\|microbiome-therapeutics]]
-- [[Microbiome-KB/wiki/dysbiosis\|dysbiosis]]
-- [[Microbiome-KB/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]]
+- [[Jay's Knowledge Base/wiki/akkermansia-muciniphila\|akkermansia-muciniphila]]
+- [[Jay's Knowledge Base/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]]
+- [[Jay's Knowledge Base/wiki/gut-microbiome-and-disease\|gut-microbiome-and-disease]]
+- [[Jay's Knowledge Base/wiki/microbiome-therapeutics\|microbiome-therapeutics]]
+- [[Jay's Knowledge Base/wiki/dysbiosis\|dysbiosis]]
+- [[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]]

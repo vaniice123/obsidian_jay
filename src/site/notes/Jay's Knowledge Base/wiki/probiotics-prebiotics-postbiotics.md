@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/microbiome-kb/wiki/probiotics-prebiotics-postbiotics/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/jay-s-knowledge-base/wiki/probiotics-prebiotics-postbiotics/","dg-note-properties":{}}
 ---
 
 
@@ -18,8 +18,8 @@
 
 - **정의**: 숙주 미생물에 의해 선택적으로 이용되어 건강 이점을 부여하는 비소화성 기질
 - **주요 종류**: FOS(프럭토올리고당), GOS(갈락토올리고당), 이눌린, 저항성 전분
-- **작용**: 유익균(Bifidobacterium 등)의 성장 촉진 → [[Microbiome-KB/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]] 생산 증가
-- **응용**: 스트레스 반응 감소 (GOS → 코르티솔 각성 반응 저하), [[Microbiome-KB/wiki/gut-brain-axis\|gut-brain-axis]] 지원
+- **작용**: 유익균(Bifidobacterium 등)의 성장 촉진 → [[Jay's Knowledge Base/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]] 생산 증가
+- **응용**: 스트레스 반응 감소 (GOS → 코르티솔 각성 반응 저하), [[Jay's Knowledge Base/wiki/gut-brain-axis\|gut-brain-axis]] 지원
 
 ## 포스트바이오틱스(Postbiotics)
 
@@ -45,13 +45,14 @@
 
 ### Akkermansia muciniphila 포스트바이오틱 — 대표 사례
 
-살균(pasteurized) *A. muciniphila*는 포스트바이오틱의 **임상적·상업적 성공 사례**로 부상하고 있다 ([[Microbiome-KB/wiki/akkermansia-muciniphila\|akkermansia-muciniphila]] 상세).
+살균(pasteurized) *A. muciniphila*는 포스트바이오틱의 **임상적·상업적 성공 사례**로 부상하고 있다 ([[Jay's Knowledge Base/wiki/akkermansia-muciniphila\|akkermansia-muciniphila]] 상세).
 
 - 핵심 활성 성분 **Amuc_1100** (외막 단백질): 녹는점 70°C → 살균 후 구조 보존, TLR2·PI3K/Akt 활성화
 - 2019 Depommier RCT: 살균형이 생균과 **동등 이상** 효능 (인슐린 감수성)
-- **HealthBiome HB05P**: 세계 최초 FDA NDI 인정(2024), 한국 식약처 근력 유지 기능성 인정(2025)
+- 살균 *A. muciniphila* 기반 포스트바이오틱 원료가 FDA NDI 인정(2024~), 한국 식약처 근력 유지 기능성 인정(2025) 획득
   - 12주 RCT에서 follistatin 상승(p=0.0063), 하지 근력 개선(p=0.0103)
 - 포스트바이오틱 형태의 장점이 극대화: 실온 안정, 산소 무관, 면역저하자 안전, 다양한 제형 가능
+- **정량 QC**: EFSA는 2021년 살균 *A. muciniphila* MucT를 novel food로 인증했으며, 상업 배치의 표준화를 위해 절대균수 측정법이 필수. Arioli (2025)는 flow cytometry 기반 프로토콜을 최적화하여 현미경 계수 대비 낮은 CV(12.3~24.1%)로 고밀도 배치의 mass balance 검증에 성공. 6개 실험실 ring test에서 재현성을 확인하여 다른 포스트바이오틱 원료의 품질 규격 설정에도 이식 가능. 상세는 [[Jay's Knowledge Base/wiki/bioprocess-engineering\|bioprocess-engineering]] 참조
 
 ## 신바이오틱스(Synbiotics)
 - 프로바이오틱스 + 프리바이오틱스 조합
@@ -66,4 +67,4 @@
 | 안전성 | 일부 우려 (면역저하자) | 높음 | 매우 높음 |
 | 작용 | 장내 정착/증식 | 유익균 성장 촉진 | 직접적 생리활성 |
 
-**출처**: `raw/02-postbiotics-biotherapeutic-potential.md`, `raw/03-gut-immune-brain-axis.md`, `raw/14-hb05p-glp1-companion-strategic-positioning.md`
+**출처**: [[Jay's Knowledge Base/raw/02-postbiotics-biotherapeutic-potential\|raw/02-postbiotics-biotherapeutic-potential]], [[Jay's Knowledge Base/raw/03-gut-immune-brain-axis\|raw/03-gut-immune-brain-axis]], [[Jay's Knowledge Base/raw/14-hb05p-glp1-companion-strategic-positioning\|raw/14-hb05p-glp1-companion-strategic-positioning]], [[Jay's Knowledge Base/raw/488-arioli-2025-quantification-of-pasteurized-akkermansia-muciniphila\|raw/488-arioli-2025-quantification-of-pasteurized-akkermansia-muciniphila]]
