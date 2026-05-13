@@ -24,6 +24,8 @@ EFSA의 QPS(Qualified Presumption of Safety) 시스템은 식품 및 사료에 �
 - **US 규제 고려사항**: 미국에서의 LBP 개발 시 IND 신청, GMP 요건, 임상시험 설계 등 실무적 규제 고려사항 정리 (Dreher-Lesnick 2017)
 - **개념-상용화 경로**: 마이크로바이옴 의약품의 컨셉트 단계부터 상용화까지의 전체 개발 경로 및 CMC 전략 개관 (Pattni)
 - **FDA 동물대체시험법(NAMs)**: FDA는 2022년 신약 개발 시 동물실험 의무를 폐지하고, 2026년 3월 NAMs(New Approach Methodologies) 지침 초안 발표. 오가노이드, 장기칩(Organ-on-a-chip), in silico 기법 등을 IND 신청에 활용 가능. 다만 검증 기준이 불명확하여 소규모 바이오텍에는 불확실성 요인. Big Pharma BD에서는 기존 in vivo 데이터 선호 관성이 여전함 ([[Jay's Knowledge Base/raw/483-yoon-2026-fda-animal-alternative-testing-nams\|출처]])
+- **균주 게놈 안정성 (genome stability)**: CMC 핵심 요건 중 하나는 **다회 계대(passages) 후에도 균주의 유전자형이 유지됨을 입증**하는 것. *A. muciniphila* MucT 표준 균주(ATCC BAA-835 / DSM 22959)는 장기 배양 조건에서도 높은 게놈 안정성을 보였으며, 이는 *A. muciniphila* 기반 LBP·포스트바이오틱의 MCB/WCB 일관성, batch-to-batch reproducibility, identity testing 데이터 패키지에 직접 인용 가능한 근거 (Ligthart 2026, *Microbiology Spectrum*)
+- **EFSA Novel Food 사용 확장 — 청소년 안전성 (2025)**: EFSA NDA Panel은 살균 *A. muciniphila* novel food의 사용 범위를 식이보충제·FSMP에 한해 **12~18세 청소년**까지 확장하는 안의 안전성을 인정. 일일 최대 안전 용량은 12~<14세 **2.1×10¹⁰ cells/day**, 14~<18세 **3.0×10¹⁰ cells/day** (2021 panel의 4.8×10⁸ cells/kg/day 기준 적용). **임산부·수유부 안전성은 자료 부족으로 미입증**. 이 사용 확장 결정은 (1) 동일 novel food의 다회차 평가에 따른 EFSA의 누적 안전성 판단, (2) 신규 독성·인체 시험에서 우려사항 부재 확인, (3) 청소년 인구로의 시장 확장 정책 사례로서 한국 식약처·일본 FFC·기타 규제기관에 비교 참조 자료로 활용 가능 ([[Jay's Knowledge Base/raw/508-efsa-panel-on-nutrition,-novel-foods-and-food-allergens-(nda)-2025-safety-of-an-extension-of-use-of-pasteurised\|EFSA 2025]])
 
 ## 관련 raw/ 소스
 
@@ -40,6 +42,8 @@ EFSA의 QPS(Qualified Presumption of Safety) 시스템은 식품 및 사료에 �
 - [[Jay's Knowledge Base/raw/237-paquet-2021-entering-first-in-human-clinical-study-with-a-si\|raw/237-paquet-2021-entering-first-in-human-clinical-study-with-a-si]]
 - [[Jay's Knowledge Base/raw/239-hoffmann-2013-probiotics-finding-the-right-regulatory-balanc\|raw/239-hoffmann-2013-probiotics-finding-the-right-regulatory-balanc]]
 - [[Jay's Knowledge Base/raw/483-yoon-2026-fda-animal-alternative-testing-nams\|raw/483-yoon-2026-fda-animal-alternative-testing-nams]]
+- [[Jay's Knowledge Base/raw/506-ligthart-2026-high-stability-of-the-genome-of-akkermansia\|raw/506-ligthart-2026-high-stability-of-the-genome-of-akkermansia]]
+- [[Jay's Knowledge Base/raw/508-efsa-panel-on-nutrition,-novel-foods-and-food-allergens-(nda)-2025-safety-of-an-extension-of-use-of-pasteurised\|raw/508-efsa-panel-on-nutrition,-novel-foods-and-food-allergens-(nda)-2025-safety-of-an-extension-of-use-of-pasteurised]]
 
 ## 관련 wiki 링크
 

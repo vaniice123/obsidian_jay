@@ -35,7 +35,7 @@
 - **ADHD**: 도파민 대사 세균 변화
 
 ### 신경퇴행성 질환
-- **파킨슨병**: α-시누클레인이 미주신경 경유 수송, Prevotella 감소
+- **파킨슨병**: α-시누클레인이 미주신경 경유 수송, Prevotella 감소, **GBA1 변이 비발현 보유자(GBA-NMC)에서 PD 중간 microbiome signature 확인 (Menozzi 2026, Nature Medicine)** — 아래 별도 섹션
 - **알츠하이머병**: Aβ 플라크 축적 ↔ 미생물 불균형/신경염증
 - **다발성 경화증(MS)**: 미생물 매개 T세포 반응
 
@@ -80,6 +80,29 @@
 
 관련: [[Jay's Knowledge Base/raw/487-cox-2026-intestinal-interoceptive-dysfunction-drives-age-associated-cognitive-decline\|raw/487-cox-2026-intestinal-interoceptive-dysfunction-drives-age-associated-cognitive-decline]]
 
+## 파킨슨병 — 마이크로바이옴이 prodromal/at-risk 단계 식별자로 (Menozzi 2026)
+
+GBA1 변이는 파킨슨병(PD)의 **가장 흔한 유전적 위험인자**(최대 30배)이지만, 변이 보유자 중 약 **20%만 PD 발병** — 발병 격차의 원인은 미상이었다. Menozzi et al. (2026, *Nature Medicine*, [[Jay's Knowledge Base/raw/516-menozzi-2026-microbiome-signature-of-parkinsons-disease-in-healthy\|raw/516-menozzi-2026-microbiome-signature-of-parkinsons-disease-in-healthy]])은 다음 3개 코호트를 결합한 분변 메타지노믹스 분석으로 microbiome이 **미발현 위험군**을 식별할 수 있음을 보였다.
+
+### 핵심 설계
+- **PD 환자 271명 + GBA1 변이 비발현 보유자(GBA-NMC) 43명 + 건강 대조군 150명**
+- 차등 풍부도(differential abundance) + Cliff's delta(δ) 기반 **차등 변동의 일관성(coherence)** 통합 분석 — 분류군별 변화의 **방향성 일치도**를 측정하는 신규 지표
+
+### 주요 발견
+- GBA-NMC 군 microbiome 조성의 **약 25%가 건강군과 PD 환자의 중간 상태**
+- 이 25% 컴포넌트가 PD 환자의 **질병 진행도** 및 GBA-NMC·건강군의 **prodromal 증상**(향후 PD 발병 시사)과 유의한 상관
+- **3개 독립 코호트(미국·한국·터키, PD 638명 + 건강 319명)**에서 동일 microbiome 변화 재현 → 인구·지역 보편성 입증
+
+### 시사점
+- 장내 microbiome이 PD의 **premanifest 단계 조기 식별 마커**로 활용 가능
+- 유전적 위험군(GBA1 carrier)뿐 아니라 **일반 인구의 비유전적 위험군**도 식별
+- α-시누클레인·미주신경·prevotella 감소 등 기존 PD 가설과 결합되어 **장-뇌 축이 PD 병인의 결정적 축**임을 강화 — 식이/probiotic/postbiotic 등 마이크로바이옴 중재가 신경퇴행 예방 전략 후보로 부상
+- 한국 코호트가 검증 데이터에 포함되어 한국 임상 연구·시료뱅크 가치 부각
+
+> 💡 차등 풍부도 + Cliff's δ coherence 결합 분석은 [[Jay's Knowledge Base/wiki/microbiome-analysis-technologies\|microbiome-analysis-technologies]]의 통계 도구로도 주목할 만함 (질병 점진성·intermediate state 탐지).
+
+---
+
 ## 뇌-장-근육 축(Brain-Gut-Muscle Axis)
 
 뇌-장-근육 축(brain-gut-muscle axis)은 골격근, 장내 미생물, 뇌를 연결하는 삼방향 조절 네트워크로, 뇌 건강 유지와 노화 대응에 핵심적 역할을 한다 (Sun et al., 2026).
@@ -100,4 +123,4 @@
 - 일주기 생물학(circadian biology)과의 교차 연구
 - 개인별 면역 프로파일에 기반한 정밀의학
 
-**출처**: [[Jay's Knowledge Base/raw/03-gut-immune-brain-axis\|raw/03-gut-immune-brain-axis]], [[Jay's Knowledge Base/raw/304-sun-unknown-the-brain-gut-muscle-axis-a-mechanism-for-exercise-mediated\|raw/304-sun-unknown-the-brain-gut-muscle-axis-a-mechanism-for-exercise-mediated]], [[Jay's Knowledge Base/raw/487-cox-2026-intestinal-interoceptive-dysfunction-drives-age-associated-cognitive-decline\|raw/487-cox-2026-intestinal-interoceptive-dysfunction-drives-age-associated-cognitive-decline]]
+**출처**: [[Jay's Knowledge Base/raw/03-gut-immune-brain-axis\|raw/03-gut-immune-brain-axis]], [[Jay's Knowledge Base/raw/304-sun-unknown-the-brain-gut-muscle-axis-a-mechanism-for-exercise-mediated\|raw/304-sun-unknown-the-brain-gut-muscle-axis-a-mechanism-for-exercise-mediated]], [[Jay's Knowledge Base/raw/487-cox-2026-intestinal-interoceptive-dysfunction-drives-age-associated-cognitive-decline\|raw/487-cox-2026-intestinal-interoceptive-dysfunction-drives-age-associated-cognitive-decline]], [[Jay's Knowledge Base/raw/516-menozzi-2026-microbiome-signature-of-parkinsons-disease-in-healthy\|raw/516-menozzi-2026-microbiome-signature-of-parkinsons-disease-in-healthy]]

@@ -21,6 +21,7 @@
 - **관형 보울 원심분리**: 미세 입자 및 생물학적 세포 분리를 위한 관형 보울 원심분리기의 고원심력(high centrifugal force) 활용. 나노스케일 소재 분리 및 반연속(semibatch) 운전 최적화 (Spelter 2010)
 - **유세포 분석(Flow cytometry) 기반 균수 측정**: 프로바이오틱스 및 포스트바이오틱스의 분석법으로 유세포 분석 활용, 전통적 CFU 측정법 대비 신속하고 비용 효율적인 균수 열거(enumeration) 워크플로우 제시 (Boyte 2023, Bolzon 2024)
 - **살균 *A. muciniphila* MucT 절대균수 정량 프로토콜**: 고밀도·표준화 산업 배치 대상으로 flow cytometry 기반 절대균수(absolute counting) 프로토콜 최적화. 동결건조 세포의 재수화 조건 및 희석액 선택으로 세포 응집(aggregate) 최소화 → 현미경 계수 대비 낮은 CV 달성. 고밀도 배치에서 목표 세포 용량의 표준화 배치까지 이어지는 생산 공정 전반에 대한 **mass balance 검증**에 적용. 6개 독립 실험실 ring test 결과: 평균 CV 12.3~24.1%, 최대 Z-score 2.64 → 다른 포스트바이오틱에도 이식 가능한 신속·재현성·정확성 있는 정량법으로 평가 (Arioli 2025)
+- **장기 배양 시 게놈 안정성**: *A. muciniphila* MucT(ATCC BAA-835 / DSM 22959) 표준 균주가 장기 배양(long-term culturing) 조건에서도 게놈 안정성을 유지함이 확인됨. NGP 산업 스케일업의 핵심 우려인 **계대 배양 누적에 따른 유전자형 표류(drift)** 가능성에 대한 안전 근거로, MCB/WCB 일관성과 release specification 설정에 직접 적용 (Ligthart 2026, *Microbiology Spectrum*)
 - **산소 민감성 극복**: 절대혐기성 NGP 균주의 산업적 생산에서 산소 노출 최소화를 위한 공정 설계, 혐기 챔버(anaerobic chamber) 기반 배양 및 제형화 전략
 - **스케일업 고려사항**: 실험실 규모에서 산업 규모로의 전환 시 배양 조건 일관성, 배지 원료 관리, 무균 조작(aseptic processing), GMP 준수 등이 핵심 과제
 
@@ -34,6 +35,7 @@
 - [[Jay's Knowledge Base/raw/290-boyte-2023-probiotic-and-postbiotic-analytical-methods-a-per\|raw/290-boyte-2023-probiotic-and-postbiotic-analytical-methods-a-per]]
 - [[Jay's Knowledge Base/raw/291-bolzon-2024-a-streamlined-workflow-for-a-fast-and-cost-effec\|raw/291-bolzon-2024-a-streamlined-workflow-for-a-fast-and-cost-effec]]
 - [[Jay's Knowledge Base/raw/488-arioli-2025-quantification-of-pasteurized-akkermansia-muciniphila\|raw/488-arioli-2025-quantification-of-pasteurized-akkermansia-muciniphila]]
+- [[Jay's Knowledge Base/raw/506-ligthart-2026-high-stability-of-the-genome-of-akkermansia\|raw/506-ligthart-2026-high-stability-of-the-genome-of-akkermansia]]
 
 ## 관련 wiki 링크
 

@@ -54,4 +54,18 @@
 - 초기 생애(early-life) 마이크로바이옴이 장기 건강의 결정 인자로 재확인
 - [[Jay's Knowledge Base/wiki/microbiome-therapeutics\|microbiome-therapeutics]]의 적응증 확대 (CDI → IBD, 대사질환, 암)
 
-**출처**: [[Jay's Knowledge Base/raw/01-microbiome-health-disease-overview\|raw/01-microbiome-health-disease-overview]]
+## 2025~2026 주요 동향
+
+### 살균 *A. muciniphila* 의 IBD 적응증 근거 강화
+
+DSS-유도 궤양성 대장염(UC) 마우스 모델에서 살균형 [[Jay's Knowledge Base/wiki/akkermansia-muciniphila\|*A. muciniphila*]] (Timepie001+)이 생균형보다 **우수한 보호 효과**를 보임. 점막 장벽 단백질 Claudin-1 상승, 염증 사이토카인 TNF-α·IL-1β 억제, 장내 미생물 항상성 회복을 통해 식품 산업 포스트바이오틱 응용의 이론적 근거 제공 ([[Jay's Knowledge Base/raw/511-han-2025-pasteurized-akkermansia-muciniphila-timepie001\|Han et al., 2025]]).
+
+### 점액 분해성 공생균과 변비 — 모니터링 가설
+
+장내 점액 분해성 공생균이 변비를 유발할 수 있다는 새로운 가설이 제기됨 ([[Jay's Knowledge Base/raw/510-hamaguchi-2026-bacterial-constipation-mucin-degrading-intestinal\|Hamaguchi 2026, *Gut Microbes*]]). *A. muciniphila*도 점액 분해균에 속하므로 단순 외삽 시 잠재 우려가 있으나, 기존 임상·전임상에서 장벽 강화·점막 두께 증가가 일관되게 관찰되어 **점액 turnover 항상성** 모델과 양립 가능. EFSA 2021/2025 안전성 평가에서도 변비 신호 미보고. 본 논문 본문 확보 후 인과 균종(genus/species) 수준 추가 검토 필요.
+
+### 파킨슨병 prodromal 식별자로서의 장내 microbiome (Menozzi 2026, *Nature Medicine*)
+
+GBA1 유전자 변이는 PD의 가장 흔한 위험인자(최대 30배)이지만 보유자 중 약 20%만 발병한다. Menozzi et al. (2026)은 **PD 환자 271 + GBA1 변이 비발현 보유자(GBA-NMC) 43 + 건강군 150**의 분변 메타지노믹스를 분석해, GBA-NMC 군 장내 microbiome 조성의 **약 25%가 건강군과 PD 환자의 중간 상태**임을 보였다. 이 신호는 PD 환자의 질병 진행도 및 GBA-NMC·건강군의 prodromal 증상과 유의 상관을 가지며, **미국·한국·터키 3개 독립 코호트(PD 638 + 건강 319)에서 재현**됨. 결과적으로 장내 microbiome이 PD의 **premanifest 단계 조기 마커**로 활용 가능하며, 유전·비유전 위험군 모두를 일반 인구에서 식별할 수 있음을 시사한다. [[Jay's Knowledge Base/wiki/gut-brain-axis\|장-뇌 축]] 참조.
+
+**출처**: [[Jay's Knowledge Base/raw/01-microbiome-health-disease-overview\|raw/01-microbiome-health-disease-overview]], [[Jay's Knowledge Base/raw/510-hamaguchi-2026-bacterial-constipation-mucin-degrading-intestinal\|raw/510-hamaguchi-2026-bacterial-constipation-mucin-degrading-intestinal]], [[Jay's Knowledge Base/raw/511-han-2025-pasteurized-akkermansia-muciniphila-timepie001\|raw/511-han-2025-pasteurized-akkermansia-muciniphila-timepie001]], [[Jay's Knowledge Base/raw/516-menozzi-2026-microbiome-signature-of-parkinsons-disease-in-healthy\|raw/516-menozzi-2026-microbiome-signature-of-parkinsons-disease-in-healthy]]

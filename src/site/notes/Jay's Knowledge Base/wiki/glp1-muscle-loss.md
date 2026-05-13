@@ -94,6 +94,10 @@ BYM338·trevogrumab류의 전임상 스크리닝에 광범위하게 사용되는
 | 시장 규모 (2035E) | **$130억** (CAGR 12.2%) |
 | GLP-1 관련 서플리먼트 성장률 | **CAGR 124%** (2025-2026) |
 
+### 학술 연구 관심도
+
+GLP-1RA **부작용 연구 자체가 빠르게 성장** 중. Scopus 기반 서지 계량 분석(2006–2025)에서 1,075편의 논문이 389개 저널에 게재, **연평균 32.06% 증가**, 85개국 6,068명 저자 참여, 국제 공저율 34.23%. 출판 상위국은 **미국(30.5%) · 영국(10.6%) · 덴마크(7.8%)**, 기관 기여도는 **Novo Nordisk(60편, 11,207회 인용) · Eli Lilly(45편, 9,948회 인용)**가 압도적이며, 핵심 저널은 *Diabetes, Obesity and Metabolism*(106편), *Diabetes Care*, *Lancet Diabetes & Endocrinology*. 근손실·근감소증 등 체성분 부작용 영역은 이 거대한 안전성 연구 흐름의 한 축으로, 학계·산업계 모두 추적 가치가 빠르게 높아지는 중 (Abdelrahman 2026, *INQUIRY*).
+
 - Novo Nordisk, Eli Lilly 모두 서플리먼트 companion 전략 미보유 → **white space**
 - Lilly는 2026년 4월 **Centessa Pharmaceuticals를 $63억에 인수**, orexin 수용체 2 작용제(ORX750 등) 파이프라인 확보. GLP-1로 구축한 DTC 인프라를 orexin 약물에도 활용할 가능성이 제기됨 ([[Jay's Knowledge Base/raw/476-bayer-2026-eli-lilly-centessa-orexin-acquisition\|출처]])
 - 현재 companion 제품은 프로틴(43%), 소화 건강(프로바이오틱) 순
@@ -107,6 +111,22 @@ BYM338·trevogrumab류의 전임상 스크리닝에 광범위하게 사용되는
 - [[Jay's Knowledge Base/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]] (SCFA) → Akt/mTOR 활성화로 SMAD2/3 매개 근위축에 대항
 - 장 장벽 강화 → LPS 전위 감소 → myostatin 발현 유도 염증 차단
 - [[Jay's Knowledge Base/wiki/akkermansia-muciniphila\|akkermansia-muciniphila]]의 세포외소포가 C2C12 근아세포에서 S6K1, 4EBP1 인산화 직접 활성화
+- 살균 *A. muciniphila* RCT에서 follistatin 유의 상승(myostatin 격리), 하지 근력·peak torque 개선 (RCT 1·2)
+
+### 내인성 GLP-1 분비 자극 — 별도의 차별 기전 (Yoon 2021 foundational)
+
+GLP-1RA(semaglutide·tirzepatide)가 **외인성 호르몬 모방약**인 반면, *A. muciniphila*는 **장 L-cell의 GLP-1 분비를 직접 유도하는 분비 단백질**을 갖는다는 사실이 분리 단백질 수준에서 동정되어 있다 ([[Jay's Knowledge Base/raw/513-yoon-2021-akkermansia-muciniphila-secretes-a-glucagon-like\|Yoon et al., 2021, *Nature Microbiology*]]). 마우스에서 이 단백질 보충이 포도당 항상성을 개선하고 대사질환을 완화함이 확인됨.
+
+| 구분 | GLP-1RA (외인성) | *A. muciniphila* 유래 인자 (내인성) |
+|------|-----------------|------------------------------------|
+| 작용 방식 | GLP-1 수용체 직접 자극 | 장 L-cell의 내인성 GLP-1 분비 자극 |
+| 약효 지속 | 약효 반감기에 의존 | 일상적 식이/투여로 지속 가능 |
+| 중단 후 반등 | 50%+ 반등 ([[Jay's Knowledge Base/wiki/obesity-body-composition\|PTER 항목]]) | 분비 자극이 유지되면 반등 완화 가능성 |
+| 근손실 | 대규모 lean mass 손실 | 근육-장 axis (follistatin↑·EV·SCFA)로 보호 시도 |
+
+**시사점**: Gao 2026 (db/db + Akk11 + semaglutide)에서 관찰된 **"병용 시 혈중 GLP-1 추가 증가"** 결과는 본 Yoon 2021의 분비 단백질 기전으로 설명 가능. → Akk 포스트바이오틱이 근손실 보존 외에도 **장 내인성 GLP-1 분비 자극**이라는 별도의 합리적 기전을 통해 GLP-1 효능을 보강 또는 중단 후 효과를 연장시킬 가능성을 제시. companion 포지셔닝의 second pillar.
+
+> ⚠️ **자주 인용되는 Gao 2026 (db/db 마우스 + Akk11 + semaglutide) 데이터에 대한 주의**: 본 논문은 GLP-1RA + AKK 병용의 **대사·간지질 개선**은 강하게 지지하나, **"근손실 보존" 근거로는 사용할 수 없다**. 동일 실험에서 lean mass는 병용군에서 GLP-1RA 단독 대비 **추가 감소**(p<0.01)했으며, 측정 장비(Bruker Minispec LF50, TD-NMR)는 골격근과 장기(특히 간)를 분리하지 못한다. 같은 군에서 간 무게가 유의 감소(p<0.001)했으므로 lean mass 변화가 골격근 손실인지 간지방 해소인지 현 데이터로 구별 불가. "Synergy"의 2-factor ANOVA interaction 검정도 부재. AKK의 근육 보존 가설은 **follistatin RCT·EV·SCFA 경로** 같은 별도 근거 또는 DEXA/MRI 기반 후속 연구로 입증되어야 함 (상세 [[Jay's Knowledge Base/wiki/akkermansia-muciniphila\|akkermansia-muciniphila]] §2-1).
 
 ### GLP-1 중단 후 반등 방지 기전 — PTER 억제
 
@@ -133,6 +153,9 @@ BYM338·trevogrumab류의 전임상 스크리닝에 광범위하게 사용되는
 - [[Jay's Knowledge Base/raw/479-park-2026-samsung-biologics-glp1-cdmo-expansion\|raw/479-park-2026-samsung-biologics-glp1-cdmo-expansion]]
 - [[Jay's Knowledge Base/raw/489-fu-2026-a-small-molecule-pter-selective-inhibitor-reduces-food\|raw/489-fu-2026-a-small-molecule-pter-selective-inhibitor-reduces-food]] — PTER 선택적 억제제 PTERi, GLP1-RA 병용 강화 및 중단 후 반등 방지
 - [[Jay's Knowledge Base/raw/495-langer-2026-causes-of-sarcopenia-and-frailty-in-people-taking\|raw/495-langer-2026-causes-of-sarcopenia-and-frailty-in-people-taking]] — *Nat Rev Endocrinol* GLP1RA 복용 인구의 근감소증·쇠약(frailty) 원인 리뷰
+- [[Jay's Knowledge Base/raw/505-abdelrahman-2026-mapping-global-research-on-adverse-effects-of-glp-1\|raw/505-abdelrahman-2026-mapping-global-research-on-adverse-effects-of-glp-1]] — GLP-1RA 부작용 글로벌 연구 동향 서지 계량 분석 (Scopus 2006–2025, 1,075편, 연 32% 성장, Novo Nordisk·Eli Lilly 기관 압도)
+- [[Jay's Knowledge Base/raw/507-lee-2026-critical-reading-of-akk-glp1-paper\|raw/507-lee-2026-critical-reading-of-akk-glp1-paper]] — Gao 2026 (Akk + GLP-1RA db/db) 비판적 재검토. 체성분 도구(TD-NMR) 한계로 근손실 보존 주장 미입증을 정밀 분석
+- [[Jay's Knowledge Base/raw/513-yoon-2021-akkermansia-muciniphila-secretes-a-glucagon-like\|raw/513-yoon-2021-akkermansia-muciniphila-secretes-a-glucagon-like]] — *A. muciniphila* 분비 GLP-1 유도 단백질 동정 및 마우스 대사 개선 (*Nature Microbiology* 2021, foundational). 장 내인성 GLP-1 분비 자극 메커니즘의 분자적 근거
 
 ### ActRII / SMAD2/3 기전 — primary literature
 - [[Jay's Knowledge Base/raw/492-inman-2002-sb-431542-is-a-potent-and-specific-inhibitor-of\|raw/492-inman-2002-sb-431542-is-a-potent-and-specific-inhibitor-of]] — SB-431542 (ALK4/5/7 선택적 저해제)

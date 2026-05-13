@@ -112,4 +112,4 @@ BELIEVE에서 bimagrumab 30 mg/kg 단독의 **−9.3 kg**은 대부분 지방에
 > [!warning] Phase 3 전망
 > Phase 3 진입 여부는 현재 진행 중인 tirzepatide 병용 Phase 2 결과(2026년 상반기)에 달려 있다. 당뇨 동반 비만 임상 철회는 개발 전략 변경 가능성을 시사한다.
 
-<iframe src="/img/user/Temp_April/Heymsfield%20et%20al.%20-%202026%20-%20Bimagrumab%20plus%20semaglutide%20alone%20or%20in%20combinatio.pdf" width="100%" height="900px" title="Heymsfield et al. - 2026 - Bimagrumab plus semaglutide alone or in combinatio.pdf" style="border:1px solid #ccc;"></iframe>
+<iframe src="/img/user/HealthBiome/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4/Heymsfield%20et%20al.%20-%202026%20-%20Bimagrumab%20plus%20semaglutide%20alone%20or%20in%20combinatio.pdf" width="100%" height="900px" title="Heymsfield et al. - 2026 - Bimagrumab plus semaglutide alone or in combinatio.pdf" style="border:1px solid #ccc;"></iframe>
