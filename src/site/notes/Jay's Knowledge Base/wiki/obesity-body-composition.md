@@ -77,6 +77,18 @@
 - 추정 기전: 장 장벽 개선, 면역 조절, SCFA 증가, **AMPK 활성화**, microbiota-지방조직 크로스토크 (Chmurska et al., 2026)
 - 시사점: 운동 부재/저활동 인구에서 경구 *A. muciniphila* 보충이 "운동 모방(exercise-mimetic)" companion으로 기능할 가능성
 
+### 경구 GLP-1 작용제로의 전환 유지 — Orforglipron ATTAIN-MAINTAIN (Aronne 2026, *Nature Medicine*)
+
+기존 주사형 GLP-1 작용제로 감량에 성공한 환자가 **경구 비펩타이드 GLP-1 작용제 orforglipron**으로 전환했을 때 체중 감량을 얼마나 유지할 수 있는지 평가한 **이중맹검·위약대조 phase 3b RCT** ([[Jay's Knowledge Base/raw/519-aronne-2026-orforglipron-for-maintenance-of-body-weight-reduction\|Aronne et al., 2026]]). SURMOUNT-5에서 tirzepatide(코호트 1, n=205) 또는 semaglutide(코호트 2, n=171)로 체중 plateau를 달성한 참가자를 무작위 배정.
+
+- **코호트 1 (이전 tirzepatide)**: orforglipron군은 감량분의 **74.7%(s.e.m. 4.05)** 유지 vs 위약 49.2%(s.e.m. 3.92), 차이 MBE **25.5%** (95% CI 14.5~36.5, P<0.001)
+- **코호트 2 (이전 semaglutide)**: orforglipron군 **79.3%(s.e.m. 4.42)** 유지 vs 위약 37.6%(s.e.m. 7.46), 차이 MBE **41.7%** (95% CI 24.4~59.0, P<0.001)
+- 모든 주요 2차 평가변수 충족. 최빈 이상반응은 경증~중등도 위장관 부작용.
+- 한계: ① 주사형 GLP-1 작용제 **지속 사용 대조군 부재**(전환 vs 지속 비교 불가), ② 1년 시점 데이터 (장기 유지 미확인)
+- 등록번호: NCT06584916
+
+**시사점**: (1) GLP-1 작용제 중단 시 12개월 내 **50% 이상 반등**(STEP-10, SURMOUNT-4)이라는 임상 공백에 대해, **주사 → 경구 전환**이라는 약리학적 해법이 입증됨 — PTER 억제제·살균 *A. muciniphila* MucT(Mount 2026)와 함께 "post-injection maintenance" 카테고리의 **세 번째 축**으로 자리매김. (2) Orforglipron은 경구·1일 1회·비펩타이드 구조로 globally scalable한 후속 옵션 → **GLP-1 사용 인구의 절대 규모를 더욱 확장**시켜 [[Jay's Knowledge Base/wiki/glp1-muscle-loss\|glp1-muscle-loss]]·companion 시장의 잠재 환자 풀을 확대. (3) 그러나 본 시험은 **체성분(lean mass) 평가변수가 abstract에 명시되지 않음** — 경구 GLP-1 작용제로의 전환 역시 근감소 우려에서 자유롭지 않을 가능성이 높으며, 마이크로바이옴 기반 근육 보존 companion의 적용 범위는 오히려 확대될 수 있음.
+
 ### PTER 억제 — N-acetyltaurine 포식억제 경로
 - PTER(phosphotriesterase-related)는 포식억제(anorexigenic) 대사체 N-acetyltaurine의 분해를 매개하는 amidohydrolase로, 기질 결합 포켓이 HDAC 계열과 구조적 유사성을 가진다는 것이 진핵 PTER 결정구조(apo/product-bound)에서 새롭게 규명됨
 - 이 유사성을 기반으로 nanomolar 효력·HDAC 대비 >100배 선택성을 갖는 기질경쟁형 억제제 **PTERi**를 first-in-class로 개발
@@ -103,6 +115,7 @@
 - [[Jay's Knowledge Base/raw/504-wei-2024-pter-is-a-n-acetyltaurine-hydrolase-that-regulates\|raw/504-wei-2024-pter-is-a-n-acetyltaurine-hydrolase-that-regulates]] — **PTER = N-acetyltaurine hydrolase** (Nature 2024 primary). Pter KO 또는 N-acetyltaurine 투여 시 GFRAL 의존적으로 섭식·체중 감소 → PTERi 개발 근거 제공
 - [[Jay's Knowledge Base/raw/509-feng-2025-investigating-the-role-of-akkermansia-muciniphila\|raw/509-feng-2025-investigating-the-role-of-akkermansia-muciniphila]] — 영아 분리주 *A. muciniphila* Akk11 (생균·살균) HFD 비만 마우스 보호, 균주별 SCFA 프로파일 (부티르산↑ vs 프로피온산↑)
 - [[Jay's Knowledge Base/raw/518-mount-2026-pasteurized-akkermansia-muciniphila-muct-for-weight\|raw/518-mount-2026-pasteurized-akkermansia-muciniphila-muct-for-weight]] — 살균 *A. muciniphila* MucT 체중 감량 유지 RCT (과체중·비만 성인 n=90, 24주): 체중 재증가 억제(1.2 vs 3.2 kg, P=0.012)·순 체중 감량 3.1 kg 더 큼(P=0.009)·기저 *Akkermansia* 풍부도와 심대사 반응 연관 (*Nature Medicine* 2026, NCT05417360)
+- [[Jay's Knowledge Base/raw/519-aronne-2026-orforglipron-for-maintenance-of-body-weight-reduction\|raw/519-aronne-2026-orforglipron-for-maintenance-of-body-weight-reduction]] — **Orforglipron(경구 비펩타이드 GLP-1RA) ATTAIN-MAINTAIN phase 3b RCT** (n=376, 52주, *Nature Medicine* 2026): 주사 GLP-1RA(tirzepatide/semaglutide) 감량 후 경구 전환 시 체중 감량 **74.7~79.3% 유지** vs 위약 37.6~49.2% (P<0.001), 주사 중단 후 반등 공백을 약리학적으로 충족하는 첫 phase 3b 데이터 (NCT06584916)
 
 ---
 

@@ -132,6 +132,10 @@ GLP-1RA(semaglutide·tirzepatide)가 **외인성 호르몬 모방약**인 반면
 
 근손실과 별개로 GLP-1의 또 다른 임상 공백인 **중단 후 체중 반등(50% 이상)**을 겨냥한 저분자 접근이 부상. Fu (2026)는 포식억제 대사체 N-acetyltaurine을 분해하는 PTER(phosphotriesterase-related)의 결정구조에서 HDAC 유사 포켓을 발견, 기질경쟁형 억제제 **PTERi**를 개발(nanomolar 효력, HDAC 대비 >100배 선택성). DIO 마우스에서 단독 투여 시 섭식 감소, GLP1-RA 병용 시 **체중 감량 강화**, GLP1-RA **중단 후 체중 재증가 예방** 효과 → ActRII 계열(근육 보존)과 다른 축의 companion 후보로, SCFA-HDAC 축과 개념적으로 연결(상세 [[Jay's Knowledge Base/wiki/obesity-body-composition\|obesity-body-composition]]).
 
+### 경구 GLP-1 작용제로의 전환 유지 — Orforglipron ATTAIN-MAINTAIN (2026)
+
+Eli Lilly의 **orforglipron** (경구·1일 1회·비펩타이드 GLP-1 작용제)은 SURMOUNT-5에서 주사형(tirzepatide·semaglutide)으로 감량한 환자가 경구 전환 시 **체중 감량의 74.7~79.3%를 52주간 유지**(위약 37.6~49.2%, P<0.001)함을 phase 3b ATTAIN-MAINTAIN에서 입증 (Aronne 2026, *Nature Medicine* — [[Jay's Knowledge Base/raw/519-aronne-2026-orforglipron-for-maintenance-of-body-weight-reduction\|raw/519-aronne-2026-orforglipron-for-maintenance-of-body-weight-reduction]], n=376). 의미: (1) "주사 → 경구 전환"이라는 **약리학적 maintenance 옵션**의 등장. (2) 경구·비펩타이드·globally scalable → **GLP-1 사용 인구의 절대 규모 확대**, companion(근손실 보존·내인성 GLP-1 분비 자극) 시장의 잠재 환자 풀이 함께 커짐. (3) 다만 **체성분(lean mass) 평가변수는 abstract에 명시되지 않음** — 경구 전환이 근감소 우려를 해결한다는 근거는 부재하며, 동일 수용체 작용 기전상 근손실 위험은 지속될 가능성이 높음. → ActRII 차단·포스트바이오틱 companion의 적용 범위는 **주사형뿐 아니라 경구 GLP-1RA 인구까지 확장**된다고 보아야 함.
+
 ---
 
 ## 관련 문서
@@ -156,6 +160,7 @@ GLP-1RA(semaglutide·tirzepatide)가 **외인성 호르몬 모방약**인 반면
 - [[Jay's Knowledge Base/raw/505-abdelrahman-2026-mapping-global-research-on-adverse-effects-of-glp-1\|raw/505-abdelrahman-2026-mapping-global-research-on-adverse-effects-of-glp-1]] — GLP-1RA 부작용 글로벌 연구 동향 서지 계량 분석 (Scopus 2006–2025, 1,075편, 연 32% 성장, Novo Nordisk·Eli Lilly 기관 압도)
 - [[Jay's Knowledge Base/raw/507-lee-2026-critical-reading-of-akk-glp1-paper\|raw/507-lee-2026-critical-reading-of-akk-glp1-paper]] — Gao 2026 (Akk + GLP-1RA db/db) 비판적 재검토. 체성분 도구(TD-NMR) 한계로 근손실 보존 주장 미입증을 정밀 분석
 - [[Jay's Knowledge Base/raw/513-yoon-2021-akkermansia-muciniphila-secretes-a-glucagon-like\|raw/513-yoon-2021-akkermansia-muciniphila-secretes-a-glucagon-like]] — *A. muciniphila* 분비 GLP-1 유도 단백질 동정 및 마우스 대사 개선 (*Nature Microbiology* 2021, foundational). 장 내인성 GLP-1 분비 자극 메커니즘의 분자적 근거
+- [[Jay's Knowledge Base/raw/519-aronne-2026-orforglipron-for-maintenance-of-body-weight-reduction\|raw/519-aronne-2026-orforglipron-for-maintenance-of-body-weight-reduction]] — Orforglipron(경구 비펩타이드 GLP-1RA) ATTAIN-MAINTAIN phase 3b RCT (n=376, 52주, *Nature Medicine* 2026): 주사 GLP-1RA 감량 후 경구 전환 시 체중 감량 74.7~79.3% 유지 (NCT06584916). 경구 GLP-1 시장 확장 → companion 잠재 환자 풀 확대
 
 ### ActRII / SMAD2/3 기전 — primary literature
 - [[Jay's Knowledge Base/raw/492-inman-2002-sb-431542-is-a-potent-and-specific-inhibitor-of\|raw/492-inman-2002-sb-431542-is-a-potent-and-specific-inhibitor-of]] — SB-431542 (ALK4/5/7 선택적 저해제)

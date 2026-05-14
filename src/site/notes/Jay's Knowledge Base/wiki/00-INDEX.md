@@ -26,7 +26,7 @@
 - [[Jay's Knowledge Base/wiki/gut-brain-axis\|gut-brain-axis]] — 장-뇌 축과 정신/신경 질환, 내수용감각-미생물-인지 노화 경로, 뇌-장-근육 축(brain-gut-muscle axis), **PD prodromal microbiome signature(Menozzi 2026, GBA1 변이 보유자 25% 중간 상태, 한·미·터키 다지역 재현)**
 - [[Jay's Knowledge Base/wiki/gut-muscle-axis\|gut-muscle-axis]] — 장-근육 축과 근감소증, 장-근육-면역 축(gut-muscle-immune axis)
 - [[Jay's Knowledge Base/wiki/gut-skin-axis\|gut-skin-axis]] — 장-피부 축과 염증성 피부질환, 피부 줄기세포 후성유전 기억
-- [[Jay's Knowledge Base/wiki/glp1-muscle-loss\|glp1-muscle-loss]] — GLP-1 유도 근손실, ActRII/SMAD2/3 기전(Langley·Sartori·Trendelenburg·Lokireddy·Lach-Trifilieff), bimagrumab Phase 2 RCT, GASP-2 내인성 억제자, C2C12 모델 한계, companion 시장, GLP-1RA 부작용 글로벌 서지 분석(Abdelrahman 2026), **A. muciniphila 분비 GLP-1 유도 단백질(Yoon 2021)**
+- [[Jay's Knowledge Base/wiki/glp1-muscle-loss\|glp1-muscle-loss]] — GLP-1 유도 근손실, ActRII/SMAD2/3 기전(Langley·Sartori·Trendelenburg·Lokireddy·Lach-Trifilieff), bimagrumab Phase 2 RCT, GASP-2 내인성 억제자, C2C12 모델 한계, companion 시장, GLP-1RA 부작용 글로벌 서지 분석(Abdelrahman 2026), **A. muciniphila 분비 GLP-1 유도 단백질(Yoon 2021)**, **경구 GLP-1RA orforglipron ATTAIN-MAINTAIN(Aronne 2026, *Nature Medicine*, n=376) — 주사 → 경구 전환 maintenance 74.7~79.3%**
 
 ## 분석 기술
 - [[Jay's Knowledge Base/wiki/microbiome-analysis-technologies\|microbiome-analysis-technologies]] — 16S rRNA, 메타게노믹스, 다중 오믹스
@@ -35,7 +35,7 @@
 - [[Jay's Knowledge Base/wiki/microbiome-therapeutics\|microbiome-therapeutics]] — FMT, LBP, 마이크로바이옴 기반 치료제
 
 ## 비만/대사
-- [[Jay's Knowledge Base/wiki/obesity-body-composition\|obesity-body-composition]] — 비만, 체성분, 대사: 장내 미생물-비만 연관, 기초대사율, 식이 중재, **살균 *A. muciniphila* MucT 체중 감량 유지 RCT — 체중 재증가 억제·responder 바이오마커(Mount 2026, *Nature Medicine*)**, Akk+GLP-1RA 대사 효과 추가(Gao 2026, lean mass 해석 한계 포함), **영아 분리주 Akk11 비만 보호·균주별 SCFA 차이(Feng 2025)**, PTER/N-acetyltaurine 포식억제 축(Wei 2024)
+- [[Jay's Knowledge Base/wiki/obesity-body-composition\|obesity-body-composition]] — 비만, 체성분, 대사: 장내 미생물-비만 연관, 기초대사율, 식이 중재, **살균 *A. muciniphila* MucT 체중 감량 유지 RCT — 체중 재증가 억제·responder 바이오마커(Mount 2026, *Nature Medicine*)**, Akk+GLP-1RA 대사 효과 추가(Gao 2026, lean mass 해석 한계 포함), **영아 분리주 Akk11 비만 보호·균주별 SCFA 차이(Feng 2025)**, PTER/N-acetyltaurine 포식억제 축(Wei 2024), **경구 GLP-1RA orforglipron ATTAIN-MAINTAIN — 주사 → 경구 전환 체중 감량 75~79% 52주 유지(Aronne 2026, *Nature Medicine*, n=376)**
 
 ## 시장/규제
 - [[Jay's Knowledge Base/wiki/korean-microbiome-market\|korean-microbiome-market]] — 한국 건강기능식품 및 마이크로바이옴 시장 동향, 글로벌 건기식 규제 강화, GLP-1 companion/CDMO 생태계
