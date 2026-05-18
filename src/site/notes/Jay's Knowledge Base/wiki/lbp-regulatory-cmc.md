@@ -7,7 +7,7 @@
 
 ## 개요
 
-Live Biotherapeutic Products(LBP, 생균치료제)는 살아있는 미생물을 유효성분으로 포함하는 의약품으로, FDA와 EMA(유럽의약품청)에서 각각 고유한 규제 프레임워크를 통해 관리한다. FDA는 LBP를 biological product로 분류하며, 초기 임상시험(early clinical trials)을 위한 CMC(Chemistry, Manufacturing, and Control) 가이던스를 별도로 발행하였다. EMA/EDQM 역시 LBP에 대한 품질 및 안전성 기준을 정립하고 있으며, 한국 식약처(MFDS)도 건강기능식품 및 의약품으로서의 프로바이오틱스 규제를 강화하고 있다.
+Live Biotherapeutic Products(LBP, 생균치료제)는 살아있는 미생물을 유효성분으로 포함하는 의약품으로, FDA와 EMA(유럽의약품청)에서 각각 고유한 규제 프레임워크를 통해 관리한다. FDA는 LBP를 biological product로 분류하며, 초기 임상시험(early clinical trials)을 위한 CMC(Chemistry, Manufacturing, and Control) 가이던스를 별도로 발행하였다. EMA/EDQM 역시 LBP에 대한 품질 및 안전성 기준을 정립하고 있으며, 한국 식약처(MFDS)도 생균치료제(LBP)를 **생물의약품(생물학적제제)** 으로 분류하는 전용 규제 가이드라인(「생균치료제의 임상시험 시 품질·비임상 평가 가이드라인 — 마이크로바이옴 기반 의약품」, 2022.4.28 제정 → 2023.8.31 현행화)을 운영하고 있어, 미국·유럽과 함께 LBP 의약품 심사 체계를 이미 갖추고 있다.
 
 LBP의 CMC 요구사항은 기존 화학의약품이나 생물의약품과 크게 다르다. 균주의 동정(identification) 및 특성 분석(characterization), Master Cell Bank(MCB) 구축, 제조 공정 일관성(process consistency), 안정성 시험(stability testing), 그리고 release specification 설정이 핵심이다. 특히 CTD 3.2.S 섹션에서 원료의약품(drug substance)으로서 균주의 완전한 특성화가 요구되며, 유전체 분석(WGS), 항생제 감수성(antibiotic susceptibility) 프로파일, 독성인자(virulence factor) 부재 확인 등이 포함된다.
 
@@ -17,6 +17,7 @@ EFSA의 QPS(Qualified Presumption of Safety) 시스템은 식품 및 사료에 �
 
 - **FDA CMC 가이던스**: 초기 임상시험용 LBP에 대해 균주 동정, MCB 구축, 제조 공정 기술, 품질관리 시험법, 안정성 데이터를 요구. release criteria에는 생균수(CFU), 순도, 오염균 부재, 역가(potency) 등 포함
 - **EMA/EDQM 접근**: LBP를 biological medicinal product으로 분류하며, Ph. Eur. monograph 기준에 따른 품질 평가. non-clinical pharmacology 및 toxicology 자료 요구
+- **한국 식약처(MFDS) 전용 가이드라인**: 식품의약품안전평가원(세포유전자치료제과)이 「생균치료제의 임상시험 시 품질·비임상 평가 가이드라인 — 마이크로바이옴 기반 의약품」을 **2022.4.28 제정**, 2회 개정(2022.12.26 정의 현행화 / 2023.8.31 비임상 평가 고려사항 추가, 현행 안내서-1197-03). 생균치료제(LBP)를 **생물의약품(생물학적제제)으로 별도 규제 항목화** — 표준제조기준 관리 정장제·일반 프로바이오틱스와 구분. IND는 「약사법」 제34조·「의약품 등의 안전에 관한 규칙」, 품질 문서는 「의약품 임상시험 계획 승인에 관한 규정(식약처 고시)」 [별표3], GMP는 동 규칙 [별표4의2], 비임상은 「생물학적제제 등의 품목허가·심사 규정」에 따름. 역가는 CFU(완제 통상 1 log 범위), 미생물학적 시험은 유럽약전(EP 3053E·2.6.36·2.6.38) 참조. 가이드라인 자체는 법적 구속력 없는 민원인 안내서이나 인용 상위 법령·고시는 구속력 보유 ([[Jay's Knowledge Base/raw/527-mfds-2023-korean-live-biotherapeutic-product-clinical-trial-guideline\|식약처 생균치료제 가이드라인 2023]])
 - **정의된 규제 프레임워크의 중요성 (Cordaillat-Simmons 2020, *Exp. Mol. Med.*)**: 동일한 probiotic이 식품·식이보충제·의약품 중 어떤 의도된 용도(intended use)로 시장에 진입하느냐에 따라 규제 경로가 갈리며, 특히 **질병·취약 인구(diseased/vulnerable population)** 대상 투여 시 안전성·품질·생산방식 제약이 강화된다. **FDA가 LBP를 별도 의약품 카테고리로 정의**(약제학적 기대치 명확화)하고, **EU는 2019년 European Pharmacopoeia가 LBP 품질 요건을 명문화** → 미·유럽에서 질병 예방·치료 목적 LBP는 의약품으로 등록 필요. 법적 구속력은 없으나 사실상 글로벌 표준인 **ICH 가이드라인**이 LBP 등록에 통용됨을 정리한 리뷰 ([[Jay's Knowledge Base/raw/520-cordaillat-simmons-2020-live-biotherapeutic-products-the-importance-of-a\|Cordaillat-Simmons 2020]])
 - **EFSA QPS 시스템**: 분류학적 단위(taxonomic unit) 기반 안전성 평가. 2019년까지 54건의 새로운 미생물 통보 평가 완료. qualification 조건으로 항균제 내성 부재 확인 필수 (EFSA 2020)
 - **항생제 감수성 평가**: *A. muciniphila* DSM 22959의 항균제 감수성 프로파일을 표현형(phenotypic) 및 인실리코(in silico) 방법으로 분석. 획득 내성(acquired resistance) 부재 확인이 QPS 승인의 필수 조건 (Machado 2022)
@@ -59,6 +60,7 @@ EFSA의 QPS(Qualified Presumption of Safety) 시스템은 식품 및 사료에 �
 - [[Jay's Knowledge Base/raw/506-ligthart-2026-high-stability-of-the-genome-of-akkermansia\|raw/506-ligthart-2026-high-stability-of-the-genome-of-akkermansia]]
 - [[Jay's Knowledge Base/raw/508-efsa-panel-on-nutrition,-novel-foods-and-food-allergens-(nda)-2025-safety-of-an-extension-of-use-of-pasteurised\|raw/508-efsa-panel-on-nutrition,-novel-foods-and-food-allergens-(nda)-2025-safety-of-an-extension-of-use-of-pasteurised]]
 - [[Jay's Knowledge Base/raw/520-cordaillat-simmons-2020-live-biotherapeutic-products-the-importance-of-a\|raw/520-cordaillat-simmons-2020-live-biotherapeutic-products-the-importance-of-a]]
+- [[Jay's Knowledge Base/raw/527-mfds-2023-korean-live-biotherapeutic-product-clinical-trial-guideline\|raw/527-mfds-2023-korean-live-biotherapeutic-product-clinical-trial-guideline]] — 식약처 생균치료제 임상시험 품질·비임상 평가 가이드라인(한국 LBP 전용 규제 가이드라인)
 
 ## 관련 wiki 링크
 

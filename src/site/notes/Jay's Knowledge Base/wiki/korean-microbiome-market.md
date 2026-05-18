@@ -5,7 +5,7 @@
 
 # 한국 건강기능식품 및 마이크로바이옴 시장(Korean Microbiome Market)
 
-한국 건강기능식품 시장은 2024년 약 6조 원 규모로, 프로바이오틱스가 최다 판매 품목이다. 정부는 2025-2032년 8년간 4,000억 원을 마이크로바이옴 R&D에 투자할 계획이며, LBP 규제 프레임워크는 아직 개발 중이다.
+한국 건강기능식품 시장은 2024년 약 6조 원 규모로, 프로바이오틱스가 최다 판매 품목이다. 정부는 2025-2032년 8년간 4,000억 원을 마이크로바이옴 R&D에 투자할 계획이다. LBP(생균치료제)는 식약처가 **생물의약품으로서 별도 규제 항목**으로 관리하며, 「생균치료제의 임상시험 시 품질·비임상 평가 가이드라인」이 2022년 제정·2023년 개정되어 운영 중이다(정장제·일반 프로바이오틱스와 구분).
 
 ## 시장 규모
 
@@ -34,17 +34,17 @@
 - 식약처 인정 기능성 원료로 프로바이오틱스 등록
 - 균주별 효능 검증 및 역가 관리 필요
 
-### LBP(마이크로바이옴 의약품)
-- **한국 LBP 가이드라인 부재** → 미국 FDA, 유럽 EMA 기준 참고
-- 개인맞춤형 특성으로 높은 규제 장벽
-- 균주마다 효과가 다르므로 엄격한 역가 관리 필요
-- 식약처: "LBP 전망 매우 밝으며 연구 개발 활발히 진행 중"
-- 관련 기업들의 규제 완화 요청 증가
+### LBP(생균치료제, 마이크로바이옴 의약품)
+- **한국에도 전용 규제 가이드라인이 이미 존재** — 식약처 식품의약품안전평가원이 「생균치료제의 임상시험 시 품질·비임상 평가 가이드라인 — 마이크로바이옴 기반 의약품」을 **2022.4.28 제정**, 이후 2회 개정(2022.12.26 정의 현행화 / 2023.8.31 비임상 평가 고려사항 추가, 현행 안내서-1197-03)
+- **별도 규제 항목으로 분류**: 생균치료제는 **생물의약품(생물학적제제)** 으로 규제되며, 의약품 표준제조기준으로 관리되는 정장제·일반 프로바이오틱스와 명확히 구분된다. IND 심사는 식약처(식품의약품안전평가원 세포유전자치료제과) 담당
+- 규제 근거: 임상시험계획 승인 「약사법」 제34조·「의약품 등의 안전에 관한 규칙」, 품질 문서 「의약품 임상시험 계획 승인에 관한 규정(식약처 고시)」 [별표3], GMP 「의약품 등의 안전에 관한 규칙」 [별표4의2], 비임상 「생물학적제제 등의 품목허가·심사 규정」
+- 균주마다 효과가 다르므로 엄격한 역가(CFU) 관리 필요 — 완제의약품 역가 기준 통상 1 log 범위 이내, 미생물학적 시험은 유럽약전(EP 3053E·2.6.36·2.6.38) 참조
+- 개인맞춤형·미생물총 의존 특성으로 규제 장벽은 여전히 높으며, 업계의 규제 완화·명확화 요청은 계속됨 (가이드라인은 법적 구속력 없는 민원인 안내서이나, 인용하는 상위 법령·고시는 구속력 보유) ([[Jay's Knowledge Base/raw/527-mfds-2023-korean-live-biotherapeutic-product-clinical-trial-guideline\|식약처 생균치료제 가이드라인]])
 
 ### 글로벌 규제 비교
-- **FDA**: LBP를 생물학적 제제(biologics)로 분류, IND 신청 필요
-- **EMA**: 유사한 프레임워크, 품질/안전성/유효성 요구
-- **한국**: 가이드라인 개발 중, 글로벌 기준 참고
+- **FDA**: LBP를 생물학적 제제(biologics)로 분류, IND 신청 필요 (2016 LBP CMC Guidance)
+- **EMA/EDQM**: 유사한 프레임워크, 품질/안전성/유효성 요구, 유럽약전 LBP monograph
+- **한국**: 식약처 전용 가이드라인 보유(2022 제정, 2023 현행화) — 생물의약품 경로로 IND 심사. 세부 운영은 글로벌(FDA/EMA/EDQM) 기준과 정합적
 
 ## GLP-1 Companion 서플리먼트 시장
 
@@ -89,4 +89,4 @@ Eli Lilly는 GLP-1 포트폴리오로 구축한 DTC(direct-to-consumer) 인프�
 
 미국·중국·일본 등 주요국이 2024년을 기점으로 건기식 규제를 전례 없이 강화. 일본은 '붉은 누룩(紅麹)' 사태 후 법 개정, 미국·중국도 독성·임상 데이터 요구 수준 상향. 과학적 효능 입증 없이는 해외 시장 진입이 사실상 불가능한 비관세 장벽 형성. K-푸드 업체들의 인증 확보 비용·시간이 급증 ([[Jay's Knowledge Base/raw/480-shin-2026-global-health-food-regulation-kfood\|출처]]).
 
-**출처**: [[Jay's Knowledge Base/raw/07-korean-health-supplement-microbiome-market\|raw/07-korean-health-supplement-microbiome-market]], [[Jay's Knowledge Base/raw/13-hb05p-actrii-pathway-literature-survey-and-market\|raw/13-hb05p-actrii-pathway-literature-survey-and-market]], [[Jay's Knowledge Base/raw/14-hb05p-glp1-companion-strategic-positioning\|raw/14-hb05p-glp1-companion-strategic-positioning]], [[Jay's Knowledge Base/raw/476-bayer-2026-eli-lilly-centessa-orexin-acquisition\|raw/476-bayer-2026-eli-lilly-centessa-orexin-acquisition]], [[Jay's Knowledge Base/raw/478-sharma-2026-dr-reddys-beyond-the-pill-semaglutide\|raw/478-sharma-2026-dr-reddys-beyond-the-pill-semaglutide]], [[Jay's Knowledge Base/raw/479-park-2026-samsung-biologics-glp1-cdmo-expansion\|raw/479-park-2026-samsung-biologics-glp1-cdmo-expansion]], [[Jay's Knowledge Base/raw/480-shin-2026-global-health-food-regulation-kfood\|raw/480-shin-2026-global-health-food-regulation-kfood]], [[Jay's Knowledge Base/raw/481-yoo-2026-jw-holdings-solidus-bio-vc-acquisition\|raw/481-yoo-2026-jw-holdings-solidus-bio-vc-acquisition]], [[Jay's Knowledge Base/raw/482-cheon-2026-ckd-health-earnings-functional-food-market\|raw/482-cheon-2026-ckd-health-earnings-functional-food-market]]
+**출처**: [[Jay's Knowledge Base/raw/07-korean-health-supplement-microbiome-market\|raw/07-korean-health-supplement-microbiome-market]], [[Jay's Knowledge Base/raw/13-hb05p-actrii-pathway-literature-survey-and-market\|raw/13-hb05p-actrii-pathway-literature-survey-and-market]], [[Jay's Knowledge Base/raw/14-hb05p-glp1-companion-strategic-positioning\|raw/14-hb05p-glp1-companion-strategic-positioning]], [[Jay's Knowledge Base/raw/476-bayer-2026-eli-lilly-centessa-orexin-acquisition\|raw/476-bayer-2026-eli-lilly-centessa-orexin-acquisition]], [[Jay's Knowledge Base/raw/478-sharma-2026-dr-reddys-beyond-the-pill-semaglutide\|raw/478-sharma-2026-dr-reddys-beyond-the-pill-semaglutide]], [[Jay's Knowledge Base/raw/479-park-2026-samsung-biologics-glp1-cdmo-expansion\|raw/479-park-2026-samsung-biologics-glp1-cdmo-expansion]], [[Jay's Knowledge Base/raw/480-shin-2026-global-health-food-regulation-kfood\|raw/480-shin-2026-global-health-food-regulation-kfood]], [[Jay's Knowledge Base/raw/481-yoo-2026-jw-holdings-solidus-bio-vc-acquisition\|raw/481-yoo-2026-jw-holdings-solidus-bio-vc-acquisition]], [[Jay's Knowledge Base/raw/482-cheon-2026-ckd-health-earnings-functional-food-market\|raw/482-cheon-2026-ckd-health-earnings-functional-food-market]], [[Jay's Knowledge Base/raw/527-mfds-2023-korean-live-biotherapeutic-product-clinical-trial-guideline\|raw/527-mfds-2023-korean-live-biotherapeutic-product-clinical-trial-guideline]]
