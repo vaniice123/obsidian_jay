@@ -45,6 +45,20 @@
 
 ---
 
+## 관련 *Bacteroides* 속(genus) 근거
+
+아래 연구들은 *B. uniformis* 자체를 직접 다루지 않으나, 같은 *Bacteroides* 속의 치료 잠재력과 안전성 양면을 보여주어 NGP 후보 평가에 참고가 된다.
+
+### 치료 효능 — *Bacteroides* 종의 간경변 개선
+
+DDC(3,5-diethoxycarbonyl-1,4-dihydrocollidine) 유도 간경변(liver cirrhosis) 수컷 마우스 모델에서 인간 장 유래 ***B. dorei*** 및 ***B. cellulosilyticus*** 투여군이 ursodeoxycholic acid 대조군과 비교되었으며, 다중오믹스(multiomics) 평가로 간 생리·장-간 축(gut-liver axis) 관련 치료 효과가 확인되었다 ([[Jay's Knowledge Base/raw/46-park-2023-systemic-multiomics-evaluation-of-the-therapeutic\|Park et al., 2023, *Microbiology Spectrum*]]). 이는 *B. uniformis*의 NASH/지방간 완화 효능(상기 참조)과 더불어 *Bacteroides* 속 전반의 간 질환 중재 잠재력을 시사한다(단, 균종이 다름에 유의).
+
+### 안전성 — *Bacteroides fragilis* 그룹의 병원성
+
+반대로 *Bacteroides fragilis* 그룹은 다균성 감염(polymicrobial infection)의 주요 병원체로, 그룹 분리주의 63%가 *B. fragilis*이며 *B. thetaiotaomicron*(14%), *B. vulgatus*·*B. ovatus*(각 7%), *B. distasonis*(6%), ***B. uniformis*는 약 2%**를 차지한다. 그룹 구성원은 균혈증(bacteremia)을 유발하며 평균 사망률은 약 27%로 보고된다 ([[Jay's Knowledge Base/raw/235-brook-pathogenicity-of-the-bacteroides-fragilis-group\|Brook]]). *B. uniformis*는 임상 감염 분리 빈도가 낮은 편이나, *Bacteroides* 속 프로바이오틱 후보 개발 시 동일 속 내 병원성 종과의 구별 및 안전성 검증이 필수적임을 보여준다(상기 안전성 평가 항목과 연계).
+
+---
+
 ## 관련 raw/ 소스
 
 - [[Jay's Knowledge Base/raw/216-morita-2023-ibacteroides-uniformisi-and-its-preferred-substr\|raw/216-morita-2023-ibacteroides-uniformisi-and-its-preferred-substr]]
@@ -58,6 +72,8 @@
 - [[Jay's Knowledge Base/raw/224-zhu-2024-bacteroides-uniformis-ameliorates-carbohydrate-and\|raw/224-zhu-2024-bacteroides-uniformis-ameliorates-carbohydrate-and]]
 - [[Jay's Knowledge Base/raw/225-fabersani-2021-bacteroides-uniformis-cect-7771-alleviates-in\|raw/225-fabersani-2021-bacteroides-uniformis-cect-7771-alleviates-in]]
 - [[Jay's Knowledge Base/raw/226-shoemaker-chromosome-of-bacteroides-uniformis-to-escherichia\|raw/226-shoemaker-chromosome-of-bacteroides-uniformis-to-escherichia]]
+- [[Jay's Knowledge Base/raw/46-park-2023-systemic-multiomics-evaluation-of-the-therapeutic\|raw/46-park-2023-systemic-multiomics-evaluation-of-the-therapeutic]] — *B. dorei*/*B. cellulosilyticus*의 마우스 간경변 치료 효과 (동일 속, 다른 종)
+- [[Jay's Knowledge Base/raw/235-brook-pathogenicity-of-the-bacteroides-fragilis-group\|raw/235-brook-pathogenicity-of-the-bacteroides-fragilis-group]] — *B. fragilis* 그룹 병원성; *B. uniformis*는 임상 분리주의 약 2%
 
 ---
 

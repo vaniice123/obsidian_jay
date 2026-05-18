@@ -24,6 +24,16 @@ NGP 개발의 핵심 과제는 절대혐기성(strict anaerobe) 균주의 산소
 - **안전성 평가**: NGP 후보 균주의 first-in-human 투여 전 안전성 프로파일 확립 필요, *B. pullicaecorum*의 건강인 대상 임상시험에서 안전성 확인 (Boesmans 2018)
 - **장-폐 축(Gut-Lung Axis)**: CKD Bio의 CKDB-315는 *L. plantarum* KC3(김치 유래)와 익모초 추출물을 조합한 호흡기 건강 기능성 원료로, 장-폐 축 개념에 기반. 미세먼지 노출에 의한 기도 염증·산화 스트레스 완화를 임상으로 입증. 한국 시장에서 프로바이오틱스의 적응증 확장 사례 (Dang 2026, [[Jay's Knowledge Base/raw/477-dang-2026-ckd-bio-respiratory-health-gut-lung-axis\|출처]])
 
+## 신흥 NGP 후보 균주
+
+기존 *Akkermansia*·*Faecalibacterium* 외에 대사·장 건강 표적의 신흥 후보 균주가 보고되고 있다.
+
+- **Butyricimonas virosa**: 고지방식(HFD) 마우스에서 생균·가열사멸 균체 모두 **GLP-1 수용체 경로**를 통해 당뇨·대사 이상을 예방, 대사 개선형 NGP 후보로 부상 (Lee 2022). 단, 동일 종이 취약 환자에서 균혈증을 일으킨 보고가 있어 안전성 평가가 전제됨 — cross-ref [[Jay's Knowledge Base/wiki/lbp-regulatory-cmc\|lbp-regulatory-cmc]]
+- **Blautia hansenii (항비만)**: 가열멸균 *B. hansenii* 경구 투여가 고지방식 유발 비만 마우스에서 항비만 효과를 보여, *Blautia* 속의 비만 제어 후보 가능성을 시사 (Shibata 2023)
+- **Blautia–비만 상관성의 모호함**: 다만 *Blautia*는 연구마다 프로바이오틱 잠재력과 비만 유발 인자 양쪽으로 보고되어 상관성이 일관되지 않으며, 체계적 문헌고찰은 종·맥락 의존적 결과를 균형 있게 해석할 것을 요구한다 (Chanda 2024) — 후보 선정 시 균형 잡힌 근거 평가 필요
+- **Anaerostipes hadrus (부티르산)**: 부티르산 생성균으로, 항암제 5-fluorouracil을 대사하는 능력이 보고됨 — SCFA 생산과 약물 상호작용 측면의 신규 후보 (Liu 2024)
+- **Clostridium butyricum (생리기능 종설)**: 부티르산 생성 포자형성균으로 장 건강·생리기능 및 산업적 응용을 정리한 종설. 포자 형태로 위산·산소 내성이 높아 제형화에 유리한 NGP 후보군 (Li-te 2012)
+
 ## 관련 raw/ 소스
 
 - [[Jay's Knowledge Base/raw/28-khan-2023-synergy-and-oxygen-adaptation-for-development-of-n\|raw/28-khan-2023-synergy-and-oxygen-adaptation-for-development-of-n]]
@@ -41,8 +51,13 @@ NGP 개발의 핵심 과제는 절대혐기성(strict anaerobe) 균주의 산소
 - [[Jay's Knowledge Base/raw/159-abouelela-2024-next-generation-probiotics-as-novel-therapeut\|raw/159-abouelela-2024-next-generation-probiotics-as-novel-therapeut]]
 - [[Jay's Knowledge Base/raw/160-tiwari-2024-next-generation-probiotics-and-chronic-diseases\|raw/160-tiwari-2024-next-generation-probiotics-and-chronic-diseases]]
 - [[Jay's Knowledge Base/raw/161-lopez-moreno-2021-next-generation-probiotics-for-neutralizin\|raw/161-lopez-moreno-2021-next-generation-probiotics-for-neutralizin]]
+- [[Jay's Knowledge Base/raw/167-lee-2022-a-novel-bacterium-butyricimonas-virosa-preventing-h\|raw/167-lee-2022-a-novel-bacterium-butyricimonas-virosa-preventing-h]] — *Butyricimonas virosa*의 GLP-1 수용체 통한 HFD 당뇨·대사 이상 예방
 - [[Jay's Knowledge Base/raw/168-abouelela-2024-next-generation-probiotics-as-novel-therapeut\|raw/168-abouelela-2024-next-generation-probiotics-as-novel-therapeut]]
 - [[Jay's Knowledge Base/raw/238-al-fakhrany-2024-next-generation-probiotics-the-upcoming-bio\|raw/238-al-fakhrany-2024-next-generation-probiotics-the-upcoming-bio]]
+- [[Jay's Knowledge Base/raw/179-shibata-2023-mouse-model-of-anti-obesity-effects-of-blautia\|raw/179-shibata-2023-mouse-model-of-anti-obesity-effects-of-blautia]] — 가열멸균 *Blautia hansenii*의 고지방식 비만 마우스 항비만 효과
+- [[Jay's Knowledge Base/raw/180-chanda-2024-the-ambiguous-correlation-of-blautia-with-obesit\|raw/180-chanda-2024-the-ambiguous-correlation-of-blautia-with-obesit]] — *Blautia*–비만 상관성의 모호함 체계적 문헌고찰
+- [[Jay's Knowledge Base/raw/209-liu-2024-anaerostipes-hadrus-a-butyrate-producing-bacterium\|raw/209-liu-2024-anaerostipes-hadrus-a-butyrate-producing-bacterium]] — 부티르산 생성균 *Anaerostipes hadrus*, 5-FU 대사능
+- [[Jay's Knowledge Base/raw/215-li-te-2012-research-progress-of-physiological-function-and-a\|raw/215-li-te-2012-research-progress-of-physiological-function-and-a]] — *Clostridium butyricum* 생리기능·응용 종설
 - [[Jay's Knowledge Base/raw/243-khan-2023-synergy-and-oxygen-adaptation-for-development-of-n\|raw/243-khan-2023-synergy-and-oxygen-adaptation-for-development-of-n]]
 - [[Jay's Knowledge Base/raw/477-dang-2026-ckd-bio-respiratory-health-gut-lung-axis\|raw/477-dang-2026-ckd-bio-respiratory-health-gut-lung-axis]]
 

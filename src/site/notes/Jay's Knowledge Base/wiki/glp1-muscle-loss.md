@@ -17,6 +17,8 @@ GLP-1 수용체 작용제(semaglutide, tirzepatide 등)는 비만 치료에서 1
 | SURMOUNT-1 DXA 하위연구 | Tirzepatide | 72주 | −5.6 kg | ~25% |
 | 메타분석 (22 RCTs, 2,258명) | GLP-1RA 전체 | — | — | ~25% (대조군 대비) |
 
+GLP-1 수용체 작용제는 본래 2형 당뇨 치료제로 출발했으나 강력한 체중 감량 효과로 비만 적응증으로 확장되었고, 심혈관·신장 보호 등 "체중 감량 너머(beyond weight loss)"의 다면적 효과가 보고되면서 사용 인구가 급격히 늘고 있다 (Quinter et al., 2024, *Transformative Medicine*, [[Jay's Knowledge Base/raw/124-quinter-2024-glp-1-agonists-for-weight-loss-and-beyond\|raw/124-quinter-2024-glp-1-agonists-for-weight-loss-and-beyond]]). 이러한 적응증·인구 확대는 근손실·근감소증 등 체성분 부작용의 임상적 중요성을 동반 상승시킨다.
+
 ### 왜 위험한가
 
 - **60세 이상 비만 인구 40%** — 이미 근감소증 위험군에서 추가 근손실
@@ -149,6 +151,7 @@ Eli Lilly의 **orforglipron** (경구·1일 1회·비펩타이드 GLP-1 작용�
 
 ### 임상/시장
 - [[Jay's Knowledge Base/raw/12-bimagrumab-believe-phase2b-glp1-muscle-preservation\|raw/12-bimagrumab-believe-phase2b-glp1-muscle-preservation]]
+- [[Jay's Knowledge Base/raw/124-quinter-2024-glp-1-agonists-for-weight-loss-and-beyond\|raw/124-quinter-2024-glp-1-agonists-for-weight-loss-and-beyond]] — GLP-1 작용제의 체중 감량 및 그 너머(심혈관·신장 등) 다면적 효과 개관 리뷰, 적응증·사용 인구 확대 배경 (*Transformative Medicine* 2024)
 - [[Jay's Knowledge Base/raw/13-hb05p-actrii-pathway-literature-survey-and-market\|raw/13-hb05p-actrii-pathway-literature-survey-and-market]]
 - [[Jay's Knowledge Base/raw/14-hb05p-glp1-companion-strategic-positioning\|raw/14-hb05p-glp1-companion-strategic-positioning]]
 - [[Jay's Knowledge Base/raw/295-heymsfield-2026-bimagrumab-plus-semaglutide-alone-or-in-combination-for-the\|raw/295-heymsfield-2026-bimagrumab-plus-semaglutide-alone-or-in-combination-for-the]]

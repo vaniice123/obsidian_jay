@@ -17,6 +17,10 @@
 | **HPA 축** | 시상하부-뇌하수체-부신 축, 스트레스 반응 |
 | **면역 경로** | 사이토카인, 미세아교세포(microglia) 활성화 |
 
+### 미생물 세포외소포(MEV)를 통한 신호 전달
+
+미생물 유래 세포외소포(microbiota-released extracellular vesicles, MEV)는 장-뇌 축의 새로운 매개체로 주목받는다. Mottawea (2024)는 ex vivo 및 분변 시료에서 MEV의 다중오믹스(multi-omics) 프로파일링을 수행하여, MEV가 신경 관련 대사산물(neuro-related metabolites)을 화물(cargo)로 적재하고 숙주 세포 장벽과 상호작용함을 규명했다. 이는 MEV가 숙주 장벽을 통과해 뇌로 생리활성 물질을 전달하는 장-뇌 축 소통 경로일 가능성을 제시한다 ([[Jay's Knowledge Base/raw/123-mottawea-2024-multi-level-analysis-of-gut-microbiome-extrace\|raw/123-mottawea-2024-multi-level-analysis-of-gut-microbiome-extrace]], *Microbiology Spectrum*).
+
 ## 면역 기전
 
 - **선천면역**: 미세아교세포 활성화, 호중구 기능, 수지상세포 조절
@@ -35,8 +39,8 @@
 - **ADHD**: 도파민 대사 세균 변화
 
 ### 신경퇴행성 질환
-- **파킨슨병**: α-시누클레인이 미주신경 경유 수송, Prevotella 감소, **GBA1 변이 비발현 보유자(GBA-NMC)에서 PD 중간 microbiome signature 확인 (Menozzi 2026, Nature Medicine)** — 아래 별도 섹션
-- **알츠하이머병**: Aβ 플라크 축적 ↔ 미생물 불균형/신경염증
+- **파킨슨병**: α-시누클레인이 미주신경 경유 수송, Prevotella 감소, **GBA1 변이 비발현 보유자(GBA-NMC)에서 PD 중간 microbiome signature 확인 (Menozzi 2026, Nature Medicine)** — 아래 별도 섹션. Radisavljevic의 종합 정리는 장내 미생물 변화가 PD 병태생리(α-시누클레인 응집, 장 염증, 미주신경 전파)에 기여하는 경로를 개관한다 ([[Jay's Knowledge Base/raw/38-radisavljevic-the-role-of-gut-microbiota-in-parkinsons-disea\|raw/38-radisavljevic-the-role-of-gut-microbiota-in-parkinsons-disea]])
+- **알츠하이머병**: Aβ 플라크 축적 ↔ 미생물 불균형/신경염증. Anderson (2023)은 AD를 아밀로이드/타우 중심의 좁은 시각에서 벗어나 **장내 미생물·지방세포·HPA 축·멜라토닌 경로·성상교세포 미토콘드리아**가 자가면역 발생에 함께 작용하는 통합적(holistic) 병태생리로 재개념화하며, Aβ를 염증·감염에 반응해 증가하는 내인성 항균 물질로 해석한다 ([[Jay's Knowledge Base/raw/60-anderson-2023-a-more-holistic-perspective-of-alzheimers-dise\|raw/60-anderson-2023-a-more-holistic-perspective-of-alzheimers-dise]]). 임상 근거로, 알츠하이머병으로 인한 경도인지장애(MCI) 환자 24명과 정상 대조군 17명을 ¹⁸F-florbetaben PET 및 분변 16S rRNA로 분석한 결과, Aβ 양성 MCI군에서 장내 미생물 조성이 유의하게 변화했고 특정 분류군의 풍부도가 **뇌 베타아밀로이드 부담(amyloid burden)과 상관**을 보였다 ([[Jay's Knowledge Base/raw/174-kim-2024-alterations-in-gut-microbiota-and-their-correlation\|raw/174-kim-2024-alterations-in-gut-microbiota-and-their-correlation]], *J Clin Med*)
 - **다발성 경화증(MS)**: 미생물 매개 T세포 반응
 
 ## 치료적 접근
@@ -113,7 +117,7 @@ GBA1 변이는 파킨슨병(PD)의 **가장 흔한 유전적 위험인자**(최�
 3. 마이오카인의 신경보호 작용
 4. 뇌-근육 및 장-근육 경로의 통합
 
-비약물적 중재(운동)가 뇌-장-근육 축을 통해 뇌 노화를 지연시키는 통합적 관점을 제시한다.
+비약물적 중재(운동)가 뇌-장-근육 축을 통해 뇌 노화를 지연시키는 통합적 관점을 제시한다. 이 뇌-장-근육 3축 통합 개념과 운동 매개 뇌 노화 보호 기전은 별도 종합 리뷰에서도 정리되어, 운동이 장내 미생물을 매개로 뇌와 근육 모두에 신경보호 효과를 발휘한다는 틀을 강화한다 ([[Jay's Knowledge Base/raw/20-2026-brain-gut-muscle-axis-exercise-brain-aging\|raw/20-2026-brain-gut-muscle-axis-exercise-brain-aging]], *Frontiers in Aging Neuroscience*).
 
 관련: [[Jay's Knowledge Base/wiki/gut-muscle-axis\|gut-muscle-axis]]
 
@@ -123,4 +127,4 @@ GBA1 변이는 파킨슨병(PD)의 **가장 흔한 유전적 위험인자**(최�
 - 일주기 생물학(circadian biology)과의 교차 연구
 - 개인별 면역 프로파일에 기반한 정밀의학
 
-**출처**: [[Jay's Knowledge Base/raw/03-gut-immune-brain-axis\|raw/03-gut-immune-brain-axis]], [[Jay's Knowledge Base/raw/304-sun-unknown-the-brain-gut-muscle-axis-a-mechanism-for-exercise-mediated\|raw/304-sun-unknown-the-brain-gut-muscle-axis-a-mechanism-for-exercise-mediated]], [[Jay's Knowledge Base/raw/487-cox-2026-intestinal-interoceptive-dysfunction-drives-age-associated-cognitive-decline\|raw/487-cox-2026-intestinal-interoceptive-dysfunction-drives-age-associated-cognitive-decline]], [[Jay's Knowledge Base/raw/516-menozzi-2026-microbiome-signature-of-parkinsons-disease-in-healthy\|raw/516-menozzi-2026-microbiome-signature-of-parkinsons-disease-in-healthy]]
+**출처**: [[Jay's Knowledge Base/raw/03-gut-immune-brain-axis\|raw/03-gut-immune-brain-axis]], [[Jay's Knowledge Base/raw/304-sun-unknown-the-brain-gut-muscle-axis-a-mechanism-for-exercise-mediated\|raw/304-sun-unknown-the-brain-gut-muscle-axis-a-mechanism-for-exercise-mediated]], [[Jay's Knowledge Base/raw/487-cox-2026-intestinal-interoceptive-dysfunction-drives-age-associated-cognitive-decline\|raw/487-cox-2026-intestinal-interoceptive-dysfunction-drives-age-associated-cognitive-decline]], [[Jay's Knowledge Base/raw/516-menozzi-2026-microbiome-signature-of-parkinsons-disease-in-healthy\|raw/516-menozzi-2026-microbiome-signature-of-parkinsons-disease-in-healthy]], [[Jay's Knowledge Base/raw/20-2026-brain-gut-muscle-axis-exercise-brain-aging\|raw/20-2026-brain-gut-muscle-axis-exercise-brain-aging]] (뇌-장-근육 3축: 운동 매개 뇌 노화 보호), [[Jay's Knowledge Base/raw/38-radisavljevic-the-role-of-gut-microbiota-in-parkinsons-disea\|raw/38-radisavljevic-the-role-of-gut-microbiota-in-parkinsons-disea]] (장내 미생물의 파킨슨병 역할 개관), [[Jay's Knowledge Base/raw/60-anderson-2023-a-more-holistic-perspective-of-alzheimers-dise\|raw/60-anderson-2023-a-more-holistic-perspective-of-alzheimers-dise]] (알츠하이머병의 통합적 병태생리: 미생물·지방세포·HPA·멜라토닌·성상교세포), [[Jay's Knowledge Base/raw/123-mottawea-2024-multi-level-analysis-of-gut-microbiome-extrace\|raw/123-mottawea-2024-multi-level-analysis-of-gut-microbiome-extrace]] (미생물 세포외소포–숙주 상호작용과 장-뇌 축 신호), [[Jay's Knowledge Base/raw/174-kim-2024-alterations-in-gut-microbiota-and-their-correlation\|raw/174-kim-2024-alterations-in-gut-microbiota-and-their-correlation]] (MCI/AD 환자 장내 미생물 변화와 뇌 베타아밀로이드 PET 상관)

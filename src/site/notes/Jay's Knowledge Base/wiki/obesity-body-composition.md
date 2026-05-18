@@ -89,6 +89,14 @@
 
 **시사점**: (1) GLP-1 작용제 중단 시 12개월 내 **50% 이상 반등**(STEP-10, SURMOUNT-4)이라는 임상 공백에 대해, **주사 → 경구 전환**이라는 약리학적 해법이 입증됨 — PTER 억제제·살균 *A. muciniphila* MucT(Mount 2026)와 함께 "post-injection maintenance" 카테고리의 **세 번째 축**으로 자리매김. (2) Orforglipron은 경구·1일 1회·비펩타이드 구조로 globally scalable한 후속 옵션 → **GLP-1 사용 인구의 절대 규모를 더욱 확장**시켜 [[Jay's Knowledge Base/wiki/glp1-muscle-loss\|glp1-muscle-loss]]·companion 시장의 잠재 환자 풀을 확대. (3) 그러나 본 시험은 **체성분(lean mass) 평가변수가 abstract에 명시되지 않음** — 경구 GLP-1 작용제로의 전환 역시 근감소 우려에서 자유롭지 않을 가능성이 높으며, 마이크로바이옴 기반 근육 보존 companion의 적용 범위는 오히려 확대될 수 있음.
 
+### 체중 *유지* 전략 비교 — 약물 vs 마이크로바이옴 (2026 *Nature Medicine* 두 RCT 통합)
+
+2026년 5월 13일 *Nature Medicine*에 체중 감량 후 **유지(weight-loss maintenance)**를 1차 결과로 설정한 두 RCT가 동시 게재되어, 비만 치료 패러다임이 *감량*에서 *유지*로 이동하는 분기점이 형성되었다. 이 두 연구를 체계적으로 비교 분석한 종합 리뷰([[Jay's Knowledge Base/raw/15-nature-medicine-2026-orforglipron-vs-akkermansia-muct-weight-maintenance-comparative\|raw/15-nature-medicine-2026-orforglipron-vs-akkermansia-muct-weight-maintenance-comparative]])는 다음을 정리한다.
+
+- **Orforglipron — ATTAIN-MAINTAIN** (phase 3b, n=376): 주사형 incretin(tirzepatide/semaglutide)으로 감량한 환자를 경구 비펩타이드 GLP-1RA로 전환 → 사전 감량의 74.7~79.3% 유지 (위약 37.6~49.2%). **대형 약리효과**, 약물 의존적, 처방의약품 (상세 → 본 문서 [[Jay's Knowledge Base/wiki/obesity-body-composition#경구 GLP-1 작용제로의 전환 유지 — Orforglipron ATTAIN-MAINTAIN (Aronne 2026, *Nature Medicine*)\|Orforglipron 항목]])
+- **Pasteurized *A. muciniphila* MucT** (n=90, 24주): 저열량식 ≥8% 감량 후 보충 → 체중 재증가 1.2 vs 3.2 kg (P=0.012), 순감량 3.1 kg 더 큼 (P=0.009). **소~중형 보조효과**, 비약물·무바늘, 기저 *Akkermansia* 낮을수록 효과↑ (상세 → 본 문서 [[Jay's Knowledge Base/wiki/obesity-body-composition#살균 *A. muciniphila* — 체중 감량 후 유지 RCT (Mount 2026, *Nature Medicine*)\|MucT 항목]])
+- **통합 해석**: 두 접근은 효과 크기(약물 ≫ 균주), 기전(GLP-1 수용체 직접 자극 vs 장-대사 축 조절), 대상, 규모에서 대비를 이루나 **경쟁이 아닌 상보 관계**. 향후 표준은 *주사 incretin으로 강력 감량 → 경구 GLP-1RA + 마이크로바이옴 보조 + 생활습관으로 평생 유지*라는 하이브리드·바이오마커 기반 개인화 모형으로 수렴할 가능성. 기저 microbiome / GLP-1 반응자 상태에 따른 층화([[Jay's Knowledge Base/wiki/microbiome-analysis-technologies\|microbiome 진단]])와 살균 *A. muciniphila* 기반 [[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|포스트바이오틱]]의 "post-injection maintenance" 카테고리 근거를 강화
+
 ### PTER 억제 — N-acetyltaurine 포식억제 경로
 - PTER(phosphotriesterase-related)는 포식억제(anorexigenic) 대사체 N-acetyltaurine의 분해를 매개하는 amidohydrolase로, 기질 결합 포켓이 HDAC 계열과 구조적 유사성을 가진다는 것이 진핵 PTER 결정구조(apo/product-bound)에서 새롭게 규명됨
 - 이 유사성을 기반으로 nanomolar 효력·HDAC 대비 >100배 선택성을 갖는 기질경쟁형 억제제 **PTERi**를 first-in-class로 개발
@@ -116,6 +124,7 @@
 - [[Jay's Knowledge Base/raw/509-feng-2025-investigating-the-role-of-akkermansia-muciniphila\|raw/509-feng-2025-investigating-the-role-of-akkermansia-muciniphila]] — 영아 분리주 *A. muciniphila* Akk11 (생균·살균) HFD 비만 마우스 보호, 균주별 SCFA 프로파일 (부티르산↑ vs 프로피온산↑)
 - [[Jay's Knowledge Base/raw/518-mount-2026-pasteurized-akkermansia-muciniphila-muct-for-weight\|raw/518-mount-2026-pasteurized-akkermansia-muciniphila-muct-for-weight]] — 살균 *A. muciniphila* MucT 체중 감량 유지 RCT (과체중·비만 성인 n=90, 24주): 체중 재증가 억제(1.2 vs 3.2 kg, P=0.012)·순 체중 감량 3.1 kg 더 큼(P=0.009)·기저 *Akkermansia* 풍부도와 심대사 반응 연관 (*Nature Medicine* 2026, NCT05417360)
 - [[Jay's Knowledge Base/raw/519-aronne-2026-orforglipron-for-maintenance-of-body-weight-reduction\|raw/519-aronne-2026-orforglipron-for-maintenance-of-body-weight-reduction]] — **Orforglipron(경구 비펩타이드 GLP-1RA) ATTAIN-MAINTAIN phase 3b RCT** (n=376, 52주, *Nature Medicine* 2026): 주사 GLP-1RA(tirzepatide/semaglutide) 감량 후 경구 전환 시 체중 감량 **74.7~79.3% 유지** vs 위약 37.6~49.2% (P<0.001), 주사 중단 후 반등 공백을 약리학적으로 충족하는 첫 phase 3b 데이터 (NCT06584916)
+- [[Jay's Knowledge Base/raw/15-nature-medicine-2026-orforglipron-vs-akkermansia-muct-weight-maintenance-comparative\|raw/15-nature-medicine-2026-orforglipron-vs-akkermansia-muct-weight-maintenance-comparative]] — Orforglipron(ATTAIN-MAINTAIN) vs 살균 *A. muciniphila* MucT(Mount 2026) **체중 유지 전략 비교 분석 리뷰**: 두 2026 *Nature Medicine* RCT의 효과 크기·기전·대상·규제 경로 체계적 대비, 약물–마이크로바이옴 상보 및 바이오마커 기반 개인화 maintenance 청사진
 
 ---
 
