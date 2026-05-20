@@ -28,6 +28,7 @@
 - **프로바이오틱 균주의 산업/장내 스트레스 하 게놈 무결성**: *L. rhamnosus* GG를 ~1,000세대 실험적 진화시킨 결과, 무스트레스·염 스트레스에서는 안정적이나 **담즙·반복 전단(shear) 스트레스에서 IS element 활성화로 mucus-binding SpaCBA pilus 유전자 클러스터가 결실**되고 DNA polymerase 변이 mutator 계통도 출현. 산업 제조(ex vivo)·장관(in vivo) 스트레스가 프로바이오틱 기능 표현형의 안정성을 좌우함을 입증 → 균주 stability 평가·공정 스트레스 설계의 일반 원리 (Douillard 2016, *Applied and Environmental Microbiology*; cf. Ligthart 2026의 *A. muciniphila* 게놈 안정성과 대비)
 - **스트레스 priming을 통한 균주 강건성(robustness) 확보**: 가벼운 사전 스트레스(stress priming)에 미생물을 노출시키면 이후의 강한 스트레스(triggering)에 대한 생존율이 향상된다. 34개 연구·250+ 시험의 메타분석 결과, priming된 미생물의 생존율은 비-priming 대비 **약 10배 높았으며**, 효과 크기는 미생물 분류군·스트레스 유형 등 조절변수에 의존 ([[Jay's Knowledge Base/raw/84-andradelinares-2016-microbial-stress-priming-a-metaanalysis\|Andrade-Linares 2016, *Environ. Microbiol.*]]). 신경계 없는 생물(세균·진균·식물)에서도 스트레스 자극의 경험·기억으로 표현형을 미리 대비시키는 priming 개념틀이 정립되어 있어 ([[Jay's Knowledge Base/raw/85-hilker-2016-priming-and-memory-of-stress-responses-in-organi\|Hilker 2016, *Biol. Rev.*]]), 발효·동결건조·위장관 통과 등 공정·생체 스트레스에 대한 프로바이오틱/LBP 균주의 내성을 사전 적응으로 강화하는 전략의 일반 원리를 제공한다. 단, 반복적 강(强)스트레스는 게놈 무결성 손실(상기 Douillard 2016)을 유발할 수 있어 priming 강도·횟수의 공정 설계 최적화가 필요하다. 균주별 사전 적응 적용 사례는 [[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]] 참조
 - **산소 민감성 극복**: 절대혐기성 NGP 균주의 산업적 생산에서 산소 노출 최소화를 위한 공정 설계, 혐기 챔버(anaerobic chamber) 기반 배양 및 제형화 전략
+- **알지네이트 마이크로캡슐화로 산소 내성·저장 안정성 확보 (Quah 2026)**: *A. muciniphila*는 호기 노출이 지속되면 생존율이 검출한계 이하로 급감하나, **sodium alginate + resistant starch 압출(extrusion) 마이크로캡슐화**로 자유세포(free cell) 대비 저장 중 안정성·생존율이 유의하게 향상됐다. 비영양 환경에서 저온이 생존에 유리, sodium citrate 농도는 비드 용해에는 영향하나 생존 세포 수에는 무영향 → **산소 민감성 NGP의 안정적 경구 전달 시스템** 설계 근거. 대장암(CRC) 중재 응용을 겨냥 ([[Jay's Knowledge Base/raw/534-quah-2026-microencapsulation-strategy-for-aerobic-cultivation-of\|raw/534-quah-2026-microencapsulation-strategy-for-aerobic-cultivation-of]]; cf. [[Jay's Knowledge Base/wiki/microbiome-cancer-immunotherapy\|microbiome-cancer-immunotherapy]])
 - **스케일업 고려사항**: 실험실 규모에서 산업 규모로의 전환 시 배양 조건 일관성, 배지 원료 관리, 무균 조작(aseptic processing), GMP 준수 등이 핵심 과제
 
 ## 관련 raw/ 소스
@@ -47,6 +48,7 @@
 - [[Jay's Knowledge Base/raw/523-geerlings-2024-omics-based-analysis-of-akkermansia-muciniphila\|raw/523-geerlings-2024-omics-based-analysis-of-akkermansia-muciniphila]]
 - [[Jay's Knowledge Base/raw/525-ark-2018-modeldriven-design-of-a-minimal-medium-for-akkermansia\|raw/525-ark-2018-modeldriven-design-of-a-minimal-medium-for-akkermansia]]
 - [[Jay's Knowledge Base/raw/526-wu-2023-strategies-for-high-cell-density-cultivation-of\|raw/526-wu-2023-strategies-for-high-cell-density-cultivation-of]]
+- [[Jay's Knowledge Base/raw/534-quah-2026-microencapsulation-strategy-for-aerobic-cultivation-of\|raw/534-quah-2026-microencapsulation-strategy-for-aerobic-cultivation-of]] — 알지네이트(+resistant starch) 마이크로캡슐화로 산소 민감 *A. muciniphila*의 호기 생존·저장 안정성 향상, CRC 전달 시스템 응용
 
 ## 관련 wiki 링크
 

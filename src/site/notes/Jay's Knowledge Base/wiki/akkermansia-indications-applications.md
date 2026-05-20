@@ -43,6 +43,8 @@ DSS-유도 궤양성 대장염(UC) 마우스 모델에서 **살균 *A. muciniphi
 
 > 💡 적응증을 가로질러 「살균형 ≥ 생균형」·「프로피온산/장벽/면역 수렴」 패턴이 반복 재현되며, 특히 **방사선 장손상·항암 독성·노화 점액층·인지장애** 등은 [[Jay's Knowledge Base/wiki/glp1-muscle-loss\|GLP-1 companion]] 외 신규 적응증 후보로 부상. 줄기세포·상피 재생 축(Amuc_1409·ISC)은 노화·손상 회복 포지셔닝의 기전 근거.
 
+위 인지장애 모델 근거를 **알츠하이머병(AD) 맥락으로 종합한 종설**(Li et al., 2026, *Biomolecules*, [[Jay's Knowledge Base/raw/532-li-2026-akkermansia-muciniphila-and-alzheimers-disease\|raw/532-li-2026-akkermansia-muciniphila-and-alzheimers-disease]])은 *A. muciniphila*가 장벽 보호·염증 감소·면역–뇌–미토콘드리아 소통 조절을 통해 AD에 작용하며 SCFA·Amuc_1100·AmEV가 매개함을 정리하되, 균주 차이·방법 이질성으로 **임상 번역에는 strain-level 인체 연구·humanized 모델·바이오마커 기반 초기 임상**이 필요함을 강조한다 (cf. [[Jay's Knowledge Base/wiki/gut-brain-axis\|gut-brain-axis]]).
+
 ---
 
 ## 응용 — 경구 드러그 캐리어 플랫폼 (Living Co-therapy)
@@ -70,6 +72,12 @@ DSS-유도 궤양성 대장염(UC) 마우스 모델에서 **살균 *A. muciniphi
 - 단, 현 시점은 zebrafish 모델로 **인간 임상 외삽에는 한계**; 또한 진공 적재 후 균 생존율·intracellular SAL 방출 동역학 등 CMC 측면 검증 필요 ([[Jay's Knowledge Base/wiki/lbp-regulatory-cmc\|lbp-regulatory-cmc]] 참조)
 
 > 💡 *A. muciniphila*의 활용 모델이 "active ingredient → 정제 유효성분 → **drug-loaded vehicle**"로 확장되며, 점막 친화성·EV 분비 능력이 차세대 경구 전달 시스템의 차별 요소가 될 수 있음.
+
+---
+
+### Engineered Akk 세포외소포(BEV) 기반 miRNA 전달 — 폐경후 골다공증 (Ji 2026)
+
+살아있는 균체를 비히클로 쓰는 SAL@AKK 외에, ***A. muciniphila* 유래 세균 세포외소포(bacterial EV, BEV)를 무세포 약물 전달체로 공학화**하는 접근도 보고됐다. Ji et al. (2026, *Journal of Nanobiotechnology*, [[Jay's Knowledge Base/raw/531-ji-2026-engineered-akkermansia-muciniphila-extracellular\|raw/531-ji-2026-engineered-akkermansia-muciniphila-extracellular]])는 **gut–bone axis**를 활용해 Akk BEV에 **miR-21-5p**를 탑재, 폐경후 골다공증(postmenopausal osteoporosis) 모델에서 **PI3K–AKT 경로**를 통해 골 손실을 완화함을 보였다. 기존 골다공증 치료의 비특이적 표적화·장기 독성 한계를 표적 전달로 보완하려는 전략으로, [[Jay's Knowledge Base/wiki/akkermansia-mechanisms\|EV effector 플랫폼]]이 대사·근육뿐 아니라 **골 대사 적응증**으로 확장됨을 시사한다 (cf. 위 SAL@AKK GIOP 사례 — 두 연구 모두 *A. muciniphila*–뼈 축을 겨냥).
 
 ---
 

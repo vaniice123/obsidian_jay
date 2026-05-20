@@ -67,6 +67,18 @@
 
 ---
 
+### GLP-1RA–마이크로바이옴 양방향 상호작용 — review-level framing (Chakrabarti 2026)
+
+GLP-1RA 효능을 숙주 중심 대사 틀로만 보던 관점에서 벗어나 **마이크로바이옴을 GLP-1RA 효능의 systems-level 매개자**로 재배치하는 종설이 잇따라 제시됐다 (Chakrabarti 2026, 2편). 핵심 논지:
+
+- GLP-1RA가 장내 미생물 조성을 리모델링해 ***Akkermansia*·*Bacteroides*·*Lactobacillus*·SCFA 생산균(*Roseburia*·*F. prausnitzii*)을 농축** → 장벽 강화·전신 염증 감소·**내인성 GLP-1 분비 자극**의 feedback loop 형성
+- **기저 미생물 프로파일이 치료 반응(responder)을 좌우** → 정밀의학적 접근 근거 (cf. Mount 2026·Dao 2016의 *Akkermansia* responder 바이오마커)
+- GLP-1RA 자체의 장내 면역조절·세포보호 작용까지 통합하는 gut–brain–microbiome 신경내분비 축 관점
+
+→ *A. muciniphila*가 GLP-1RA 병용 시 농축되는 핵심 유익 taxa로 명시되며, [[Jay's Knowledge Base/wiki/akkermansia-mechanisms\|Yoon 2021 내인성 GLP-1 분비 인자]]·위 Gao 2026 병용 데이터와 개념적으로 합치한다. 단 두 편 모두 **review/opinion 수준**으로 1차 데이터는 아님 ([[Jay's Knowledge Base/raw/529-chakrabarti-2026-decoding-the-gut-brain-microbiome-axis-in-glp-1\|raw/529-chakrabarti-2026-decoding-the-gut-brain-microbiome-axis-in-glp-1]], [[Jay's Knowledge Base/raw/530-chakrabarti-2026-glp-1-therapy-through-a-microbiome-lens\|raw/530-chakrabarti-2026-glp-1-therapy-through-a-microbiome-lens]]).
+
+---
+
 ## GLP-1 Companion으로서의 포지셔닝
 
 GLP-1 수용체 작용제의 최대 약점인 **근손실 문제**를 해결하기 위한 접근:

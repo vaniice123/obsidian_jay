@@ -30,6 +30,7 @@
 - **비타민 D와 미생물 시너지**: 비타민 D가 장내 미생물을 매개로 면역치료 반응을 개선할 가능성 (Franco et al., 2024)
 - **Sodium butyrate + 화학항암제 병용**: 부티르산나트륨이 옥살리플라틴(oxaliplatin)과 시너지 효과를 보임 (Shuwen et al., 2023)
 - **신바이오틱스에 의한 항암화학요법 부작용 완화**: 식도암 환자의 신보강 항암화학요법(neoadjuvant chemotherapy) 후향적 탐색 연구에서, 신바이오틱스(synbiotics) 투여군은 항암제 부작용(adverse events)이 경감되었으며 이 완화 효과가 특정 장내 미생물 조성과 연관됨이 관찰됨 — 미생물 조절이 항암 치료의 독성 관리 보조 전략이 될 가능성 (Sugimoto et al., 2023)
+- **산소민감 Akk의 CRC 전달 제형 (Quah 2026)**: CRC 예방과 연관된 NGP인 *A. muciniphila*의 호기 사멸 문제를 알지네이트 마이크로캡슐화로 극복해 저장 안정성을 높인 전달 시스템 연구 — 항암 미생물의 제형·전달(formulation/delivery) 관점 ([[Jay's Knowledge Base/raw/534-quah-2026-microencapsulation-strategy-for-aerobic-cultivation-of\|raw/534-quah-2026-microencapsulation-strategy-for-aerobic-cultivation-of]]; 공정 상세 [[Jay's Knowledge Base/wiki/bioprocess-engineering\|bioprocess-engineering]])
 
 ## 관련 raw/ 소스
 
@@ -70,6 +71,7 @@
 - [[Jay's Knowledge Base/raw/282-marcos-kovandzic-2025-gut-microbiota-modulation-through-iakk\|raw/282-marcos-kovandzic-2025-gut-microbiota-modulation-through-iakk]]
 - [[Jay's Knowledge Base/raw/493-kurt-cakmaktas-2026-comparative-cytotoxicity-and-molecular-profiling-of\|raw/493-kurt-cakmaktas-2026-comparative-cytotoxicity-and-molecular-profiling-of]] — 3종 *A. muciniphila* 균주 포스트바이오틱의 AGS·HCT116 세포 비교 세포독성 + 프로테오믹스/메타볼로믹스 프로파일링
 - [[Jay's Knowledge Base/raw/208-sugimoto-2023-gut-microbiota-associated-with-the-mitigation\|raw/208-sugimoto-2023-gut-microbiota-associated-with-the-mitigation]] — 식도암 신보강 항암화학요법 부작용을 완화하는 신바이오틱스와 연관 장내 미생물 (후향적 탐색 연구)
+- [[Jay's Knowledge Base/raw/534-quah-2026-microencapsulation-strategy-for-aerobic-cultivation-of\|raw/534-quah-2026-microencapsulation-strategy-for-aerobic-cultivation-of]] — 산소 민감 *A. muciniphila*의 알지네이트 마이크로캡슐화 전달 시스템, CRC 중재 응용 (제형·전달 관점)
 
 ## 관련 wiki 링크
 

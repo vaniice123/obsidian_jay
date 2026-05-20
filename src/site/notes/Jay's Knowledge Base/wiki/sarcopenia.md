@@ -32,6 +32,7 @@
   - *Lactobacillus gasseri* BNR17: 덱사메타손 유도 근위축 완화
   - 장내 미생물 조성과 근감소증 연관성 — SCFA 매개 기전
   - 노화 관련 근감소증의 장내 마이크로바이옴 기전 종합: 디스바이오시스–근위축 연결 경로와 미생물 기반 치료 중재(프로바이오틱·프리바이오틱·FMT)의 작용 기전 및 가능성을 정리 ([[Jay's Knowledge Base/raw/19-2025-age-related-sarcopenia-gut-microbiome-mechanistic-insights\|raw/19-2025-age-related-sarcopenia-gut-microbiome-mechanistic-insights]], *Ageing Research Reviews*)
+  - **장-근육 축 자기영속 악순환 (Nagamine 2026)**: 근감소증–디스바이오시스가 단순 동반 노화를 넘어 자기증폭 악순환을 형성하며, 미생물 중재(bottom-up)의 근거와 근육 재생(top-down) 연구 공백을 정리 ([[Jay's Knowledge Base/raw/533-nagamine-2026-the-gut-muscle-axis-in-sarcopenia-from-parallel-aging\|raw/533-nagamine-2026-the-gut-muscle-axis-in-sarcopenia-from-parallel-aging]], *Geriatrics & Gerontology International*) — 상세 [[Jay's Knowledge Base/wiki/gut-muscle-axis\|gut-muscle-axis]]
   - **복합 프로바이오틱 (Baek 2023)**: *Lactobacillus paracasei* P62 + *Bifidobacterium bifidum* P61이 C2C12 세포에서 MuRF1 발현 및 NF-κB 활성을 억제하고, 노화 마우스에 경구 투여 시 악력·트레드밀 주행거리/시간 및 근육 무게를 유의하게 증가시켰으며 AKT 활성화·PGC1α·SIRT1을 상향했다. 근감소증과 인지장애를 동시에 완화하여 장-근육 축과 [[Jay's Knowledge Base/wiki/gut-brain-axis\|장-뇌 축]]의 교차점을 시사 ([[Jay's Knowledge Base/raw/45-baek-2023-bifidobacterium-bifidum-and-lactobacillus-paracase\|raw/45-baek-2023-bifidobacterium-bifidum-and-lactobacillus-paracase]])
 - **천연물/기능성 소재**:
   - 밀순 추출물(WSE): 항염증, 미토콘드리아 생합성 활성화, 근단백 합성/분해 균형 회복 (Han et al., 2024)
@@ -88,6 +89,7 @@
 - [[Jay's Knowledge Base/raw/495-langer-2026-causes-of-sarcopenia-and-frailty-in-people-taking\|raw/495-langer-2026-causes-of-sarcopenia-and-frailty-in-people-taking]] — *Nature Reviews Endocrinology* GLP1RA 복용 인구의 근감소증·쇠약 원인 리뷰 (2026)
 - [[Jay's Knowledge Base/raw/19-2025-age-related-sarcopenia-gut-microbiome-mechanistic-insights\|raw/19-2025-age-related-sarcopenia-gut-microbiome-mechanistic-insights]] — 노화 관련 근감소증과 장내 마이크로바이옴 기전 종합 리뷰, 미생물 기반 치료 중재 가능성 (*Ageing Research Reviews* 2025)
 - [[Jay's Knowledge Base/raw/45-baek-2023-bifidobacterium-bifidum-and-lactobacillus-paracase\|raw/45-baek-2023-bifidobacterium-bifidum-and-lactobacillus-paracase]] — *L. paracasei* P62 + *B. bifidum* P61 복합 프로바이오틱이 노화 마우스에서 근감소증·인지장애 동시 완화 (AKT·NF-κB·FOXO3a 경로 조절, *Immunity & Ageing* 2023)
+- [[Jay's Knowledge Base/raw/533-nagamine-2026-the-gut-muscle-axis-in-sarcopenia-from-parallel-aging\|raw/533-nagamine-2026-the-gut-muscle-axis-in-sarcopenia-from-parallel-aging]] — 장-근육 축의 자기영속 악순환 종설 (*Geriatrics & Gerontology International* 2026): parallel aging → self-perpetuating vicious cycle, bottom-up(미생물)/top-down(근육) 중재 관점
 
 ## 관련 wiki 링크
 

@@ -115,6 +115,12 @@ GLP-1RA **부작용 연구 자체가 빠르게 성장** 중. Scopus 기반 서�
 - [[Jay's Knowledge Base/wiki/akkermansia-muciniphila\|akkermansia-muciniphila]]의 세포외소포가 C2C12 근아세포에서 S6K1, 4EBP1 인산화 직접 활성화
 - 살균 *A. muciniphila* RCT에서 follistatin 유의 상승(myostatin 격리), 하지 근력·peak torque 개선 (RCT 1·2)
 
+### 미생물 유래 엑서카인(MDE) — PAS의 근손실 직접 보호 (Burke 2026, 예비 데이터)
+
+포스트바이오틱 균체·SCFA 외에, **미생물 유래 엑서카인(microbial-derived exerkines, MDE)** 대사체가 GLP-1RA 근손실을 직접 보존한다는 전임상 단서가 보고됐다. Burke et al. (2026, *Physiology*)는 식이유도 비만(DIO) 마우스에 vehicle·semaglutide(SEM) 단독·SEM + **PAS(pipecolic acid + succinate)**를 1주 투여한 결과, **PAS가 SEM 유도 lean mass 손실을 방어하고 골격근 단면적·기능을 회복**시킴을 관찰했다. 동일 PAS 대사체는 앞서 폐용성 위축(disuse atrophy) 모델에서도 근손실 완화 효과를 보인 바 있다. 경구 가능한 미생물 대사체가 ActRII 차단 항체와 별도 축으로 GLP-1RA companion이 될 수 있음을 시사 ([[Jay's Knowledge Base/raw/528-burke-2026-microbial-derived-exerkines-ameliorate-glp-1-receptor\|raw/528-burke-2026-microbial-derived-exerkines-ameliorate-glp-1-receptor]]).
+
+> ⚠️ 본 자료는 American Physiology Summit 2026 **초록(HTML only, 동료심사 미반영)**으로 n·효과크기·체성분 측정법이 공개되지 않았다. 개념 단서로만 활용하고 정식 논문·DEXA/MRI 기반 검증을 기다릴 것.
+
 ### 내인성 GLP-1 분비 자극 — 별도의 차별 기전 (Yoon 2021 foundational)
 
 GLP-1RA(semaglutide·tirzepatide)가 **외인성 호르몬 모방약**인 반면, *A. muciniphila*는 **장 L-cell의 GLP-1 분비를 직접 유도하는 분비 단백질**을 갖는다는 사실이 분리 단백질 수준에서 동정되어 있다 ([[Jay's Knowledge Base/raw/513-yoon-2021-akkermansia-muciniphila-secretes-a-glucagon-like\|Yoon et al., 2021, *Nature Microbiology*]]). 마우스에서 이 단백질 보충이 포도당 항상성을 개선하고 대사질환을 완화함이 확인됨.
@@ -161,6 +167,7 @@ Eli Lilly의 **orforglipron** (경구·1일 1회·비펩타이드 GLP-1 작용�
 - [[Jay's Knowledge Base/raw/489-fu-2026-a-small-molecule-pter-selective-inhibitor-reduces-food\|raw/489-fu-2026-a-small-molecule-pter-selective-inhibitor-reduces-food]] — PTER 선택적 억제제 PTERi, GLP1-RA 병용 강화 및 중단 후 반등 방지
 - [[Jay's Knowledge Base/raw/495-langer-2026-causes-of-sarcopenia-and-frailty-in-people-taking\|raw/495-langer-2026-causes-of-sarcopenia-and-frailty-in-people-taking]] — *Nat Rev Endocrinol* GLP1RA 복용 인구의 근감소증·쇠약(frailty) 원인 리뷰
 - [[Jay's Knowledge Base/raw/505-abdelrahman-2026-mapping-global-research-on-adverse-effects-of-glp-1\|raw/505-abdelrahman-2026-mapping-global-research-on-adverse-effects-of-glp-1]] — GLP-1RA 부작용 글로벌 연구 동향 서지 계량 분석 (Scopus 2006–2025, 1,075편, 연 32% 성장, Novo Nordisk·Eli Lilly 기관 압도)
+- [[Jay's Knowledge Base/raw/528-burke-2026-microbial-derived-exerkines-ameliorate-glp-1-receptor\|raw/528-burke-2026-microbial-derived-exerkines-ameliorate-glp-1-receptor]] — 미생물 유래 엑서카인 PAS(pipecolic acid + succinate)가 DIO 마우스에서 semaglutide 유도 lean mass 손실·근기능 저하를 방어 (*Physiology*, American Physiology Summit 2026 초록, 동료심사 미반영)
 - [[Jay's Knowledge Base/raw/507-lee-2026-critical-reading-of-akk-glp1-paper\|raw/507-lee-2026-critical-reading-of-akk-glp1-paper]] — Gao 2026 (Akk + GLP-1RA db/db) 비판적 재검토. 체성분 도구(TD-NMR) 한계로 근손실 보존 주장 미입증을 정밀 분석
 - [[Jay's Knowledge Base/raw/513-yoon-2021-akkermansia-muciniphila-secretes-a-glucagon-like\|raw/513-yoon-2021-akkermansia-muciniphila-secretes-a-glucagon-like]] — *A. muciniphila* 분비 GLP-1 유도 단백질 동정 및 마우스 대사 개선 (*Nature Microbiology* 2021, foundational). 장 내인성 GLP-1 분비 자극 메커니즘의 분자적 근거
 - [[Jay's Knowledge Base/raw/519-aronne-2026-orforglipron-for-maintenance-of-body-weight-reduction\|raw/519-aronne-2026-orforglipron-for-maintenance-of-body-weight-reduction]] — Orforglipron(경구 비펩타이드 GLP-1RA) ATTAIN-MAINTAIN phase 3b RCT (n=376, 52주, *Nature Medicine* 2026): 주사 GLP-1RA 감량 후 경구 전환 시 체중 감량 74.7~79.3% 유지 (NCT06584916). 경구 GLP-1 시장 확장 → companion 잠재 환자 풀 확대
