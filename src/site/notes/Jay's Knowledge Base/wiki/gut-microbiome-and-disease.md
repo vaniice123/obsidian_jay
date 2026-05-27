@@ -79,6 +79,15 @@ DSS-유도 궤양성 대장염(UC) 마우스 모델에서 살균형 [[Jay's Know
 
 대장염(colitis) 병변에서 숙주–미생물 상호작용은 조직 내 위치에 따라 이질적이다. 공간 다중모달(spatial multi-modal) 접근으로 대장염 조직 미세환경(tissue microenvironment) 내 숙주 세포 상태와 미생물의 공간적 배치를 동시에 해부한 연구는, 균총 변화가 점막 전반에 균일하게 일어나는 것이 아니라 **국소적 면역세포·상피세포 상태와 결합된 공간 구조**를 가짐을 보여, IBD/대장염의 [[Jay's Knowledge Base/wiki/dysbiosis\|dysbiosis]] 기전을 조직 수준에서 정밀하게 해석할 필요성을 제시한다 ([[Jay's Knowledge Base/raw/78-zhu-a-spatial-multi-modal-dissection-of-host-microbiome-inte\|Zhu et al.]]).
 
+### 장내 마이크로바이옴의 시간적 변동 — 건강·질환 해석의 기본 틀 (Zeng 2026, *Lancet Microbe*)
+
+장내 마이크로바이옴은 정적 스냅샷이 아니라 시간에 따라 변동하는 동적 시스템이며, 이 시간 차원이 disease 마커·중재 효능 평가의 해석에 결정적이다. Zeng et al. (2026, *The Lancet Microbe*, [[Jay's Knowledge Base/raw/541-zeng-2026-temporal-variations-of-the-gut-microbiome-in-human\|raw/541-zeng-2026-temporal-variations-of-the-gut-microbiome-in-human]])은 인간 장내 마이크로바이옴의 **temporal variation**(일주기·생애주기·식이·항생제·중재 전후 등 다양한 시간 척도)을 종합적으로 정리한 종설로, 다음 시사점을 제공한다.
+
+- **단일 시점 sampling의 한계**: 질병–microbiome 연관 연구의 효과 크기·재현성이 시간 변동을 무시하면 과소·과대 추정될 수 있음 → 종단(longitudinal) 설계의 중요성
+- **중재 효능 평가의 baseline 안정성 가정 재고**: probiotic/postbiotic RCT의 baseline 대비 변화 해석 시 자연 변동 잡음과의 분리 필요 — Mount 2026·Depommier 2019 등 [[Jay's Knowledge Base/wiki/akkermansia-muciniphila\|*A. muciniphila*]] RCT 후속 분석에서도 동일 이슈
+- **prodromal/at-risk 단계 마커 개발**: Menozzi 2026 GBA1-PD 25% intermediate signature(아래 항목)나 GLP-1RA·항생제 노출 후 회복 궤적 분석에 temporal framework가 필수
+- **개인 baseline·variability 기반 정밀 영양**: responder 바이오마커(Dao 2016·Mount 2026의 기저 *Akkermansia* 풍부도)를 단일 시점 → 시간 안정성 보정 지표로 발전시켜야 함 ([[Jay's Knowledge Base/wiki/microbiome-analysis-technologies\|microbiome-analysis-technologies]] 참조)
+
 ### 파킨슨병 prodromal 식별자로서의 장내 microbiome (Menozzi 2026, *Nature Medicine*)
 
 GBA1 유전자 변이는 PD의 가장 흔한 위험인자(최대 30배)이지만 보유자 중 약 20%만 발병한다. Menozzi et al. (2026)은 **PD 환자 271 + GBA1 변이 비발현 보유자(GBA-NMC) 43 + 건강군 150**의 분변 메타지노믹스를 분석해, GBA-NMC 군 장내 microbiome 조성의 **약 25%가 건강군과 PD 환자의 중간 상태**임을 보였다. 이 신호는 PD 환자의 질병 진행도 및 GBA-NMC·건강군의 prodromal 증상과 유의 상관을 가지며, **미국·한국·터키 3개 독립 코호트(PD 638 + 건강 319)에서 재현**됨. 결과적으로 장내 microbiome이 PD의 **premanifest 단계 조기 마커**로 활용 가능하며, 유전·비유전 위험군 모두를 일반 인구에서 식별할 수 있음을 시사한다. [[Jay's Knowledge Base/wiki/gut-brain-axis\|장-뇌 축]] 참조.
@@ -89,6 +98,7 @@ GBA1 유전자 변이는 PD의 가장 흔한 위험인자(최대 30배)이지만
 - [[Jay's Knowledge Base/raw/510-hamaguchi-2026-bacterial-constipation-mucin-degrading-intestinal\|raw/510-hamaguchi-2026-bacterial-constipation-mucin-degrading-intestinal]]
 - [[Jay's Knowledge Base/raw/511-han-2025-pasteurized-akkermansia-muciniphila-timepie001\|raw/511-han-2025-pasteurized-akkermansia-muciniphila-timepie001]]
 - [[Jay's Knowledge Base/raw/516-menozzi-2026-microbiome-signature-of-parkinsons-disease-in-healthy\|raw/516-menozzi-2026-microbiome-signature-of-parkinsons-disease-in-healthy]]
+- [[Jay's Knowledge Base/raw/541-zeng-2026-temporal-variations-of-the-gut-microbiome-in-human\|raw/541-zeng-2026-temporal-variations-of-the-gut-microbiome-in-human]] — 인간 장내 마이크로바이옴의 시간 변동 종설 (*The Lancet Microbe* 2026): 단일 시점 sampling의 한계, 종단 설계의 필요성, prodromal·중재 효능 평가의 baseline 안정성 가정 재고
 - [[Jay's Knowledge Base/raw/68-righi-2024-gut-microbiome-disruption-following-sars-cov-2-a\|raw/68-righi-2024-gut-microbiome-disruption-following-sars-cov-2-a]] — SARS-CoV-2 감염 후 장내 마이크로바이옴 교란 리뷰
 - [[Jay's Knowledge Base/raw/78-zhu-a-spatial-multi-modal-dissection-of-host-microbiome-inte\|raw/78-zhu-a-spatial-multi-modal-dissection-of-host-microbiome-inte]] — 대장염 조직 미세환경의 공간 다중모달 숙주–미생물 해부
 - [[Jay's Knowledge Base/raw/95-ludington-2024-the-importance-of-host-physical-niches-for-th\|raw/95-ludington-2024-the-importance-of-host-physical-niches-for-th]] — 군집 안정성의 숙주 물리적 niche 결정 요인

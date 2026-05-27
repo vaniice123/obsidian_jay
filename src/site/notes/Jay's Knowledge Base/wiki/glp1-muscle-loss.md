@@ -26,6 +26,23 @@ GLP-1 수용체 작용제는 본래 2형 당뇨 치료제로 출발했으나 강
 - STEP-10: 중단 28주 후 **감량분의 40% 이상 반등**, SURMOUNT-4: 52주 후 **50% 이상 반등**
 - 반복적 on-off 사이클 → 점진적 체성분 악화 ("같은 체중이라도 대사적으로 더 불건강")
 
+### 미국 사용자 인구·연령 분포 (2024–2025)
+
+GLP-1 근손실의 임상적 함의는 사용 인구의 절대 규모와 연령 분포에 의해 정해진다. 미국 데이터는 다음과 같이 수렴한다.
+
+| 데이터 출처 | 모집단 | 정점 연령대 | 핵심 수치 |
+|-------------|--------|-------------|-----------|
+| KFF Health Tracking Poll, 2025-11 (n=1,350) | 일반 성인 (적응증 무관) | **50–64세** | 현재 사용 **22%**, 누적 30%; 전체 12% (2024-05 6% 대비 2배) |
+| CDC NCHS Data Brief No. 537 (Vahratian & Warren, 2025-08), NHIS 2024 | 진단된 T2DM 성인 | **50–64세** | 사용률 **33.3%** (95% CI 29.9–36.9); 65+는 20.8%로 유의하게 낮음 (p<0.05); 전체 26.5%, 추정 6.9M명 |
+| FAIR Health White Paper (2025-05), 상업보험 청구 51B건 | 비만/과체중 진단 (비당뇨 포함) | 18–39세 (가장 빠른 증가) | 18–39세 처방률 0.19% → **1.33%** (5년간 +587.8%); 비만 진단 *with no T2DM* 군 +1,961% |
+
+**임상적 함의:**
+- **65세 이상은 사용률이 낮은 구간** — Medicare가 weight-loss 단독 처방을 비급여로 두므로 누적 9%, 그중 체중감량 단독 목적은 1%에 불과. 즉 65+ GLP-1 사용자는 대부분 T2DM 환자이며, 보험 정책 변화 시 시장 잠재력이 크게 열림.
+- **사용자의 모달 코호트는 50–64세** — 이 구간은 [[Jay's Knowledge Base/wiki/sarcopenia\|근감소증]] 진행이 시작되는 시점과 일치. 근손실 부작용의 임상·시장적 비중이 가장 큰 인구.
+- 성별 격차: 일반 인구 현재 사용 **여성 15% vs 남성 9%** (KFF). 비만 academic clinic에서는 환자의 약 85%가 여성. 폐경 후 근감소증(특히 50–64세 여성)이 GLP-1 근손실 부작용과 자연스러운 cross-over 인구를 형성.
+- T2DM 환자 내에서도 **BMI 의존성** — 비만(BMI≥30) T2DM 환자의 GLP-1 사용률 32.4% vs 정상체중 16.7% (NCHS 537).
+- 자가보고(KFF/RAND)와 청구 데이터(FAIR Health) 간 prevalence 차이는 지속률·중단 미반영에 기인. 자가보고는 과대 가능성 있음.
+
 ---
 
 ## ActRII 경로: 핵심 신호 전달
@@ -115,6 +132,23 @@ GLP-1RA **부작용 연구 자체가 빠르게 성장** 중. Scopus 기반 서�
 - [[Jay's Knowledge Base/wiki/akkermansia-muciniphila\|akkermansia-muciniphila]]의 세포외소포가 C2C12 근아세포에서 S6K1, 4EBP1 인산화 직접 활성화
 - 살균 *A. muciniphila* RCT에서 follistatin 유의 상승(myostatin 격리), 하지 근력·peak torque 개선 (RCT 1·2)
 
+### 구조화된 운동·재활 통합 — Pritikin ICR 코호트 (Jennings 2026)
+
+운동·영양 통합 프로그램이 GLP-1 RA 사용자의 골격근량 손실을 임상적으로 무력화할 수 있음이 후향 코호트에서 입증되었다 (Jennings et al., 2026, *European Journal of Preventive Cardiology*, [[Jay's Knowledge Base/raw/538-jennings-2026-body-composition-changes-in-patients-on-glp-1-receptor\|raw/538-jennings-2026-body-composition-changes-in-patients-on-glp-1-receptor]]). UC San Diego Pritikin **Intensive Cardiac Rehabilitation(ICR)** 프로그램 468명(2017~2024) 중 67명이 GLP-1 RA 사용(중앙값 231일, IQR 144~400). BIA 기반 baseline·프로그램 종료 시 체성분 측정.
+
+- **양 군 모두 METs 유의 개선** (p<0.001)
+- 기저 시점: GLP-1 RA 사용군이 BMI·체지방률 더 높음, SMM은 차이 없음
+- **조정 분석(연령·성별·기저 BMI·당뇨·기저 fitness): SMM 변화에 유의차 없음** — β=0.62% (95% CI −0.62~1.86, p=0.326)
+- 체지방 변화 차이도 유의하지 않음 (β=3.01%, p=0.204)
+- 정성적으로 비사용군 SMM은 소폭 증가, 사용군은 안정 유지
+
+**시사점**:
+- GLP-1 RA의 SMM 손실이 임상시험 DXA 결과(STEP 1: 5.26 kg, 34~45%)에 비해 **실제 임상 현장에서는 운동·영양·재활 통합이 동반될 때 거의 발현되지 않을 수 있음**
+- ActRII 차단 항체·포스트바이오틱 companion의 **추가 효용은 운동 비참여 또는 ICR 비접근 인구**에서 더 클 가능성 → companion 시장 segmentation의 정밀화 필요
+- 한계: 후향 관찰 설계·BIA(근육 vs 장기 지방 분리 한계)·GLP-1 RA 노출 기간·약제 이질성 — RCT·DEXA/MRI 확증 대기
+
+**[[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]]·[[Jay's Knowledge Base/wiki/obesity-body-composition\|obesity-body-composition]] 양 쪽에서 동일한 결론 — 운동 통합이 GLP-1 시대 노인·심혈관 환자 표준 케어의 핵심.**
+
 ### 미생물 유래 엑서카인(MDE) — PAS의 근손실 직접 보호 (Burke 2026, 예비 데이터)
 
 포스트바이오틱 균체·SCFA 외에, **미생물 유래 엑서카인(microbial-derived exerkines, MDE)** 대사체가 GLP-1RA 근손실을 직접 보존한다는 전임상 단서가 보고됐다. Burke et al. (2026, *Physiology*)는 식이유도 비만(DIO) 마우스에 vehicle·semaglutide(SEM) 단독·SEM + **PAS(pipecolic acid + succinate)**를 1주 투여한 결과, **PAS가 SEM 유도 lean mass 손실을 방어하고 골격근 단면적·기능을 회복**시킴을 관찰했다. 동일 PAS 대사체는 앞서 폐용성 위축(disuse atrophy) 모델에서도 근손실 완화 효과를 보인 바 있다. 경구 가능한 미생물 대사체가 ActRII 차단 항체와 별도 축으로 GLP-1RA companion이 될 수 있음을 시사 ([[Jay's Knowledge Base/raw/528-burke-2026-microbial-derived-exerkines-ameliorate-glp-1-receptor\|raw/528-burke-2026-microbial-derived-exerkines-ameliorate-glp-1-receptor]]).
@@ -139,6 +173,23 @@ GLP-1RA(semaglutide·tirzepatide)가 **외인성 호르몬 모방약**인 반면
 ### GLP-1 중단 후 반등 방지 기전 — PTER 억제
 
 근손실과 별개로 GLP-1의 또 다른 임상 공백인 **중단 후 체중 반등(50% 이상)**을 겨냥한 저분자 접근이 부상. Fu (2026)는 포식억제 대사체 N-acetyltaurine을 분해하는 PTER(phosphotriesterase-related)의 결정구조에서 HDAC 유사 포켓을 발견, 기질경쟁형 억제제 **PTERi**를 개발(nanomolar 효력, HDAC 대비 >100배 선택성). DIO 마우스에서 단독 투여 시 섭식 감소, GLP1-RA 병용 시 **체중 감량 강화**, GLP1-RA **중단 후 체중 재증가 예방** 효과 → ActRII 계열(근육 보존)과 다른 축의 companion 후보로, SCFA-HDAC 축과 개념적으로 연결(상세 [[Jay's Knowledge Base/wiki/obesity-body-composition\|obesity-body-composition]]).
+
+### GLP-1/GIP 이중 표적 — 차세대 incretin 약물 패러독스 (Davies 2026)
+
+비만 치료제 시장은 단일 GLP-1RA(semaglutide)에서 **GIP receptor 이중 표적** 약물로 빠르게 진화하고 있으며, GIP 표적 방향(작용제 vs 길항제)의 **양립 패러독스**가 핵심 쟁점이다. Davies et al. (2026, *Annu. Rev. Nutr.*, [[Jay's Knowledge Base/raw/537-davies-2026-the-paradox-and-future-of-glp-1gip-combination\|raw/537-davies-2026-the-paradox-and-future-of-glp-1gip-combination]])은 다음을 정리한다.
+
+| 약물 | 표적 | GIP 부분 | 효력 (vs semaglutide) |
+|------|------|---------|----------------------|
+| Semaglutide | GLP-1R 단일 작용제 | — | reference |
+| **Tirzepatide** | GLP-1R/GIPR **이중 작용제** | **GIPR 작용** | 강력한 추가 감량 |
+| **Maridebart cafraglutide** | GLP-1RA + GIPR **길항제** | **GIPR 차단** | 강력한 추가 감량 |
+
+**패러독스의 본질**: 인간 단일제제 임상에서 **GIPR 작용도 길항도 단독으로는 강한 식욕억제·체중감량 효과가 없음** — 그러나 GLP-1R와 동시 자극 시 두 정반대 GIPR 조작 방식 모두가 효능을 증대시킨다. 후보 설명: (1) GLP-1R 자극이 GIP 신호의 desensitization/internalization을 비대칭적으로 조정, (2) 시상하부·뇌간 회로에서의 cross-talk가 GIP 작용/길항 어느 쪽이든 식욕 회로 재조정, (3) 말초 인슐린 분비·체중 항상성 회로의 양방향 가소성.
+
+**근손실 관점의 함의**:
+- Tirzepatide(SURMOUNT-1 DXA)의 lean mass 손실 비율(~25%)이 semaglutide(STEP 1, 34~45%)보다 낮은 것이 GIPR 작용에서 기인하는지(직접 효과) 단순히 감량 규모 비례 효과인지 본 리뷰가 제시하는 회로 모델로는 아직 단정 불가
+- Maridebart cafraglutide(GIPR 길항+GLP-1RA, 정반대 방향)의 lean mass 데이터는 미공개 — 두 약물의 체성분 비교가 GIPR 신호와 근육 보존의 인과 관계를 가르는 결정적 평가 시점
+- → ActRII 차단·포스트바이오틱 companion은 **incretin receptor profile과 무관하게** 광범위 적용 가능 — 시장 잠재력 보수적 추정에서 incretin 진화는 환자 풀 확장 요인이지 companion 적용 범위 축소 요인이 아님
 
 ### 경구 GLP-1 작용제로의 전환 유지 — Orforglipron ATTAIN-MAINTAIN (2026)
 
@@ -171,6 +222,9 @@ Eli Lilly의 **orforglipron** (경구·1일 1회·비펩타이드 GLP-1 작용�
 - [[Jay's Knowledge Base/raw/507-lee-2026-critical-reading-of-akk-glp1-paper\|raw/507-lee-2026-critical-reading-of-akk-glp1-paper]] — Gao 2026 (Akk + GLP-1RA db/db) 비판적 재검토. 체성분 도구(TD-NMR) 한계로 근손실 보존 주장 미입증을 정밀 분석
 - [[Jay's Knowledge Base/raw/513-yoon-2021-akkermansia-muciniphila-secretes-a-glucagon-like\|raw/513-yoon-2021-akkermansia-muciniphila-secretes-a-glucagon-like]] — *A. muciniphila* 분비 GLP-1 유도 단백질 동정 및 마우스 대사 개선 (*Nature Microbiology* 2021, foundational). 장 내인성 GLP-1 분비 자극 메커니즘의 분자적 근거
 - [[Jay's Knowledge Base/raw/519-aronne-2026-orforglipron-for-maintenance-of-body-weight-reduction\|raw/519-aronne-2026-orforglipron-for-maintenance-of-body-weight-reduction]] — Orforglipron(경구 비펩타이드 GLP-1RA) ATTAIN-MAINTAIN phase 3b RCT (n=376, 52주, *Nature Medicine* 2026): 주사 GLP-1RA 감량 후 경구 전환 시 체중 감량 74.7~79.3% 유지 (NCT06584916). 경구 GLP-1 시장 확장 → companion 잠재 환자 풀 확대
+- [[Jay's Knowledge Base/raw/537-davies-2026-the-paradox-and-future-of-glp-1gip-combination\|raw/537-davies-2026-the-paradox-and-future-of-glp-1gip-combination]] — GLP-1/GIP 이중 표적 약물(tirzepatide, maridebart cafraglutide) 효능·기전 종설 (*Annu. Rev. Nutr.* 2026): GIPR 작용·길항 단독 효과 부재의 패러독스, GLP-1R 병용 시 양방향 모두 효능 증대. 근손실 보존과 GIPR 신호 인과 미해결
+- [[Jay's Knowledge Base/raw/538-jennings-2026-body-composition-changes-in-patients-on-glp-1-receptor\|raw/538-jennings-2026-body-composition-changes-in-patients-on-glp-1-receptor]] — Pritikin Intensive Cardiac Rehabilitation 후향 코호트 (n=468, GLP-1 RA 67명, *Eur. J. Prev. Cardiol.* 2026): 운동·영양 통합 시 GLP-1 RA 사용군 SMM 변화 비사용군과 무차이(β=0.62%, p=0.326). companion 시장 segmentation 시사
+- [[Jay's Knowledge Base/raw/540-venkitta-2026-sarcopenia-in-type-2-diabetes-mellitus-a-narrative\|raw/540-venkitta-2026-sarcopenia-in-type-2-diabetes-mellitus-a-narrative]] — T2DM과 근감소증의 양방향 악순환 narrative review (*J. Diabetology* 2026): GLP-1 RA 주 사용 인구가 이미 sarcopenic diabetes 위험군임을 강조 — 근손실 부작용의 임상적 중요도 보강
 
 ### ActRII / SMAD2/3 기전 — primary literature
 - [[Jay's Knowledge Base/raw/492-inman-2002-sb-431542-is-a-potent-and-specific-inhibitor-of\|raw/492-inman-2002-sb-431542-is-a-potent-and-specific-inhibitor-of]] — SB-431542 (ALK4/5/7 선택적 저해제)

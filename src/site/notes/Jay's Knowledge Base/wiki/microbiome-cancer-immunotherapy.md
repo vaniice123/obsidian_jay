@@ -23,6 +23,7 @@
   - Anti-PD-L1 면역치료 효능 강화 (Hou et al., 2021; Chen et al., 2020)
   - Pentadecanoic acid (C15:0) 생성을 통한 항암 효과 (Xu et al., 2024)
   - **포스트바이오틱(살균체)의 균주별 세포독성 비교**: Kurt Cakmaktas et al. (2026, *J. Agric. Food Res.*)은 3개 *A. muciniphila* 균주 포스트바이오틱을 위암(AGS)·대장암(HCT116) 세포에 처리, MTT 대사활성을 **용량·시간 의존적으로 감소**시켰으며 규모는 유사하나 **균주 특이적 경향** 관찰. LC-QTOF-MS + ¹H NMR 통합 프로파일링으로 상피·redox 경로 관련 6개 단백질/대사체를 식별. 포스트바이오틱 균주 선택의 **합리적 criteria** 수립 근거를 제공
+  - **5-FU 시너지 — BAX/BCL2 의존 apoptosis (Menadi 2026)**: Menadi & Cacan (*Cell Biochem. Funct.*)은 *A. muciniphila* 동결건조 추출물이 HT29·HCT116·SW620 CRC 세포주에서 **BAX↑/BCL2↓ 미토콘드리아 apoptosis**를 직접 활성화하며 (HT29 > HCT116 > SW620 감수성), 정상 Hs738 기질세포는 잘 견딤 → **암세포 선택적 세포독성**. 5-FU 병용 시 **시너지** → 5-FU 용량 감량으로 독성 완화 전략 제시. 강한 음의 zeta potential은 암세포 막 표적성을 시사. **공개 데이터셋 메타분석**에서 *A. muciniphila* 풍부도가 건강 → adenoma → CRC로 감소하다 진행기 종양에서 소폭 회복하는 비단조 패턴 확인 → 기존 Amuc_1100/CD8⁺ CTL·트립토판 축에 **추출물의 직접 종양세포 작용**이라는 별도 기전 축을 보탠다 ([[Jay's Knowledge Base/raw/539-menadi-2026-synergistic-anticancer-effects-of-akkermansia\|raw/539-menadi-2026-synergistic-anticancer-effects-of-akkermansia]])
 - **Roseburia intestinalis와 면역관문억제제**: *R. intestinalis* 유래 부티르산이 TBX21 프로모터의 H3K27 아세틸화를 촉진하여 CD8+ T 세포의 세포독성을 증강시키고, anti-PD-1 효능을 부스팅 (Kang et al., 2023)
 - **장내 미생물 시그니처와 CRC 진단**: 다국적 대규모 메타게놈 분석에서 *F. nucleatum*, *Parvimonas micra* 등의 CRC 연관 시그니처가 나이와 무관하게 일관됨 (Qin et al., 2023)
 - **Fusobacterium nucleatum**: 특정 clade (Fna C2)가 CRC 조직에 선택적으로 농축 (Zepeda-Rivera et al., 2024)
@@ -72,6 +73,7 @@
 - [[Jay's Knowledge Base/raw/493-kurt-cakmaktas-2026-comparative-cytotoxicity-and-molecular-profiling-of\|raw/493-kurt-cakmaktas-2026-comparative-cytotoxicity-and-molecular-profiling-of]] — 3종 *A. muciniphila* 균주 포스트바이오틱의 AGS·HCT116 세포 비교 세포독성 + 프로테오믹스/메타볼로믹스 프로파일링
 - [[Jay's Knowledge Base/raw/208-sugimoto-2023-gut-microbiota-associated-with-the-mitigation\|raw/208-sugimoto-2023-gut-microbiota-associated-with-the-mitigation]] — 식도암 신보강 항암화학요법 부작용을 완화하는 신바이오틱스와 연관 장내 미생물 (후향적 탐색 연구)
 - [[Jay's Knowledge Base/raw/534-quah-2026-microencapsulation-strategy-for-aerobic-cultivation-of\|raw/534-quah-2026-microencapsulation-strategy-for-aerobic-cultivation-of]] — 산소 민감 *A. muciniphila*의 알지네이트 마이크로캡슐화 전달 시스템, CRC 중재 응용 (제형·전달 관점)
+- [[Jay's Knowledge Base/raw/539-menadi-2026-synergistic-anticancer-effects-of-akkermansia\|raw/539-menadi-2026-synergistic-anticancer-effects-of-akkermansia]] — *A. muciniphila* 동결건조 추출물의 HT29·HCT116·SW620 CRC 세포 비교 세포독성·BAX/BCL2 의존 apoptosis·5-FU 시너지(*Cell Biochem. Funct.* 2026)
 
 ## 관련 wiki 링크
 

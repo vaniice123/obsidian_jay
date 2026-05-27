@@ -88,6 +88,17 @@
 
 미세유체(microfluidic) 장기 칩은 산소 구배·연동운동·점액층·면역세포를 재현해 숙주 세포와 살아있는 미생물 군집을 장기간 공배양할 수 있는 플랫폼으로, 동물 모델의 종 차이 및 윤리 문제를 우회하면서 숙주–미생물 상호작용을 인과적으로 해부할 수 있게 한다 ([[Jay's Knowledge Base/raw/51-shin-2023-modelling-hostmicrobiome-interactions-in-organ-on\|Shin et al., 2023, *Nat Rev Bioeng*]]). 다중 오믹스·실시간 이미징과 결합 시 in vivo 검증의 중간 단계로 기능한다.
 
+## 시간 차원의 sampling 설계
+
+마이크로바이옴은 일주기·계절·생애주기·식이·항생제·중재 전후로 변동하는 동적 시스템이므로, 분석 설계에서 **시간 차원**을 통제하지 않으면 효과 크기와 재현성이 왜곡된다. Zeng et al. (2026, *The Lancet Microbe*, [[Jay's Knowledge Base/raw/541-zeng-2026-temporal-variations-of-the-gut-microbiome-in-human\|raw/541-zeng-2026-temporal-variations-of-the-gut-microbiome-in-human]])은 인간 장내 마이크로바이옴의 temporal variation을 종합 정리해 다음을 제안한다.
+
+- **단일 시점 → 종단(longitudinal) 설계 전환** — 질병 연관·중재 효능 추정의 통계적 검출력·재현성 향상
+- **개인별 baseline variability 보정** — responder 층화(Dao 2016·Mount 2026 [[Jay's Knowledge Base/wiki/obesity-body-composition\|체중 유지 RCT]])의 안정성 확보
+- **rate-of-change·resilience 지표** — 항생제 후 회복 궤적, prodromal 단계 진행(Menozzi 2026의 PD 중간 signature)의 dynamic biomarker 화
+- **시계열·다중 오믹스 통합 통계** — ALDEx2·ANCOM 등 구성 데이터 도구를 시간 차원으로 확장하는 분석 파이프라인 필요
+
+→ 마이크로바이옴 진단·중재 시험의 표준 설계가 **single-shot에서 longitudinal로** 이동하는 분기점.
+
 ## 연구 편향과 분석 범위의 한계
 
 분석 기술의 발전에도 불구하고 문헌 자체에 강한 편향이 존재한다. 서지 분석 결과 **전체 세균학 논문의 절반이 단 10종에 집중**되어 있고, 알려진 세균 종의 약 74%는 연구된 적이 없는 것으로 나타났다 ([[Jay's Knowledge Base/raw/132-jensen-2025-ten-species-comprise-half-of-the-bacteriology-li\|Jensen, 2025]]). 이는 미배양·미연구 분류군을 포착하기 위한 배양 비의존 기법(샷건 메타게노믹스, 단일세포 게노믹스 등)과 합성 군집 모델의 중요성을 강조한다.
@@ -105,3 +116,4 @@
 - [[Jay's Knowledge Base/raw/92-eckburg-2005-diversity-of-the-human-intestinal-microbial-flo\|raw/92-eckburg-2005-diversity-of-the-human-intestinal-microbial-flo]] — 16S rRNA 기반 인간 장내 미생물 다양성·미배양종 발견
 - [[Jay's Knowledge Base/raw/99-weiss-2022-in-vitro-interaction-network-of-a-synthetic-gut-b\|raw/99-weiss-2022-in-vitro-interaction-network-of-a-synthetic-gut-b]] — OMM12 합성 군집의 in vitro 상호작용 네트워크
 - [[Jay's Knowledge Base/raw/132-jensen-2025-ten-species-comprise-half-of-the-bacteriology-li\|raw/132-jensen-2025-ten-species-comprise-half-of-the-bacteriology-li]] — 10종이 세균학 문헌의 절반 차지, 74% 종 미연구
+- [[Jay's Knowledge Base/raw/541-zeng-2026-temporal-variations-of-the-gut-microbiome-in-human\|raw/541-zeng-2026-temporal-variations-of-the-gut-microbiome-in-human]] — 인간 장내 마이크로바이옴의 시간 변동 종설 (*The Lancet Microbe* 2026): 종단 설계·rate-of-change·resilience 지표·시계열 다중오믹스 통합 필요성

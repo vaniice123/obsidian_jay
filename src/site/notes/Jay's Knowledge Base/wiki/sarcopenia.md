@@ -27,6 +27,7 @@
   - 유청단백질 + 류신 + 비타민 D 강화 ONS (Cereda et al., 2022)
   - 단백질 보충이 체성분 및 근력에 미치는 효과
   - 우유의 근감소성 비만(sarcopenic obesity) 방어 효과
+- **사르코페닉 비만 유병률 (≥65세, 비입원 인구)**: 메타분석 결과 약 **14%** (n=71,757). 기능 장애(functional impairment) 동반 시 **33%**, 인지 장애 동반 시 **35%**까지 상승 (PMC11036751). 비만 치료 중 사르코페닉 비만 비율은 **약 20%** (ADA *Diabetes* 2025;74(12):2179)로 추정되며, 60세 이상 상한 추정치는 **약 28.3%**. GLP-1 비만 임상시험 참여자 중 노인 비중은 **10% 미만**으로, 노인 대상 안전성·효능 데이터 공백이 존재 (MDPI *Nutrients* 2026, "A Narrative Review on GLP-1 Receptor Agonists for Obesity in Older Women"; Pellegrini 2025, PMC12391595)
 - **마이크로바이옴 기반 접근**:
   - 살균 *Akkermansia muciniphila* 포스트바이오틱: 근단백 합성 촉진(p-mTOR/p-p70S6K), 분해 억제(MuRF1/Atrogin-1 하향), 미토콘드리아 기능 개선
   - *Lactobacillus gasseri* BNR17: 덱사메타손 유도 근위축 완화
@@ -40,6 +41,8 @@
   - 오미자(schizandrin): 양성 대조군으로 사용
 - **동반 질환**: 암 악액질(cancer cachexia), IBD, 비만, 인지기능 장애, 간질환
 - **GLP-1RA 유도 근감소증·쇠약(frailty)**: Langer et al. (2026, *Nat Rev Endocrinol*)은 semaglutide·tirzepatide 등 GLP-1 기반 비만 치료제가 급격한 체중 감량과 함께 **근 소모를 가속**할 수 있다는 우려를 최근 문헌으로 정리. 60세 이상 비만 인구 40%가 이미 근감소증 위험군에 속하는 상황에서 임상적 중요성이 커지고 있으며, ActRII 차단 항체(bimagrumab 등) 병용 및 *Akkermansia muciniphila* 기반 포스트바이오틱 companion([[Jay's Knowledge Base/wiki/akkermansia-muciniphila\|akkermansia-muciniphila]], [[Jay's Knowledge Base/wiki/glp1-muscle-loss\|glp1-muscle-loss]])이 해결책으로 제시됨
+- **구조화된 운동 병행 시 GLP-1RA 근손실 위험 완화 (Jennings 2026)**: UC San Diego의 Pritikin Intensive Cardiac Rehabilitation(ICR) 프로그램 후향 코호트(n=468, GLP-1 RA 사용 67명, 중앙값 231일)에서 BIA 측정 결과 **ICR 종료 시 GLP-1 RA 사용군과 비사용군 간 골격근량(SMM) 변화에 유의차 없음**(β=0.62%, 95% CI −0.62~1.86, p=0.326). 비사용군은 SMM 소폭 증가, 사용군은 유지. 양 군 모두 METs·체지방 개선. → "**구조화된 저항운동 + 영양관리가 동반되면 GLP-1 RA의 근소실 부작용이 임상적으로 무력화될 수 있다**"는 첫 코호트 근거. ActRII 차단 항체·포스트바이오틱 companion 외에 **운동·재활 프로그램 통합**이 GLP-1 시대 노인 비만 치료의 표준 케어 후보임을 시사 ([[Jay's Knowledge Base/raw/538-jennings-2026-body-composition-changes-in-patients-on-glp-1-receptor\|raw/538-jennings-2026-body-composition-changes-in-patients-on-glp-1-receptor]], *European Journal of Preventive Cardiology*). 단, 후향 관찰·BIA(근육 vs 장기 지방 분리 한계)·RA 노출 기간 이질성 등으로 RCT·DEXA/MRI 확증 필요.
+- **2형 당뇨와 근감소증의 양방향 악순환 (Venkitta 2026)**: Venkitta et al. (*J. Diabetology*)은 T2DM과 근감소증의 상호 인과 관계를 정리한 narrative review를 통해, **고혈당·인슐린 저항성·만성 염증·미토콘드리아 기능장애**가 근육 분해를 가속하며, 역으로 근감소가 포도당 처리 능력을 저하시켜 T2DM 조절을 악화시키는 **악순환(reciprocal loop)**을 강조 ([[Jay's Knowledge Base/raw/540-venkitta-2026-sarcopenia-in-type-2-diabetes-mellitus-a-narrative\|raw/540-venkitta-2026-sarcopenia-in-type-2-diabetes-mellitus-a-narrative]]). 임상적 함의: ① **GLP-1 RA 주 사용자 = T2DM·노인 = 이미 근감소증 위험군**이므로 GLP-1 유도 근손실이 단순 부작용을 넘어 **기저 sarcopenic diabetes의 가속화**로 작용할 수 있음, ② 통합 전략(저항운동·단백질·NAD+ 전구체·마이크로바이옴) 조기 도입 필요 — Jennings 2026 ICR 데이터와 정합. cf. [[Jay's Knowledge Base/wiki/glp1-muscle-loss\|glp1-muscle-loss]]·[[Jay's Knowledge Base/wiki/obesity-body-composition\|obesity-body-composition]]
 
 ## 관련 raw/ 소스
 
@@ -90,6 +93,8 @@
 - [[Jay's Knowledge Base/raw/19-2025-age-related-sarcopenia-gut-microbiome-mechanistic-insights\|raw/19-2025-age-related-sarcopenia-gut-microbiome-mechanistic-insights]] — 노화 관련 근감소증과 장내 마이크로바이옴 기전 종합 리뷰, 미생물 기반 치료 중재 가능성 (*Ageing Research Reviews* 2025)
 - [[Jay's Knowledge Base/raw/45-baek-2023-bifidobacterium-bifidum-and-lactobacillus-paracase\|raw/45-baek-2023-bifidobacterium-bifidum-and-lactobacillus-paracase]] — *L. paracasei* P62 + *B. bifidum* P61 복합 프로바이오틱이 노화 마우스에서 근감소증·인지장애 동시 완화 (AKT·NF-κB·FOXO3a 경로 조절, *Immunity & Ageing* 2023)
 - [[Jay's Knowledge Base/raw/533-nagamine-2026-the-gut-muscle-axis-in-sarcopenia-from-parallel-aging\|raw/533-nagamine-2026-the-gut-muscle-axis-in-sarcopenia-from-parallel-aging]] — 장-근육 축의 자기영속 악순환 종설 (*Geriatrics & Gerontology International* 2026): parallel aging → self-perpetuating vicious cycle, bottom-up(미생물)/top-down(근육) 중재 관점
+- [[Jay's Knowledge Base/raw/538-jennings-2026-body-composition-changes-in-patients-on-glp-1-receptor\|raw/538-jennings-2026-body-composition-changes-in-patients-on-glp-1-receptor]] — Pritikin ICR 후향 코호트(n=468, GLP-1 RA 67명), 구조화된 운동·재활 병행 시 GLP-1 RA 사용군 골격근량 변화 비사용군과 차이 없음 — 운동 통합이 GLP-1 근손실 완화 (*European Journal of Preventive Cardiology* 2026)
+- [[Jay's Knowledge Base/raw/540-venkitta-2026-sarcopenia-in-type-2-diabetes-mellitus-a-narrative\|raw/540-venkitta-2026-sarcopenia-in-type-2-diabetes-mellitus-a-narrative]] — 2형 당뇨와 근감소증의 양방향 악순환 narrative review (고혈당·인슐린저항성·만성염증·미토콘드리아 기능장애의 수렴 기전, *J. Diabetology* 2026)
 
 ## 관련 wiki 링크
 

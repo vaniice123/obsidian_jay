@@ -20,6 +20,10 @@ DSS-유도 궤양성 대장염(UC) 마우스 모델에서 **살균 *A. muciniphi
 
 추가로 *A. muciniphila*(또는 막단백질)가 **CREBH·miR-143/145 축**을 통해 장 염증 스트레스를 완화하고 상피 창상 치유를 촉진함이 규명되었고 (Wade et al., 2023, *J. Biomed. Sci.*, [[Jay's Knowledge Base/raw/260-wade-2023-akkermansia-muciniphila-and-its-membrane-protein-a\|raw/260-wade-2023-akkermansia-muciniphila-and-its-membrane-protein-a]] = [[Jay's Knowledge Base/raw/271-wade-2023-akkermansia-muciniphila-and-its-membrane-protein-a\|raw/271-wade-2023-akkermansia-muciniphila-and-its-membrane-protein-a]]), 살균형이 Caco-2 모델에서 **TLR2를 통한 AMPK·NF-κB 조절**로 LPS 유도 장벽 손상을 회복시킴이 확인되었다 (Shi et al., 2022, *Nutrients*, [[Jay's Knowledge Base/raw/269-shi-2022-pasteurized-akkermansia-muciniphila-ameliorate-the\|raw/269-shi-2022-pasteurized-akkermansia-muciniphila-ameliorate-the]]) — 「살균형의 장벽 보호」가 TLR2 하류 신호 수준에서 작동함을 보이는 분자 근거.
 
+#### IBD 동반 신경정신 동반질환 — AmEV 매개 장-뇌 축 회복 (Chen 2026)
+
+UC는 단순 소화기 질환이 아니라 **인지장애 등 전신 동반증상**을 자주 수반한다(장-뇌 축 교란). Chen et al. (2026, *Gut Microbes*, [[Jay's Knowledge Base/raw/536-chen-2026-akkermansia-muciniphila-derived-extracellular-vesicles\|raw/536-chen-2026-akkermansia-muciniphila-derived-extracellular-vesicles]])은 DSS-UC 마우스 모델에서 **Akk 유래 세포외소포(AmEV)**가 ① 체중·DAI·결장 길이 등 **대장염 중증도 완화**와 ② Y-maze·새로운 사물 인지 회복 등 **인지 결손 동시 회복**을 입증. 기전 축은 (1) 장+BBB tight junction 동시 회복, (2) 해마 신경염증·미세아교세포·성상교세포 활성 억제, (3) ***Bifidobacterium* 증가·병원성 *Bacteroides·Mucispirillum* 억제·SCFA 회복**, (4) **트립토판 대사 양방향 재프로그래밍**(결장 5-HT 과생산 감소·해마 5-HT/5-HT1A·BDNF·시냅스 가소성 회복), (5) 바이오디스트리뷰션에서 **AmEV가 Amuc_1100을 해마 뉴런까지 직접 전달**해 5-HT 생산을 증강. → UC 적응증의 외연이 **IBD 동반 신경정신 증상**으로 확장되며, **무세포 effector(AmEV)** 기반 IBD-CNS dual indication의 분자 근거. 상세 기전·EV 플랫폼은 [[Jay's Knowledge Base/wiki/akkermansia-mechanisms#추가 분비 단백질·세포외소포·대사산물 (Effector Molecules)\|akkermansia-mechanisms]] 참조.
+
 ---
 
 ## 적응증별 전임상 효능 (Preclinical Efficacy Across Indications)
@@ -36,6 +40,7 @@ DSS-유도 궤양성 대장염(UC) 마우스 모델에서 **살균 *A. muciniphi
 | **당뇨성 인지장애 (DCI)** | db/db 마우스 | 생균·살균형 모두 장내 미생물·대사산물 조절로 인지장애 개선 | [[Jay's Knowledge Base/raw/281-du-2024-live-and-pasteurized-akkermansia-muciniphila-amelior\|raw/281-du-2024-live-and-pasteurized-akkermansia-muciniphila-amelior]] |
 | **장과민증(IBS) 유사 증상** | 모성분리·신경가소성 IBS 마우스 | 살균형이 내장과민·관련 행동장애(불안 등) 완화 | [[Jay's Knowledge Base/raw/270-meynier-2024-pasteurized-iakkermansia-muciniphilai-improves\|raw/270-meynier-2024-pasteurized-iakkermansia-muciniphilai-improves]] |
 | **5-FU 항암 독성** | BALB/c 마우스 | 살균 *A. muciniphila*가 면역 회복 및 5-fluorouracil 독성 경감 | [[Jay's Knowledge Base/raw/81-teng-pasteurized-akkermansia-muciniphila-improves-immunity-a\|raw/81-teng-pasteurized-akkermansia-muciniphila-improves-immunity-a]] |
+| **CRC + 5-FU 시너지** | HT29·HCT116·SW620 CRC cell + 정상 Hs738 | 동결건조 추출물이 **BAX↑/BCL2↓ 의존 apoptosis**·암세포 선택적 세포독성·**5-FU 시너지(용량 감량 가능)** | [[Jay's Knowledge Base/raw/539-menadi-2026-synergistic-anticancer-effects-of-akkermansia\|raw/539-menadi-2026-synergistic-anticancer-effects-of-akkermansia]] |
 | **식품알레르기** | OVA 유도 마우스 | *A. muciniphila* BAA-835이 알레르기 임상·면역·조직 지표 개선 (프로·포스트바이오틱 잠재력) | [[Jay's Knowledge Base/raw/280-miranda-2024-a-next-generation-bacteria-akkermansia-muciniph\|raw/280-miranda-2024-a-next-generation-bacteria-akkermansia-muciniph]] |
 | **테스토스테론 유도 탈모** | 마우스 등 피부 | 생균·살균 경구 투여가 테스토스테론 매개 모발 성장 억제를 완화 | [[Jay's Knowledge Base/raw/53-lee-2023-iakkermansia-muciniphilai-promotes-testosteronemedi\|raw/53-lee-2023-iakkermansia-muciniphilai-promotes-testosteronemedi]] |
 | **모체 미생물 → 자손 줄기세포** | 모체 *A. muciniphila* 조작 | 모체 마이크로바이옴이 자손의 신경·장 줄기세포 증식·분화·장기 건강에 영향 | [[Jay's Knowledge Base/raw/134-dang-2024-maternal-gut-microbiota-influence-stem-cell-functi\|raw/134-dang-2024-maternal-gut-microbiota-influence-stem-cell-functi]] |

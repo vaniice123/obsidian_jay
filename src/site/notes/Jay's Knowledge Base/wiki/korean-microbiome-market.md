@@ -89,4 +89,20 @@ Eli Lilly는 GLP-1 포트폴리오로 구축한 DTC(direct-to-consumer) 인프�
 
 미국·중국·일본 등 주요국이 2024년을 기점으로 건기식 규제를 전례 없이 강화. 일본은 '붉은 누룩(紅麹)' 사태 후 법 개정, 미국·중국도 독성·임상 데이터 요구 수준 상향. 과학적 효능 입증 없이는 해외 시장 진입이 사실상 불가능한 비관세 장벽 형성. K-푸드 업체들의 인증 확보 비용·시간이 급증 ([[Jay's Knowledge Base/raw/480-shin-2026-global-health-food-regulation-kfood\|출처]]).
 
-**출처**: [[Jay's Knowledge Base/raw/07-korean-health-supplement-microbiome-market\|raw/07-korean-health-supplement-microbiome-market]], [[Jay's Knowledge Base/raw/13-hb05p-actrii-pathway-literature-survey-and-market\|raw/13-hb05p-actrii-pathway-literature-survey-and-market]], [[Jay's Knowledge Base/raw/14-hb05p-glp1-companion-strategic-positioning\|raw/14-hb05p-glp1-companion-strategic-positioning]], [[Jay's Knowledge Base/raw/476-bayer-2026-eli-lilly-centessa-orexin-acquisition\|raw/476-bayer-2026-eli-lilly-centessa-orexin-acquisition]], [[Jay's Knowledge Base/raw/478-sharma-2026-dr-reddys-beyond-the-pill-semaglutide\|raw/478-sharma-2026-dr-reddys-beyond-the-pill-semaglutide]], [[Jay's Knowledge Base/raw/479-park-2026-samsung-biologics-glp1-cdmo-expansion\|raw/479-park-2026-samsung-biologics-glp1-cdmo-expansion]], [[Jay's Knowledge Base/raw/480-shin-2026-global-health-food-regulation-kfood\|raw/480-shin-2026-global-health-food-regulation-kfood]], [[Jay's Knowledge Base/raw/481-yoo-2026-jw-holdings-solidus-bio-vc-acquisition\|raw/481-yoo-2026-jw-holdings-solidus-bio-vc-acquisition]], [[Jay's Knowledge Base/raw/482-cheon-2026-ckd-health-earnings-functional-food-market\|raw/482-cheon-2026-ckd-health-earnings-functional-food-market]], [[Jay's Knowledge Base/raw/527-mfds-2023-korean-live-biotherapeutic-product-clinical-trial-guideline\|raw/527-mfds-2023-korean-live-biotherapeutic-product-clinical-trial-guideline]]
+### 미국 「Dietary Supplements Access Act」 발의 (2026.05)
+
+미국 상원 Sen. Kevin Cramer (R-ND)·Sen. John Curtis (R-UT) 가 2026-05-20 **건강보조식품을 HSA·FSA·HRA·Archer MSA 의 적격 의료비로 인정**하는 법안을 발의 (하원 동반 법안 별도). 2000년 IRS Publication 502 개정 이후 처방 없는 보조식품은 세제 우대 의료저축계좌 사용에서 배제돼 왔으나, 본 법안은 그 제외를 풀어 **수요 측 가격 접근성**을 개선한다.
+
+| 항목 | 내용 |
+|------|------|
+| 시행 | 2026-12-31 이후 지출분 (사실상 2027-01-01~) |
+| 연간 한도 | **1인당 $500** (부부 별도신고 시 $250) |
+| 적용 계좌 | HSA · FSA · HRA · Archer MSA |
+| 정의 | FD&C Act §201(ff) (21 U.S.C. 321(ff)) 차용 |
+| **명시적 제외** | 에너지 드링크 · 청량음료 · 탄산음료 (3종) |
+| 시장 잠재력 | 미국 HSA 약 1,470억 달러(4,000만 명) · FSA 3,700만 명 |
+| 지지 단체 | NPA, CRN, CHPA |
+
+NDI·NSF 등 사전 진입 인증 부담은 여전하지만, **통과 이후의 가격 민감도가 완화되는 흐름**으로, 프로바이오틱스·포스트바이오틱스 등 마이크로바이옴 기반 건기식 카테고리에 우호적이다. 다만 2023년 동일 취지 법안(H.R. 4794, S. 3172)이 좌초된 전례가 있어 통과 여부는 불확실 ([[Jay's Knowledge Base/raw/535-daniells-2026-senate-dietary-supplements-access-act\|출처]]).
+
+**출처**: [[Jay's Knowledge Base/raw/07-korean-health-supplement-microbiome-market\|raw/07-korean-health-supplement-microbiome-market]], [[Jay's Knowledge Base/raw/13-hb05p-actrii-pathway-literature-survey-and-market\|raw/13-hb05p-actrii-pathway-literature-survey-and-market]], [[Jay's Knowledge Base/raw/14-hb05p-glp1-companion-strategic-positioning\|raw/14-hb05p-glp1-companion-strategic-positioning]], [[Jay's Knowledge Base/raw/476-bayer-2026-eli-lilly-centessa-orexin-acquisition\|raw/476-bayer-2026-eli-lilly-centessa-orexin-acquisition]], [[Jay's Knowledge Base/raw/478-sharma-2026-dr-reddys-beyond-the-pill-semaglutide\|raw/478-sharma-2026-dr-reddys-beyond-the-pill-semaglutide]], [[Jay's Knowledge Base/raw/479-park-2026-samsung-biologics-glp1-cdmo-expansion\|raw/479-park-2026-samsung-biologics-glp1-cdmo-expansion]], [[Jay's Knowledge Base/raw/480-shin-2026-global-health-food-regulation-kfood\|raw/480-shin-2026-global-health-food-regulation-kfood]], [[Jay's Knowledge Base/raw/481-yoo-2026-jw-holdings-solidus-bio-vc-acquisition\|raw/481-yoo-2026-jw-holdings-solidus-bio-vc-acquisition]], [[Jay's Knowledge Base/raw/482-cheon-2026-ckd-health-earnings-functional-food-market\|raw/482-cheon-2026-ckd-health-earnings-functional-food-market]], [[Jay's Knowledge Base/raw/527-mfds-2023-korean-live-biotherapeutic-product-clinical-trial-guideline\|raw/527-mfds-2023-korean-live-biotherapeutic-product-clinical-trial-guideline]], [[Jay's Knowledge Base/raw/535-daniells-2026-senate-dietary-supplements-access-act\|raw/535-daniells-2026-senate-dietary-supplements-access-act]]
