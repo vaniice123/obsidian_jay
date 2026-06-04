@@ -23,6 +23,7 @@
 - 초기 *Akkermansia* spp. 풍부도가 심대사(cardiometabolic) 반응성과 연관 → **responder 바이오마커** 가능성
 - 치료 관련 중대 이상반응 없음. 한계: 단기 중재, 활성 성분 결손 변형주(modified strain) 대조군 부재. ClinicalTrials.gov NCT05417360
 - 💡 GLP-1RA 중단 후 체중 반등(50%+)·식이 후 weight regain이라는 임상 공백에 직접 대응 — cf. [[Jay's Knowledge Base/wiki/obesity-body-composition\|obesity-body-composition]]의 PTER 억제제(GLP-1 중단 후 반등 방지)와 같은 문제 공간. Depommier 2019(인슐린 감수성 proof-of-concept) 이후 **살균 *A. muciniphila*의 두 번째 주요 인체 대사 효능 RCT**
+- 📰 *Nature Reviews Microbiology* Research Highlight (Taglialegna 2026, [[Jay's Knowledge Base/raw/548-taglialegna-2026-keeping-off-the-weight-with-akkermansia\|raw/548-taglialegna-2026-keeping-off-the-weight-with-akkermansia]])이 본 RCT를 "체중 감량 유지 전략으로서의 살균 *A. muciniphila* MucT"로 소개·강조 — 학계의 주목도를 보여주는 후속 시그널
 
 ### 인체 근거 토대 및 장외 임상
 
@@ -76,6 +77,16 @@ GLP-1RA 효능을 숙주 중심 대사 틀로만 보던 관점에서 벗어나 *
 - GLP-1RA 자체의 장내 면역조절·세포보호 작용까지 통합하는 gut–brain–microbiome 신경내분비 축 관점
 
 → *A. muciniphila*가 GLP-1RA 병용 시 농축되는 핵심 유익 taxa로 명시되며, [[Jay's Knowledge Base/wiki/akkermansia-mechanisms\|Yoon 2021 내인성 GLP-1 분비 인자]]·위 Gao 2026 병용 데이터와 개념적으로 합치한다. 단 두 편 모두 **review/opinion 수준**으로 1차 데이터는 아님 ([[Jay's Knowledge Base/raw/529-chakrabarti-2026-decoding-the-gut-brain-microbiome-axis-in-glp-1\|raw/529-chakrabarti-2026-decoding-the-gut-brain-microbiome-axis-in-glp-1]], [[Jay's Knowledge Base/raw/530-chakrabarti-2026-glp-1-therapy-through-a-microbiome-lens\|raw/530-chakrabarti-2026-glp-1-therapy-through-a-microbiome-lens]]).
+
+---
+
+### Akkermansia ↔ GLP-1 양방향 피드백 루프 — T2DM·MASLD/MASH (Dinkov 2026)
+
+Dinkov (2026, *Biomedicines*, [[Jay's Knowledge Base/raw/545-dinkov-2026-akkermansia-muciniphila-and-glp-1-based-therapies\|raw/545-dinkov-2026-akkermansia-muciniphila-and-glp-1-based-therapies]])는 PubMed·Scopus·Web of Science 구조적 검색(174건 → 26편: 전임상 23·임상 3)으로 *A. muciniphila*를 **GLP-1 매개 마이크로바이옴 리모델링의 표적인 동시에 MASLD/MASH 간보호의 독립적 조절자**로 동시 자리매김하는 narrative review.
+
+- **양방향(bidirectional) 루프**: liraglutide·semaglutide·exenatide·tirzepatide가 *A. muciniphila* 풍부도를 증가시키고, 역으로 *A. muciniphila*는 **P9/ICAM-2 축**을 통해 내인성 GLP-1 분비를 촉진 → **가설적 양성 피드백 루프(positive feedback loop)** 형성 (cf. [[Jay's Knowledge Base/wiki/akkermansia-mechanisms\|Yoon 2021 P9 분비 GLP-1 유도 단백질]])
+- **MASLD/MASH 간보호**: 인슐린 저항성·내장비만·만성 저등급 염증이 T2DM과 병태생리적으로 중첩되며, *A. muciniphila*가 전임상 MASLD/MASH 모델에서 간보호 잠재력을 보임 → 간경변·간세포암(HCC) 진행 억제 맥락의 신규 적응증 (적응증 상세 → [[Jay's Knowledge Base/wiki/akkermansia-indications-applications\|akkermansia-indications-applications]])
+- **한계**: 26편 중 임상은 3편뿐인 narrative review, P9/ICAM-2 루프는 가설 수준 → **microbiome-guided MASLD/MASH 임상시험** 필요. 위 Gao 2026 병용 데이터·Chakrabarti 2026 review framing과 개념적으로 합치하나 1차 인체 데이터는 아님.
 
 ---
 

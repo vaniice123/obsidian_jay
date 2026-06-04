@@ -25,8 +25,13 @@
 
 분리 균주의 직접적 효능 검증(CRC·살모넬라·대장염), 분비 산물(박테리오신·CFS)과 OMV를 활용한 기전적 근거가 축적되면서, *O. splanchnicus*는 균체뿐 아니라 포스트바이오틱·OMV 기반 제형까지 확장 가능한 NGP 후보로서의 가치를 지닌다. 다만 현 근거는 주로 전임상(전임상 in vitro/in vivo) 단계로, 임상 검증과 안정적 대량배양(anaerobic 대량배양) 공정 확립이 추가로 요구된다.
 
+## 바이오계면활성제·환경 응용 (참고)
+
+*O. splanchnicus* DSM 20712가 생산하는 **바이오계면활성제(biosurfactant)**가 오염 토양에서 구리·아연·납 등 중금속 제거에 사용되어, 화학 세척제(KNO₃·Ca(NO₃)₂·NaOH) 대비 제거 효율이 비교 평가됐다 ([[Jay's Knowledge Base/raw/191-ogbulie-2020-comparative-heavy-metal-removal-efficiencies-of\|raw/191-ogbulie-2020-comparative-heavy-metal-removal-efficiencies-of]]). 장내 기능과 직접 관련은 없으나, 이 균이 **계면활성·생체분자 생산능**을 가진다는 점은 배양·정제 등 바이오프로세스 측면의 부가 특성으로 참고할 수 있다 (cf. [[Jay's Knowledge Base/wiki/bioprocess-engineering\|bioprocess-engineering]]).
+
 ## 관련 raw/ 소스
 
+- [[Jay's Knowledge Base/raw/191-ogbulie-2020-comparative-heavy-metal-removal-efficiencies-of\|raw/191-ogbulie-2020-comparative-heavy-metal-removal-efficiencies-of]] — DSM 20712 유래 바이오계면활성제의 중금속(Cu·Zn·Pb) 제거 효율 (환경 응용, 참고)
 - [[Jay's Knowledge Base/raw/192-oh-2021-cell-free-supernatant-of-odoribacter-splanchnicus-is\|raw/192-oh-2021-cell-free-supernatant-of-odoribacter-splanchnicus-is]] — 사람 분변 분리 *O. splanchnicus* 무세포 상등액의 항대장암 활성 (in vitro/in vivo)
 - [[Jay's Knowledge Base/raw/193-hajra-2024-iodoribacter-splanchnicusi-mitigates-isalmonella\|raw/193-hajra-2024-iodoribacter-splanchnicusi-mitigates-isalmonella]] — 분비 박테리오신을 통한 살모넬라 장염·장혈관 장벽 보호 (마우스)
 - [[Jay's Knowledge Base/raw/194-hiippala-2020-novel-odoribacter-splanchnicus-strain-and-its\|raw/194-hiippala-2020-novel-odoribacter-splanchnicus-strain-and-its]] — 신규 균주 및 외막소포(OMV)의 시험관 면역조절 효과

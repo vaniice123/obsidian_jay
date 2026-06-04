@@ -97,6 +97,14 @@
 - **Pasteurized *A. muciniphila* MucT** (n=90, 24주): 저열량식 ≥8% 감량 후 보충 → 체중 재증가 1.2 vs 3.2 kg (P=0.012), 순감량 3.1 kg 더 큼 (P=0.009). **소~중형 보조효과**, 비약물·무바늘, 기저 *Akkermansia* 낮을수록 효과↑ (상세 → 본 문서 [[Jay's Knowledge Base/wiki/obesity-body-composition#살균 *A. muciniphila* — 체중 감량 후 유지 RCT (Mount 2026, *Nature Medicine*)\|MucT 항목]])
 - **통합 해석**: 두 접근은 효과 크기(약물 ≫ 균주), 기전(GLP-1 수용체 직접 자극 vs 장-대사 축 조절), 대상, 규모에서 대비를 이루나 **경쟁이 아닌 상보 관계**. 향후 표준은 *주사 incretin으로 강력 감량 → 경구 GLP-1RA + 마이크로바이옴 보조 + 생활습관으로 평생 유지*라는 하이브리드·바이오마커 기반 개인화 모형으로 수렴할 가능성. 기저 microbiome / GLP-1 반응자 상태에 따른 층화([[Jay's Knowledge Base/wiki/microbiome-analysis-technologies\|microbiome 진단]])와 살균 *A. muciniphila* 기반 [[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|포스트바이오틱]]의 "post-injection maintenance" 카테고리 근거를 강화
 
+### GLP-1 중단 후 체중 유지 — 근거 종합 (Moiz 2026)
+
+GLP-1 작용제 중단 후 체중 반등은 일관되게 관찰되는 현상이며, Moiz et al. (2026, *eClinicalMedicine*, [[Jay's Knowledge Base/raw/546-moiz-2026-weight-maintenance-after-discontinuation-of-glp-1\|raw/546-moiz-2026-weight-maintenance-after-discontinuation-of-glp-1]])은 **GLP-1 치료 중단 이후의 체중 유지(weight maintenance after discontinuation)** 근거를 종합한다. 약물 의존적 감량의 본질적 한계를 부각하며, 중단 후 유지를 위한 행동·생활습관·후속 약리·보조 전략의 필요성을 정리 → 위 Orforglipron(주사→경구 전환)·살균 *A. muciniphila* MucT(Mount 2026)·PTER 억제제와 함께 **"post-injection maintenance" 문제 공간**을 규정하는 근거. 마이크로바이옴 기반 경구 보조 전략이 이 공백의 비약물 축으로 자리매김할 수 있음을 시사. cf. [[Jay's Knowledge Base/wiki/glp1-muscle-loss\|glp1-muscle-loss]]
+
+### 항비만 신약개발의 역사와 차세대 방향 (Müller 2022)
+
+Müller et al. (2022, *Nature Reviews Drug Discovery*, [[Jay's Knowledge Base/raw/347-muller-2022-anti-obesity-drug-discovery-advances-and-challenge\|raw/347-muller-2022-anti-obesity-drug-discovery-advances-and-challenge]])은 반세기에 걸친 항비만제(anti-obesity medication, AOM) 개발사를 정리하며, 과거 AOM이 **불충분한 효능과 안전성 논란**으로 대부분 실패·퇴출됐음을 짚는다. 최근 **장-뇌 소통(gut–brain communication)**에 대한 분자 수준 이해 심화가 안전하게 크고 지속적인 체중 감량을 달성하는 차세대 AOM(GLP-1 계열·다중 incretin 등) 추구를 견인하고 있다고 평가 → 본 문서의 GLP-1·incretin 약물 논의([[Jay's Knowledge Base/wiki/glp1-muscle-loss\|glp1-muscle-loss]]·Davies 2026·Aronne 2026)와 [[Jay's Knowledge Base/wiki/gut-brain-axis\|장-뇌 축]] 기반 식욕·대사 조절의 **역사적·기전적 배경**을 제공하는 foundational 종설.
+
 ### GLP-1/GIP 이중 표적 약물의 진화 (Davies 2026)
 
 비만 약물 시장은 GLP-1R 단일 표적(semaglutide)에서 **GIPR 이중 표적**(tirzepatide: GIPR 작용; maridebart cafraglutide: GIPR 길항)으로 빠르게 분기 중. 두 정반대 방향이 모두 semaglutide 대비 강력한 추가 감량을 달성하는 **이중 표적 패러독스**가 핵심 미해결 쟁점이며, 시상하부·뇌간 회로 cross-talk·desensitization 비대칭이 후보 기전으로 제시된다. 본 리뷰는 약물 개발사·임상 의사·시장 분석에 차세대 incretin 약물의 효력 비교·작용 기전 통합 프레임을 제공 (Davies et al., *Annu. Rev. Nutr.* 2026, [[Jay's Knowledge Base/raw/537-davies-2026-the-paradox-and-future-of-glp-1gip-combination\|raw/537-davies-2026-the-paradox-and-future-of-glp-1gip-combination]]). 체성분 영향은 [[Jay's Knowledge Base/wiki/glp1-muscle-loss#GLP-1/GIP 이중 표적 — 차세대 incretin 약물 패러독스 (Davies 2026)\|glp1-muscle-loss 상세]] 참조.
@@ -124,6 +132,7 @@ UC San Diego Pritikin Intensive Cardiac Rehabilitation(ICR) 후향 코호트(n=4
 - [[Jay's Knowledge Base/raw/88-kopczynska-2024-the-potential-of-short-chain-fatty-acid-epig\|raw/88-kopczynska-2024-the-potential-of-short-chain-fatty-acid-epig]]
 - [[Jay's Knowledge Base/raw/94-kopczynska-2024-the-potential-of-short-chain-fatty-acid-epig\|raw/94-kopczynska-2024-the-potential-of-short-chain-fatty-acid-epig]]
 - [[Jay's Knowledge Base/raw/127-maretty-2025-proteomic-changes-upon-treatment-with-semagluti\|raw/127-maretty-2025-proteomic-changes-upon-treatment-with-semagluti]]
+- [[Jay's Knowledge Base/raw/347-muller-2022-anti-obesity-drug-discovery-advances-and-challenge\|raw/347-muller-2022-anti-obesity-drug-discovery-advances-and-challenge]] — 항비만제(AOM) 개발사·실패 교훈·장-뇌 소통 기반 차세대 AOM 방향 종설 (*Nature Reviews Drug Discovery* 2022)
 - [[Jay's Knowledge Base/raw/489-fu-2026-a-small-molecule-pter-selective-inhibitor-reduces-food\|raw/489-fu-2026-a-small-molecule-pter-selective-inhibitor-reduces-food]] — PTER 선택적 저분자 억제제 PTERi, N-acetyltaurine 경로, GLP1-RA 병용 및 중단 후 반등 방지
 - [[Jay's Knowledge Base/raw/490-chmurska-2026-relationship-between-akkermansia-muciniphila-abundance\|raw/490-chmurska-2026-relationship-between-akkermansia-muciniphila-abundance]] — 운동·*A. muciniphila*·체지방 감소 관계 리뷰 (동물/인간 비교, 기전)
 - [[Jay's Knowledge Base/raw/491-gao-2026-combination-of-glp-1-receptor-agonist-and-akkermansia\|raw/491-gao-2026-combination-of-glp-1-receptor-agonist-and-akkermansia]] — semaglutide + Akk11 병용 db/db T2D·MASLD 대사 개선 (체지방·간지질·LPS·내인성 GLP-1↑). 단, lean mass는 오히려 추가 감소·체성분 도구(TD-NMR) 한계로 근손실 보존 미입증, "synergy" 통계 미검증
@@ -135,6 +144,8 @@ UC San Diego Pritikin Intensive Cardiac Rehabilitation(ICR) 후향 코호트(n=4
 - [[Jay's Knowledge Base/raw/15-nature-medicine-2026-orforglipron-vs-akkermansia-muct-weight-maintenance-comparative\|raw/15-nature-medicine-2026-orforglipron-vs-akkermansia-muct-weight-maintenance-comparative]] — Orforglipron(ATTAIN-MAINTAIN) vs 살균 *A. muciniphila* MucT(Mount 2026) **체중 유지 전략 비교 분석 리뷰**: 두 2026 *Nature Medicine* RCT의 효과 크기·기전·대상·규제 경로 체계적 대비, 약물–마이크로바이옴 상보 및 바이오마커 기반 개인화 maintenance 청사진
 - [[Jay's Knowledge Base/raw/537-davies-2026-the-paradox-and-future-of-glp-1gip-combination\|raw/537-davies-2026-the-paradox-and-future-of-glp-1gip-combination]] — GLP-1/GIP 이중 표적 incretin 약물(tirzepatide, maridebart cafraglutide) 효능·기전 종설, GIPR 작용/길항 패러독스 (*Annu. Rev. Nutr.* 2026)
 - [[Jay's Knowledge Base/raw/538-jennings-2026-body-composition-changes-in-patients-on-glp-1-receptor\|raw/538-jennings-2026-body-composition-changes-in-patients-on-glp-1-receptor]] — Pritikin ICR 후향 코호트, 운동·영양 통합 시 GLP-1 RA 사용군 SMM 변화 비사용군과 무차이 (*Eur. J. Prev. Cardiol.* 2026)
+- [[Jay's Knowledge Base/raw/546-moiz-2026-weight-maintenance-after-discontinuation-of-glp-1\|raw/546-moiz-2026-weight-maintenance-after-discontinuation-of-glp-1]] — GLP-1 치료 중단 후 체중 유지 근거 종합, "post-injection maintenance" 문제 공간 규정 (*eClinicalMedicine* 2026)
+- [[Jay's Knowledge Base/raw/548-taglialegna-2026-keeping-off-the-weight-with-akkermansia\|raw/548-taglialegna-2026-keeping-off-the-weight-with-akkermansia]] — Mount 2026 살균 *A. muciniphila* MucT 체중 유지 RCT를 다룬 *Nature Reviews Microbiology* Research Highlight (2026)
 
 ---
 

@@ -92,9 +92,14 @@ DSS-유도 궤양성 대장염(UC) 마우스 모델에서 살균형 [[Jay's Know
 
 GBA1 유전자 변이는 PD의 가장 흔한 위험인자(최대 30배)이지만 보유자 중 약 20%만 발병한다. Menozzi et al. (2026)은 **PD 환자 271 + GBA1 변이 비발현 보유자(GBA-NMC) 43 + 건강군 150**의 분변 메타지노믹스를 분석해, GBA-NMC 군 장내 microbiome 조성의 **약 25%가 건강군과 PD 환자의 중간 상태**임을 보였다. 이 신호는 PD 환자의 질병 진행도 및 GBA-NMC·건강군의 prodromal 증상과 유의 상관을 가지며, **미국·한국·터키 3개 독립 코호트(PD 638 + 건강 319)에서 재현**됨. 결과적으로 장내 microbiome이 PD의 **premanifest 단계 조기 마커**로 활용 가능하며, 유전·비유전 위험군 모두를 일반 인구에서 식별할 수 있음을 시사한다. [[Jay's Knowledge Base/wiki/gut-brain-axis\|장-뇌 축]] 참조.
 
+### 공생균 유래 세로토닌이 약물·유전자 전달 효율을 조절 (Wang 2026, *Science*)
+
+장내 미생물이 **in vivo 전달 시스템(IDS; 합성·바이러스 벡터)**의 효율을 좌우하는 핵심 조절자로 규명됐다. Wang et al. (2026, *Science*, [[Jay's Knowledge Base/raw/288-wang-2026-commensal-driven-serotonin-production-modulates-in\|raw/288-wang-2026-commensal-driven-serotonin-production-modulates-in]])은 장 상피세포가 미생물 자극을 감지해 **세로토닌(serotonin) 생산**을 통해 원격으로 간 Kupffer 세포를 활성화하고, 이것이 간에서 IDS를 청소(clearance)함으로써 전달 효율을 떨어뜨림을 보였다. 수용체 차단 또는 식이 중재로 세로토닌 신호를 일시 억제하면 약물·유전자 전달이 현저히 개선된다. → 마이크로바이옴–숙주 상호작용이 **유전자·핵산 치료제의 전달성**까지 결정한다는 새 패러다임으로, 장 세로토닌(전신 세로토닌의 ~95% 기원, [[Jay's Knowledge Base/wiki/gut-brain-axis\|gut-brain-axis]])의 역할을 약물전달 영역으로 확장. 임상 적용 시 마이크로바이옴·세로토닌 상태가 전달 효율의 교란변수가 될 수 있음을 시사 (중복 raw: [[Jay's Knowledge Base/raw/289-wang-2026-commensal-driven-serotonin-production-modulates-in\|raw/289-wang-2026-commensal-driven-serotonin-production-modulates-in]]).
+
 ## 출처
 
 - [[Jay's Knowledge Base/raw/01-microbiome-health-disease-overview\|raw/01-microbiome-health-disease-overview]]
+- [[Jay's Knowledge Base/raw/288-wang-2026-commensal-driven-serotonin-production-modulates-in\|raw/288-wang-2026-commensal-driven-serotonin-production-modulates-in]] — 공생균 유래 세로토닌이 Kupffer 세포 활성화로 in vivo 약물·유전자 전달 효율 조절 (*Science* 2026; 중복 [[Jay's Knowledge Base/raw/289-wang-2026-commensal-driven-serotonin-production-modulates-in\|raw/289-wang-2026-commensal-driven-serotonin-production-modulates-in]])
 - [[Jay's Knowledge Base/raw/510-hamaguchi-2026-bacterial-constipation-mucin-degrading-intestinal\|raw/510-hamaguchi-2026-bacterial-constipation-mucin-degrading-intestinal]]
 - [[Jay's Knowledge Base/raw/511-han-2025-pasteurized-akkermansia-muciniphila-timepie001\|raw/511-han-2025-pasteurized-akkermansia-muciniphila-timepie001]]
 - [[Jay's Knowledge Base/raw/516-menozzi-2026-microbiome-signature-of-parkinsons-disease-in-healthy\|raw/516-menozzi-2026-microbiome-signature-of-parkinsons-disease-in-healthy]]

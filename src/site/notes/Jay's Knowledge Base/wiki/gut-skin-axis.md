@@ -29,6 +29,7 @@
   - 유전역학적 인과 관계 확인 — 특정 미생물 분류군이 AD 위험을 높이거나 낮춤 (Mao et al., 2023; Chen et al., 2024)
 - **주사(rosacea) 및 기타 피부 질환**: 멘델 무작위 배정 분석에서 장내 미생물과의 인과적 연관성 확인
 - **피부 줄기세포의 염증 기억(epigenetic memory)**: 피부 줄기세포는 DNA 후성유전적 변형(epigenetic marks)을 통해 과거 염증 경험을 세대 간 전달한다. 건선(psoriasis) 환자에서 동일 부위 재발이 반복되는 이유. AI 모델로 장기 기억을 유도하는 유전자 서열을 동정. 장-피부 축을 통한 만성 염증이 피부 줄기세포의 후성유전 궤적을 영구 변경할 수 있음을 시사 (Fuchs lab, *Science* 2026; [[Jay's Knowledge Base/raw/484-cameron-2026-skin-cells-inflammation-memory-epigenetics\|출처]])
+- **광노화/UVB 피부 손상 — 살균 *A. muciniphila* paraprobiotic (Song 2026)**: UVB 노출 인간 각질세포 및 SKH-1 무모 마우스에서 **살균(pasteurized) *A. muciniphila***가 표피 탈수·주름 형성을 완화하고 filaggrin·aquaporin·collagen type I alpha 1(COL1A1) 등 피부 장벽·수분 관련 유전자 발현을 회복. UVB 유발 염증 반응 억제 및 항산화효소 활성 회복과 함께 **JNK·p38 인산화 감소·NF-κB p65 핵 전위 억제**(MAPK·NF-κB 신호 감쇠)를 동반 → 살균 *A. muciniphila*가 광손상 조건에서 피부 수분·장벽 개선 paraprobiotic 소재가 될 수 있다는 **첫 전임상 근거** ([[Jay's Knowledge Base/raw/547-song-2026-pasteurized-akkermansia-muciniphila-hb05-improves\|raw/547-song-2026-pasteurized-akkermansia-muciniphila-hb05-improves]], *Biomedicine & Pharmacotherapy* 2026). 이는 [[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|포스트바이오틱]]의 상피 재생·콜라겐 리모델링 국소 효과(Babysulatha 2026)와 정합하며, 적응증 맥락은 [[Jay's Knowledge Base/wiki/akkermansia-indications-applications\|akkermansia-indications-applications]] 참조
 - **치료 전략**:
   - 프로바이오틱스 경구 투여 (*F. prausnitzii*, *A. muciniphila*, *Lactobacillus* spp.)
   - 프리바이오틱스 및 식이 조절 (지중해식 식단, 식이섬유)
@@ -48,10 +49,12 @@
 - [[Jay's Knowledge Base/raw/120-thye-2022-gutskin-axis-unravelling-the-connection-between-th\|raw/120-thye-2022-gutskin-axis-unravelling-the-connection-between-th]]
 - [[Jay's Knowledge Base/raw/184-xiao-2024-ieubacterium-rectalei-is-a-potential-marker-of-alt\|raw/184-xiao-2024-ieubacterium-rectalei-is-a-potential-marker-of-alt]]
 - [[Jay's Knowledge Base/raw/484-cameron-2026-skin-cells-inflammation-memory-epigenetics\|raw/484-cameron-2026-skin-cells-inflammation-memory-epigenetics]]
+- [[Jay's Knowledge Base/raw/547-song-2026-pasteurized-akkermansia-muciniphila-hb05-improves\|raw/547-song-2026-pasteurized-akkermansia-muciniphila-hb05-improves]] — 살균 *A. muciniphila*가 UVB 유도 피부 탈수·장벽 손상 개선(filaggrin·aquaporin·COL1A1↑, JNK/p38·NF-κB↓), 광노화 paraprobiotic 첫 전임상 근거 (*Biomedicine & Pharmacotherapy* 2026)
 
 ## 관련 wiki 링크
 
 - [[Jay's Knowledge Base/wiki/akkermansia-muciniphila\|akkermansia-muciniphila]]
+- [[Jay's Knowledge Base/wiki/akkermansia-indications-applications\|akkermansia-indications-applications]]
 - [[Jay's Knowledge Base/wiki/dysbiosis\|dysbiosis]]
 - [[Jay's Knowledge Base/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]]
 - [[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]]
