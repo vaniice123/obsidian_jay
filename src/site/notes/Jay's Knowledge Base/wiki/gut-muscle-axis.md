@@ -105,6 +105,7 @@ GLP-1 수용체 작용제(semaglutide, tirzepatide)의 체중 감량분 중 **25
 - **ActRII → SMAD2/3 경로**: myostatin/activin이 ActRII에 결합 → SMAD2/3 인산화 → Atrogin-1/MuRF1 활성화(근단백 분해) + PI3K/Akt/mTOR 억제(근단백 합성 차단)
 - **Follistatin**: 가장 강력한 자연 억제자 — myostatin에 직접 결합하여 ActRII 접근 차단
 - **마이크로바이옴 접근**: 살균 [[Jay's Knowledge Base/wiki/akkermansia-muciniphila\|akkermansia-muciniphila]] 포스트바이오틱이 follistatin 수치를 유의하게 상승(RCT p=0.0063)시키고, SCFA → Akt/mTOR 활성화, 장벽 강화 → 염증성 myostatin 발현 억제 등 간접 경로로 ActRII 축에 수렴
+- **재생 축의 약리적 대응 (Nalbandian 2026)**: ActRII·포스트바이오틱(근단백 항상성)과 별도로, prostaglandin 분해 효소 **15-PGDH 억제제(PGDHi)** 가 semaglutide 병용 시 근육 줄기세포(muscle stem cell) 기능·근섬유 성장을 자극해 체중 감량을 훼손하지 않으면서 손상 후 근육 재생·근력을 회복 — GLP-1 치료 중 근육 보존의 상보적 기전 ([[Jay's Knowledge Base/raw/556-nalbandian-2026-15-pgdh-inhibition-promotes-muscle-repair-and-strength\|raw/556-nalbandian-2026-15-pgdh-inhibition-promotes-muscle-repair-and-strength]], *PNAS* 2026; 상세 [[Jay's Knowledge Base/wiki/glp1-muscle-loss\|glp1-muscle-loss]])
 - 상세 → [[Jay's Knowledge Base/wiki/glp1-muscle-loss\|glp1-muscle-loss]]
 
 ## 치료적 접근

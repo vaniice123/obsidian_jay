@@ -96,6 +96,10 @@ GBA1 유전자 변이는 PD의 가장 흔한 위험인자(최대 30배)이지만
 
 장내 미생물이 **in vivo 전달 시스템(IDS; 합성·바이러스 벡터)**의 효율을 좌우하는 핵심 조절자로 규명됐다. Wang et al. (2026, *Science*, [[Jay's Knowledge Base/raw/288-wang-2026-commensal-driven-serotonin-production-modulates-in\|raw/288-wang-2026-commensal-driven-serotonin-production-modulates-in]])은 장 상피세포가 미생물 자극을 감지해 **세로토닌(serotonin) 생산**을 통해 원격으로 간 Kupffer 세포를 활성화하고, 이것이 간에서 IDS를 청소(clearance)함으로써 전달 효율을 떨어뜨림을 보였다. 수용체 차단 또는 식이 중재로 세로토닌 신호를 일시 억제하면 약물·유전자 전달이 현저히 개선된다. → 마이크로바이옴–숙주 상호작용이 **유전자·핵산 치료제의 전달성**까지 결정한다는 새 패러다임으로, 장 세로토닌(전신 세로토닌의 ~95% 기원, [[Jay's Knowledge Base/wiki/gut-brain-axis\|gut-brain-axis]])의 역할을 약물전달 영역으로 확장. 임상 적용 시 마이크로바이옴·세로토닌 상태가 전달 효율의 교란변수가 될 수 있음을 시사 (중복 raw: [[Jay's Knowledge Base/raw/289-wang-2026-commensal-driven-serotonin-production-modulates-in\|raw/289-wang-2026-commensal-driven-serotonin-production-modulates-in]]).
 
+### 장 유래 세균 세포외소포(BEV) — 숙주 염증·심혈관대사 질환의 "미생물 암흑물질" (Oliver 2026, *Gut Microbes*)
+
+장내 세균이 분비하는 세포외소포(bacterial extracellular vesicles, BEV; 세균 세포외소포)는 그동안 충분히 인식되지 못한 **"미생물 암흑물질(microbial dark matter)"** 로, 장벽(gut barrier)을 통과해 전신으로 이동하며 숙주 염증과 심혈관대사 질환(cardiometabolic disease)에 기여한다는 종설이 제시됐다 ([[Jay's Knowledge Base/raw/557-oliver-2026-gut-derived-bacterial-extracellular-vesicles-the\|Oliver 2026, *Gut Microbes*]]). BEV는 단백질·지질·핵산 등 세균 유래 화물을 원격 조직으로 운반하는 매개체로, [[Jay's Knowledge Base/wiki/dysbiosis\|dysbiosis]]가 대사·심혈관 질환으로 전이되는 새로운 기전 축을 제시한다.
+
 ## 출처
 
 - [[Jay's Knowledge Base/raw/01-microbiome-health-disease-overview\|raw/01-microbiome-health-disease-overview]]
@@ -103,6 +107,7 @@ GBA1 유전자 변이는 PD의 가장 흔한 위험인자(최대 30배)이지만
 - [[Jay's Knowledge Base/raw/510-hamaguchi-2026-bacterial-constipation-mucin-degrading-intestinal\|raw/510-hamaguchi-2026-bacterial-constipation-mucin-degrading-intestinal]]
 - [[Jay's Knowledge Base/raw/511-han-2025-pasteurized-akkermansia-muciniphila-timepie001\|raw/511-han-2025-pasteurized-akkermansia-muciniphila-timepie001]]
 - [[Jay's Knowledge Base/raw/516-menozzi-2026-microbiome-signature-of-parkinsons-disease-in-healthy\|raw/516-menozzi-2026-microbiome-signature-of-parkinsons-disease-in-healthy]]
+- [[Jay's Knowledge Base/raw/557-oliver-2026-gut-derived-bacterial-extracellular-vesicles-the\|raw/557-oliver-2026-gut-derived-bacterial-extracellular-vesicles-the]] — 장 유래 세균 세포외소포(BEV)가 "미생물 암흑물질"로서 장벽을 넘어 숙주 염증·심혈관대사 질환에 기여 (*Gut Microbes* 2026)
 - [[Jay's Knowledge Base/raw/541-zeng-2026-temporal-variations-of-the-gut-microbiome-in-human\|raw/541-zeng-2026-temporal-variations-of-the-gut-microbiome-in-human]] — 인간 장내 마이크로바이옴의 시간 변동 종설 (*The Lancet Microbe* 2026): 단일 시점 sampling의 한계, 종단 설계의 필요성, prodromal·중재 효능 평가의 baseline 안정성 가정 재고
 - [[Jay's Knowledge Base/raw/68-righi-2024-gut-microbiome-disruption-following-sars-cov-2-a\|raw/68-righi-2024-gut-microbiome-disruption-following-sars-cov-2-a]] — SARS-CoV-2 감염 후 장내 마이크로바이옴 교란 리뷰
 - [[Jay's Knowledge Base/raw/78-zhu-a-spatial-multi-modal-dissection-of-host-microbiome-inte\|raw/78-zhu-a-spatial-multi-modal-dissection-of-host-microbiome-inte]] — 대장염 조직 미세환경의 공간 다중모달 숙주–미생물 해부

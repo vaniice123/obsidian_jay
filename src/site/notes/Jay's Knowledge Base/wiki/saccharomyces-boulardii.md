@@ -19,6 +19,10 @@
 
 *S. boulardii*는 생균 자체의 효능을 넘어, 치료적 응용 가치를 지닌 분자(molecules with biotherapeutical applications)를 발현하는 대안적 발현 시스템(alternative expression system)으로서의 활용 가능성이 제안된다. 위장관 환경에서 생존하는 식용 효모를 살아있는 약물 전달체(engineered delivery)로 공학화하면, 항원·치료 단백질 등을 장 점막에 직접 전달하는 경구 바이오의약품 플랫폼으로 발전할 수 있다 [[Jay's Knowledge Base/raw/212-douradinha-v14-saccharomyces-boulardii-as-an-alternative-exp\|raw/212-douradinha-v14-saccharomyces-boulardii-as-an-alternative-exp]]. 이는 [[Jay's Knowledge Base/wiki/microbiome-therapeutics\|microbiome-therapeutics]]에서 다루는 공학화된 살아있는 치료제(engineered live biotherapeutics) 흐름과 연결된다.
 
+## SCFA 분비 프로파일
+
+*S. boulardii* CNCM I-745는 SCFA를 능동적으로 분비하는 균주로, HPLC-MS/MS 정량에서 **아세트산(acetic acid)에 더해 프로피온산(propionic acid)·부티르산(butyric acid)까지 생산하는, 검사된 상용 프로바이오틱 9종 중 단 2종에 속하는 균주**로 확인됐다(나머지 한 종은 *Bacillus clausii*). 대다수 균주가 아세트산만 분비하는 것과 대비되어, 효모 프로바이오틱으로서의 차별적 대사 기여를 시사한다 ([[Jay's Knowledge Base/raw/550-calvigioni-2023-hplc-ms-ms-quantification-of-short-chain-fatty-acids\|Calvigioni 2023, *Front. Microbiol.*]]). [[Jay's Knowledge Base/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]] 참조.
+
 ## 안전성 주의 (취약군 효모 패혈증)
 
 프로바이오틱 효모는 일반적으로 안전하지만, 미숙아(premature infants)·면역저하 환자 등 취약군에서는 위험이 보고되었다. 미숙아에게 *S. boulardii* 프로바이오틱을 투여한 후 *Saccharomyces cerevisiae* 패혈증(sepsis)이 발생한 사례가 보고되어, 중심정맥관 보유·면역저하·중증 환자에서의 사용 시 진균혈증 위험을 반드시 고려해야 한다 [[Jay's Knowledge Base/raw/213-kim-2011-saccharomyces-cereviciae-sepsis-after-treatment-of\|raw/213-kim-2011-saccharomyces-cereviciae-sepsis-after-treatment-of]]. 따라서 적응증과 대상군을 명확히 한 위험-편익 평가가 임상 적용의 전제 조건이다.
@@ -29,6 +33,7 @@
 - [[Jay's Knowledge Base/raw/211-reya-2019-inulin-induced-co-aggregation-of-isaccharomyces-bo\|raw/211-reya-2019-inulin-induced-co-aggregation-of-isaccharomyces-bo]] — 이눌린 유도 병원성 세균 공응집, 신바이오틱 잠재력
 - [[Jay's Knowledge Base/raw/212-douradinha-v14-saccharomyces-boulardii-as-an-alternative-exp\|raw/212-douradinha-v14-saccharomyces-boulardii-as-an-alternative-exp]] — 치료분자 발현용 대안적 효모 발현 시스템 (공학화 전달 플랫폼)
 - [[Jay's Knowledge Base/raw/213-kim-2011-saccharomyces-cereviciae-sepsis-after-treatment-of\|raw/213-kim-2011-saccharomyces-cereviciae-sepsis-after-treatment-of]] — 미숙아에서 *S. boulardii* 투여 후 효모 패혈증 사례 (안전성 주의)
+- [[Jay's Knowledge Base/raw/550-calvigioni-2023-hplc-ms-ms-quantification-of-short-chain-fatty-acids\|raw/550-calvigioni-2023-hplc-ms-ms-quantification-of-short-chain-fatty-acids]] — *S. boulardii* CNCM I-745가 아세트산·프로피온산·부티르산을 분비 (9종 중 후자 2종 생산하는 단 2균주)
 
 ## 관련 wiki 링크
 

@@ -52,6 +52,10 @@ SCFA는 단일 균이 아니라 군집의 대사 네트워크에서 생산되며
 
 효소 수준에서, *V. parvula*의 **phosphoenolpyruvate carboxykinase(PEPCK)** 가 이 대사 경로의 조절점으로, 활성화 기전이 규명되어 프로피오네이트 생성 흐름의 생화학적 근거를 제공한다 ([[Jay's Knowledge Base/raw/228-chau-1986-activation-of-phosphoenolpyruvate-carboxykinase-is\|Chau & Ng, 1986]]).
 
+### 프로바이오틱 균주의 SCFA 분비 정량 (HPLC-MS/MS)
+
+프로바이오틱스를 SCFA 생산자로 특성화하려면 분비량의 민감·특이적 정량이 필요하다. Calvigioni et al. (2023)은 액체크로마토그래피-탠덤질량분석(HPLC-MS/MS) 프로토콜을 개발해 9종 상용 프로바이오틱 균주(*Bacillus clausii* NR/OC/SIN/T, *B. coagulans* ATCC 7050, *Bifidobacterium breve* DSM 16604, *Limosilactobacillus reuteri* DSM 17938, *Lacticaseibacillus rhamnosus* ATCC 53103, *Saccharomyces boulardii* CNCM I-745)이 능동적으로 분비하는 SCFA를 측정했다 ([[Jay's Knowledge Base/raw/550-calvigioni-2023-hplc-ms-ms-quantification-of-short-chain-fatty-acids\|Calvigioni 2023, *Front. Microbiol.*]]). **모든 균주가 아세트산(acetic acid)을 분비하는 반면, 프로피온산(propionic acid)·부티르산(butyric acid)을 추가로 생산하는 균주는 *B. clausii*와 *S. boulardii*에 국한**되며, 균주별 분비량에 정량적 차이가 확인됐다. 이는 프로바이오틱스를 SCFA 결핍 보완용 생산자로 규명하는 분석적 토대를 제공한다.
+
 ## 생산 촉진 방법
 - **식이섬유** 섭취 증가 (과일, 채소, 통곡물, 콩류)
 - **프리바이오틱스**: FOS, GOS, 이눌린, 저항성 전분
@@ -75,3 +79,4 @@ SCFA는 단일 균이 아니라 군집의 대사 네트워크에서 생산되며
 - [[Jay's Knowledge Base/raw/169-ambat-enhancing-recovery-from-gut-microbiome-dysbiosis-and-a\|raw/169-ambat-enhancing-recovery-from-gut-microbiome-dysbiosis-and-a]] — 희귀 SCFA 생산균 컨소시엄의 DSS 대장염·디스바이오시스 회복 효과
 - [[Jay's Knowledge Base/raw/227-ng-1971-lactate-metabolism-by-iveillonella-parvulai\|raw/227-ng-1971-lactate-metabolism-by-iveillonella-parvulai]] — *Veillonella parvula*의 락테이트→프로피오네이트/아세테이트 발효 (교차 영양)
 - [[Jay's Knowledge Base/raw/228-chau-1986-activation-of-phosphoenolpyruvate-carboxykinase-is\|raw/228-chau-1986-activation-of-phosphoenolpyruvate-carboxykinase-is]] — *V. parvula* PEPCK 활성화 기전 (프로피오네이트 경로 생화학)
+- [[Jay's Knowledge Base/raw/550-calvigioni-2023-hplc-ms-ms-quantification-of-short-chain-fatty-acids\|raw/550-calvigioni-2023-hplc-ms-ms-quantification-of-short-chain-fatty-acids]] — 상용 프로바이오틱 9종의 분비 SCFA HPLC-MS/MS 정량 (전 균주 아세트산, *B. clausii*·*S. boulardii*만 프로피온산·부티르산 추가)

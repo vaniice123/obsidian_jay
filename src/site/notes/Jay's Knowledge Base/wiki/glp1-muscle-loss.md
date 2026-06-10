@@ -155,6 +155,17 @@ GLP-1RA **부작용 연구 자체가 빠르게 성장** 중. Scopus 기반 서�
 
 > ⚠️ 본 자료는 American Physiology Summit 2026 **초록(HTML only, 동료심사 미반영)**으로 n·효과크기·체성분 측정법이 공개되지 않았다. 개념 단서로만 활용하고 정식 논문·DEXA/MRI 기반 검증을 기다릴 것.
 
+### 15-PGDH 억제 — 근육 재생·근력 회복 축의 약리적 대응 (Nalbandian 2026)
+
+ActRII 차단(근단백 분해 억제)·SCFA(근단백 합성 촉진) 외에, **근육 재생(muscle repair)·근력 회복** 자체를 표적하는 별도의 약리적 축이 제시되었다. Nalbandian et al. (2026, *PNAS*, [[Jay's Knowledge Base/raw/556-nalbandian-2026-15-pgdh-inhibition-promotes-muscle-repair-and-strength\|raw/556-nalbandian-2026-15-pgdh-inhibition-promotes-muscle-repair-and-strength]])는 손상·노화와 함께 상승하는 prostaglandin 분해 효소(gerozyme) **15-hydroxyprostaglandin dehydrogenase(15-PGDH)** 를 억제하면 semaglutide 체중 감량 중에도 근육 재생과 근력 회복이 개선됨을 보고했다.
+
+- 고지방식이(HFD) 비만 마우스에서 **semaglutide 단독은 유의한 골격근량 손실을 일으키되 수축 기능은 보존**
+- 손상 후 비만 마우스는 (뒤셴 근이영양증에서처럼) **병적 석회화(pathological calcification)** 를 보였고, semaglutide는 석회성 리모델링을 줄이는 대신 **재생 근섬유 크기를 감소**
+- **15-PGDH 억제제(PGDHi)** 병용 시 **근육 줄기세포(muscle stem cell) 기능 + 근섬유 성장 자극 → 근력 향상**
+- **PGDHi × semaglutide 시너지**: 체중 감량을 훼손하지 않으면서 손상 후 근육의 질·force 개선
+
+**포지셔닝 의의**: ActRII 차단 항체(근단백 분해 차단)나 포스트바이오틱(follistatin↑·SCFA·EV)이 주로 **근위축 억제·근단백 항상성**을 겨냥하는 반면, PGDHi는 **prostaglandin(PGE2) 신호를 통한 근육 줄기세포 활성화·재생**이라는 **상보적(complementary) 기전 축**을 제공한다. GLP-1RA 근손실 대응 전략이 단일 경로가 아닌 다축(multi-axis) 병용으로 확장될 수 있음을 시사.
+
 ### 내인성 GLP-1 분비 자극 — 별도의 차별 기전 (Yoon 2021 foundational)
 
 GLP-1RA(semaglutide·tirzepatide)가 **외인성 호르몬 모방약**인 반면, *A. muciniphila*는 **장 L-cell의 GLP-1 분비를 직접 유도하는 분비 단백질**을 갖는다는 사실이 분리 단백질 수준에서 동정되어 있다 ([[Jay's Knowledge Base/raw/513-yoon-2021-akkermansia-muciniphila-secretes-a-glucagon-like\|Yoon et al., 2021, *Nature Microbiology*]]). 마우스에서 이 단백질 보충이 포도당 항상성을 개선하고 대사질환을 완화함이 확인됨.
@@ -225,6 +236,7 @@ Eli Lilly의 **orforglipron** (경구·1일 1회·비펩타이드 GLP-1 작용�
 - [[Jay's Knowledge Base/raw/537-davies-2026-the-paradox-and-future-of-glp-1gip-combination\|raw/537-davies-2026-the-paradox-and-future-of-glp-1gip-combination]] — GLP-1/GIP 이중 표적 약물(tirzepatide, maridebart cafraglutide) 효능·기전 종설 (*Annu. Rev. Nutr.* 2026): GIPR 작용·길항 단독 효과 부재의 패러독스, GLP-1R 병용 시 양방향 모두 효능 증대. 근손실 보존과 GIPR 신호 인과 미해결
 - [[Jay's Knowledge Base/raw/538-jennings-2026-body-composition-changes-in-patients-on-glp-1-receptor\|raw/538-jennings-2026-body-composition-changes-in-patients-on-glp-1-receptor]] — Pritikin Intensive Cardiac Rehabilitation 후향 코호트 (n=468, GLP-1 RA 67명, *Eur. J. Prev. Cardiol.* 2026): 운동·영양 통합 시 GLP-1 RA 사용군 SMM 변화 비사용군과 무차이(β=0.62%, p=0.326). companion 시장 segmentation 시사
 - [[Jay's Knowledge Base/raw/540-venkitta-2026-sarcopenia-in-type-2-diabetes-mellitus-a-narrative\|raw/540-venkitta-2026-sarcopenia-in-type-2-diabetes-mellitus-a-narrative]] — T2DM과 근감소증의 양방향 악순환 narrative review (*J. Diabetology* 2026): GLP-1 RA 주 사용 인구가 이미 sarcopenic diabetes 위험군임을 강조 — 근손실 부작용의 임상적 중요도 보강
+- [[Jay's Knowledge Base/raw/556-nalbandian-2026-15-pgdh-inhibition-promotes-muscle-repair-and-strength\|raw/556-nalbandian-2026-15-pgdh-inhibition-promotes-muscle-repair-and-strength]] — 15-PGDH 억제제(PGDHi)가 semaglutide 병용 시 근육 줄기세포 기능·근섬유 성장을 자극해 손상 후 근육 재생·근력을 회복, 체중 감량 훼손 없이 GLP-1 유도 근손실에 대응 (*PNAS* 2026): ActRII·SCFA 축과 상보적인 prostaglandin/MuSC 재생 축
 
 ### ActRII / SMAD2/3 기전 — primary literature
 - [[Jay's Knowledge Base/raw/492-inman-2002-sb-431542-is-a-potent-and-specific-inhibitor-of\|raw/492-inman-2002-sb-431542-is-a-potent-and-specific-inhibitor-of]] — SB-431542 (ALK4/5/7 선택적 저해제)

@@ -71,6 +71,16 @@
 
 **시사점**: (1) 영아 분리주에서도 모균주(MucT)와 일관된 비만 보호 효과 확인 → 균주 다양성과 효능 robustness, (2) **균주별 SCFA 프로파일 차이**(부티르산 vs 프로피온산)는 적응증·후성유전·식욕 조절 등 응용 분야에 따른 균주 선택 근거 제공, (3) **살균형의 *Akkermansia* 속 증가** 현상은 사균체가 잔존 생균 또는 숙주 점막에 작용하여 niche를 변형시킨다는 가설과 부합 — Amuc_1100 외 분비 단백질의 cross-feeding 기여 가능성.
 
+### *A. muciniphila*–FABP1 축 — L-노르류신을 통한 지방산 흡수 억제 (Li 2026, *PNAS*)
+
+장상피 지방산 결합 단백질(fatty acid-binding protein 1, FABP1)이 식이 지방산 흡수를 직접 촉진하며, 장내 미생물이 대사산물을 통해 FABP1 매개 흡수를 조절함을 규명한 연구 (Li et al., 2026, *PNAS*, [[Jay's Knowledge Base/raw/555-li-2026-akkermansia-muciniphiladerived-l-norleucine-modulates\|raw/555-li-2026-akkermansia-muciniphiladerived-l-norleucine-modulates]]).
+
+- **역상관·보충 효과**: *A. muciniphila* 풍부도가 **FABP1 의존적 비만 진행(아라키돈산 유도 모델)과 역상관**하며, *A. muciniphila* 보충 시 비만 표현형이 완화됨
+- **활성 대사산물 동정**: FABP1 기반 대사산물 농축 + 비표적 메타볼로믹스로 *A. muciniphila* 유래 **L-노르류신(L-norleucine)**을 **경쟁적 FABP1 억제제**로 동정 — 지방산 유사 소수성 알킬 사슬 + 친수성 아미노산 부위 구조로 FABP1에 경쟁 결합
+- **기전적 의의**: L-노르류신은 지질 항상성을 조절하는 주요 장내 대사산물로, **장내 미생물–FABP1 축**을 통한 지질 항상성 조절 패러다임을 제시
+
+**시사점**: Mount 2026(체중 유지)·Feng 2025(균주별 SCFA)·Gao 2026(GLP-1RA 병용)이 주로 SCFA·장벽·인슐린 감수성 축을 다룬 반면, 본 연구는 ***A. muciniphila*가 단일 대사산물(L-노르류신)로 지방산 흡수 자체를 분자적으로 억제**하는 새로운 항비만 effector 축을 제시 → 대사 질환 치료 표적으로서의 함의 (분자 기전 상세는 [[Jay's Knowledge Base/wiki/akkermansia-mechanisms\|akkermansia-mechanisms]] 참조).
+
 ### 운동-유도 체지방 감소의 미생물 매개 — *A. muciniphila* 축
 - 동물에서 유산소·중등도 운동이 일관되게 *A. muciniphila* 증가 + 다양성 증가 + 포도당 내성 개선 + 지방량 감소 유도
 - 인간 결과는 이질적이나 과체중·대사 이상자에서 *A. muciniphila* 소폭 증가와 대사 개선 확인
@@ -113,6 +123,17 @@ Müller et al. (2022, *Nature Reviews Drug Discovery*, [[Jay's Knowledge Base/ra
 
 UC San Diego Pritikin Intensive Cardiac Rehabilitation(ICR) 후향 코호트(n=468, GLP-1 RA 67명)에서 **구조화된 운동·영양 프로그램 동반 시 GLP-1 RA 사용군과 비사용군 간 SMM 변화 유의차 없음**(조정 β=0.62%, p=0.326). 양 군 모두 METs·체지방 개선. BIA 측정·후향 설계 한계는 있으나, GLP-1 시대 노인·심혈관 환자에서 **운동 통합이 근손실 부작용을 임상적으로 무력화**할 수 있음을 시사 (Jennings et al., *Eur. J. Prev. Cardiol.* 2026, [[Jay's Knowledge Base/raw/538-jennings-2026-body-composition-changes-in-patients-on-glp-1-receptor\|raw/538-jennings-2026-body-composition-changes-in-patients-on-glp-1-receptor]]). 자세한 함의·companion 시장 segmentation은 [[Jay's Knowledge Base/wiki/glp1-muscle-loss#구조화된 운동·재활 통합 — Pritikin ICR 코호트 (Jennings 2026)\|glp1-muscle-loss]]·[[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]] 참조.
 
+### 중심 비만 지표·성별 차이와 낙상 위험 (Rho 2026, *Medicina*)
+
+한국 노인(70~84세) KFACS 코호트(n=2,039)에서 **체성분·비만 지표와 낙상(falls)의 성별 특이적 연관**을 분석한 연구 (Rho et al., 2026, *Medicina*, [[Jay's Knowledge Base/raw/558-rho-2026-sex-specific-associations-between-sarcopenia-and\|raw/558-rho-2026-sex-specific-associations-between-sarcopenia-and]]). AWGS 2025 기준 적용.
+
+- **공통**: 높은 **체지방률(percentage body fat, PBF)**과 **코니시티 지수(conicity index, C-index)**가 낙상 위험 증가와 독립적으로 연관 → 중심 비만(central obesity) 지표의 낙상 예측력
+- **남성**: 낮은 악력(handgrip strength) + 높은 허리둘레/PBF/C-index 조합에서 낙상 odds 상승
+- **여성**: 낮은 **사지골격근량지수(appendicular skeletal muscle mass index, ASMI)**만 낙상과 연관
+- **근감소성 비만(sarcopenic obesity) 자체**는 양성 모두에서 낙상과 독립적 연관 **없음**
+
+**시사점**: 단순 BMI보다 **체지방 분포·중심 비만 지표(PBF·C-index)**가 노인 낙상 위험을 더 잘 설명하며, 체성분-기능 결과의 연관이 **성별에 따라 비대칭**(남성=지방+근력, 여성=근육량)임을 보여줌 → 체성분 평가의 성별 층화 필요성 (cf. [[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]], [[Jay's Knowledge Base/wiki/glp1-muscle-loss\|glp1-muscle-loss]]).
+
 ### PTER 억제 — N-acetyltaurine 포식억제 경로
 - PTER(phosphotriesterase-related)는 포식억제(anorexigenic) 대사체 N-acetyltaurine의 분해를 매개하는 amidohydrolase로, 기질 결합 포켓이 HDAC 계열과 구조적 유사성을 가진다는 것이 진핵 PTER 결정구조(apo/product-bound)에서 새롭게 규명됨
 - 이 유사성을 기반으로 nanomolar 효력·HDAC 대비 >100배 선택성을 갖는 기질경쟁형 억제제 **PTERi**를 first-in-class로 개발
@@ -146,6 +167,8 @@ UC San Diego Pritikin Intensive Cardiac Rehabilitation(ICR) 후향 코호트(n=4
 - [[Jay's Knowledge Base/raw/538-jennings-2026-body-composition-changes-in-patients-on-glp-1-receptor\|raw/538-jennings-2026-body-composition-changes-in-patients-on-glp-1-receptor]] — Pritikin ICR 후향 코호트, 운동·영양 통합 시 GLP-1 RA 사용군 SMM 변화 비사용군과 무차이 (*Eur. J. Prev. Cardiol.* 2026)
 - [[Jay's Knowledge Base/raw/546-moiz-2026-weight-maintenance-after-discontinuation-of-glp-1\|raw/546-moiz-2026-weight-maintenance-after-discontinuation-of-glp-1]] — GLP-1 치료 중단 후 체중 유지 근거 종합, "post-injection maintenance" 문제 공간 규정 (*eClinicalMedicine* 2026)
 - [[Jay's Knowledge Base/raw/548-taglialegna-2026-keeping-off-the-weight-with-akkermansia\|raw/548-taglialegna-2026-keeping-off-the-weight-with-akkermansia]] — Mount 2026 살균 *A. muciniphila* MucT 체중 유지 RCT를 다룬 *Nature Reviews Microbiology* Research Highlight (2026)
+- [[Jay's Knowledge Base/raw/555-li-2026-akkermansia-muciniphiladerived-l-norleucine-modulates\|raw/555-li-2026-akkermansia-muciniphiladerived-l-norleucine-modulates]] — *A. muciniphila* 유래 **L-노르류신**이 장상피 **FABP1의 경쟁적 억제제**로 식이 지방산 흡수를 차단, *A. muciniphila* 풍부도가 FABP1 의존적 비만과 역상관·보충 시 비만 표현형 완화 → **장내 미생물–FABP1 축** 제시 (*PNAS* 2026)
+- [[Jay's Knowledge Base/raw/558-rho-2026-sex-specific-associations-between-sarcopenia-and\|raw/558-rho-2026-sex-specific-associations-between-sarcopenia-and]] — 한국 노인 KFACS 코호트(n=2,039, 70~84세) 체성분·비만 지표와 낙상의 성별 특이적 연관: PBF·코니시티 지수가 독립적 낙상 위험 인자, 근감소성 비만 자체는 낙상과 무연관, AWGS 2025 기준 (*Medicina* 2026)
 
 ---
 
