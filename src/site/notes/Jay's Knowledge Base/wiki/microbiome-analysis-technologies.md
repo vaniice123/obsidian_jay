@@ -88,6 +88,10 @@
 
 미세유체(microfluidic) 장기 칩은 산소 구배·연동운동·점액층·면역세포를 재현해 숙주 세포와 살아있는 미생물 군집을 장기간 공배양할 수 있는 플랫폼으로, 동물 모델의 종 차이 및 윤리 문제를 우회하면서 숙주–미생물 상호작용을 인과적으로 해부할 수 있게 한다 ([[Jay's Knowledge Base/raw/51-shin-2023-modelling-hostmicrobiome-interactions-in-organ-on\|Shin et al., 2023, *Nat Rev Bioeng*]]). 다중 오믹스·실시간 이미징과 결합 시 in vivo 검증의 중간 단계로 기능한다.
 
+#### 장 호르몬 분비의 동적 모니터링 — gut-on-a-chip (Huang 2026)
+
+장기 칩은 미생물 군집뿐 아니라 **장내분비세포(enteroendocrine cell)의 동적 호르몬 분비**를 생체모방 조건에서 추적하는 데도 활용된다. 기존 GLP-1 분비 연구는 불멸화 세포주나 1차 조직의 **정적 well-based 배양**에 의존해 생리적 타당성과 실시간 분비 추적에 한계가 있었다. Huang et al. (2026, *Biosensors and Bioelectronics*, [[Jay's Knowledge Base/raw/561-huang-2026-development-of-a-gut-on-a-chip-platform-to-monitor\|raw/561-huang-2026-development-of-a-gut-on-a-chip-platform-to-monitor]])는 PMMA 미세칩에 1차 마우스 장 조직 절편을 수용하고 **연동 마이크로펌프로 내강(luminal)·장막(serosal)면을 병렬 관류**하는 gut-on-a-chip(GOC)을 제작했다. 마우스 소장 부위별 GLP-1 분비능을 먼저 특성화해 설계에 반영했고, 생리적 secretagogue(taurocholic acid·glucose)를 십이지장·결장 조직의 내강/장막면에 연속·간헐 관류로 전달. 정적 배양 대비 **2시간에 걸친 장막 농도 변화를 동적으로 포착하고 조직 생존성·형태를 더 잘 보존**해, gut hormone 분비 기전 규명과 GLP-1 secretagogue 후보 스크리닝 도구로 제시됐다. → organ-on-chip 모델이 [[Jay's Knowledge Base/wiki/gut-microbiome-and-disease\|미생물–숙주 대사 신호]]·[[Jay's Knowledge Base/wiki/glp1-muscle-loss\|GLP-1 기반 대사]] 연구의 기능적 검증 플랫폼으로 확장되는 사례.
+
 ## 시간 차원의 sampling 설계
 
 마이크로바이옴은 일주기·계절·생애주기·식이·항생제·중재 전후로 변동하는 동적 시스템이므로, 분석 설계에서 **시간 차원**을 통제하지 않으면 효과 크기와 재현성이 왜곡된다. Zeng et al. (2026, *The Lancet Microbe*, [[Jay's Knowledge Base/raw/541-zeng-2026-temporal-variations-of-the-gut-microbiome-in-human\|raw/541-zeng-2026-temporal-variations-of-the-gut-microbiome-in-human]])은 인간 장내 마이크로바이옴의 temporal variation을 종합 정리해 다음을 제안한다.
@@ -117,3 +121,4 @@
 - [[Jay's Knowledge Base/raw/99-weiss-2022-in-vitro-interaction-network-of-a-synthetic-gut-b\|raw/99-weiss-2022-in-vitro-interaction-network-of-a-synthetic-gut-b]] — OMM12 합성 군집의 in vitro 상호작용 네트워크
 - [[Jay's Knowledge Base/raw/132-jensen-2025-ten-species-comprise-half-of-the-bacteriology-li\|raw/132-jensen-2025-ten-species-comprise-half-of-the-bacteriology-li]] — 10종이 세균학 문헌의 절반 차지, 74% 종 미연구
 - [[Jay's Knowledge Base/raw/541-zeng-2026-temporal-variations-of-the-gut-microbiome-in-human\|raw/541-zeng-2026-temporal-variations-of-the-gut-microbiome-in-human]] — 인간 장내 마이크로바이옴의 시간 변동 종설 (*The Lancet Microbe* 2026): 종단 설계·rate-of-change·resilience 지표·시계열 다중오믹스 통합 필요성
+- [[Jay's Knowledge Base/raw/561-huang-2026-development-of-a-gut-on-a-chip-platform-to-monitor\|raw/561-huang-2026-development-of-a-gut-on-a-chip-platform-to-monitor]] — 1차 장 조직의 동적 GLP-1 분비를 모니터링하는 gut-on-a-chip(내강·장막 병렬 관류) 플랫폼, 정적 배양 대비 실시간 분비 포착·조직 생존성 보존·secretagogue 스크리닝 (*Biosensors and Bioelectronics* 2026)

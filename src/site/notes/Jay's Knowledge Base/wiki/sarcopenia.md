@@ -18,6 +18,7 @@
 - **진단 기준 및 코드화**: 2016년 ICD-10-CM (M62.84) 부여로 근감소증이 독립 질환으로 인정됨; EWGSOP2, AWGS 등 다양한 진단 알고리즘 존재
 - **진단 도구**: 악력(handgrip strength), SARC-F 설문, 보행 속도, DXA/BIA 근육량 측정, CT 기반 근단면적(cross-sectional area) 평가
 - **신규 분자 바이오마커 (Chen 2026)**: 기존의 영상·신체기능 기반 평가는 복잡성, 조기 검출 한계, 분자 수준 통찰 부재라는 제약을 지닌다. 이를 보완하기 위해 근감소증(sarcopenia)의 후보 바이오마커를 **근육 특이 인자(muscle-specific factors), 염증 관련 단백질(inflammation-related proteins), 비암호화 RNA(non-coding RNAs), 영양 대사체(nutritional metabolites)** 의 4개 차원으로 정리한 narrative review가 제시되었다. 각각은 **단백질 항상성(protein homeostasis), 만성 염증(chronic inflammation), 전사후 조절(post-transcriptional regulation), 에너지 대사(energy metabolism)** 기전에 대응하며, 조기 식별·위험 계층화(risk stratification)·질환 아형 분류(subtyping)·개인 맞춤 중재를 가능하게 한다고 평가 ([[Jay's Knowledge Base/raw/552-chen-2026-novel-biomarkers-for-sarcopenia-a-narrative-review\|raw/552-chen-2026-novel-biomarkers-for-sarcopenia-a-narrative-review]], *J. Orthop. Surg. Res.* 2026)
+- **바이오마커 3대 범주 분류 (Luo 2026)**: 현행 진단 가이드라인의 진단 기준·컷오프 이질성이 정확하고 조기인 근감소증 진단을 가로막는다는 문제의식에서, 후보 바이오마커를 **생화학적(biochemical), 영상 기반(imaging-based), 신체기능 관련(physical performance–related)** 3개 범주로 정리한 narrative review. 이들 바이오마커가 진단 정확도를 높이고 질환 진행 모니터링·치료 중재의 새 경로를 제공한다고 평가하며, **조기 검출·위험 층화·개인 맞춤 관리를 위한 통합적·다중모달(multimodal) 바이오마커 전략**을 향후 방향으로 제시 ([[Jay's Knowledge Base/raw/563-luo-unknown-biomarkers-of-sarcopenia-current-status-and-future\|raw/563-luo-unknown-biomarkers-of-sarcopenia-current-status-and-future]], *Aging Medicine*). Chen 2026(분자 4차원 분류)과 상보적으로, 한쪽은 분자 수준 효현물질을, 다른 한쪽은 생화학·영상·기능을 가로지르는 측정 modality 축으로 바이오마커 지형을 정리
 - **병태생리 핵심 경로**:
   - 근육-뼈-지방 조직 간 크로스토크: myokine, osteokine, adipokine 상호작용
   - 만성 저등급 염증(inflammaging): TNF-α, IL-6 등 전염증성 사이토카인이 근단백 분해를 촉진
@@ -107,6 +108,7 @@
 - [[Jay's Knowledge Base/raw/552-chen-2026-novel-biomarkers-for-sarcopenia-a-narrative-review\|raw/552-chen-2026-novel-biomarkers-for-sarcopenia-a-narrative-review]] — 근감소증 신규 바이오마커 narrative review: 근육 특이 인자·염증 단백질·비암호화 RNA·영양 대사체 4차원 분류, 단백질 항상성/만성 염증/전사후 조절/에너지 대사 기전 매핑, 조기 식별·위험 계층화·아형 분류 (*J. Orthop. Surg. Res.* 2026)
 - [[Jay's Knowledge Base/raw/556-nalbandian-2026-15-pgdh-inhibition-promotes-muscle-repair-and-strength\|raw/556-nalbandian-2026-15-pgdh-inhibition-promotes-muscle-repair-and-strength]] — 15-PGDH 억제(PGDHi)가 semaglutide 병행 시 근육 줄기세포 기능·근섬유 성장 자극으로 근육 재생·근력 회복 개선, 체중 감량 훼손 없이 GLP-1 유도 근손실 약리적 대응 (*PNAS* 2026)
 - [[Jay's Knowledge Base/raw/558-rho-2026-sex-specific-associations-between-sarcopenia-and\|raw/558-rho-2026-sex-specific-associations-between-sarcopenia-and]] — KFACS 한국 노인 코호트(n=2,039, 70~84세, AWGS 2025) 근감소증·비만 지표와 낙상의 성별 특이적 연관: 높은 PBF·C-index 공통, 남성=낮은 악력·허리둘레, 여성=ASMI 저하, 근감소성 비만 자체는 낙상과 무관 (*Medicina* 2026)
+- [[Jay's Knowledge Base/raw/563-luo-unknown-biomarkers-of-sarcopenia-current-status-and-future\|raw/563-luo-unknown-biomarkers-of-sarcopenia-current-status-and-future]] — 근감소증 바이오마커 narrative review: 생화학적·영상 기반·신체기능 관련 3대 범주 분류, 진단 기준 이질성 보완·진행 모니터링·통합 다중모달 전략 제시 (*Aging Medicine*)
 
 ## 관련 wiki 링크
 

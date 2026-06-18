@@ -119,6 +119,21 @@ Müller et al. (2022, *Nature Reviews Drug Discovery*, [[Jay's Knowledge Base/ra
 
 비만 약물 시장은 GLP-1R 단일 표적(semaglutide)에서 **GIPR 이중 표적**(tirzepatide: GIPR 작용; maridebart cafraglutide: GIPR 길항)으로 빠르게 분기 중. 두 정반대 방향이 모두 semaglutide 대비 강력한 추가 감량을 달성하는 **이중 표적 패러독스**가 핵심 미해결 쟁점이며, 시상하부·뇌간 회로 cross-talk·desensitization 비대칭이 후보 기전으로 제시된다. 본 리뷰는 약물 개발사·임상 의사·시장 분석에 차세대 incretin 약물의 효력 비교·작용 기전 통합 프레임을 제공 (Davies et al., *Annu. Rev. Nutr.* 2026, [[Jay's Knowledge Base/raw/537-davies-2026-the-paradox-and-future-of-glp-1gip-combination\|raw/537-davies-2026-the-paradox-and-future-of-glp-1gip-combination]]). 체성분 영향은 [[Jay's Knowledge Base/wiki/glp1-muscle-loss#GLP-1/GIP 이중 표적 — 차세대 incretin 약물 패러독스 (Davies 2026)\|glp1-muscle-loss 상세]] 참조.
 
+### 경구 small-molecule GLP-1RA 파이프라인 확장 — Elecoglipron VISTA (Davies 2026, *Lancet*)
+
+경구 비펩타이드 GLP-1 작용제 계열이 orforglipron에 이어 빠르게 확장 중이다. **Elecoglipron**(경구 small-molecule GLP-1 수용체 작용제)은 비만·과체중 성인 대상 **다기관 phase 2 무작위·위약대조 임상 VISTA**에서 평가됐다 (M. J. Davies et al., 2026, *The Lancet*, [[Jay's Knowledge Base/raw/559-davies-2026-elecoglipron-an-oral-small-molecule-glp-1-receptor\|raw/559-davies-2026-elecoglipron-an-oral-small-molecule-glp-1-receptor]]). orforglipron(ATTAIN-MAINTAIN, Aronne 2026)과 함께 **주사 → 경구로의 GLP-1 치료 접근성 확대** 흐름을 보강하며, 경구·globally scalable 옵션이 늘수록 GLP-1 사용 인구의 절대 규모와 [[Jay's Knowledge Base/wiki/glp1-muscle-loss\|근손실 보존 companion]]의 잠재 환자 풀이 함께 커진다. (※ 이 Davies는 *Lancet* VISTA 논문으로, GLP-1/GIP 패러독스 종설의 Davies 2026 *Annu. Rev. Nutr.*([[Jay's Knowledge Base/raw/537-davies-2026-the-paradox-and-future-of-glp-1gip-combination\|raw/537-davies-2026-the-paradox-and-future-of-glp-1gip-combination]])와는 별개.)
+
+### GLP-1RA 기전·약물전달·제형 종합 종설 (Geddam 2026)
+
+지난 20년 GLP-1 수용체 작용제(GLP-1RA)의 분자 신호 경로–치료 반응 관계, 승인 약물(liraglutide·semaglutide·tirzepatide) 대비 파이프라인 약물의 비교 효능, 그리고 **차세대 약물전달·제형 전략**을 통합 정리한 translational 종설 (Geddam et al., 2026, *Obesity Medicine*, [[Jay's Knowledge Base/raw/560-geddam-2026-advances-in-glp-1-receptor-agonists-molecular\|raw/560-geddam-2026-advances-in-glp-1-receptor-agonists-molecular]]). 핵심 내용:
+
+- **다면적(pleiotropic) 효과**: 혈당 항상성 외 심혈관·신장 보호, 신경보호, 대사 리모델링
+- **전달·제형 혁신**: 투과촉진제 기반 **경구 펩타이드**, 나노입자, 서방형 depot, 경피 마이크로니들, 유전자 기반 전략 — 생체이용률·복약순응도 장벽 극복
+- **랜드마크 프로그램**: SUSTAIN·SURPASS·SURMOUNT에서 혈당·체중·심대사 개선, 특히 이중작용제(dual agonist)에서 강화
+- **잔존 과제**: 위장관 이상반응, 치료 지속성(durability), 비용효과, 장기 안전성
+
+→ 본 문서의 개별 GLP-1·incretin 약물 논의(Aronne 2026·Davies 2026·elecoglipron)와 [[Jay's Knowledge Base/wiki/glp1-muscle-loss\|glp1-muscle-loss]]의 근손실·companion 전략에 **약물전달·제형 관점의 배경 프레임**을 제공.
+
 ### 운동·재활 통합 시 GLP-1 RA 골격근 손실 완화 (Jennings 2026)
 
 UC San Diego Pritikin Intensive Cardiac Rehabilitation(ICR) 후향 코호트(n=468, GLP-1 RA 67명)에서 **구조화된 운동·영양 프로그램 동반 시 GLP-1 RA 사용군과 비사용군 간 SMM 변화 유의차 없음**(조정 β=0.62%, p=0.326). 양 군 모두 METs·체지방 개선. BIA 측정·후향 설계 한계는 있으나, GLP-1 시대 노인·심혈관 환자에서 **운동 통합이 근손실 부작용을 임상적으로 무력화**할 수 있음을 시사 (Jennings et al., *Eur. J. Prev. Cardiol.* 2026, [[Jay's Knowledge Base/raw/538-jennings-2026-body-composition-changes-in-patients-on-glp-1-receptor\|raw/538-jennings-2026-body-composition-changes-in-patients-on-glp-1-receptor]]). 자세한 함의·companion 시장 segmentation은 [[Jay's Knowledge Base/wiki/glp1-muscle-loss#구조화된 운동·재활 통합 — Pritikin ICR 코호트 (Jennings 2026)\|glp1-muscle-loss]]·[[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]] 참조.
@@ -169,6 +184,8 @@ UC San Diego Pritikin Intensive Cardiac Rehabilitation(ICR) 후향 코호트(n=4
 - [[Jay's Knowledge Base/raw/548-taglialegna-2026-keeping-off-the-weight-with-akkermansia\|raw/548-taglialegna-2026-keeping-off-the-weight-with-akkermansia]] — Mount 2026 살균 *A. muciniphila* MucT 체중 유지 RCT를 다룬 *Nature Reviews Microbiology* Research Highlight (2026)
 - [[Jay's Knowledge Base/raw/555-li-2026-akkermansia-muciniphiladerived-l-norleucine-modulates\|raw/555-li-2026-akkermansia-muciniphiladerived-l-norleucine-modulates]] — *A. muciniphila* 유래 **L-노르류신**이 장상피 **FABP1의 경쟁적 억제제**로 식이 지방산 흡수를 차단, *A. muciniphila* 풍부도가 FABP1 의존적 비만과 역상관·보충 시 비만 표현형 완화 → **장내 미생물–FABP1 축** 제시 (*PNAS* 2026)
 - [[Jay's Knowledge Base/raw/558-rho-2026-sex-specific-associations-between-sarcopenia-and\|raw/558-rho-2026-sex-specific-associations-between-sarcopenia-and]] — 한국 노인 KFACS 코호트(n=2,039, 70~84세) 체성분·비만 지표와 낙상의 성별 특이적 연관: PBF·코니시티 지수가 독립적 낙상 위험 인자, 근감소성 비만 자체는 낙상과 무연관, AWGS 2025 기준 (*Medicina* 2026)
+- [[Jay's Knowledge Base/raw/559-davies-2026-elecoglipron-an-oral-small-molecule-glp-1-receptor\|raw/559-davies-2026-elecoglipron-an-oral-small-molecule-glp-1-receptor]] — Elecoglipron(경구 small-molecule GLP-1RA) 비만·과체중 성인 대상 phase 2 무작위·위약대조 임상 VISTA (M. J. Davies, *The Lancet* 2026): 경구 GLP-1RA 파이프라인 확장
+- [[Jay's Knowledge Base/raw/560-geddam-2026-advances-in-glp-1-receptor-agonists-molecular\|raw/560-geddam-2026-advances-in-glp-1-receptor-agonists-molecular]] — GLP-1RA 분자 기전·약물전달(경구 펩타이드·나노입자·depot·마이크로니들)·제형 전략·다기관 적응증 종합 translational 종설 (*Obesity Medicine* 2026)
 
 ---
 

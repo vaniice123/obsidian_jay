@@ -81,7 +81,7 @@ GLP-1 수용체 작용제의 **근손실 부작용**을 해결하기 위한 마�
 - 기존 프레임워크에 상당한 갭 존재
 - LBP 특성 분석을 위한 분석 방법론 최적화/검증 필요
 - 한국: LBP 가이드라인 부재, FDA/EMA 기준 참고 개발 예정
-- 자세한 한국 규제 → [[Jay's Knowledge Base/wiki/korean-microbiome-market\|korean-microbiome-market]]
+- 자세한 한국 규제 → [[Jay's Knowledge Base/wiki/microbiome-dietary-supplement-market\|microbiome-dietary-supplement-market]]
 
 ## 출처
 

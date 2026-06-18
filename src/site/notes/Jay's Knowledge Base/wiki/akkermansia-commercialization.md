@@ -61,6 +61,6 @@ EFSA NDA Panel은 살균 *A. muciniphila* novel food의 사용 범위를 식이�
 - [[Jay's Knowledge Base/wiki/akkermansia-muciniphila\|akkermansia-muciniphila]] — 허브 (정의·분류학·Amuc_1100·전체 출처)
 - [[Jay's Knowledge Base/wiki/akkermansia-clinical-evidence\|akkermansia-clinical-evidence]] — 임상 RCT·GLP-1 companion
 - [[Jay's Knowledge Base/wiki/akkermansia-strain-landscape\|akkermansia-strain-landscape]] — 균주 다양성·안정성
-- [[Jay's Knowledge Base/wiki/korean-microbiome-market\|korean-microbiome-market]] · [[Jay's Knowledge Base/wiki/lbp-regulatory-cmc\|lbp-regulatory-cmc]]
+- [[Jay's Knowledge Base/wiki/microbiome-dietary-supplement-market\|microbiome-dietary-supplement-market]] · [[Jay's Knowledge Base/wiki/lbp-regulatory-cmc\|lbp-regulatory-cmc]]
 
 > 인용 출처의 전체 서지는 허브 [[Jay's Knowledge Base/wiki/akkermansia-muciniphila\|akkermansia-muciniphila]]의 `## 출처` 절에 통합 유지된다.
