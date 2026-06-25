@@ -88,6 +88,10 @@ UC는 단순 소화기 질환이 아니라 **인지장애 등 전신 동반증�
 
 살아있는 균체를 비히클로 쓰는 SAL@AKK 외에, ***A. muciniphila* 유래 세균 세포외소포(bacterial EV, BEV)를 무세포 약물 전달체로 공학화**하는 접근도 보고됐다. Ji et al. (2026, *Journal of Nanobiotechnology*, [[Jay's Knowledge Base/raw/531-ji-2026-engineered-akkermansia-muciniphila-extracellular\|raw/531-ji-2026-engineered-akkermansia-muciniphila-extracellular]])는 **gut–bone axis**를 활용해 Akk BEV에 **miR-21-5p**를 탑재, 폐경후 골다공증(postmenopausal osteoporosis) 모델에서 **PI3K–AKT 경로**를 통해 골 손실을 완화함을 보였다. 기존 골다공증 치료의 비특이적 표적화·장기 독성 한계를 표적 전달로 보완하려는 전략으로, [[Jay's Knowledge Base/wiki/akkermansia-mechanisms\|EV effector 플랫폼]]이 대사·근육뿐 아니라 **골 대사 적응증**으로 확장됨을 시사한다 (cf. 위 SAL@AKK GIOP 사례 — 두 연구 모두 *A. muciniphila*–뼈 축을 겨냥).
 
+### 내인성 골 항상성 effector — Amuc_1473 (Rao 2026)
+
+공학화 BEV(Ji 2026)·living vehicle(SAL@AKK)이 *A. muciniphila*를 **전달체**로 활용하는 반면, Rao et al. (*Advanced Science*, [[Jay's Knowledge Base/raw/567-rao-unknown-amuc1473-links-gut-microbes-to-skeletal-homeostasis\|raw/567-rao-unknown-amuc1473-links-gut-microbes-to-skeletal-homeostasis]])은 균 EV에 농축된 **내인성 단백질 Amuc_1473** 자체가 gut–bone axis의 핵심 effector임을 동정했다. Amuc_1473은 **NELF-E·RPL26**에 결합해 **골형성 촉진 + 파골세포 형성 억제**를 동시에 유도하며, 노화·에스트로겐 결핍·기계적 비하중·고지방식·흡연·음주·만성 스트레스 등 **다요인성 골다공증** 조건에서 *A. muciniphila*·EV와 함께 감소한다. **간헐적 단식**이 뮤신 생산 증가를 통해 Akk·Amuc_1473·골질을 회복 → 식이 기반 비약물 전략 + 정제 effector 양면의 골다공증 중재 후보. 분자 기전 상세는 [[Jay's Knowledge Base/wiki/akkermansia-mechanisms#추가 분비 단백질·세포외소포·대사산물 (Effector Molecules)\|akkermansia-mechanisms]] 참조.
+
 ---
 
 ## 공학적 응용 — Engineered *A. muciniphila*

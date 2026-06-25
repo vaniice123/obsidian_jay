@@ -23,6 +23,7 @@ NGP 개발의 핵심 과제는 절대혐기성(strict anaerobe) 균주의 산소
 - **경구 전달 최적화**: 위산 및 담즙에 의한 균주 사멸을 방지하기 위한 캡슐화(encapsulation), 코팅 기술 등 oral delivery 전략이 연구됨 (Torp 2022)
 - **안전성 평가**: NGP 후보 균주의 first-in-human 투여 전 안전성 프로파일 확립 필요, *B. pullicaecorum*의 건강인 대상 임상시험에서 안전성 확인 (Boesmans 2018)
 - **장-폐 축(Gut-Lung Axis)**: CKD Bio의 CKDB-315는 *L. plantarum* KC3(김치 유래)와 익모초 추출물을 조합한 호흡기 건강 기능성 원료로, 장-폐 축 개념에 기반. 미세먼지 노출에 의한 기도 염증·산화 스트레스 완화를 임상으로 입증. 한국 시장에서 프로바이오틱스의 적응증 확장 사례 (Dang 2026, [[Jay's Knowledge Base/raw/477-dang-2026-ckd-bio-respiratory-health-gut-lung-axis\|출처]])
+- **천연 항균제로서의 절대혐기성 NGP — 식품 시스템 응용 (Wang 2026)**: 식중독 병원균은 식품 안전·공중보건의 지속적 위협이며, 기존 프로바이오틱스는 복잡한 식품 매트릭스 내 병원균 억제 효능이 일정치 않다. *Akkermansia muciniphila*·*Faecalibacterium prausnitzii*·*Anaerobutyricum hallii* 등 인체 공생 절대혐기성 NGP는 생태적 적합성·대사 다재성·숙주-미생물 항상성 회복 능력으로 **천연 항균제(natural antimicrobials)** 후보로 부상. 병원균 억제 기전을 ① **대사산물 매개 억제(metabolite-mediated)**, ② **쿼럼 센싱 간섭(quorum sensing interference)**, ③ **영양·부착 경쟁(nutrient & adhesion competition)**, ④ **숙주 면역 조절**, ⑤ **바이오필름 억제**로 정리하고, 핵심 NGP 간 **시너지 대사 네트워크 → 정착 저항성(colonization resistance) 강화**를 강조. 응용은 아직 초기 단계로 **호기성 매트릭스에서 절대혐기성 균 유지의 난제**가 병목이며, 안전성 평가·합성 미생물 컨소시엄(synthetic microbial consortia)이 향후 과제 ([[Jay's Knowledge Base/raw/569-wang-2026-obligate-anaerobic-next-generation-probiotics-as\|raw/569-wang-2026-obligate-anaerobic-next-generation-probiotics-as]], *Food Research International* 2026) — cf. [[Jay's Knowledge Base/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]]·[[Jay's Knowledge Base/wiki/bioprocess-engineering\|bioprocess-engineering]]·[[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|포스트바이오틱]]
 
 ## 신흥 NGP 후보 균주
 
@@ -60,6 +61,7 @@ NGP 개발의 핵심 과제는 절대혐기성(strict anaerobe) 균주의 산소
 - [[Jay's Knowledge Base/raw/215-li-te-2012-research-progress-of-physiological-function-and-a\|raw/215-li-te-2012-research-progress-of-physiological-function-and-a]] — *Clostridium butyricum* 생리기능·응용 종설
 - [[Jay's Knowledge Base/raw/243-khan-2023-synergy-and-oxygen-adaptation-for-development-of-n\|raw/243-khan-2023-synergy-and-oxygen-adaptation-for-development-of-n]]
 - [[Jay's Knowledge Base/raw/477-dang-2026-ckd-bio-respiratory-health-gut-lung-axis\|raw/477-dang-2026-ckd-bio-respiratory-health-gut-lung-axis]]
+- [[Jay's Knowledge Base/raw/569-wang-2026-obligate-anaerobic-next-generation-probiotics-as\|raw/569-wang-2026-obligate-anaerobic-next-generation-probiotics-as]] — 절대혐기성 NGP(*A. muciniphila*·*F. prausnitzii*·*A. hallii*)를 식품 시스템 천연 항균제로 정리한 종설: 대사산물·쿼럼센싱·경쟁·면역조절·바이오필름 억제 5대 기전, 시너지 네트워크·정착 저항성, 호기성 매트릭스 내 혐기성 유지 난제·합성 컨소시엄 과제 (*Food Research International* 2026)
 
 ## 관련 wiki 링크
 

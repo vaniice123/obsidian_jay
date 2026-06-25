@@ -43,6 +43,9 @@
 - GLP-1 수용체 작용제(semaglutide) 치료 시 단백질체(proteomics) 변화 분석
 - 체성분 변화와 장내 미생물 상호작용에 대한 최신 연구 (Maretty, 2025)
 
+### GLP-1/이중 작용제의 DXA 체성분 효과 — 정량 메타분석 (Alaycı 2026)
+DXA(gold-standard)로 측정한 incretin 약물의 체성분 변화를 절대 kg로 정량화한 phase 3 RCT 메타분석(5편, 505명) (Alaycı & Gerçek, 2026, [[Jay's Knowledge Base/raw/564-alaycı-2026-dxa-measured-body-composition-effects-of-glp-1-and\|raw/564-alaycı-2026-dxa-measured-body-composition-effects-of-glp-1-and]]): **제지방량 −1.96 kg**(T2D 하위군 −1.21 kg, GRADE 중등도)·**지방량 −5.29 kg**으로 **지방 감소가 우세**(제지방 1 kg당 지방 ≈2.5~3 kg). 즉 incretin 감량의 체성분 질은 "지방 우세 + 소량 LBM 손실"로 임상 예측 가능하며, 기저 체성분 평가·단백질·저항운동을 권고. 근손실 관점의 상세 함의는 [[Jay's Knowledge Base/wiki/glp1-muscle-loss#DXA 기반 정량화 — Phase 3 RCT 메타분석 (Alaycı 2026)\|glp1-muscle-loss]], 운동 일차 중재 근거는 [[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]] 참조.
+
 ### GLP-1RA + Akkermansia 병용 — 대사 효과는 추가, 근손실 보존은 미입증 (2026)
 - db/db T2D·MASLD 마우스에서 **semaglutide 단독은 시간에 따라 효과가 약화**되나 **Akkermansia muciniphila Akk11 병용 시 피하·내장지방 유의 감소, 간 조직학 개선, 혈청 TG 및 LPS 감소, 혈중 GLP-1 농도 추가 증가**
 - 기전: 지방산 합성 유전자(Fasn/Acaca/Scd1) 하향, β-산화 유전자(Acads/Echs1/Acaa2) 상향, 미토콘드리아 기능 증진, 장 pyroptosis 경로 감쇠 (Gao et al., 2026, [[Jay's Knowledge Base/raw/491-gao-2026-combination-of-glp-1-receptor-agonist-and-akkermansia\|raw/491-gao-2026-combination-of-glp-1-receptor-agonist-and-akkermansia]])
@@ -186,6 +189,7 @@ UC San Diego Pritikin Intensive Cardiac Rehabilitation(ICR) 후향 코호트(n=4
 - [[Jay's Knowledge Base/raw/558-rho-2026-sex-specific-associations-between-sarcopenia-and\|raw/558-rho-2026-sex-specific-associations-between-sarcopenia-and]] — 한국 노인 KFACS 코호트(n=2,039, 70~84세) 체성분·비만 지표와 낙상의 성별 특이적 연관: PBF·코니시티 지수가 독립적 낙상 위험 인자, 근감소성 비만 자체는 낙상과 무연관, AWGS 2025 기준 (*Medicina* 2026)
 - [[Jay's Knowledge Base/raw/559-davies-2026-elecoglipron-an-oral-small-molecule-glp-1-receptor\|raw/559-davies-2026-elecoglipron-an-oral-small-molecule-glp-1-receptor]] — Elecoglipron(경구 small-molecule GLP-1RA) 비만·과체중 성인 대상 phase 2 무작위·위약대조 임상 VISTA (M. J. Davies, *The Lancet* 2026): 경구 GLP-1RA 파이프라인 확장
 - [[Jay's Knowledge Base/raw/560-geddam-2026-advances-in-glp-1-receptor-agonists-molecular\|raw/560-geddam-2026-advances-in-glp-1-receptor-agonists-molecular]] — GLP-1RA 분자 기전·약물전달(경구 펩타이드·나노입자·depot·마이크로니들)·제형 전략·다기관 적응증 종합 translational 종설 (*Obesity Medicine* 2026)
+- [[Jay's Knowledge Base/raw/564-alaycı-2026-dxa-measured-body-composition-effects-of-glp-1-and\|raw/564-alaycı-2026-dxa-measured-body-composition-effects-of-glp-1-and]] — GLP-1/이중 GIP-GLP-1 작용제의 DXA 측정 체성분 효과 phase 3 RCT 메타분석(5편, 505명): 제지방 −1.96 kg(T2D −1.21 kg)·지방 −5.29 kg, 지방 우세 감량, 기저 체성분 평가·단백질·저항운동 권고 (2026)
 
 ---
 

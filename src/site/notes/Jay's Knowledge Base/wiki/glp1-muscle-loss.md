@@ -19,6 +19,19 @@ GLP-1 수용체 작용제(semaglutide, tirzepatide 등)는 비만 치료에서 1
 
 GLP-1 수용체 작용제는 본래 2형 당뇨 치료제로 출발했으나 강력한 체중 감량 효과로 비만 적응증으로 확장되었고, 심혈관·신장 보호 등 "체중 감량 너머(beyond weight loss)"의 다면적 효과가 보고되면서 사용 인구가 급격히 늘고 있다 (Quinter et al., 2024, *Transformative Medicine*, [[Jay's Knowledge Base/raw/124-quinter-2024-glp-1-agonists-for-weight-loss-and-beyond\|raw/124-quinter-2024-glp-1-agonists-for-weight-loss-and-beyond]]). 이러한 적응증·인구 확대는 근손실·근감소증 등 체성분 부작용의 임상적 중요성을 동반 상승시킨다.
 
+### DXA 기반 정량화 — Phase 3 RCT 메타분석 (Alaycı 2026)
+
+개별 임상의 산발적 수치를 넘어, **DXA(이중에너지 X선 흡수계측, gold-standard)로 측정한 제지방량(LBM)·지방량 변화를 절대 kg로 정량화**한 phase 3 RCT 메타분석이 보고됐다 (Alaycı & Gerçek, 2026, [[Jay's Knowledge Base/raw/564-alaycı-2026-dxa-measured-body-composition-effects-of-glp-1-and\|raw/564-alaycı-2026-dxa-measured-body-composition-effects-of-glp-1-and]]). GLP-1 또는 이중 GIP/GLP-1 작용제 vs 위약/활성대조 ≥24주, DXA 보고 RCT 5편(505명), random-effects REML + HKSJ 보정, Bayesian 민감도 분석, GRADE 평가.
+
+- **전체 LBM**: MD **−1.96 kg** (95% CI −3.64~−0.27; I²=87.8%)
+- **전체 지방량**: MD **−5.29 kg** (95% CI −10.78~+0.21; I²=94.6%) — **지방 감소가 우세**(제지방 1 kg당 지방 ≈2.5~3 kg), Bayesian 모델 모두 명확한 음의 지방 추정치
+- **T2D 하위군 (k=3)**: LBM **−1.21 kg** (95% CI −2.33~−0.09; I²=5.3%; GRADE 중등도) — **동질적·일관적**
+- **비만 하위군 (k=2)**: 변화 폭은 더 크나 부정확(imprecise)
+- 전체 근거 확실성: LBM low, fat mass very low
+- **권고**: 기저 체성분 평가, 충분한 식이 단백질, **동반 저항운동** — 특히 근감소증 위험군 (PROSPERO CRD420261323497)
+
+**시사점**: STEP 1 DXA 하위연구(−5.26 kg, 34~45%)의 큰 수치는 단일 시험·고용량·장기(68주) 특성이 반영된 것으로, **풀링 추정치는 LBM 약 1~2 kg 손실**로 수렴하며 T2D에서는 작고 일관적이다. 즉 GLP-1RA 근손실은 "지방 우세 감량 속 소량의 LBM 손실"로 임상적으로 예측 가능하며, ActRII 차단·포스트바이오틱 companion·운동·단백질 중재는 **근감소증 위험군(노인·T2D·sarcopenic obesity)에서 표적화**하는 것이 비용효율적임을 정량적으로 뒷받침. cf. [[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]]·[[Jay's Knowledge Base/wiki/obesity-body-composition\|obesity-body-composition]]
+
 ### 왜 위험한가
 
 - **60세 이상 비만 인구 40%** — 이미 근감소증 위험군에서 추가 근손실
@@ -229,6 +242,8 @@ Eli Lilly의 **orforglipron** (경구·1일 1회·비펩타이드 GLP-1 작용�
 - [[Jay's Knowledge Base/raw/489-fu-2026-a-small-molecule-pter-selective-inhibitor-reduces-food\|raw/489-fu-2026-a-small-molecule-pter-selective-inhibitor-reduces-food]] — PTER 선택적 억제제 PTERi, GLP1-RA 병용 강화 및 중단 후 반등 방지
 - [[Jay's Knowledge Base/raw/495-langer-2026-causes-of-sarcopenia-and-frailty-in-people-taking\|raw/495-langer-2026-causes-of-sarcopenia-and-frailty-in-people-taking]] — *Nat Rev Endocrinol* GLP1RA 복용 인구의 근감소증·쇠약(frailty) 원인 리뷰
 - [[Jay's Knowledge Base/raw/505-abdelrahman-2026-mapping-global-research-on-adverse-effects-of-glp-1\|raw/505-abdelrahman-2026-mapping-global-research-on-adverse-effects-of-glp-1]] — GLP-1RA 부작용 글로벌 연구 동향 서지 계량 분석 (Scopus 2006–2025, 1,075편, 연 32% 성장, Novo Nordisk·Eli Lilly 기관 압도)
+- [[Jay's Knowledge Base/raw/564-alaycı-2026-dxa-measured-body-composition-effects-of-glp-1-and\|raw/564-alaycı-2026-dxa-measured-body-composition-effects-of-glp-1-and]] — GLP-1/이중 GIP-GLP-1 작용제의 DXA 측정 체성분 효과 phase 3 RCT 메타분석(5편, 505명): LBM −1.96 kg(T2D 하위군 −1.21 kg, GRADE 중등도)·지방 −5.29 kg, 지방 우세 감량, 기저 체성분 평가·단백질·저항운동 권고 (2026, PROSPERO CRD420261323497)
+- [[Jay's Knowledge Base/raw/568-simsek-2026-glp-1-receptor-agonists-for-obesity-management-in\|raw/568-simsek-2026-glp-1-receptor-agonists-for-obesity-management-in]] — 노인 비만 GLP-1 RA의 근감소증·근감소성 비만 위험 scoping review: 기전적 통찰·노인 임상 고려사항 (*Current Nutrition Reports* 2026), cf. [[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]]
 - [[Jay's Knowledge Base/raw/528-burke-2026-microbial-derived-exerkines-ameliorate-glp-1-receptor\|raw/528-burke-2026-microbial-derived-exerkines-ameliorate-glp-1-receptor]] — 미생물 유래 엑서카인 PAS(pipecolic acid + succinate)가 DIO 마우스에서 semaglutide 유도 lean mass 손실·근기능 저하를 방어 (*Physiology*, American Physiology Summit 2026 초록, 동료심사 미반영)
 - [[Jay's Knowledge Base/raw/507-lee-2026-critical-reading-of-akk-glp1-paper\|raw/507-lee-2026-critical-reading-of-akk-glp1-paper]] — Gao 2026 (Akk + GLP-1RA db/db) 비판적 재검토. 체성분 도구(TD-NMR) 한계로 근손실 보존 주장 미입증을 정밀 분석
 - [[Jay's Knowledge Base/raw/513-yoon-2021-akkermansia-muciniphila-secretes-a-glucagon-like\|raw/513-yoon-2021-akkermansia-muciniphila-secretes-a-glucagon-like]] — *A. muciniphila* 분비 GLP-1 유도 단백질 동정 및 마우스 대사 개선 (*Nature Microbiology* 2021, foundational). 장 내인성 GLP-1 분비 자극 메커니즘의 분자적 근거
