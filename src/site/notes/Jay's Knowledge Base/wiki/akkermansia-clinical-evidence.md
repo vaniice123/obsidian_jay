@@ -30,6 +30,14 @@
 - **Depommier 2019 proof-of-concept RCT (원문, *Nature Medicine*, [[Jay's Knowledge Base/raw/275-depommier-2019-supplementation-with-akkermansia-muciniphila\|raw/275-depommier-2019-supplementation-with-akkermansia-muciniphila]])**: 과체중·비만 자원자 대상 탐색적 RCT에서 *A. muciniphila*(생균/살균) 보충의 안전성·내약성을 확인하고 살균형이 생균 이상으로 인슐린 감수성·심대사 지표를 개선 → 본 문서 곳곳에서 인용되는 "Depommier 2019"의 1차 출처. (Plovier 2017 전임상 → 인체 proof-of-concept 연결)
 - **호흡기 증상 다기관 임상 (Lee et al., 2024, *Nutrients*, [[Jay's Knowledge Base/raw/236-lee-2024-efficacy-of-etb-f01-heat-killed-akkermansia-mucinip\|raw/236-lee-2024-efficacy-of-etb-f01-heat-killed-akkermansia-mucinip]])**: 가열사멸(heat-killed) *A. muciniphila* 균주 EB-AMDK19 함유 ETB-F01을 4~12주 호흡기 증상 환자에서 위약 대비 평가한 무작위 이중맹검 다기관 임상 → **장-폐 축(gut–lung axis)** 기반 장외(extra-intestinal) 적응증으로 살균형 인체 임상이 확장된 사례.
 - **인체 종설 (FakhriRavari & Nguyen, 2025, [[Jay's Knowledge Base/raw/278-fakhriravari-2025-the-role-of-akkermansia-muciniphila-in-hum\|raw/278-fakhriravari-2025-the-role-of-akkermansia-muciniphila-in-hum]])**: 관찰연구(높은 장내 풍부도 ↔ 건강한 체지방·혈당)와 전임상 인과 근거(체지방·인슐린 저항성·장벽·염증)를 임상 관점에서 종합한 리뷰. 점액층 강화·내독소혈증 감소·SCFA·정의된 세균 인자 신호를 핵심 기전으로 정리.
+- **임상가 관점 개괄 (Berry, 2025, NDNR 임상 웹 아티클, [[Jay's Knowledge Base/raw/570-berry-2025-akkermansia-muciniphila-clinical-insights-on-a-next\|raw/570-berry-2025-akkermansia-muciniphila-clinical-insights-on-a-next]])**: *A. muciniphila*의 임상 적응/비적응, 장벽 지원·대사·면역 효과 근거, 살균 vs 생균 선택을 임상가 관점에서 정리한 실무 가이드. (비학술 소스이므로 근거 등급은 낮으나 임상 현장 적용 프레임 참고용.)
+
+### RCT 4 — 대사증후군 성인 다기관 RCT: 1차 종결점 음성, low-baseline Akkermansia responder (Suenaert 2026)
+
+**RCT 4** (Suenaert et al., 2026, *Gut Microbes*, [[Jay's Knowledge Base/raw/577-suenaert-2026-effect-of-pasteurized-akkermansia-muciniphila-muct-on\|raw/577-suenaert-2026-effect-of-pasteurized-akkermansia-muciniphila-muct-on]]; NCT05114018): 대사증후군 성인 142명 대상 살균 *A. muciniphila* MucT(300억 cells/day, 4개월) 이중맹검 위약대조 다기관(아일랜드·독일) RCT.
+- **1차 종결점 음성**: 전신 인슐린감수성(Matsuda index)이 ITT 분석에서 위약 대비 **유의차 없음** — Depommier 2019(proof-of-concept)의 인슐린 감수성 효과를 더 큰 대사증후군 코호트에서 재현하지 못함
+- **탐색적 분석**: 3개월 복용이 전당뇨군·63세 이상군에서 **HOMA 기반 간 인슐린감수성 개선**(각 p=0.05), **post-OGTT GLP-1 excursion 증가**(p<0.01) → 내인성 GLP-1 분비 자극 단서와 합치 (cf. [[Jay's Knowledge Base/wiki/akkermansia-mechanisms\|Yoon 2021 P9 GLP-1 유도 인자]], Gao 2026 병용)
+- **responder = low baseline Akkermansia**: **기저 *Akkermansia* 유전자 수가 낮은 참가자에서 유의한 개선**(Matsuda·HOMA-S 인슐린감수성, GLP-1 excursion, 체중 감소 p=0.06, 체간지방 감소 p<0.05) → Mount 2026·Dao 2016과 동일하게 **기저 *Akkermansia* 풍부도가 낮은 층이 responder**라는 바이오마커 가설을 인체 RCT에서 재확인. 균질 집단 1차 종결점은 음성이나 층화(stratified) 반응이 뚜렷
 
 ---
 

@@ -46,6 +46,14 @@ Amuc_1100·GLP-1 유도 인자 외에도 *A. muciniphila*의 효능을 매개하
 - **Dao 2016 (인체 관찰, *Gut*, [[Jay's Knowledge Base/raw/274-dao-2016-iakkermansia-muciniphilai-and-improved-metabolic-he\|raw/274-dao-2016-iakkermansia-muciniphilai-and-improved-metabolic-he]])**: 비만 환자 식이중재 코호트에서 기저 분변 *A. muciniphila* 풍부도가 높을수록 대사 건강 개선폭이 크고 미생물 유전자 풍부도(gene richness)·생태가 우수 → **responder 바이오마커** 개념의 인체 근거 (cf. Mount 2026 RCT의 동일 관찰).
 - **살균 *A. muciniphila*의 대사 기전 (전임상)**: 살균 *A. muciniphila*가 정상식 마우스에서도 안전하게 장 무결성·면역·지질 대사·미생물 조성을 개선(Ashrafian et al., 2021, *Sci. Rep.*, [[Jay's Knowledge Base/raw/261-ashrafian-2021-comparative-effects-of-alive-and-pasteurized\|raw/261-ashrafian-2021-comparative-effects-of-alive-and-pasteurized]]); 고지방식 마우스에서 시상하부 산화질소(NO) 방출 증가를 동반한 **장-뇌 축 경유 혈당 개선**(Abot et al., 2023, *Heliyon*, [[Jay's Knowledge Base/raw/30-abot-2023-pasteurized-akkermansia-muciniphila-improves-gluco\|raw/30-abot-2023-pasteurized-akkermansia-muciniphila-improves-gluco]]); 2형 당뇨 모델에서 병리 수준의 다중오믹스 기전 규명(Niu et al., 2024, *J. Agric. Food Chem.*, [[Jay's Knowledge Base/raw/138-niu-2024-molecular-mechanism-of-pasteurized-iakkermansia-muc\|raw/138-niu-2024-molecular-mechanism-of-pasteurized-iakkermansia-muc]]). 세 연구 모두 EFSA novel food로 인정된 살균형의 「살균 ≥ 생균」 대사 효능을 기전 측면에서 보강.
 
+#### 고지방식 → 배상세포·점액층 손상 → *A. muciniphila* 고갈 → 담즙산·소장 지질흡수 축 (Liang 2026)
+
+고지방식(HFD)이 **대장 점액 niche와 소장 지질 대사를 예상치 못하게 연결**하는 축이 규명됨 (Liang et al., 2026, *Nature Microbiology* 원저, [[Jay's Knowledge Base/raw/574-liang-2026-dietary-fat-alters-goblet-cell-function-and-microbial\|raw/574-liang-2026-dietary-fat-alters-goblet-cell-function-and-microbial]]; News&Views 해설: Holmberg & Schroeder, 2026, *Nature Microbiology*, [[Jay's Knowledge Base/raw/572-holmberg-2026-fatty-diets-disrupt-mucusmicrobiomemetabolite\|raw/572-holmberg-2026-fatty-diets-disrupt-mucusmicrobiomemetabolite]]):
+
+- **배상세포(goblet cell) 기능 손상**: HFD가 배상세포의 **글루타민(glutamine) 대사·산화환원(redox) 항상성을 손상** → 점액층이 얇아짐 → 점액 적응 공생균 ***A. muciniphila* 고갈** + 담즙산 전환균 ***Clostridium scindens* 확장**
+- **변형된 담즙산 풀 → 소장 지질흡수 증가**: 미생물에 의해 변형된 담즙산이 소장에서 **FXR–PLIN2 신호 활성화** + 장세포 **PPARα 의존 흡수경로 상향** → 지방 흡수 증가. 즉 대장 점액-미생물 상호작용의 교란이 숙주 담즙산의 미생물 전환을 바꿔 **소장 지질 흡수를 원격으로 촉진**하는 대장 점액 niche ↔ 소장 지질대사 연결
+- **글루타민 rescue**: **글루타민 보충이 배상세포 기능과 미생물 유래 담즙산 풀을 회복** → FXR 활성·지질 흡수 감소. *A. muciniphila* 고갈이 단순 결과가 아니라 이 축의 회복 표적임을 시사 (cf. [[Jay's Knowledge Base/wiki/obesity-body-composition\|obesity-body-composition]], [[Jay's Knowledge Base/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]])
+
 > GLP-1RA(semaglutide 등)와의 대사 효과 시너지 및 그 데이터·해석 한계에 대한 비판적 검토는 [[Jay's Knowledge Base/wiki/akkermansia-clinical-evidence\|akkermansia-clinical-evidence]] 문서로 분리하였다.
 
 ### 3. 근육 건강 (장-근육 축)

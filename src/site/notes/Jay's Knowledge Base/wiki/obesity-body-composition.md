@@ -84,6 +84,26 @@ DXA(gold-standard)로 측정한 incretin 약물의 체성분 변화를 절대 kg
 
 **시사점**: Mount 2026(체중 유지)·Feng 2025(균주별 SCFA)·Gao 2026(GLP-1RA 병용)이 주로 SCFA·장벽·인슐린 감수성 축을 다룬 반면, 본 연구는 ***A. muciniphila*가 단일 대사산물(L-노르류신)로 지방산 흡수 자체를 분자적으로 억제**하는 새로운 항비만 effector 축을 제시 → 대사 질환 치료 표적으로서의 함의 (분자 기전 상세는 [[Jay's Knowledge Base/wiki/akkermansia-mechanisms\|akkermansia-mechanisms]] 참조).
 
+### 고지방식→배상세포/점액→담즙산-FXR/PPARα→소장 지방흡수 축과 글루타민 rescue (Liang·Holmberg 2026, *Nature Microbiology*)
+
+고지방식이 대장 점액 niche를 교란하여 소장 지질 흡수를 원격 조절하는 **대장 점액–소장 지질대사 연결 축**이 규명되었다 (Liang et al., 2026, *Nature Microbiology* 원저, [[Jay's Knowledge Base/raw/574-liang-2026-dietary-fat-alters-goblet-cell-function-and-microbial\|raw/574-liang-2026-dietary-fat-alters-goblet-cell-function-and-microbial]]; 논평 Holmberg & Schroeder, 2026, *Nature Microbiology* News&Views, [[Jay's Knowledge Base/raw/572-holmberg-2026-fatty-diets-disrupt-mucusmicrobiomemetabolite\|raw/572-holmberg-2026-fatty-diets-disrupt-mucusmicrobiomemetabolite]]).
+
+- **점액층 손상 경로**: 고지방식이 배상세포(goblet cell)의 **글루타민 대사·산화환원 항상성을 손상**시켜 점액층이 얇아지고, 점액 의존 ***A. muciniphila*가 고갈**되는 반면 ***Clostridium scindens*가 확장**
+- **담즙산 미생물 전환 교란 → 소장 흡수↑**: 변화한 미생물이 담즙산을 **변형(modified bile acids)**시키고, 이 변형 담즙산 풀이 소장 **FXR-PLIN2 신호를 활성화**하고 장세포 **PPARα 의존 지질 흡수 경로를 상향** → 소장 지방 흡수 증가
+- **글루타민 rescue**: **글루타민 보충이 배상세포 기능과 담즙산 풀을 회복**시켜 FXR 활성과 지질 흡수를 낮춤 → 식이 지질 흡수를 미생물–점액 축에서 되돌릴 수 있는 중재점 제시
+
+**시사점**: L-노르류신(Li 2026)이 *A. muciniphila* 단일 대사산물의 FABP1 억제를 다룬 데 더해, 본 축은 ***A. muciniphila* 고갈 자체가 담즙산-FXR/PPARα 경로를 통해 소장 지방흡수를 증폭**하는 상류 기전을 제시 → *A. muciniphila* 보존이 갖는 항비만 의의를 점액-담즙산 관점에서 보강 (기전 상세 [[Jay's Knowledge Base/wiki/akkermansia-mechanisms\|akkermansia-mechanisms]], 임상 근거 [[Jay's Knowledge Base/wiki/akkermansia-clinical-evidence\|akkermansia-clinical-evidence]] 참조).
+
+### 살균 *A. muciniphila* MucT — 대사증후군 성인 RCT (Suenaert 2026, *Gut Microbes*)
+
+대사증후군 성인에서 살균 *A. muciniphila* MucT의 인슐린 감수성 개선을 평가한 이중맹검·위약대조 RCT (Suenaert et al., 2026, *Gut Microbes*, [[Jay's Knowledge Base/raw/577-suenaert-2026-effect-of-pasteurized-akkermansia-muciniphila-muct-on\|raw/577-suenaert-2026-effect-of-pasteurized-akkermansia-muciniphila-muct-on]], NCT05114018). 성인 142명에게 살균 *A. muciniphila* MucT **300억 cells/day, 4개월** 투여.
+
+- **1차 종결점(Matsuda index) — ITT 유의차 없음**
+- **탐색적 하위군**: 전당뇨군·63세 이상군에서 HOMA 기반 인슐린 감수성 개선(p=0.05), post-OGTT **GLP-1 excursion 증가**(p<0.01)
+- **responder = low baseline *Akkermansia***: 기저 *Akkermansia* 풍부도가 낮은 참가자에서 유의 개선(인슐린 감수성·GLP-1·체중 p=0.06, 체간지방 p<0.05)
+
+**시사점**: Mount 2026(체중 유지 1차 종결점 양성)과 대비되어 **1차 종결점(Matsuda index)이 음성**이었으나, **기저 *Akkermansia* 낮은 층에서의 반응성**과 **GLP-1 excursion 증가**는 Mount 2026의 responder 층화 신호와 일관 → 살균 *A. muciniphila* 대사 중재는 **low-baseline *Akkermansia* 층화**가 효능 검출의 열쇠임을 재확인 (cf. [[Jay's Knowledge Base/wiki/akkermansia-clinical-evidence\|akkermansia-clinical-evidence]], [[Jay's Knowledge Base/wiki/microbiome-analysis-technologies\|microbiome 진단]]).
+
 ### 운동-유도 체지방 감소의 미생물 매개 — *A. muciniphila* 축
 - 동물에서 유산소·중등도 운동이 일관되게 *A. muciniphila* 증가 + 다양성 증가 + 포도당 내성 개선 + 지방량 감소 유도
 - 인간 결과는 이질적이나 과체중·대사 이상자에서 *A. muciniphila* 소폭 증가와 대사 개선 확인
@@ -190,6 +210,9 @@ UC San Diego Pritikin Intensive Cardiac Rehabilitation(ICR) 후향 코호트(n=4
 - [[Jay's Knowledge Base/raw/559-davies-2026-elecoglipron-an-oral-small-molecule-glp-1-receptor\|raw/559-davies-2026-elecoglipron-an-oral-small-molecule-glp-1-receptor]] — Elecoglipron(경구 small-molecule GLP-1RA) 비만·과체중 성인 대상 phase 2 무작위·위약대조 임상 VISTA (M. J. Davies, *The Lancet* 2026): 경구 GLP-1RA 파이프라인 확장
 - [[Jay's Knowledge Base/raw/560-geddam-2026-advances-in-glp-1-receptor-agonists-molecular\|raw/560-geddam-2026-advances-in-glp-1-receptor-agonists-molecular]] — GLP-1RA 분자 기전·약물전달(경구 펩타이드·나노입자·depot·마이크로니들)·제형 전략·다기관 적응증 종합 translational 종설 (*Obesity Medicine* 2026)
 - [[Jay's Knowledge Base/raw/564-alaycı-2026-dxa-measured-body-composition-effects-of-glp-1-and\|raw/564-alaycı-2026-dxa-measured-body-composition-effects-of-glp-1-and]] — GLP-1/이중 GIP-GLP-1 작용제의 DXA 측정 체성분 효과 phase 3 RCT 메타분석(5편, 505명): 제지방 −1.96 kg(T2D −1.21 kg)·지방 −5.29 kg, 지방 우세 감량, 기저 체성분 평가·단백질·저항운동 권고 (2026)
+- [[Jay's Knowledge Base/raw/572-holmberg-2026-fatty-diets-disrupt-mucusmicrobiomemetabolite\|raw/572-holmberg-2026-fatty-diets-disrupt-mucusmicrobiomemetabolite]] — 식이 지질이 대장 미생물-점액 상호작용·담즙산 미생물 전환을 교란, 변형 담즙산 풀이 소장 지질 흡수 증가 유발 → 대장 점액 niche ↔ 소장 지질대사 연결 논평 (Holmberg & Schroeder, *Nature Microbiology* News&Views 2026)
+- [[Jay's Knowledge Base/raw/574-liang-2026-dietary-fat-alters-goblet-cell-function-and-microbial\|raw/574-liang-2026-dietary-fat-alters-goblet-cell-function-and-microbial]] — 고지방식→배상세포 글루타민대사·산화환원 손상→점액층 박화→*A. muciniphila* 고갈+*C. scindens* 확장, 변형 담즙산이 소장 FXR-PLIN2+장세포 PPARα 상향으로 지방흡수↑, **글루타민 보충이 배상세포·담즙산 풀 회복→FXR·지질흡수↓** (Liang et al., *Nature Microbiology* 2026)
+- [[Jay's Knowledge Base/raw/577-suenaert-2026-effect-of-pasteurized-akkermansia-muciniphila-muct-on\|raw/577-suenaert-2026-effect-of-pasteurized-akkermansia-muciniphila-muct-on]] — 살균 *A. muciniphila* MucT(300억 cells/day, 4개월) 대사증후군 성인 142명 이중맹검 RCT: 1차 종결점(Matsuda index) ITT 유의차 없음, 전당뇨·63세 이상군 인슐린감수성·post-OGTT GLP-1 excursion 개선, **low baseline *Akkermansia* responder** (*Gut Microbes* 2026, NCT05114018)
 
 ---
 

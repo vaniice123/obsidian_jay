@@ -77,6 +77,8 @@ GLP-1 수용체 작용제의 **근손실 부작용**을 해결하기 위한 마�
 
 마이크로바이옴 연구를 실제 임상으로 전환하기 위한 다학제 컨센서스에서, 인과성 입증, 표준화된 분석·제조, 적절한 임상시험 설계, 규제 프레임워크 정비, 재현성 확보가 핵심 과제로 제시된다. 상관관계 중심 연구를 넘어 **기전 기반·중개 가능한 근거**로 전환해야 한다는 점이 강조된다 ([[Jay's Knowledge Base/raw/255-gilbert-2025-clinical-translation-of-microbiome-research\|Gilbert et al., 2025, *Nature Medicine*]]). 이는 [[Jay's Knowledge Base/wiki/microbiome-analysis-technologies\|분석 기술 표준화]] 및 본 문서의 규제 현황과 직결된다.
 
+인체 장 마이크로바이옴 연구의 임상·공중보건 번역이 여전히 제한적이라는 점을 통합 종설로 짚은 연구는 **번역의 missing pieces**를 4대 측면에서 평가한다 ([[Jay's Knowledge Base/raw/571-fassarella-2026-translational-human-gut-microbiome-research-what-are\|Fassarella & Smidt, 2026, *Journal of Translational Medicine*]]): ① 번역 성공사례, ② 효과적 번역의 장벽(barriers), ③ 타 의학분야에서 검증된 번역 프레임워크의 적용가능성, ④ 번역 진전을 강화할 전략. Gilbert 2025의 컨센서스와 상보적으로, 성공사례·프레임워크 이식·전략 관점을 추가하여 본 문서의 임상 중개·규제 논의를 뒷받침한다.
+
 ## 규제 현황
 - 기존 프레임워크에 상당한 갭 존재
 - LBP 특성 분석을 위한 분석 방법론 최적화/검증 필요
@@ -91,3 +93,4 @@ GLP-1 수용체 작용제의 **근손실 부작용**을 해결하기 위한 마�
 - [[Jay's Knowledge Base/raw/135-pitashny-2025-the-future-of-microbiome-therapeutics\|raw/135-pitashny-2025-the-future-of-microbiome-therapeutics]] — 후기 개발 단계 차세대 마이크로바이옴 치료 기술 전망 리뷰
 - [[Jay's Knowledge Base/raw/240-khanna-2022-ser-109-an-oral-investigational-microbiome-thera\|raw/240-khanna-2022-ser-109-an-oral-investigational-microbiome-thera]] — SER-109(Vowst™) 경구 포자 기반 rCDI 치료제 임상 근거
 - [[Jay's Knowledge Base/raw/255-gilbert-2025-clinical-translation-of-microbiome-research\|raw/255-gilbert-2025-clinical-translation-of-microbiome-research]] — 마이크로바이옴 연구의 임상 중개 다학제 컨센서스
+- [[Jay's Knowledge Base/raw/571-fassarella-2026-translational-human-gut-microbiome-research-what-are\|raw/571-fassarella-2026-translational-human-gut-microbiome-research-what-are]] — 인체 장 마이크로바이옴 연구의 번역 장벽·전략 통합 종설: 번역 성공사례·효과적 번역의 장벽·타 의학분야 프레임워크 적용가능성·번역 진전 강화 전략 4대 측면 평가, 번역의 missing pieces (Fassarella & Smidt, *Journal of Translational Medicine* 2026)
