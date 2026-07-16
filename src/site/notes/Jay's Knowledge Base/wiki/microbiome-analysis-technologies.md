@@ -84,6 +84,16 @@
 
 널리 쓰이는 모델인 Oligo-Mouse-Microbiota(OMM12, 12개 균주) 합성 군집을 대상으로 한 bottom-up 접근에서, 단배양·쌍배양·대사체 분석을 결합해 균주 간 성장·대사 상호작용의 **방향성 네트워크**를 규명하였다 ([[Jay's Knowledge Base/raw/99-weiss-2022-in-vitro-interaction-network-of-a-synthetic-gut-b\|Weiss et al., 2022, *ISME J*]]). 정의된 군집을 사용하면 군집 구성·메타게놈 데이터로부터 기능을 예측하는 원리를 체계적으로 검증할 수 있다.
 
+#### 배지 조성이 상호작용 해석을 바꾼다 — 뮤신 기반 합성 군집 (Yu 2026)
+
+합성 군집 실험의 결론은 **배지(nutrient condition) 설계에 의존한다**는 점이 확인됐다. 기존 장내 미생물 생태 이해는 대부분 **점막 환경을 제대로 반영하지 못하는 영양 풍부(nutrient-rich) 배지**에 기반해 왔다는 것이 이 연구의 문제의식이다. Yu et al. (2026, *mSphere*, [[Jay's Knowledge Base/raw/585-yu-2026-deciphering-the-in-vitro-mucin-driven-interaction\|raw/585-yu-2026-deciphering-the-in-vitro-mucin-driven-interaction]])은 뮤신(mucin) 이용 능력이 서로 다른 6개 균종으로 합성 군집(synthetic community, SynCom)을 구성하고, 단배양·쌍배양·군집 배치배양에서 영양 조건별 상호작용을 in vitro 성장 분석으로 추적했다.
+
+- **뮤신 단독 탄소원 조건 → 양성(협력적) 상호작용이 우세**
+- **글루코스 첨가 또는 고영양 조건 → 균간 경쟁이 유의하게 증가**
+- → 뮤신은 경쟁적 길항(competitive antagonism)을 완화하고 자원 이용을 촉진하며 **군집 다양성을 높이는 방향**으로 작용. in vivo 연구에서도 뮤신이 군집 다양성을 증가시키고 세균 대사 패턴을 조절함이 뒷받침됨
+
+→ 점막(mucus)이 미생물 상호작용 패턴을 능동적으로 조형한다는 기전적 틀을 제시하며, 장 생태계 회복탄력성(resilience) 해석과 **생리적으로 더 타당한 in vitro 모델**(뮤신 기반 정의 배지 + 합성 군집) 개발의 근거가 된다. OMM12형 표준 배지 기반 네트워크(Weiss 2022)나 장기 칩 모델을 설계·해석할 때 탄소원 선택 자체가 교란 변수임을 시사하며, 뮤신 특이적 분해능을 가진 [[Jay's Knowledge Base/wiki/akkermansia-muciniphila\|*A. muciniphila*]] 같은 점액 이용 특화균([[Jay's Knowledge Base/wiki/akkermansia-strain-landscape\|akkermansia-strain-landscape]])의 군집 내 위치를 평가하는 실험 설계, [[Jay's Knowledge Base/wiki/dysbiosis\|dysbiosis]] 상태의 해석, 그리고 뮤신 모사 정의 배지 개발([[Jay's Knowledge Base/wiki/bioprocess-engineering\|bioprocess-engineering]])과 직접 연결된다.
+
 ### 장기 칩(Organ-on-a-Chip) 기반 숙주–미생물 상호작용 모델링
 
 미세유체(microfluidic) 장기 칩은 산소 구배·연동운동·점액층·면역세포를 재현해 숙주 세포와 살아있는 미생물 군집을 장기간 공배양할 수 있는 플랫폼으로, 동물 모델의 종 차이 및 윤리 문제를 우회하면서 숙주–미생물 상호작용을 인과적으로 해부할 수 있게 한다 ([[Jay's Knowledge Base/raw/51-shin-2023-modelling-hostmicrobiome-interactions-in-organ-on\|Shin et al., 2023, *Nat Rev Bioeng*]]). 다중 오믹스·실시간 이미징과 결합 시 in vivo 검증의 중간 단계로 기능한다.
@@ -121,4 +131,5 @@
 - [[Jay's Knowledge Base/raw/99-weiss-2022-in-vitro-interaction-network-of-a-synthetic-gut-b\|raw/99-weiss-2022-in-vitro-interaction-network-of-a-synthetic-gut-b]] — OMM12 합성 군집의 in vitro 상호작용 네트워크
 - [[Jay's Knowledge Base/raw/132-jensen-2025-ten-species-comprise-half-of-the-bacteriology-li\|raw/132-jensen-2025-ten-species-comprise-half-of-the-bacteriology-li]] — 10종이 세균학 문헌의 절반 차지, 74% 종 미연구
 - [[Jay's Knowledge Base/raw/541-zeng-2026-temporal-variations-of-the-gut-microbiome-in-human\|raw/541-zeng-2026-temporal-variations-of-the-gut-microbiome-in-human]] — 인간 장내 마이크로바이옴의 시간 변동 종설 (*The Lancet Microbe* 2026): 종단 설계·rate-of-change·resilience 지표·시계열 다중오믹스 통합 필요성
+- [[Jay's Knowledge Base/raw/585-yu-2026-deciphering-the-in-vitro-mucin-driven-interaction\|raw/585-yu-2026-deciphering-the-in-vitro-mucin-driven-interaction]] — 뮤신 이용능이 다른 6종 합성 군집의 in vitro 상호작용 동역학 (*mSphere* 2026): 뮤신 단독 탄소원에서 협력적 상호작용 우세, 글루코스·고영양에서 경쟁 증가 → 영양 풍부 배지의 한계와 생리적으로 타당한 in vitro 모델 필요성
 - [[Jay's Knowledge Base/raw/561-huang-2026-development-of-a-gut-on-a-chip-platform-to-monitor\|raw/561-huang-2026-development-of-a-gut-on-a-chip-platform-to-monitor]] — 1차 장 조직의 동적 GLP-1 분비를 모니터링하는 gut-on-a-chip(내강·장막 병렬 관류) 플랫폼, 정적 배양 대비 실시간 분비 포착·조직 생존성 보존·secretagogue 스크리닝 (*Biosensors and Bioelectronics* 2026)

@@ -100,6 +100,10 @@ GBA1 유전자 변이는 PD의 가장 흔한 위험인자(최대 30배)이지만
 
 장내 세균이 분비하는 세포외소포(bacterial extracellular vesicles, BEV; 세균 세포외소포)는 그동안 충분히 인식되지 못한 **"미생물 암흑물질(microbial dark matter)"** 로, 장벽(gut barrier)을 통과해 전신으로 이동하며 숙주 염증과 심혈관대사 질환(cardiometabolic disease)에 기여한다는 종설이 제시됐다 ([[Jay's Knowledge Base/raw/557-oliver-2026-gut-derived-bacterial-extracellular-vesicles-the\|Oliver 2026, *Gut Microbes*]]). BEV는 단백질·지질·핵산 등 세균 유래 화물을 원격 조직으로 운반하는 매개체로, [[Jay's Knowledge Base/wiki/dysbiosis\|dysbiosis]]가 대사·심혈관 질환으로 전이되는 새로운 기전 축을 제시한다.
 
+### 장내 마이크로바이옴과 미토콘드리아 기능 — 모니터링 (Han 2026, *Gut Microbes*)
+
+장내 마이크로바이옴과 숙주 **미토콘드리아 기능(mitochondrial function)**의 상호작용을 대사(metabolism)·면역(immunity)·질병 전반에 걸쳐 다룬 종설이 발표됐다 ([[Jay's Knowledge Base/raw/581-han-2026-the-gut-microbiome-and-mitochondrial-function-in\|Han et al., 2026, *Gut Microbes*]]). 현재 **서지 정보만 확보된 상태(초록 미확보)**이므로 구체적 기전·결론은 미확정이며, 본문 확인 후 보강 필요. 주제상 [[Jay's Knowledge Base/wiki/gut-muscle-axis\|gut-muscle-axis]](근육 미토콘드리아 기능)와 [[Jay's Knowledge Base/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]](미토콘드리아 기질로서의 SCFA)에 잠재적으로 연관될 수 있어 모니터링 대상으로 등록한다.
+
 ## 출처
 
 - [[Jay's Knowledge Base/raw/01-microbiome-health-disease-overview\|raw/01-microbiome-health-disease-overview]]
@@ -109,6 +113,7 @@ GBA1 유전자 변이는 PD의 가장 흔한 위험인자(최대 30배)이지만
 - [[Jay's Knowledge Base/raw/516-menozzi-2026-microbiome-signature-of-parkinsons-disease-in-healthy\|raw/516-menozzi-2026-microbiome-signature-of-parkinsons-disease-in-healthy]]
 - [[Jay's Knowledge Base/raw/557-oliver-2026-gut-derived-bacterial-extracellular-vesicles-the\|raw/557-oliver-2026-gut-derived-bacterial-extracellular-vesicles-the]] — 장 유래 세균 세포외소포(BEV)가 "미생물 암흑물질"로서 장벽을 넘어 숙주 염증·심혈관대사 질환에 기여 (*Gut Microbes* 2026)
 - [[Jay's Knowledge Base/raw/541-zeng-2026-temporal-variations-of-the-gut-microbiome-in-human\|raw/541-zeng-2026-temporal-variations-of-the-gut-microbiome-in-human]] — 인간 장내 마이크로바이옴의 시간 변동 종설 (*The Lancet Microbe* 2026): 단일 시점 sampling의 한계, 종단 설계의 필요성, prodromal·중재 효능 평가의 baseline 안정성 가정 재고
+- [[Jay's Knowledge Base/raw/581-han-2026-the-gut-microbiome-and-mitochondrial-function-in\|raw/581-han-2026-the-gut-microbiome-and-mitochondrial-function-in]] — 장내 마이크로바이옴과 미토콘드리아 기능의 대사·면역·질병 종설 (*Gut Microbes* 2026); 서지 정보만 확보(초록 미확보), 본문 확인 후 보강 필요
 - [[Jay's Knowledge Base/raw/68-righi-2024-gut-microbiome-disruption-following-sars-cov-2-a\|raw/68-righi-2024-gut-microbiome-disruption-following-sars-cov-2-a]] — SARS-CoV-2 감염 후 장내 마이크로바이옴 교란 리뷰
 - [[Jay's Knowledge Base/raw/78-zhu-a-spatial-multi-modal-dissection-of-host-microbiome-inte\|raw/78-zhu-a-spatial-multi-modal-dissection-of-host-microbiome-inte]] — 대장염 조직 미세환경의 공간 다중모달 숙주–미생물 해부
 - [[Jay's Knowledge Base/raw/95-ludington-2024-the-importance-of-host-physical-niches-for-th\|raw/95-ludington-2024-the-importance-of-host-physical-niches-for-th]] — 군집 안정성의 숙주 물리적 niche 결정 요인

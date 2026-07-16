@@ -20,6 +20,18 @@ DSS-유도 궤양성 대장염(UC) 마우스 모델에서 **살균 *A. muciniphi
 
 추가로 *A. muciniphila*(또는 막단백질)가 **CREBH·miR-143/145 축**을 통해 장 염증 스트레스를 완화하고 상피 창상 치유를 촉진함이 규명되었고 (Wade et al., 2023, *J. Biomed. Sci.*, [[Jay's Knowledge Base/raw/260-wade-2023-akkermansia-muciniphila-and-its-membrane-protein-a\|raw/260-wade-2023-akkermansia-muciniphila-and-its-membrane-protein-a]] = [[Jay's Knowledge Base/raw/271-wade-2023-akkermansia-muciniphila-and-its-membrane-protein-a\|raw/271-wade-2023-akkermansia-muciniphila-and-its-membrane-protein-a]]), 살균형이 Caco-2 모델에서 **TLR2를 통한 AMPK·NF-κB 조절**로 LPS 유도 장벽 손상을 회복시킴이 확인되었다 (Shi et al., 2022, *Nutrients*, [[Jay's Knowledge Base/raw/269-shi-2022-pasteurized-akkermansia-muciniphila-ameliorate-the\|raw/269-shi-2022-pasteurized-akkermansia-muciniphila-ameliorate-the]]) — 「살균형의 장벽 보호」가 TLR2 하류 신호 수준에서 작동함을 보이는 분자 근거.
 
+#### 균주별 효능 편차와 면역 항상성 회복 — AKK2645 (Li 2026)
+
+UC는 **장 면역 조절 이상(intestinal immune dysregulation)과 미생물 불균형(microbial imbalance)**에서 비롯되는 만성 염증성 질환으로, 살균 *A. muciniphila*는 항염증 특성과 우수한 안전성 프로파일로 주목받아 왔다. Li et al. (2026, *Frontiers in Nutrition*, [[Jay's Knowledge Base/raw/582-li-2026-strain-dependent-efficacy-of-pasteurized-akkermansia\|raw/582-li-2026-strain-dependent-efficacy-of-pasteurized-akkermansia]])은 항염증 특성을 지닌 살균 *A. muciniphila* **39개 균주**를 in vitro HT-29 세포 염증 모델로 1차 스크리닝한 뒤, DSS-유도 UC 마우스 모델에서 in vivo 효능을 평가해 **39개 균주가 UC 치료 효능에서 상당한 편차**를 보임을 확인했다. 이 중 **살균 AKK2645가 in vitro·in vivo 모두에서 가장 강력한 효능**을 나타냈다.
+
+AKK2645의 기전은 「면역세포 집단 + 미생물 항상성」 이중 축으로 정리된다:
+
+- **T세포 아집단 재균형**: 결장에서 **Th17/Treg 및 Th1/Th2 비율을 변화**시킴
+- **사이토카인 전사 조절**: 전염증성 *il-6*·*il-1β*·*tnf-α*·*il-17a*·*ifn-γ*·*il-23* mRNA 발현 감소, 항염증성 *il-10*·*foxp3*·*gata3* mRNA 발현 증가
+- **장내 미생물 재구성 (16S rRNA)**: 유익균속 *Dubosiella*·*Bifidobacterium*·*Limosilactobacillus* 증가, 잠재적 병원성 속 *Ileibacterium*·*Alistipes* 감소
+
+→ 앞선 Han 2025(Timepie001+)·Xue 2023의 「살균형 ≥ 생균형」 DSS-UC 보호 근거를 **T세포 아집단 수준의 면역 조절 기전**으로 확장하며, 사이토카인 억제(TNF-α·IL-1β)에 머물던 관찰을 Th17/Treg·Th1/Th2 축으로 심화. 동시에 **살균(inactivation) 효과가 균주 특이적(strain-specific)**임을 보여, 「살균 Akk」를 단일 범주로 다루기 어렵고 **균주 선별이 효능의 전제**임을 시사 (균주 다양성·선별 논의는 [[Jay's Knowledge Base/wiki/akkermansia-strain-landscape\|akkermansia-strain-landscape]], 면역 조절 기전 상세는 [[Jay's Knowledge Base/wiki/akkermansia-mechanisms\|akkermansia-mechanisms]] 참조). 단, 39개 균주는 항염증 특성 기준으로 스크리닝된 후보군이며 전부가 in vivo 효능을 입증한 것은 아니다.
+
 #### IBD 동반 신경정신 동반질환 — AmEV 매개 장-뇌 축 회복 (Chen 2026)
 
 UC는 단순 소화기 질환이 아니라 **인지장애 등 전신 동반증상**을 자주 수반한다(장-뇌 축 교란). Chen et al. (2026, *Gut Microbes*, [[Jay's Knowledge Base/raw/536-chen-2026-akkermansia-muciniphila-derived-extracellular-vesicles\|raw/536-chen-2026-akkermansia-muciniphila-derived-extracellular-vesicles]])은 DSS-UC 마우스 모델에서 **Akk 유래 세포외소포(AmEV)**가 ① 체중·DAI·결장 길이 등 **대장염 중증도 완화**와 ② Y-maze·새로운 사물 인지 회복 등 **인지 결손 동시 회복**을 입증. 기전 축은 (1) 장+BBB tight junction 동시 회복, (2) 해마 신경염증·미세아교세포·성상교세포 활성 억제, (3) ***Bifidobacterium* 증가·병원성 *Bacteroides·Mucispirillum* 억제·SCFA 회복**, (4) **트립토판 대사 양방향 재프로그래밍**(결장 5-HT 과생산 감소·해마 5-HT/5-HT1A·BDNF·시냅스 가소성 회복), (5) 바이오디스트리뷰션에서 **AmEV가 Amuc_1100을 해마 뉴런까지 직접 전달**해 5-HT 생산을 증강. → UC 적응증의 외연이 **IBD 동반 신경정신 증상**으로 확장되며, **무세포 effector(AmEV)** 기반 IBD-CNS dual indication의 분자 근거. 상세 기전·EV 플랫폼은 [[Jay's Knowledge Base/wiki/akkermansia-mechanisms#추가 분비 단백질·세포외소포·대사산물 (Effector Molecules)\|akkermansia-mechanisms]] 참조.
