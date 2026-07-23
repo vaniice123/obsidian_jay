@@ -15,9 +15,4 @@
 
 ## Abstract
 
-Abstract
-            
-              Akkermansia muciniphila
-              has received great attention because of its beneficial roles in gut health by regulating gut immunity, promoting intestinal epithelial development, and improving barrier integrity. However,
-              A. muciniphila
-              -derived functional molecules regulating gut health are not well understood. Microbiome-secreted proteins act as key arbitrators of host-microbiome crosstalk through interactions with host cells in the gut and are important for understanding host-microbiome relationships. Herein, we report th...
+Akkermansia muciniphila has received great attention because of its beneficial roles in gut health by regulating gut immunity, promoting intestinal epithelial development, and improving barrier integrity. However, A. muciniphila-derived functional molecules regulating gut health are not well understood. Microbiome-secreted proteins act as key arbitrators of host-microbiome crosstalk through interactions with host cells in the gut and are important for understanding host-microbiome relationships. Herein, we report the biological function of Amuc_1409, a previously uncharacterised A. muciniphila- secreted protein. Amuc_1409 increased intestinal stem cell (ISC) proliferation and regeneration in ex vivo intestinal organoids and in vivo models of radiation- or chemotherapeutic drug-induced intestinal injury and natural aging with male mice. Mechanistically, Amuc_1409 promoted E-cadherin/β-catenin complex dissociation via interaction with E-cadherin, resulting in the activation of Wnt/β-catenin signaling. Our results demonstrate that Amuc_1409 plays a crucial role in intestinal homeostasis by regulating ISC activity in an E-cadherin-dependent manner and is a promising biomolecule for improving and maintaining gut health.

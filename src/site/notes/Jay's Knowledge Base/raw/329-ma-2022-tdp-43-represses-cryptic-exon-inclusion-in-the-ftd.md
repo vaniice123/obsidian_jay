@@ -16,22 +16,4 @@
 
 ## Abstract
 
-Abstract
-            
-              A hallmark pathological feature of the neurodegenerative diseases amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD) is the depletion of RNA-binding protein TDP-43 from the nucleus of neurons in the brain and spinal cord
-              1
-              . A major function of TDP-43 is as a repressor of cryptic exon inclusion during RNA splicing
-              2–4
-              . Single nucleotide polymorphisms in
-              UNC13A
-              are among the strongest hits associated with FTD and ALS in human genome-wide association studies
-              5,6
-              , but how those variants increase risk for disease is unknown. Here we show that TDP-43 represses a cryptic exon-splicing event in
-              UNC13A
-              . Loss of TDP-43 from the nucleus in human brain, neuronal cell lines and motor neurons derived from induced pluripotent stem cells resulted in the inclusion of a cryptic exon in
-              UNC13A
-              mRNA and reduced UNC13A protein expression. The top variants associated with FTD or ALS risk in humans are located in the intron harbouring the cryptic exon, and we show that they increase
-              UNC13A
-              cryptic exon splicing in the face of TDP-43 dysfunction. Together, our data provide a direct functional link between one of the strongest genetic risk factors for FTD and ALS (
-              UNC13A
-              genetic variants), and loss of TDP-43 function.
+A hallmark pathological feature of the neurodegenerative diseases amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD) is the depletion of RNA-binding protein TDP-43 from the nucleus of neurons in the brain and spinal cord 1. A major function of TDP-43 is as a repressor of cryptic exon inclusion during RNA splicing 2–4. Single nucleotide polymorphisms in UNC13A are among the strongest hits associated with FTD and ALS in human genome-wide association studies 5,6, but how those variants increase risk for disease is unknown. Here we show that TDP-43 represses a cryptic exon-splicing event in UNC13A. Loss of TDP-43 from the nucleus in human brain, neuronal cell lines and motor neurons derived from induced pluripotent stem cells resulted in the inclusion of a cryptic exon in UNC13A mRNA and reduced UNC13A protein expression. The top variants associated with FTD or ALS risk in humans are located in the intron harbouring the cryptic exon, and we show that they increase UNC13A cryptic exon splicing in the face of TDP-43 dysfunction. Together, our data provide a direct functional link between one of the strongest genetic risk factors for FTD and ALS ( UNC13A genetic variants), and loss of TDP-43 function.

@@ -15,6 +15,10 @@
 
 ## Abstract
 
-Background: Sarcopenia and gut dysbiosis are common in cirrhosis. The aim is to study the correlations between the gut microbiota taxa and muscle mass level in cirrhosis.
-Methods: The study included 40 cirrhosis patients including 18 patients with sarcopenia. The gut microbiota composition was assessed using amplicon sequencing of the hypervariable V3-V4 regions of the 16S rRNA gene. The skeletal muscle mass, subcutaneous and visceral fat levels were assessed with abdominal computed tomography as skeletal muscle, subcutaneous and visceral fat indices (SMI, SFI and VFI).
-Results: Patients with ...
+**Background**: Sarcopenia and gut dysbiosis are common in cirrhosis. The aim is to study the correlations between the gut microbiota taxa and muscle mass level in cirrhosis.
+
+**Methods**: The study included 40 cirrhosis patients including 18 patients with sarcopenia. The gut microbiota composition was assessed using amplicon sequencing of the hypervariable V3-V4 regions of the 16S rRNA gene. The skeletal muscle mass, subcutaneous and visceral fat levels were assessed with abdominal computed tomography as skeletal muscle, subcutaneous and visceral fat indices (SMI, SFI and VFI).
+
+**Results**: Patients with sarcopenia had more relative abundance (RA) of Agathobacter, Anaerostipes, Butyricicoccus, Dorea, Eggerthella, Microbacteriaceae, Veillonella and less RA of Akkermansiaceae, Akkermansia muciniphila, Verrucomicrobiae and Bilophila compared to patients with normal muscle mass. SMI directly correlated with RA of Akkermansia, Alistipes indistinctus, Anaerotruncus, Atopobiaceae, Bacteroides clarus, Bacteroides salyersiae, Barnesiellaceae, Bilophila wadsworthia, Pseudomonadota, Olsenella, and Parabacteroides distasonis, and negatively correlated with RA of Anaerostipes and Eggerthella. Sarcopenia was detected in 20.0% patients whose gut microbiota had Akkermansia but not Eggerthella, and in all the patients, whose gut microbiota had Eggerthella but not Akkermansia. The Akkermansia and Eggerthella abundances were independent determinants of SMI. RA of Akkermansia, Akkermansia muciniphila, Akkermansiaceae, Bacteroides salyersiae, Barnesiella, Bilophila, Desulfobacterota, Verrucomicrobiota and other taxa correlated positively and RA of Anaerovoracaceae, Elusimicrobiaceae, Elusimicrobium, Kiritimatiellae, Spirochaetota, and other taxa correlated negatively with the SFI. RA of Alistripes, Romboutsia, Succinivibrio, and Succinivibrionaceae correlated positively and RA of Bacteroides thetaiotaomicron correlated negatively with VFI.
+
+**Conclusion**: The muscle mass level in cirrhosis correlates with the abundance of several gut microbiota taxa, of which Akkermansia and Eggerthella seems to be the most important.

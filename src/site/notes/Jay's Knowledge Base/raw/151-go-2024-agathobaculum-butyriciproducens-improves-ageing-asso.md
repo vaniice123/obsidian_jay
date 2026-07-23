@@ -15,4 +15,4 @@
 
 ## Abstract
 
-Aims: The gut microbiota is increasingly recognised as a pivotal regulator of immune system homeostasis and brain health. Recent research has implicated the gut microbiota in age-related cognitive impairment and de­ mentia. Agathobaculum butyriciproducens SR79 T (SR79), which was identified in the human gut, has been re­ ported to be beneficial in addressing cognitive deficits and pathophysiologies in a mouse model of Alzheimer’s disease. However, it remains unknown whether SR79 affects age-dependent cognitive impairment.
+**Aims**: The gut microbiota is increasingly recognised as a pivotal regulator of immune system homeostasis and brain health. Recent research has implicated the gut microbiota in age-related cognitive impairment and de­ mentia. Agathobaculum butyriciproducens SR79 T (SR79), which was identified in the human gut, has been re­ ported to be beneficial in addressing cognitive deficits and pathophysiologies in a mouse model of Alzheimer’s disease. However, it remains unknown whether SR79 affects age-dependent cognitive impairment.

@@ -15,10 +15,4 @@
 
 ## Abstract
 
-Abstract
-            
-              Obesity and type 2 diabetes are prevalent chronic diseases effectively managed by semaglutide. Here we studied the effects of semaglutide on the circulating proteome using baseline and end-of-treatment serum samples from two phase 3 trials in participants with overweight or obesity, with or without diabetes: STEP 1 (
-              n
-               = 1,311) and STEP 2 (
-              n
-               = 645). We identified evidence supporting broad effects of semaglutide, implicating processes related to body weight regulation, glycemic control, lipid metaboli...
+Obesity and type 2 diabetes are prevalent chronic diseases effectively managed by semaglutide. Here we studied the effects of semaglutide on the circulating proteome using baseline and end-of-treatment serum samples from two phase 3 trials in participants with overweight or obesity, with or without diabetes: STEP 1 ( n = 1,311) and STEP 2 ( n = 645). We identified evidence supporting broad effects of semaglutide, implicating processes related to body weight regulation, glycemic control, lipid metabolism and inflammatory pathways. Several proteins were regulated with semaglutide, after accounting for changes in body weight and HbA 1c at end of trial, suggesting effects of semaglutide on the proteome beyond weight loss and glucose lowering. A comparison of semaglutide with real-world proteomic profiles revealed potential benefits on disease-specific proteomic signatures including the downregulation of specific proteins associated with cardiovascular disease risk, supporting its reported effects of lowering cardiovascular disease risk and potential drug repurposing opportunities. This study showcases the potential of proteomics data gathered from randomized trials for providing insights into disease mechanisms and drug repurposing opportunities. These data also highlight the unmet need for, and importance of, examining proteomic changes in response to weight loss pharmacotherapy in future trials.

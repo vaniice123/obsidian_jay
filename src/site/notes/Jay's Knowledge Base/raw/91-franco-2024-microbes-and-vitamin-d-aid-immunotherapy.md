@@ -15,7 +15,4 @@
 
 ## Abstract
 
-Vitamin D modulates intestinal epithelial cell function to enhance antitumor microbes
-          , 
-            
-              Tremendous progress has been made in improving cancer immunotherapy, which is now established as a pillar for cancer treatment. Immune checkpoint inhibitors (ICIs) enhance antitumoral T cell responses by blocking interactions of the inhibitory receptors cytotoxic T lymphocyte–associated protein 4 (CTLA-4) or programmed cell death protein 1 (PD-1) that are expressed on T cells with their ligands. ICIs are used to treat a variety of cancer types, including melanoma, non–s...
+Vitamin D modulates intestinal epithelial cell function to enhance antitumor microbes, Tremendous progress has been made in improving cancer immunotherapy, which is now established as a pillar for cancer treatment. Immune checkpoint inhibitors (ICIs) enhance antitumoral T cell responses by blocking interactions of the inhibitory receptors cytotoxic T lymphocyte–associated protein 4 (CTLA-4) or programmed cell death protein 1 (PD-1) that are expressed on T cells with their ligands. ICIs are used to treat a variety of cancer types, including melanoma, non–small cell lung cancer, and renal cell carcinoma ( 1 ), with patients often displaying long-lasting responses. Nevertheless, a substantial proportion of patients do not respond to ICIs ( 1 ), and the gut microbiome has been identified as a key modulator of ICI effectiveness ( 2 – 4 ). Diet strongly influences gut microbial composition and function. On page 428 of this issue, Giampazolias et al. ( 5 ) report the identification of vitamin D as a dietary component involved in promoting microbial regulation of responses to ICI therapy in mice.

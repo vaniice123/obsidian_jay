@@ -15,9 +15,4 @@
 
 ## Abstract
 
-Abstract
-            
-              Akkermansia muciniphila
-              is a human microbial symbiont residing in the mucosal layer of the large intestine. Its main carbon source is the highly heterogeneous mucin glycoprotein, and it uses an array of carbohydrate-active enzymes and sulfatases to access this complex energy source. Here we describe the biochemical characterization of 54 glycoside hydrolases, 11 sulfatases and 1 polysaccharide lyase from
-              A. muciniphila
-              to provide a holistic understanding of their carbohydrate-degrading activities. This was achieved u...
+Akkermansia muciniphila is a human microbial symbiont residing in the mucosal layer of the large intestine. Its main carbon source is the highly heterogeneous mucin glycoprotein, and it uses an array of carbohydrate-active enzymes and sulfatases to access this complex energy source. Here we describe the biochemical characterization of 54 glycoside hydrolases, 11 sulfatases and 1 polysaccharide lyase from A. muciniphila to provide a holistic understanding of their carbohydrate-degrading activities. This was achieved using a variety of liquid chromatography techniques, mass spectrometry, enzyme kinetics and thin-layer chromatography. These results are supported with A. muciniphila growth and whole-cell assays. We find that these enzymes can act synergistically to degrade the O-glycans on the mucin polypeptide to completion, down to the core N-acetylgalactosaime. In addition, these enzymes can break down human breast milk oligosaccharide, ganglioside and globoside glycan structures, showing their capacity to target a variety of host glycans. These data provide a resource to understand the full degradative capability of the gut microbiome member A. muciniphila.

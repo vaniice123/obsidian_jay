@@ -15,8 +15,4 @@
 
 ## Abstract
 
-Although gut microbiota has been linked to exercise, whether alterations in the abundance of specific bacteria improve exercise performance remains ambiguous. In a cross-sectional study involving 25 male long-distance runners, we found a correlation between
-              Bacteroides uniformis
-              abundance in feces and the 3000-m race time. In addition, we administered flaxseed lignan or α-cyclodextrin as a test tablet to healthy, active males who regularly exercised in a randomized, double-blind, placebo-controlled study to increase
-              B. uniformis
-              in the gu...
+Although gut microbiota has been linked to exercise, whether alterations in the abundance of specific bacteria improve exercise performance remains ambiguous. In a cross-sectional study involving 25 male long-distance runners, we found a correlation between Bacteroides uniformis abundance in feces and the 3000-m race time. In addition, we administered flaxseed lignan or α-cyclodextrin as a test tablet to healthy, active males who regularly exercised in a randomized, double-blind, placebo-controlled study to increase B. uniformis in the gut (UMIN000033748). The results indicated that α-cyclodextrin supplementation improved human endurance exercise performance. Moreover, B. uniformis administration in mice increased swimming time to exhaustion, cecal short-chain fatty acid concentrations, and the gene expression of enzymes associated with gluconeogenesis in the liver while decreasing hepatic glycogen content. These findings indicate that B. uniformis enhances endurance exercise performance, which may be mediated by facilitating hepatic endogenous glucose production., B. uniformis enhances exercise performance in mice and α-cyclodextrin preferred by the microbe improves the performance in humans.

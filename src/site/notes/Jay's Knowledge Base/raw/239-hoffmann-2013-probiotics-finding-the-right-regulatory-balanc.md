@@ -15,11 +15,4 @@
 
 ## Abstract
 
-Some products marketed as drugs should be excused from Phase I trials, but safety and efficacy claims for dietary supplements should be more tightly regulated.
-          , 
-            
-              Initial findings of the Human Microbiome Project (HMP), funded by the U.S. National Institutes of Health (NIH), raise important questions about the role and variation of microorganisms within individuals and across populations (
-              
-                1
-              
-              ). One related area of growing research and commercial interest is the development and use of probiotics, sub...
+Some products marketed as drugs should be excused from Phase I trials, but safety and efficacy claims for dietary supplements should be more tightly regulated., Initial findings of the Human Microbiome Project (HMP), funded by the U.S. National Institutes of Health (NIH), raise important questions about the role and variation of microorganisms within individuals and across populations ( 1 ). One related area of growing research and commercial interest is the development and use of probiotics, substances containing live microorganisms that have a beneficial effect when taken in sufficient quantities ( 2 ) and “designed to intentionally manipulate microbiome and host properties” ( 3 ). We offer observations about the regulatory process for probiotics and potential areas for reform.

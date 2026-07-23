@@ -16,18 +16,4 @@
 
 ## Abstract
 
-Abstract
-            
-              Variants of
-              UNC13A
-              , a critical gene for synapse function, increase the risk of amyotrophic lateral sclerosis and frontotemporal dementia
-              1–3
-              , two related neurodegenerative diseases defined by mislocalization of the RNA-binding protein TDP-43
-              4,5
-              . Here we show that TDP-43 depletion induces robust inclusion of a cryptic exon in
-              UNC13A
-              , resulting in nonsense-mediated decay and loss of UNC13A protein. Two common intronic
-              UNC13A
-              polymorphisms strongly associated with amyotrophic lateral sclerosis and frontotemporal dementia risk overlap with TDP-43 binding sites. These polymorphisms potentiate cryptic exon inclusion, both in cultured cells and in brains and spinal cords from patients with these conditions. Our findings, which demonstrate a genetic link between loss of nuclear TDP-43 function and disease, reveal the mechanism by which
-              UNC13A
-              variants exacerbate the effects of decreased TDP-43 function. They further provide a promising therapeutic target for TDP-43 proteinopathies.
+Variants of UNC13A, a critical gene for synapse function, increase the risk of amyotrophic lateral sclerosis and frontotemporal dementia 1–3, two related neurodegenerative diseases defined by mislocalization of the RNA-binding protein TDP-43 4,5. Here we show that TDP-43 depletion induces robust inclusion of a cryptic exon in UNC13A, resulting in nonsense-mediated decay and loss of UNC13A protein. Two common intronic UNC13A polymorphisms strongly associated with amyotrophic lateral sclerosis and frontotemporal dementia risk overlap with TDP-43 binding sites. These polymorphisms potentiate cryptic exon inclusion, both in cultured cells and in brains and spinal cords from patients with these conditions. Our findings, which demonstrate a genetic link between loss of nuclear TDP-43 function and disease, reveal the mechanism by which UNC13A variants exacerbate the effects of decreased TDP-43 function. They further provide a promising therapeutic target for TDP-43 proteinopathies.

@@ -15,4 +15,4 @@
 
 ## Abstract
 
-Background: Immunotherapy has made significant progress in cancer treatment; however, the responsiveness to immunotherapy varies widely among patients. Growing evidence has demonstrated the role of the gut microbiota in the efficacy of immunotherapy.
+**Background**: Immunotherapy has made significant progress in cancer treatment; however, the responsiveness to immunotherapy varies widely among patients. Growing evidence has demonstrated the role of the gut microbiota in the efficacy of immunotherapy.
