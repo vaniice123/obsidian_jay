@@ -29,6 +29,10 @@ EFSA NDA Panel은 살균 *A. muciniphila* novel food의 사용 범위를 식이�
 
 근거 용량 산출은 2021년 panel의 4.8 × 10⁸ cells/kg/day 안전기준에 청소년 체중을 적용. 청소년 비만·대사 건강·근육 발달 분야로의 시장 확장 신호. 한국 식약처·일본 FFC 등 타 규제기관에도 참조 데이터로 활용 가능 ([[Jay's Knowledge Base/wiki/lbp-regulatory-cmc\|lbp-regulatory-cmc]] 참조).
 
+#### 기능성 식품 매트릭스 응용 — 당뇨 관리 초콜릿 (Kistaubayeva 2026)
+
+살균 *A. muciniphila*를 **폴리페놀이 풍부한 초콜릿 매트릭스**에 배합한 기능성 식품 프로토타입이 제2형 당뇨(T2DM) 모델에서 평가됨 ([[Jay's Knowledge Base/raw/587-kistaubayeva-2026-pasteurized-akkermansia-muciniphilaenriched-functional\|raw/587-kistaubayeva-2026-pasteurized-akkermansia-muciniphilaenriched-functional]], *ES Food & Agroforestry* 2026). in vitro(Caco-2 모델)에서 살균형은 생균 대비 **세포독성 없이 상피 장벽 무결성 보존 + 탄수화물 분해효소(α-amylase·α-glucosidase) 억제 강화**를 보였고, HFD/STZ 유도 T2DM 랫트에서 초콜릿 배합 보충이 **공복혈당·인슐린 감수성·지질 프로파일·간효소·산화스트레스 지표**를 개선. → 살균 *A. muciniphila*가 정제 캡슐을 넘어 **일반 식품 포맷(건기식·기능성 식품)으로 제형화**될 수 있음을 보여주는 사례로, 서플리먼트 시장의 제형 다변화·식품화 신호 (cf. [[Jay's Knowledge Base/wiki/akkermansia-clinical-evidence\|대사 효능]], [[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]]).
+
 ---
 
 ## 연구·상업 지형 (Bibliometric Landscape, 2025)

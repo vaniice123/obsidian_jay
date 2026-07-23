@@ -61,6 +61,19 @@ MucT 표준 균주(ATCC BAA-835) 외에도 다양한 분리주가 보고되며, 
 
 > 💡 **전략적 시사점**: 위 「살균형 ≥ 생균형」 패턴이 **살균 *A. muciniphila*를 단일한 호환 가능 원료로 취급해도 된다는 뜻은 아니다.** Li 2026은 동일하게 살균된 39개 균주 사이에서도 UC 효능이 크게 갈린다는 것을 보여, **효능이 속·종 수준 속성이 아니라 균주 수준 속성**임을 확립한다. 즉 **포스트바이오틱(사균) 제형에서도 균주 선정·특성화(strain selection & characterization)가 여전히 결정적 변수**이며, "pasteurized *A. muciniphila*"라는 라벨만으로는 효능을 담보할 수 없다 — 균주별 in vitro/in vivo 스크리닝이 개발 파이프라인의 전제가 된다. 이는 [[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]]의 「살균≥생균」 포스트바이오틱 패러다임에 **균주 특이성이라는 단서 조항**을 추가하며, UC/IBD 적응증 논의([[Jay's Knowledge Base/wiki/akkermansia-indications-applications\|akkermansia-indications-applications]])와 임상 근거 해석([[Jay's Knowledge Base/wiki/akkermansia-clinical-evidence\|akkermansia-clinical-evidence]]) 모두에서 균주 정보 없는 결과의 일반화를 경계해야 함을 뜻한다. Ouwerkerk 2022의 종 내부 게놈 다양성 및 [[Jay's Knowledge Base/wiki/lbp-regulatory-cmc\|CMC 균주 동일성]] 요건과도 직접 연결된다.
 
+### 42균주 스크리닝 — 대사증후군(MetS) (Li 2026)
+
+위 UC 스크리닝(582)의 **대사증후군(metabolic syndrome, MetS) 판(version)**에 해당하는 동반 연구로, **살균 *A. muciniphila* 42개 균주**를 세포·마우스 모델로 체계적 기능 평가해 MetS 완화 능력에 **균주 간 유의한 차이**가 있음을 처음으로 직접 입증했다. 선도 균주로 ***A. muciniphila* YGMCC2645(AKK2645)** 가 재차 동정되어, 식이유도 비만·포도당 항상성·간 지방증(hepatic steatosis)을 재현성 있게 개선했다.
+
+AKK2645의 기전:
+- **숙주 면역 조절** — 지방·간 조직에서 전염증 사이토카인(IL-6, IL-1β)↓ + 항염증 마커(Il4, Il10, Foxp3)↑
+- **장내 미생물 재편** — *Akkermansia*, *Lactobacillus*, *Bifidobacterium* 풍부도↑
+- **장 GLP-1 신호 활성화** → 대사 개선 (cf. [[Jay's Knowledge Base/wiki/akkermansia-clinical-evidence\|내인성 GLP-1 분비 자극]])
+
+출처: Li et al., 2026, *Frontiers in Nutrition*, [[Jay's Knowledge Base/raw/588-li-2026-unveiling-functional-heterogeneity-in-pasteurized\|raw/588-li-2026-unveiling-functional-heterogeneity-in-pasteurized]]
+
+> 💡 **전략적 시사점**: UC(582)·MetS(588) 두 스크리닝이 **동일 선도 균주 AKK2645**를 각각 독립적으로 지목한 것은, 「살균형 효능=균주 의존적」이라는 원칙에 더해 **AKK2645가 적응증(UC↔MetS)을 가로지르는 광범위 고역가(broad high-potency) 후보**일 가능성을 시사한다. 살균 라벨만으로 효능을 담보할 수 없다는 균주 특이성 원칙(위 582)과, 반대로 검증된 단일 균주가 다중 적응증을 커버할 수 있다는 가능성이 함께 도출된다. 단 두 논문 모두 동일 연구그룹·동일 저널(*Frontiers in Nutrition*)이므로 제3자 독립 검증이 필요하다.
+
 ### 분리주 안전성·역가 평가 (Safety & Potency Screening)
 
 NGP 상업화에는 분리주별 안전성(독성인자·항생제 내성)·역가 검증이 전제된다.
