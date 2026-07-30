@@ -51,6 +51,45 @@ COVID-19은 급성기 및 회복 후(post-acute) 단계 모두에서 장내 마�
 
 질병은 종종 군집 안정성의 붕괴로 나타나므로, 숙주가 일관된 세균총을 어떻게 획득·유지하는지가 핵심 질문이다. 숙주는 특정 세균과 공진화하며, 일부 관계는 미생물 공생균을 **선택·격리·유지하는 특화된 물리적 서식 niche**에 의해 뒷받침된다는 가설이 제시된다 ([[Jay's Knowledge Base/raw/95-ludington-2024-the-importance-of-host-physical-niches-for-th\|Ludington, 2024, *Phil Trans R Soc B*]]). 즉 마이크로바이옴 안정성은 미생물 간 상호작용뿐 아니라 숙주가 제공하는 물리적 구조(점액층, 음와 등)에 의해 결정되며, 이 niche의 교란이 [[Jay's Knowledge Base/wiki/dysbiosis\|dysbiosis]]로 이어질 수 있다.
 
+## 노화와 장내 마이크로바이옴 — 회춘(rejuvenation) 모델
+
+장내 미생물은 다수의 노화 관련 질환과 연관되며, 프로바이오틱 투여·분변 미생물 이식(FMT) 등 여러 **회춘(rejuvenation)** 방법이 마이크로바이옴을 바꿔 건강 노화를 촉진하려는 시도로 적용되어 왔다. 다만 **마이크로바이옴 리모델링만으로 노화 마우스의 건강수명(health span)을 실제로 연장하는 것은 여전히 난제**로 남아 있다 (Shin et al., 2021, *Microbiome*, [[Jay's Knowledge Base/raw/595-shin-2021-ageing-and-rejuvenation-models-reveal-changes-in-key\|raw/595-shin-2021-ageing-and-rejuvenation-models-reveal-changes-in-key]]).
+
+### 설계 — 3종 회춘 중재 + 별도 경구 투여 실험
+
+**6주간 3종 회춘(rejuvenation) 중재**를 노화 마우스에 적용하고 미생물 군집·장 면역을 추적:
+
+| 중재 | 방법 |
+|------|------|
+| **Co-housing** | young(4개월) 3마리 + aged(18개월) 3마리 동일 케이지 합사 |
+| **혈청 주입(serum injection)** | young 마우스 혈청을 3~6주간 8~16회 정맥 주입 |
+| **Parabiosis** | young–aged 외과적 결합으로 이시성(heterochronic) 혈액 공유 |
+
+세 중재 모두에서 **노화 마우스의 미생물 군집과 장 면역이 young 수준에 근접**하게 회복되었다.
+
+### 건강 노화와 연관된 핵심 균속·경로
+
+- **Young/회춘군 우세**: ***Akkermansia*** — young **9.2%** vs aged **0.4%** 평균 상대풍부도로 가장 큰 폭의 차이. co-housing·혈청 주입 후 회복. 그 외 *Parabacteroides*(2.2% vs 0.4%), *Oscillospira*(부티르산 생산 예측)
+- **Aged 연관(회춘 후 감소)**: *Helicobacter*, *Turicibacter*, *Prevotella*, *Paraprevotella*, *Odoribacter*, *Streptococcus*, *Lactococcus*
+- **기능 경로**: **buk 매개 부티르산 생합성 경로**가 young·회춘군에서 우세. 라이신 분해, pentose/glucuronate 상호전환(펙틴 분해), 지방산 생합성, glutathione 대사 관련 효소 풍부도가 회춘 후 young 수준으로 복귀
+- **effector 유전자 수준**: ***Amuc_1100* 유전자 풍부도가 young에서 aged 대비 유의하게 높음** → 균 풍부도뿐 아니라 **핵심 effector 유전자 용량**이 노화와 함께 감소 (cf. [[Jay's Knowledge Base/wiki/akkermansia-mechanisms\|akkermansia-mechanisms]])
+- **장벽·줄기세포 지표**: 혈장 LPS가 co-housing·혈청 주입군에서 young 수준으로 정상화, 장줄기세포 마커(*Lgr5*·*Bmi1*·*Hopx*) 회복
+
+### 경구 *A. muciniphila* 투여 — 수명이 아닌 건강수명 연장
+
+- **프로토콜**: **20~21개월령 노화 마우스**에 **4.9×10⁸ CFU/150 μL를 매일 36주간** 경구 투여
+- **수명(lifespan)**: **평균·최대 수명 모두 연장되지 않음**
+- **건강수명(health span)**: **frailty index 개선**, **악력(grip strength) 향상**, **골격근량 증가**, **인지기능 개선**(novel object recognition discrimination index)
+- **조직 지표**: 배상세포(goblet cell) 밀도↑, tight junction 단백질(Ocln·Claudin)↑, 근섬유 평균 단면적↑, 근위축 마커 회복, ***Igf-1* 발현 증가**
+
+> **해석**: 「미생물 리모델링으로 노화 마우스의 건강수명을 연장하는 것은 여전히 난제」라는 도입부 문제의식에 대해, 이 연구는 **단일 균종 경구 투여만으로 수명은 못 늘려도 건강수명(특히 근육·인지)은 늘릴 수 있다**는 답을 제시한다. **수명 ≠ 건강수명**의 분리를 명확히 한 점이 핵심이며, 근력·근량 개선은 [[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]]·[[Jay's Knowledge Base/wiki/gut-muscle-axis\|gut-muscle-axis]]의 노화 근감소 근거와 직결된다. Park 2025(SAMP8 모델, 생균)의 선행 근거로 볼 수 있다.
+
+### 후속 공개 데이터셋
+
+동일 연구진이 위 3종 중재에 **경구 *A. muciniphila* 투여**를 더한 **4종 procedure**의 노화·회춘 마우스 **결장** 시료에 대해 **16S rRNA(107건) + 샷건 메타게놈(109건)** 데이터셋을 공개 (Shin et al., 2022, *Scientific Data*, [[Jay's Knowledge Base/raw/596-shin-2022-comprehensive-16s-rrna-and-metagenomic-data-from-the\|raw/596-shin-2022-comprehensive-16s-rrna-and-metagenomic-data-from-the]]) → 데이터셋 상세는 [[Jay's Knowledge Base/wiki/microbiome-analysis-technologies\|microbiome-analysis-technologies]]. ***A. muciniphila* 경구 투여가 parabiosis·혈청 주입 같은 전신 회춘 중재와 동일한 실험 프레임에서 비교 가능**하다는 점이 이 자원의 고유 가치다 (cf. [[Jay's Knowledge Base/wiki/akkermansia-indications-applications\|akkermansia-indications-applications]]).
+
+KAIST·KRIBB 등 한국 연구진 주도 연구로(교신저자 Byoung-Chan Kim·Chul-Ho Lee·Byung-Kwan Cho), 공개 데이터셋은 노화–마이크로바이옴 가설의 독립 재분석·검증에 활용 가능하다.
+
 ## 생활습관의 영향
 
 | 요인 | 유익한 방향 | 해로운 방향 |
@@ -117,3 +156,5 @@ GBA1 유전자 변이는 PD의 가장 흔한 위험인자(최대 30배)이지만
 - [[Jay's Knowledge Base/raw/68-righi-2024-gut-microbiome-disruption-following-sars-cov-2-a\|raw/68-righi-2024-gut-microbiome-disruption-following-sars-cov-2-a]] — SARS-CoV-2 감염 후 장내 마이크로바이옴 교란 리뷰
 - [[Jay's Knowledge Base/raw/78-zhu-a-spatial-multi-modal-dissection-of-host-microbiome-inte\|raw/78-zhu-a-spatial-multi-modal-dissection-of-host-microbiome-inte]] — 대장염 조직 미세환경의 공간 다중모달 숙주–미생물 해부
 - [[Jay's Knowledge Base/raw/95-ludington-2024-the-importance-of-host-physical-niches-for-th\|raw/95-ludington-2024-the-importance-of-host-physical-niches-for-th]] — 군집 안정성의 숙주 물리적 niche 결정 요인
+- [[Jay's Knowledge Base/raw/595-shin-2021-ageing-and-rejuvenation-models-reveal-changes-in-key\|raw/595-shin-2021-ageing-and-rejuvenation-models-reveal-changes-in-key]] — 노화·회춘 모델(co-housing·혈청 주입·parabiosis)에서 ***Akkermansia*(9.2%→0.4%)*** ·*Parabacteroides*·*Oscillospira*와 buk 부티르산 경로를 건강 노화의 핵심으로 동정, *Amuc_1100* 유전자 풍부도도 young 우세; 경구 *A. muciniphila* 36주 투여가 **수명은 연장 못 했으나 frailty·악력·골격근량·인지 개선**(*Microbiome* 2021, PMC8672520)
+- [[Jay's Knowledge Base/raw/596-shin-2022-comprehensive-16s-rrna-and-metagenomic-data-from-the\|raw/596-shin-2022-comprehensive-16s-rrna-and-metagenomic-data-from-the]] — 노화·회춘 마우스 모델(co-housing·혈청 주입·parabiosis·경구 *A. muciniphila*) 결장 시료의 16S rRNA(107건)+샷건 메타게놈(109건) 공개 데이터셋 (*Scientific Data* 2022)

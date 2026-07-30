@@ -147,6 +147,19 @@ GLP-1RA **부작용 연구 자체가 빠르게 성장** 중. Scopus 기반 서�
 - [[Jay's Knowledge Base/wiki/akkermansia-muciniphila\|akkermansia-muciniphila]]의 세포외소포가 C2C12 근아세포에서 S6K1, 4EBP1 인산화 직접 활성화
 - 살균 *A. muciniphila* RCT에서 follistatin 유의 상승(myostatin 격리), 하지 근력·peak torque 개선 (RCT 1·2)
 
+### 감량 기전에 따른 근손실 위험의 분화 — 식욕억제형 vs 대사형
+
+근손실 위험은 「살이 빠졌다」는 결과가 아니라 **어떤 기전으로 뺐는가**에 따라 갈린다는 정리 틀. 본 문서 전반의 근거를 이 축으로 재배열하면:
+
+| 축 | ① 식욕 억제형 (eat less) | ② 대사·장벽형 (burn better) |
+|---|---|---|
+| 작동 방식 | 중추 식욕 억제 → 섭취량 감소 | 에너지 소비·기질 이용·장 장벽 개선 |
+| 대표 예 | GLP-1 RA, GDF15–GFRAL 축 | SCFA→Akt/mTOR, follistatin↑, EV→근단백 합성 |
+| 제지방 손실 | **동반되기 쉬움** — DXA 메타분석에서 제지방 −1.96 kg ([[Jay's Knowledge Base/wiki/glp1-muscle-loss#DXA 기반 정량화 — Phase 3 RCT 메타분석 (Alaycı 2026)\|Alaycı 2026]]) | 근보존 또는 근증가 방향 |
+| 중단 후 반등 | 식욕 회복 → 요요 ([[Jay's Knowledge Base/wiki/glp1-muscle-loss#GLP-1 중단 후 반등 방지 기전 — PTER 억제\|Moiz 2026]]) | 유지 기전 자체가 대사적 |
+
+**핵심 주장**: 근손실 위험은 **①에 부착된 것이지 「체중 감소」 일반에 부착된 것이 아니다.** 이 구분이 중요한 이유는 *A. muciniphila*가 **두 스위치를 모두 가지고 있기 때문**이다 — GDF15–GFRAL 경유 식욕 억제(①, [[Jay's Knowledge Base/wiki/akkermansia-mechanisms\|Amuc_1631]]·[[Jay's Knowledge Base/wiki/obesity-body-composition\|Zhuang 2026]])와 SCFA·follistatin·EV 경유 대사·근육 축(②). 따라서 「Akk = 근손실 위험」이 아니라 **「Akk의 어느 스위치가 켜지는 제형인가」** 가 실제 질문이 된다 (제형별 분화는 [[Jay's Knowledge Base/wiki/akkermansia-clinical-evidence#생균 vs 살균 — 기능 선택적 분리 가설\|생균 vs 살균 기능 분리 가설]], GDF15 논쟁 정리는 [[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]]).
+
 ### 구조화된 운동·재활 통합 — Pritikin ICR 코호트 (Jennings 2026)
 
 운동·영양 통합 프로그램이 GLP-1 RA 사용자의 골격근량 손실을 임상적으로 무력화할 수 있음이 후향 코호트에서 입증되었다 (Jennings et al., 2026, *European Journal of Preventive Cardiology*, [[Jay's Knowledge Base/raw/538-jennings-2026-body-composition-changes-in-patients-on-glp-1-receptor\|raw/538-jennings-2026-body-composition-changes-in-patients-on-glp-1-receptor]]). UC San Diego Pritikin **Intensive Cardiac Rehabilitation(ICR)** 프로그램 468명(2017~2024) 중 67명이 GLP-1 RA 사용(중앙값 231일, IQR 144~400). BIA 기반 baseline·프로그램 종료 시 체성분 측정.

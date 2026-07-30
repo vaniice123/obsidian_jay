@@ -122,6 +122,24 @@ GLP-1 수용체 작용제의 최대 약점인 **근손실 문제**를 해결하�
 
 > 💡 **"Probiotic/postbiotic이 ActRII를 저해한다"는 논문은 전무** — 이는 First-mover advantage 기회를 의미 (문헌 조사 2026.04.04 기준)
 
+### 생균 vs 살균 — 기능 선택적 분리 가설
+
+**가설**: *A. muciniphila*는 두 개의 독립적 스위치를 갖는다 — ① **식욕 억제 스위치**(GDF15–GFRAL 축, [[Jay's Knowledge Base/wiki/akkermansia-mechanisms\|Amuc_1631]] 매개)와 ② **대사·근육 스위치**(Amuc_1100·SCFA·follistatin·EV). 만약 **①이 열에 불안정하고 ②가 열안정적**이라면, **살균(pasteurized) 제형에서는 ②만 남는다.** 이 경우 살균형은 **식욕을 누르지 않으면서 체지방을 줄이고 근육을 지키는** 프로파일을 갖게 되며, 근손실 위험이 부착되는 [[Jay's Knowledge Base/wiki/glp1-muscle-loss#감량 기전에 따른 근손실 위험의 분화 — 식욕억제형 vs 대사형\|식욕억제형 경로]]를 **제형 수준에서 구조적으로 회피**하게 된다.
+
+**가설을 지지하는 정황 근거**
+
+- **②의 열안정성은 확립됨**: Amuc_1100 녹는점 70°C → 살균 후 구조 보존. 「살균 ≥ 생균」 패턴이 대사·장벽·UC·근위축 등 다수 적응증에서 반복 재현 ([[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]])
+- **살균형 인체 결과에서 감소한 것은 지방**: Mount 2026 체중 유지 RCT 및 살균형 RCT의 follistatin↑·하지 근력 개선 — 근손실 신호는 보고되지 않음 (위 [[Jay's Knowledge Base/wiki/akkermansia-clinical-evidence#살균 *A. muciniphila* 포스트바이오틱 임상 결과\|임상 결과]] 절)
+- **①의 매개 인자 Amuc_1631은 열안정성 데이터가 없음**: 분비 단백질로 동정되었을 뿐 가열 후 활성 잔존 여부 미측정
+
+**⚠️ 미검증 지점 — 현 시점에서는 가설로 취급할 것**
+
+1. **살균 Akk가 GDF15를 유도하지 않는다는 직접 데이터가 없다.** Zhuang 2026은 홍삼 매개 **생균 증식** 조건만 검증했고, 살균형과 병렬 비교하지 않았다.
+2. **Amuc_1631의 열 안정성이 측정된 바 없다.** Amuc_1100처럼 열에 견딜 가능성도 배제할 수 없으며, 그렇다면 가설의 핵심 전제가 무너진다.
+3. **살균형 인체 시험에서 GDF15가 측정되지 않았다.** 「식욕을 안 누른다」는 것은 직접 확인이 아니라 체중·체성분 결과로부터의 **역추론**이다.
+
+**검증 설계 (falsifiable prediction)**: 동일 균주의 **생균 vs 살균을 병렬 투여**하고 ① 순환 GDF15 궤적(급성·만성 분리), ② 섭취량(food intake), ③ DXA 기반 지방/제지방 분리, ④ 악력·근기능을 함께 측정한다. 가설이 옳다면 **살균군은 GDF15·섭취량에 유의한 변화 없이 지방만 감소**해야 한다. 이 실험은 companion 포지셔닝의 핵심 차별점을 직접 입증하는 동시에, [[Jay's Knowledge Base/wiki/sarcopenia\|GDF15 매개 근손실 우려]]를 종결시킬 수 있다 — 현재 문헌 공백이자 우선순위 높은 실험 설계.
+
 ---
 
 ## 관련 문서

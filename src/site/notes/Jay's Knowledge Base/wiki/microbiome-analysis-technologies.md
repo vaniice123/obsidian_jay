@@ -117,6 +117,12 @@
 
 분석 기술의 발전에도 불구하고 문헌 자체에 강한 편향이 존재한다. 서지 분석 결과 **전체 세균학 논문의 절반이 단 10종에 집중**되어 있고, 알려진 세균 종의 약 74%는 연구된 적이 없는 것으로 나타났다 ([[Jay's Knowledge Base/raw/132-jensen-2025-ten-species-comprise-half-of-the-bacteriology-li\|Jensen, 2025]]). 이는 미배양·미연구 분류군을 포착하기 위한 배양 비의존 기법(샷건 메타게노믹스, 단일세포 게노믹스 등)과 합성 군집 모델의 중요성을 강조한다.
 
+## 공개 참조 데이터셋 (Public Reference Datasets)
+
+재분석·메타분석·파이프라인 검증에 활용 가능한 공개 시퀀싱 자원.
+
+- **노화·회춘 마우스 모델 16S + 샷건 메타게놈 (Shin 2022, *Scientific Data*)**: 노화 및 회춘(rejuvenation) 마우스 모델의 **결장(colon) 시료**를 대상으로 4종 중재(co-housing, 혈청 주입, parabiosis, 경구 *A. muciniphila* 투여)를 적용해 생성한 데이터셋. 규모는 **16S rRNA 시퀀싱 36,249,200 paired-end reads(107건)** + **샷건 메타게놈 307,194,369 paired-end reads(109건)** 로, 세균 군집의 **분류학적 조성**과 **기능적 잠재력(functional potential)** 을 동시에 특성화. **동일 시료에서 16S(조성)와 샷건(기능)을 병행 생성**했으므로 위 「16S vs 샷건」 한계 비교·파이프라인 교차검증에 직접 활용 가능하며, 노화 관련 마이크로바이옴 가설의 독립 재분석 자원이 된다 ([[Jay's Knowledge Base/raw/596-shin-2022-comprehensive-16s-rrna-and-metagenomic-data-from-the\|raw/596-shin-2022-comprehensive-16s-rrna-and-metagenomic-data-from-the]]; 연구 맥락은 [[Jay's Knowledge Base/wiki/gut-microbiome-and-disease\|gut-microbiome-and-disease]]·[[Jay's Knowledge Base/wiki/akkermansia-indications-applications\|akkermansia-indications-applications]])
+
 ## 균수 정량(Enumeration)
 
 포스트바이오틱(비활성 세포) 제품은 생균수(CFU)로 정량할 수 없으므로 **flow cytometry 기반 절대균수** 측정이 표준화되고 있다. 살균 *A. muciniphila* MucT 대상 Arioli (2025) 프로토콜은 동결건조 세포의 재수화 조건·희석액을 최적화해 현미경 계수 대비 낮은 CV(12.3~24.1%)를 달성했고, 6개 실험실 ring test에서 재현성이 검증되어 산업 배치의 mass balance 검증 및 타 포스트바이오틱 원료의 품질 규격에도 이식 가능하다. 공정 연계는 [[Jay's Knowledge Base/wiki/bioprocess-engineering\|bioprocess-engineering]] 참조.
@@ -133,3 +139,4 @@
 - [[Jay's Knowledge Base/raw/541-zeng-2026-temporal-variations-of-the-gut-microbiome-in-human\|raw/541-zeng-2026-temporal-variations-of-the-gut-microbiome-in-human]] — 인간 장내 마이크로바이옴의 시간 변동 종설 (*The Lancet Microbe* 2026): 종단 설계·rate-of-change·resilience 지표·시계열 다중오믹스 통합 필요성
 - [[Jay's Knowledge Base/raw/585-yu-2026-deciphering-the-in-vitro-mucin-driven-interaction\|raw/585-yu-2026-deciphering-the-in-vitro-mucin-driven-interaction]] — 뮤신 이용능이 다른 6종 합성 군집의 in vitro 상호작용 동역학 (*mSphere* 2026): 뮤신 단독 탄소원에서 협력적 상호작용 우세, 글루코스·고영양에서 경쟁 증가 → 영양 풍부 배지의 한계와 생리적으로 타당한 in vitro 모델 필요성
 - [[Jay's Knowledge Base/raw/561-huang-2026-development-of-a-gut-on-a-chip-platform-to-monitor\|raw/561-huang-2026-development-of-a-gut-on-a-chip-platform-to-monitor]] — 1차 장 조직의 동적 GLP-1 분비를 모니터링하는 gut-on-a-chip(내강·장막 병렬 관류) 플랫폼, 정적 배양 대비 실시간 분비 포착·조직 생존성 보존·secretagogue 스크리닝 (*Biosensors and Bioelectronics* 2026)
+- [[Jay's Knowledge Base/raw/596-shin-2022-comprehensive-16s-rrna-and-metagenomic-data-from-the\|raw/596-shin-2022-comprehensive-16s-rrna-and-metagenomic-data-from-the]] — 노화·회춘 마우스 모델 결장 시료의 16S rRNA(36,249,200 reads/107건) + 샷건 메타게놈(307,194,369 reads/109건) 공개 데이터셋: 동일 시료에서 조성·기능 잠재력 병행 특성화 → 16S vs 샷건 교차검증·재분석 자원 (*Scientific Data* 2022)

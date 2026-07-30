@@ -84,6 +84,33 @@ DXA(gold-standard)로 측정한 incretin 약물의 체성분 변화를 절대 kg
 
 **시사점**: Mount 2026(체중 유지)·Feng 2025(균주별 SCFA)·Gao 2026(GLP-1RA 병용)이 주로 SCFA·장벽·인슐린 감수성 축을 다룬 반면, 본 연구는 ***A. muciniphila*가 단일 대사산물(L-노르류신)로 지방산 흡수 자체를 분자적으로 억제**하는 새로운 항비만 effector 축을 제시 → 대사 질환 치료 표적으로서의 함의 (분자 기전 상세는 [[Jay's Knowledge Base/wiki/akkermansia-mechanisms\|akkermansia-mechanisms]] 참조).
 
+### *A. muciniphila* 유래 hexapeptide LKLKLL — GLP-1↑/GIP↓ 이중 조절 (Li 2026, *Gut Microbes*)
+
+생균 투여에서 **정의된 생리활성 성분(defined bioactive component)** 으로 번역 경로를 옮기려는 접근에서, *A. muciniphila*(AKK) 대사 상등액이 STC-1 장내분비세포의 **GLP-1·GIP 분비를 모두 촉진**함을 출발점으로 활성 분자를 추적한 연구 (Li et al., 2026, *Gut Microbes*, [[Jay's Knowledge Base/raw/593-li-2026-peptide-lklkll-is-a-more-effective-component-of\|raw/593-li-2026-peptide-lklkll-is-a-more-effective-component-of]]).
+
+- **동정**: 메타볼로믹스로 AKK 상등액의 저분자 **54종**을 프로파일링해 생리활성 **hexapeptide LKLKLL**을 동정
+- **in vivo 효능**: 고지방식 유도 비만 마우스에서 **체중 감소**, 당뇨 모델에서 **내당능 개선**
+- **방향성 있는 이중 조절**: **GLP-1 분비↑ + GIP 수치↓** — 단일 분자가 두 인크레틴을 반대 방향으로 움직임
+- **제시 기전**: **GPR119** 와 상호작용해 **Gαs–adenylate cyclase–cAMP** 경로를 활성화하고 세포내 Ca²⁺를 증가시키는 것으로 제시
+
+**한계**: 수용체 귀속이 저자 표현으로도 "may interact" 수준이며, 결합 친화도 정량·수용체 결손 모델에서의 필요성 검증이 미완. 용량-반응·경구 생체이용률·펩티다제 안정성도 미제시.
+
+**시사점**: L-노르류신(지방산 흡수 억제)에 이어 ***A. muciniphila*의 항비만 효과를 단일 저분자로 환원**하는 두 번째 사례로, 균체 없이 정제 분자로 가는 포스트바이오틱 경로를 넓힌다. 특히 **GLP-1↑/GIP↓** 조합은 아래 [[Jay's Knowledge Base/wiki/obesity-body-composition#GLP-1/GIP 이중 표적 약물의 진화 (Davies 2026)\|GLP-1/GIP 이중 표적 패러독스]](tirzepatide=GIPR **작용제** vs maridebart=GIPR **길항제**가 모두 효과)와 정면으로 맞물리는 지점이어서, 미생물 유래 분자가 어느 쪽 전략에 정렬되는지를 판단할 근거가 된다 (기전 상세 [[Jay's Knowledge Base/wiki/akkermansia-mechanisms\|akkermansia-mechanisms]], cf. [[Jay's Knowledge Base/wiki/glp1-muscle-loss\|glp1-muscle-loss]]).
+
+### 홍삼 → *A. muciniphila* 증식 → Amuc_1631 → GDF15–GFRAL 식욕 억제 축 (Zhuang 2026, *Phytomedicine*)
+
+식물 소재가 표적균을 증식시켜 **균 유래 단백질을 통해 숙주 식욕조절 호르몬을 움직이는 3단 축**을 규명한 연구 (Zhuang et al., 2026, *Phytomedicine*, [[Jay's Knowledge Base/raw/597-zhuang-2026-enrichment-of-akkermansia-muciniphila-by-red-ginseng\|raw/597-zhuang-2026-enrichment-of-akkermansia-muciniphila-by-red-ginseng]]).
+
+- **표현형**: 홍삼(red ginseng, RGS) **단기** 투여가 식이유도 비만(DIO) 마우스에서 **식욕 억제·체중 감소·순환 GDF15 상승**을 유도
+- **미생물 의존성 입증**: RGS가 ***A. muciniphila*를 농축**시키며, **항생제로 고갈시키면 체중 감소·식욕 억제 효과가 소실**되고 **분변 미생물 이식(FMT)** 으로 효과가 전달됨
+- **effector 동정**: *A. muciniphila* 유래 단백질 **Amuc_1631**이 GDF15 분비를 촉진하는 핵심 인자로 동정
+- **이중 기전**: ① 결장 *Gdf15* 전사가 **PERK–eIF2α–ATF4–CHOP(통합 스트레스 반응)** 축으로 상향, ② **뇌간 GDF15–GFRAL 경로** 활성화 — **Gfral⁻/⁻ 마우스에서 효과 소실**로 경로 필요성 입증
+- **활성 분획**: **RGS 50% 에탄올 용출분(RGS/50)** 이 *A. muciniphila* 증식·GDF15 상승의 활성 성분 후보
+
+**시사점 (양날의 검)**: *A. muciniphila*의 체중 조절 경로가 GLP-1 축에 국한되지 않고 **GDF15–GFRAL이라는 별도의 anorexigenic 축**을 경유함을 보인 첫 근거다. 홍삼이 한국 건기식의 대표 인정 원료라는 점에서 **「기존 인정 원료 × 표적균 증식」** 조합 설계의 직접적 근거가 된다([[Jay's Knowledge Base/wiki/microbiome-dietary-supplement-market\|microbiome-dietary-supplement-market]]). 단 **GDF15는 근감소 진행·암 악액질의 식욕부진·근소모를 매개하는 인자**이기도 하므로(cf. [[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]]의 Gu 2026 SNAC-K 코호트), **근육 보존을 내세우는 companion 포지셔닝과는 상충할 수 있다** — GDF15 유도 크기·지속시간과 근량·근력 종결점을 함께 측정해 순효과를 확인해야 한다 ([[Jay's Knowledge Base/wiki/glp1-muscle-loss\|glp1-muscle-loss]], [[Jay's Knowledge Base/wiki/gut-muscle-axis\|gut-muscle-axis]] 참조).
+
+**다만 「Akk → GDF15 → 근손실」 직결은 성립하지 않는다**: ① Zhuang 2026의 GDF15는 **일과성 상승**이고 Gu 2026은 **수년간 만성 고농도**로 시간 척도가 다르며, ② Gu 2026은 **관찰 연구**여서 GDF15가 원인이 아니라 미토콘드리아 스트레스의 **하류 표지**일 수 있고, ③ 중등도 상승은 보호적일 수 있으며(hormesis), ④ 결정적으로 ***A. muciniphila*를 직접 투여한 실험은 근육이 늘었다**(Shin 2021 자연 노화 36주·Park 2025 SAMP8 — 악력·근량·근섬유 CSA↑). 나아가 본 경로는 [[Jay's Knowledge Base/wiki/glp1-muscle-loss#감량 기전에 따른 근손실 위험의 분화 — 식욕억제형 vs 대사형\|식욕억제형 감량]]에 속하므로, **제형에 따라 이 스위치가 켜지는지 여부가 갈릴 수 있다**는 [[Jay's Knowledge Base/wiki/akkermansia-clinical-evidence#생균 vs 살균 — 기능 선택적 분리 가설\|생균 vs 살균 기능 선택적 분리 가설]]이 제기된다(미검증). 논쟁의 전체 정리는 [[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]] 참조.
+
 ### 고지방식→배상세포/점액→담즙산-FXR/PPARα→소장 지방흡수 축과 글루타민 rescue (Liang·Holmberg 2026, *Nature Microbiology*)
 
 고지방식이 대장 점액 niche를 교란하여 소장 지질 흡수를 원격 조절하는 **대장 점액–소장 지질대사 연결 축**이 규명되었다 (Liang et al., 2026, *Nature Microbiology* 원저, [[Jay's Knowledge Base/raw/574-liang-2026-dietary-fat-alters-goblet-cell-function-and-microbial\|raw/574-liang-2026-dietary-fat-alters-goblet-cell-function-and-microbial]]; 논평 Holmberg & Schroeder, 2026, *Nature Microbiology* News&Views, [[Jay's Knowledge Base/raw/572-holmberg-2026-fatty-diets-disrupt-mucusmicrobiomemetabolite\|raw/572-holmberg-2026-fatty-diets-disrupt-mucusmicrobiomemetabolite]]).
@@ -213,6 +240,8 @@ UC San Diego Pritikin Intensive Cardiac Rehabilitation(ICR) 후향 코호트(n=4
 - [[Jay's Knowledge Base/raw/572-holmberg-2026-fatty-diets-disrupt-mucusmicrobiomemetabolite\|raw/572-holmberg-2026-fatty-diets-disrupt-mucusmicrobiomemetabolite]] — 식이 지질이 대장 미생물-점액 상호작용·담즙산 미생물 전환을 교란, 변형 담즙산 풀이 소장 지질 흡수 증가 유발 → 대장 점액 niche ↔ 소장 지질대사 연결 논평 (Holmberg & Schroeder, *Nature Microbiology* News&Views 2026)
 - [[Jay's Knowledge Base/raw/574-liang-2026-dietary-fat-alters-goblet-cell-function-and-microbial\|raw/574-liang-2026-dietary-fat-alters-goblet-cell-function-and-microbial]] — 고지방식→배상세포 글루타민대사·산화환원 손상→점액층 박화→*A. muciniphila* 고갈+*C. scindens* 확장, 변형 담즙산이 소장 FXR-PLIN2+장세포 PPARα 상향으로 지방흡수↑, **글루타민 보충이 배상세포·담즙산 풀 회복→FXR·지질흡수↓** (Liang et al., *Nature Microbiology* 2026)
 - [[Jay's Knowledge Base/raw/577-suenaert-2026-effect-of-pasteurized-akkermansia-muciniphila-muct-on\|raw/577-suenaert-2026-effect-of-pasteurized-akkermansia-muciniphila-muct-on]] — 살균 *A. muciniphila* MucT(300억 cells/day, 4개월) 대사증후군 성인 142명 이중맹검 RCT: 1차 종결점(Matsuda index) ITT 유의차 없음, 전당뇨·63세 이상군 인슐린감수성·post-OGTT GLP-1 excursion 개선, **low baseline *Akkermansia* responder** (*Gut Microbes* 2026, NCT05114018)
+- [[Jay's Knowledge Base/raw/593-li-2026-peptide-lklkll-is-a-more-effective-component-of\|raw/593-li-2026-peptide-lklkll-is-a-more-effective-component-of]] — *A. muciniphila* 유래 hexapeptide **LKLKLL**(상등액 저분자 54종 중 동정)이 HFD 비만 마우스 체중↓·당뇨 모델 내당능↑, **GLP-1 분비↑/GIP↓ 이중 조절**, GPR119–Gαs/adenylate cyclase/cAMP–Ca²⁺ 경로 제시(수용체 귀속은 시사 수준) (*Gut Microbes* 2026)
+- [[Jay's Knowledge Base/raw/597-zhuang-2026-enrichment-of-akkermansia-muciniphila-by-red-ginseng\|raw/597-zhuang-2026-enrichment-of-akkermansia-muciniphila-by-red-ginseng]] — 홍삼(RGS) 단기 투여가 *A. muciniphila* 농축 → 균 유래 **Amuc_1631** → **GDF15** 분비 → **뇌간 GFRAL** 경로로 식욕 억제·체중 감소(항생제 고갈 시 소실·FMT 전달·Gfral⁻/⁻ 소실), 결장 *Gdf15*는 PERK–eIF2α–ATF4–CHOP 축 상향, 활성 분획 RGS/50 (*Phytomedicine* 2026)
 
 ---
 
