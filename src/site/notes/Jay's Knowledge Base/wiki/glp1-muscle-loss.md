@@ -5,7 +5,7 @@
 
 # GLP-1 수용체 작용제와 근손실
 
-GLP-1 수용체 작용제(semaglutide, tirzepatide 등)는 비만 치료에서 15~25%의 체중 감량을 달성하지만, 감량분의 **25~40%가 제지방량(lean mass) 손실**에서 비롯된다. 이 문제를 해결하기 위해 ActRII 경로 차단 항체(bimagrumab, trevogrumab, apitegromab)를 병용하는 전략이 빠르게 발전하고 있으며, 마이크로바이옴 기반 접근(포스트바이오틱 companion)이 새로운 대안으로 부상하고 있다.
+GLP-1 수용체 작용제(semaglutide, tirzepatide 등)는 비만 치료에서 15~25%의 체중 감량을 달성하지만, 감량분의 **25~45%가 제지방량(lean mass) 손실**에서 비롯된다(단일 시험 DXA 하위연구 기준의 시험별 편차 범위이며, phase 3 RCT 풀링 추정치는 제지방 **−1.96 kg**으로 별도 — [[Jay's Knowledge Base/wiki/glp1-muscle-loss#DXA 기반 정량화 — Phase 3 RCT 메타분석 (Alaycı 2026)\|Alaycı 2026]]). 이 문제를 해결하기 위해 ActRII 경로 차단 항체(bimagrumab, trevogrumab, apitegromab)를 병용하는 전략이 빠르게 발전하고 있으며, 마이크로바이옴 기반 접근(포스트바이오틱 companion)이 새로운 대안으로 부상하고 있다.
 
 ---
 
@@ -98,6 +98,10 @@ BYM338·trevogrumab류의 전임상 스크리닝에 광범위하게 사용되는
 
 > 💡 포스트바이오틱 기전 연구 설계 시 시사점: ① 근아세포 단계 vs 근관 단계 효과 구분, ② 진핵 유래 재조합 myostatin 사용, ③ 인간 primary/iPSC 유래 근관 병행 검증이 데이터 신뢰도와 규제 대응에 유리.
 
+**C2C12 문제는 더 큰 「세포↔인체 불일치」의 한 사례다 (Park 2023).** 위 재현성 이슈는 특정 세포주(cell line)의 결함에 그치지 않고, **약물 표적 교란 효과의 세포/인체 불일치(cells/humans discrepancy in drug target perturbation effects)** 라는 일반적 현상의 한 국면으로 볼 수 있다. Park et al. (2023, *eBioMedicine*, [[Jay's Knowledge Base/raw/29-park-2023-drug-approval-prediction-based-on-the-discrepancy\|raw/29-park-2023-drug-approval-prediction-based-on-the-discrepancy]])은 이 불일치로 인한 **in vitro 연구와 임상 연구 간 번역 실패(poor translation)** 가 임상시험에서의 **안전성 실패(safety failure)** 로 귀결되어 개발 비용을 높이고 환자의 삶의 질을 저하시킨다고 지적하며, 그 대응으로 세포/인체 불일치를 반영한 **약물 승인 예측 모델(drug approval prediction model)** 을 구축해 임상 탈락률(attrition rate)을 낮추는 접근을 제시한다. ActRII 축 후보물질이 사실상 C2C12 근관에서 1차 스크리닝되는 현 관행에서, 이는 전임상 모델 선택이 단순한 실험 편의 문제가 아니라 **후기 임상 실패 위험과 직결된 의사결정 변수**임을 뜻한다.
+
+> ⚠️ 본 지식베이스에 확보된 것은 해당 논문의 **Background 서술뿐**으로, 예측 모델의 구조·입력 데이터·성능 지표·검증 결과는 미확인 상태다. 따라서 "세포↔인체 번역 격차가 체계적으로 존재하며 승인 예측의 모델링 대상이 된다"는 **프레이밍 근거로만** 인용하고, 정량적 예측 성능은 인용하지 않는다.
+
 ---
 
 ## ActRII 차단 + GLP-1 병용 임상 경쟁 현황 (2026)
@@ -159,6 +163,20 @@ GLP-1RA **부작용 연구 자체가 빠르게 성장** 중. Scopus 기반 서�
 | 중단 후 반등 | 식욕 회복 → 요요 ([[Jay's Knowledge Base/wiki/glp1-muscle-loss#GLP-1 중단 후 반등 방지 기전 — PTER 억제\|Moiz 2026]]) | 유지 기전 자체가 대사적 |
 
 **핵심 주장**: 근손실 위험은 **①에 부착된 것이지 「체중 감소」 일반에 부착된 것이 아니다.** 이 구분이 중요한 이유는 *A. muciniphila*가 **두 스위치를 모두 가지고 있기 때문**이다 — GDF15–GFRAL 경유 식욕 억제(①, [[Jay's Knowledge Base/wiki/akkermansia-mechanisms\|Amuc_1631]]·[[Jay's Knowledge Base/wiki/obesity-body-composition\|Zhuang 2026]])와 SCFA·follistatin·EV 경유 대사·근육 축(②). 따라서 「Akk = 근손실 위험」이 아니라 **「Akk의 어느 스위치가 켜지는 제형인가」** 가 실제 질문이 된다 (제형별 분화는 [[Jay's Knowledge Base/wiki/akkermansia-clinical-evidence#생균 vs 살균 — 기능 선택적 분리 가설\|생균 vs 살균 기능 분리 가설]], GDF15 논쟁 정리는 [[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]]).
+
+### 식욕 억제의 정량화 — 표준화 ad libitum 점심 섭취 −271 kcal (Quan 2026)
+
+**식욕억제형 감량(①)의 상류 원인인 「실제로 얼마나 덜 먹는가」가 객관적 측정치로 처음 풀링되었다.** Quan et al. (2026, *Diabetes & Metabolic Syndrome*, [[Jay's Knowledge Base/raw/604-quan-2026-nutritional-intake-changes-during-glp-1-receptor\|raw/604-quan-2026-nutritional-intake-changes-during-glp-1-receptor]])은 6개 데이터베이스를 2026-03-31까지 검색해 GLP-1 또는 이중 GIP/GLP-1 수용체 작용제(tirzepatide 포함) 투여 성인의 **객관적으로 측정된 식이 섭취**를 체계적 문헌고찰(16편)로 정리하고, 이 중 **≥4주 무작위·교차 위약대조 시험에서 표준화 ad libitum 점심 섭취량(standardized ad libitum lunch intake)** 을 보고한 연구를 DerSimonian-Laird 랜덤효과 모형으로 메타분석했다(3개 시험 4개 arm, **209명**).
+
+- **풀링 치료 차이**: ad libitum 점심 에너지 섭취 **−1132 kJ** (95% CI −1449 ~ −815), 약 **−271 kcal**
+- **이질성 없음**: I²=0%, 95% 예측구간 **−1828 ~ −436 kJ** — 효과의 방향·크기가 시험 간 일관
+- 3주 phase 1 tirzepatide 시험을 추가한 탐색적 분석(k=5)에서는 효과가 **−1421 kJ**로 커지나 **I²=70%**의 상당한 이질성이 발생 → 단기·초기 상(phase) 데이터의 혼입이 추정치를 부풀림
+- **semaglutide vs tirzepatide 차이 유의하지 않음** (p=0.154) — 급성 섭취 억제 크기는 incretin receptor profile에 크게 의존하지 않음
+- 민감도 분석: REML·Paule-Mandel 추정량, leave-one-out, 하위군 분석 사전 명시
+
+**근손실 관점의 함의**: 본 문서의 정리 틀에서 GLP-1 RA는 전형적인 **① 식욕 억제형(eat less)** 감량이며, Quan 2026은 그 「eat less」의 실측 크기를 **1회 표준 식사당 약 271 kcal**로 확정한다. 에너지 섭취가 감소하면 **단백질 섭취도 동반 감소**하는 것이 일반적이므로, 이는 DXA 메타분석에서 관찰되는 제지방량 손실(**−1.96 kg**, [[Jay's Knowledge Base/wiki/glp1-muscle-loss#DXA 기반 정량화 — Phase 3 RCT 메타분석 (Alaycı 2026)\|Alaycı 2026]])로 이어지는 **영양학적 상류 경로**를 정량적으로 채워 준다. 즉 GLP-1 유도 근손실은 수용체 수준의 직접적 이화 작용만이 아니라 **약리학적으로 강제된 저섭취(under-eating)** 의 결과라는 해석이 강화된다. 저자들도 결론에서 약물치료를 **충분한 단백질(adequate protein)을 강조하는 구조화된 영양 상담**으로 보완할 것을 권고하며, 이는 [[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]]에 정리된 **단백질 1.2~1.6 g/kg/day + 저항운동 + HMB·비타민 D₃** multimodal 중재(Abumrad 2026) 및 [[Jay's Knowledge Base/wiki/glp1-muscle-loss#구조화된 운동·재활 통합 — Pritikin ICR 코호트 (Jennings 2026)\|Pritikin ICR 코호트]]의 운동·영양 통합 근거와 정확히 같은 방향을 가리킨다.
+
+**근거의 한계 (정직한 평가)**: ① 1차 메타분석은 **3개 시험 209명**에 불과해 표본이 작다. ② 측정된 것은 **단일 표준화 식사 시험에서의 급성 섭취량**이지 **습관적 일상 섭취(habitual intake)** 가 아니며, 저자들 스스로 실세계 습관 섭취는 여전히 보고 부족(underreported) 상태라고 명시한다. 따라서 −271 kcal을 하루 총 에너지 결손으로 외삽하는 것은 부적절하다. ③ **단백질 섭취 감소량 자체는 측정되지 않았으므로**, 「에너지 감소 → 단백질 감소 → 제지방 손실」의 중간 고리는 여전히 추론이며 macronutrient 수준 결과를 보고하는 후속 연구가 필요하다. 감량 기전 정량화 관점의 정리는 [[Jay's Knowledge Base/wiki/obesity-body-composition#GLP-1 RA 감량의 섭취량 기여 정량화 — ad libitum 점심 −1132 kJ (Quan 2026)\|obesity-body-composition]] 참조.
 
 ### 구조화된 운동·재활 통합 — Pritikin ICR 코호트 (Jennings 2026)
 
@@ -248,8 +266,8 @@ Eli Lilly의 **orforglipron** (경구·1일 1회·비펩타이드 GLP-1 작용�
 ### 임상/시장
 - [[Jay's Knowledge Base/raw/12-bimagrumab-believe-phase2b-glp1-muscle-preservation\|raw/12-bimagrumab-believe-phase2b-glp1-muscle-preservation]]
 - [[Jay's Knowledge Base/raw/124-quinter-2024-glp-1-agonists-for-weight-loss-and-beyond\|raw/124-quinter-2024-glp-1-agonists-for-weight-loss-and-beyond]] — GLP-1 작용제의 체중 감량 및 그 너머(심혈관·신장 등) 다면적 효과 개관 리뷰, 적응증·사용 인구 확대 배경 (*Transformative Medicine* 2024)
-- [[Jay's Knowledge Base/raw/13-hb05p-actrii-pathway-literature-survey-and-market\|raw/13-hb05p-actrii-pathway-literature-survey-and-market]]
-- [[Jay's Knowledge Base/raw/14-hb05p-glp1-companion-strategic-positioning\|raw/14-hb05p-glp1-companion-strategic-positioning]]
+- `raw/13-hb05p-actrii-pathway-literature-survey-and-market` (내부 문서, 비공개)
+- `raw/14-hb05p-glp1-companion-strategic-positioning` (내부 문서, 비공개)
 - [[Jay's Knowledge Base/raw/295-heymsfield-2026-bimagrumab-plus-semaglutide-alone-or-in-combination-for-the\|raw/295-heymsfield-2026-bimagrumab-plus-semaglutide-alone-or-in-combination-for-the]]
 - [[Jay's Knowledge Base/raw/476-bayer-2026-eli-lilly-centessa-orexin-acquisition\|raw/476-bayer-2026-eli-lilly-centessa-orexin-acquisition]]
 - [[Jay's Knowledge Base/raw/478-sharma-2026-dr-reddys-beyond-the-pill-semaglutide\|raw/478-sharma-2026-dr-reddys-beyond-the-pill-semaglutide]]
@@ -269,6 +287,7 @@ Eli Lilly의 **orforglipron** (경구·1일 1회·비펩타이드 GLP-1 작용�
 - [[Jay's Knowledge Base/raw/560-geddam-2026-advances-in-glp-1-receptor-agonists-molecular\|raw/560-geddam-2026-advances-in-glp-1-receptor-agonists-molecular]] — GLP-1RA 분자 기전·약물전달·제형 전략 종합 종설 (*Obesity Medicine* 2026): 경구 펩타이드·나노입자·depot·마이크로니들 등 차세대 전달 기술 배경. 상세 [[Jay's Knowledge Base/wiki/obesity-body-composition\|obesity-body-composition]]
 - [[Jay's Knowledge Base/raw/538-jennings-2026-body-composition-changes-in-patients-on-glp-1-receptor\|raw/538-jennings-2026-body-composition-changes-in-patients-on-glp-1-receptor]] — Pritikin Intensive Cardiac Rehabilitation 후향 코호트 (n=468, GLP-1 RA 67명, *Eur. J. Prev. Cardiol.* 2026): 운동·영양 통합 시 GLP-1 RA 사용군 SMM 변화 비사용군과 무차이(β=0.62%, p=0.326). companion 시장 segmentation 시사
 - [[Jay's Knowledge Base/raw/540-venkitta-2026-sarcopenia-in-type-2-diabetes-mellitus-a-narrative\|raw/540-venkitta-2026-sarcopenia-in-type-2-diabetes-mellitus-a-narrative]] — T2DM과 근감소증의 양방향 악순환 narrative review (*J. Diabetology* 2026): GLP-1 RA 주 사용 인구가 이미 sarcopenic diabetes 위험군임을 강조 — 근손실 부작용의 임상적 중요도 보강
+- [[Jay's Knowledge Base/raw/604-quan-2026-nutritional-intake-changes-during-glp-1-receptor\|raw/604-quan-2026-nutritional-intake-changes-during-glp-1-receptor]] — GLP-1/이중 GIP-GLP-1 작용제의 객관적 식이 섭취 변화 체계적 문헌고찰(16편)·메타분석(3개 시험 4 arm, 209명, *Diabetes & Metabolic Syndrome* 2026): 표준화 ad libitum 점심 에너지 섭취 **−1132 kJ(≈−271 kcal, 95% CI −1449~−815, I²=0%)**, semaglutide vs tirzepatide 차이 무의미(p=0.154), 습관적 섭취는 여전히 미보고 → 충분한 단백질 강조 영양 상담 권고. 식욕억제형 감량의 상류 정량 근거
 - [[Jay's Knowledge Base/raw/556-nalbandian-2026-15-pgdh-inhibition-promotes-muscle-repair-and-strength\|raw/556-nalbandian-2026-15-pgdh-inhibition-promotes-muscle-repair-and-strength]] — 15-PGDH 억제제(PGDHi)가 semaglutide 병용 시 근육 줄기세포 기능·근섬유 성장을 자극해 손상 후 근육 재생·근력을 회복, 체중 감량 훼손 없이 GLP-1 유도 근손실에 대응 (*PNAS* 2026): ActRII·SCFA 축과 상보적인 prostaglandin/MuSC 재생 축
 
 ### ActRII / SMAD2/3 기전 — primary literature
@@ -282,5 +301,6 @@ Eli Lilly의 **orforglipron** (경구·1일 1회·비펩타이드 GLP-1 작용�
 - [[Jay's Knowledge Base/raw/503-trendelenburg-2009-myostatin-reduces-akttorc1p70s6k-signaling-inhibiting\|raw/503-trendelenburg-2009-myostatin-reduces-akttorc1p70s6k-signaling-inhibiting]] — Myostatin · Akt/TORC1/p70S6K
 
 ### In vitro 모델 한계
+- [[Jay's Knowledge Base/raw/29-park-2023-drug-approval-prediction-based-on-the-discrepancy\|raw/29-park-2023-drug-approval-prediction-based-on-the-discrepancy]] — 약물 표적 교란 효과의 세포/인체 불일치(cells/humans discrepancy)로 인한 in vitro↔임상 번역 실패가 안전성 실패·개발 비용 상승·환자 삶의 질 저하를 초래, 이를 반영한 약물 승인 예측 모델로 임상 탈락률 감소를 제안 (*eBioMedicine* 2023). ※ 확보 범위는 Background 한정 — 모델 성능 지표 미확인
 - [[Jay's Knowledge Base/raw/497-lautaoja-2020-differentiation-of-murine-c2c12-myoblasts-strongly\|raw/497-lautaoja-2020-differentiation-of-murine-c2c12-myoblasts-strongly]] — C2C12 근관의 myostatin 반응성 저하
 - [[Jay's Knowledge Base/raw/500-rodgers-2014-myostatin-stimulates-not-inihibits-c2c12-myoblast\|raw/500-rodgers-2014-myostatin-stimulates-not-inihibits-c2c12-myoblast]] — 진핵 재조합 myostatin의 C2C12 증식 자극 역설

@@ -124,6 +124,7 @@ GBA1 변이는 파킨슨병(PD)의 **가장 흔한 유전적 위험인자**(최�
 장-뇌 축의 고전적 경로가 세로토닌·GABA·SCFA·미주신경이었다면, **뇌간(brainstem)의 식욕 회로를 호르몬 매개로 직접 겨냥하는 미생물 경로**가 새로 제시되었다 (Zhuang et al., 2026, *Phytomedicine*, [[Jay's Knowledge Base/raw/597-zhuang-2026-enrichment-of-akkermansia-muciniphila-by-red-ginseng\|raw/597-zhuang-2026-enrichment-of-akkermansia-muciniphila-by-red-ginseng]]).
 
 - **경로**: 홍삼(red ginseng) 단기 투여 → ***A. muciniphila* 농축** → 균 유래 단백질 **Amuc_1631** → 숙주 **GDF15** 분비 증가 → **뇌간 GFRAL 수용체** → 식욕 억제·체중 감소
+  - **용어**: **GFRAL**(GDNF family receptor α-like)은 **GDF15의 사실상 배타적 수용체**로, 발현이 뇌간의 **최후야(area postrema)·고립로핵(NTS)** 이라는 좁은 영역에 국한된다. 즉 GDF15는 전신에서 분비되어도 **수용체가 있는 뇌간에서만 식욕 신호로 번역**되며, 이 수용체 국재성이 아래 *Gfral*⁻/⁻ 실험이 인과를 입증하는 근거가 된다
 - **말단 신호 생성**: 결장 *Gdf15* 전사가 **PERK–eIF2α–ATF4–CHOP(통합 스트레스 반응, ISR)** 축을 통해 상향 — 장상피의 스트레스 반응이 anorexigenic 호르몬 생산으로 전환되는 지점
 - **중추 수용 경로의 필요성 입증**: **Gfral⁻/⁻ 마우스에서 효과 소실** → GDF15–GFRAL 경로가 표현형에 필수
 - **미생물 의존성 입증**: 항생제로 *A. muciniphila*를 고갈시키면 효과가 사라지고, **분변 미생물 이식(FMT)** 으로 효과가 전달됨

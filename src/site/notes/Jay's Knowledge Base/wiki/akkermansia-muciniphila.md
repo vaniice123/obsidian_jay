@@ -17,6 +17,7 @@
 - 점액을 주 탄소·질소원으로 이용 (DNA G+C 47.6 mol%)
 - N-acetylglucosamine(GlcNAc)·N-acetylgalactosamine·glucose 등 제한된 당만 이용 가능하며, 단백질원이 있을 때만 성장 (mucin 대비 성장 속도·최종 밀도 낮음) → **점막 niche 적응**의 생리적 기반 (cf. [[Jay's Knowledge Base/wiki/bioprocess-engineering\|배지 설계]])
 - 16S rRNA 서열이 미배양 대장 세균 3종과 99% 유사 → 인간 장내 우점 공생균임을 시사
+- 대장 뮤신의 **황산화(sulfation) 장벽**을 넘는 탄수화물 설파타아제(carbohydrate sulfatase) **Amuc1755·Amuc0953**의 희귀한 적응(신규 뮤신 결합 도메인, GlcNAc은 periplasm·Gal은 세포외+periplasm의 구획화된 탈황산화)이 대장 뮤신 단일 탄소원 성장의 효소학적 기반으로 보고됨 (Dey et al., 2026, *Nature Microbiology*) → 상세 [[Jay's Knowledge Base/wiki/akkermansia-mechanisms\|akkermansia-mechanisms]]
 
 > *Akkermansia* 속의 종 분화("beyond muciniphila", *A. massiliensis* sp. nov. 등)와 균주 다양성·게놈 안정성·배양 생리는 → [[Jay's Knowledge Base/wiki/akkermansia-strain-landscape\|akkermansia-strain-landscape]] 참조.
 
@@ -35,7 +36,7 @@
 
 Amuc_1100과 별개로, *A. muciniphila*는 **L-cell 유래 GLP-1 분비를 유도하는 분비 단백질**을 생산함이 분리·동정됨 (Yoon et al., 2021, *Nature Microbiology*, [[Jay's Knowledge Base/raw/513-yoon-2021-akkermansia-muciniphila-secretes-a-glucagon-like\|raw/513-yoon-2021-akkermansia-muciniphila-secretes-a-glucagon-like]]). 이 단백질의 보충은 마우스 대사질환 모델에서 포도당 항상성을 개선했으며, 살균 *A. muciniphila* 또는 그 생균 보충 시 **혈중 GLP-1 농도 상승**이 관찰되는 일관된 메커니즘적 근거로 작용. GLP-1RA가 호르몬 모방약(외인성)인 반면, Akkermansia 유래 인자는 **장 내인성(endogenous) GLP-1 분비 자극**이라는 점에서 [[Jay's Knowledge Base/wiki/glp1-muscle-loss\|GLP-1 companion]] 포지셔닝의 차별 기전이며, Gao 2026의 "병용 시 혈중 GLP-1 추가 증가" 관찰을 뒷받침하는 foundational mechanism.
 
-> Amuc_1409·AmTARS·세포외소포(EV)·GABA·CAZyme 등 추가 분비 effector와 4대 작용 기전(장벽·대사·근육·면역)의 상세는 → [[Jay's Knowledge Base/wiki/akkermansia-mechanisms\|akkermansia-mechanisms]] 참조.
+> Amuc_1409·AmTARS·세포외소포(EV)·GABA·CAZyme 등 추가 분비 effector와 4대 작용 기전(장벽·대사·근육·면역)의 상세는 → [[Jay's Knowledge Base/wiki/akkermansia-mechanisms\|akkermansia-mechanisms]] 참조. 이들 개별 effector를 **effector 중심 프레임(effector-centered framework)** 으로 통합해 분류군 수준 연관의 불일치를 설명하고, 간손상 모델에서 **소포 제제 ≥ 살균 균체**·**P9→GLP-1** 대응을 정리하는 한편 **CFU 대 단백질/소포 용량 등가성 부재**를 핵심 공백으로 지적한 종설(Ghahari et al., 2026, *MicrobiologyOpen*)도 같은 문서에 정리되어 있다.
 
 ---
 
@@ -77,8 +78,8 @@ Amuc_1100과 별개로, *A. muciniphila*는 **L-cell 유래 GLP-1 분비를 유�
 > 본 절은 *A. muciniphila* 주제 전체(허브 + 5개 spoke)의 **통합 서지(master bibliography)**이다. 각 spoke 문서는 본문에 inline 인용을 유지하며, 전체 annotated 목록은 여기에서 단일 관리한다.
 
 - [[Jay's Knowledge Base/raw/12-bimagrumab-believe-phase2b-glp1-muscle-preservation\|raw/12-bimagrumab-believe-phase2b-glp1-muscle-preservation]]
-- [[Jay's Knowledge Base/raw/13-hb05p-actrii-pathway-literature-survey-and-market\|raw/13-hb05p-actrii-pathway-literature-survey-and-market]]
-- [[Jay's Knowledge Base/raw/14-hb05p-glp1-companion-strategic-positioning\|raw/14-hb05p-glp1-companion-strategic-positioning]]
+- `raw/13-hb05p-actrii-pathway-literature-survey-and-market` (내부 문서, 비공개)
+- `raw/14-hb05p-glp1-companion-strategic-positioning` (내부 문서, 비공개)
 - [[Jay's Knowledge Base/raw/442-perraudeau-2020-improvements-to-postprandial-glucose-control-in-su\|raw/442-perraudeau-2020-improvements-to-postprandial-glucose-control-in-su]] — WBF-011 다균주 프로바이오틱(A. muciniphila 포함) T2D RCT
 - [[Jay's Knowledge Base/raw/488-arioli-2025-quantification-of-pasteurized-akkermansia-muciniphila\|raw/488-arioli-2025-quantification-of-pasteurized-akkermansia-muciniphila]] — 살균 *A. muciniphila* MucT의 flow cytometry 정량 프로토콜 및 6개 실험실 ring test (CV 12.3~24.1%)
 - [[Jay's Knowledge Base/raw/490-chmurska-2026-relationship-between-akkermansia-muciniphila-abundance\|raw/490-chmurska-2026-relationship-between-akkermansia-muciniphila-abundance]] — 운동-유도 체지방 감소에서 *A. muciniphila*의 매개자 역할, 기전(장벽·면역·SCFA·AMPK)
@@ -156,3 +157,5 @@ Amuc_1100과 별개로, *A. muciniphila*는 **L-cell 유래 GLP-1 분비를 유�
 - [[Jay's Knowledge Base/raw/595-shin-2021-ageing-and-rejuvenation-models-reveal-changes-in-key\|raw/595-shin-2021-ageing-and-rejuvenation-models-reveal-changes-in-key]] — 노화·회춘(rejuvenation) 모델에서 ***Akkermansia*(young 9.2% → aged 0.4%)** 와 **buk 부티르산 생합성 경로**를 건강 노화의 핵심으로 동정하고, ***Amuc_1100* 유전자 풍부도**도 young에서 유의하게 높음을 확인. 3종 회춘 중재(co-housing·혈청 주입·parabiosis)로 미생물 군집·장 면역·혈장 LPS·장줄기세포 마커가 young 수준으로 복귀. 별도로 **20~21개월령 노화 마우스에 4.9×10⁸ CFU/일 × 36주 경구 투여** 시 **평균·최대 수명은 연장되지 않았으나 frailty index·악력·골격근량·인지(NOR)가 개선**되고 근섬유 CSA↑·*Igf-1*↑·배상세포/tight junction 회복 → **「수명 ≠ 건강수명」** 을 명확히 한 노화 적응증의 원출처 (*Microbiome* 2021, PMC8672520; KAIST·KRIBB 등 한국 연구진)
 - [[Jay's Knowledge Base/raw/596-shin-2022-comprehensive-16s-rrna-and-metagenomic-data-from-the\|raw/596-shin-2022-comprehensive-16s-rrna-and-metagenomic-data-from-the]] — 노화·회춘 마우스 모델 결장 시료 공개 데이터셋: 4종 중재(co-housing·혈청 주입·parabiosis·**경구 *A. muciniphila***)에 대한 16S rRNA(107건) + 샷건 메타게놈(109건). *A. muciniphila* 경구 투여를 parabiosis 등 전신 회춘 중재와 동일 프레임에서 비교 가능 (*Scientific Data* 2022)
 - [[Jay's Knowledge Base/raw/597-zhuang-2026-enrichment-of-akkermansia-muciniphila-by-red-ginseng\|raw/597-zhuang-2026-enrichment-of-akkermansia-muciniphila-by-red-ginseng]] — 홍삼(RGS) 단기 투여가 DIO 마우스에서 ***A. muciniphila* 농축** → 균 유래 단백질 **Amuc_1631** → **GDF15** 분비 → **뇌간 GFRAL** 경로로 식욕 억제·체중 감소. 항생제 고갈 시 효과 소실·FMT로 전달·**Gfral⁻/⁻에서 소실**로 미생물 및 중추 경로 의존성 입증, 결장 *Gdf15*는 **PERK–eIF2α–ATF4–CHOP** 축으로 상향, 활성 분획은 **RGS/50**(50% 에탄올 용출분). ※ GDF15는 악액질·근감소의 식욕부진/근소모 매개 인자이기도 해 근육 보존 포지셔닝과의 상충 검토 필요 (*Phytomedicine* 2026)
+- [[Jay's Knowledge Base/raw/600-dey-2026-unique-adaptations-in-sulfatases-underpin-colonic\|raw/600-dey-2026-unique-adaptations-in-sulfatases-underpin-colonic]] — *A. muciniphila* 탄수화물 설파타아제 **Amuc1755·Amuc0953**이 황산화 대장 뮤신 구조를 표적하는 **희귀 적응**과 **더 높은 모듈성**(기존 미보고 **뮤신 결합 도메인** 포함)을 보유. 대장 뮤신 배양 시 **크기가 축소된 당단백질**이 성장에 중요하며, 변이·국재화 분석에서 **GlcNAc 탈황산화는 periplasmic, Gal 탈황산화는 세포외+periplasmic**으로 구획화 → 대장 뮤신 단일 탄소원 대사의 분자적 실체이자 Bakshani 2025의 11 sulfatase를 효소·도메인 수준으로 해상 (*Nature Microbiology* 2026)
+- [[Jay's Knowledge Base/raw/601-ghahari-2026-decoding-akkermansia-muciniphila-effector-biology-from\|raw/601-ghahari-2026-decoding-akkermansia-muciniphila-effector-biology-from]] — *A. muciniphila*의 **effector 중심 프레임(effector-centered framework)** 종설. 분류군 수준 연관의 불일치를 **숙주 대면 분자**(Amuc_1100/PAS·**P9**, EV/OMV, 탈락 세포외피 조각·지질)로 설명. **HFD/CCl₄ 간손상 모델에서 소포 제제가 살균 균체와 동등하거나 상회**, Amuc_1100→면역 재프로그래밍·장벽 신호, **P9→GLP-1 분비**. 단 **점액 활성 효소·항원성 에피토프는 감수성 숙주에서 liability**. 핵심 공백: **생리적 용량 현실성**, **CFU 대 단백질/소포 용량 등가성 부재**, **effector 발현의 균주·배양조건 의존성**, **뇌 관련 지표의 인체 데이터 부족** (*MicrobiologyOpen* 2026)

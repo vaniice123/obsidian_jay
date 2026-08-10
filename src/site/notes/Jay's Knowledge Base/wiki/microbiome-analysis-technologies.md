@@ -107,7 +107,7 @@
 마이크로바이옴은 일주기·계절·생애주기·식이·항생제·중재 전후로 변동하는 동적 시스템이므로, 분석 설계에서 **시간 차원**을 통제하지 않으면 효과 크기와 재현성이 왜곡된다. Zeng et al. (2026, *The Lancet Microbe*, [[Jay's Knowledge Base/raw/541-zeng-2026-temporal-variations-of-the-gut-microbiome-in-human\|raw/541-zeng-2026-temporal-variations-of-the-gut-microbiome-in-human]])은 인간 장내 마이크로바이옴의 temporal variation을 종합 정리해 다음을 제안한다.
 
 - **단일 시점 → 종단(longitudinal) 설계 전환** — 질병 연관·중재 효능 추정의 통계적 검출력·재현성 향상
-- **개인별 baseline variability 보정** — responder 층화(Dao 2016·Mount 2026 [[Jay's Knowledge Base/wiki/obesity-body-composition\|체중 유지 RCT]])의 안정성 확보
+- **개인별 baseline variability 보정** — 기저 *Akkermansia* 풍부도를 쓰는 responder 층화(Dao 2016 식이중재 코호트·Mount 2026 [[Jay's Knowledge Base/wiki/obesity-body-composition\|체중 유지 RCT]]; 설계가 달라 연관 방향은 동일하지 않음 → [[Jay's Knowledge Base/wiki/akkermansia-clinical-evidence\|akkermansia-clinical-evidence]])의 안정성 확보
 - **rate-of-change·resilience 지표** — 항생제 후 회복 궤적, prodromal 단계 진행(Menozzi 2026의 PD 중간 signature)의 dynamic biomarker 화
 - **시계열·다중 오믹스 통합 통계** — ALDEx2·ANCOM 등 구성 데이터 도구를 시간 차원으로 확장하는 분석 파이프라인 필요
 

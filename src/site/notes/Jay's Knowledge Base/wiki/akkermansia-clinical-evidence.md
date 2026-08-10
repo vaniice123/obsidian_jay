@@ -38,7 +38,9 @@
 **RCT 4** (Suenaert et al., 2026, *Gut Microbes*, [[Jay's Knowledge Base/raw/577-suenaert-2026-effect-of-pasteurized-akkermansia-muciniphila-muct-on\|raw/577-suenaert-2026-effect-of-pasteurized-akkermansia-muciniphila-muct-on]]; NCT05114018): 대사증후군 성인 142명 대상 살균 *A. muciniphila* MucT(300억 cells/day, 4개월) 이중맹검 위약대조 다기관(아일랜드·독일) RCT.
 - **1차 종결점 음성**: 전신 인슐린감수성(Matsuda index)이 ITT 분석에서 위약 대비 **유의차 없음** — Depommier 2019(proof-of-concept)의 인슐린 감수성 효과를 더 큰 대사증후군 코호트에서 재현하지 못함
 - **탐색적 분석**: 3개월 복용이 전당뇨군·63세 이상군에서 **HOMA 기반 간 인슐린감수성 개선**(각 p=0.05), **post-OGTT GLP-1 excursion 증가**(p<0.01) → 내인성 GLP-1 분비 자극 단서와 합치 (cf. [[Jay's Knowledge Base/wiki/akkermansia-mechanisms\|Yoon 2021 P9 GLP-1 유도 인자]], Gao 2026 병용)
-- **responder = low baseline Akkermansia**: **기저 *Akkermansia* 유전자 수가 낮은 참가자에서 유의한 개선**(Matsuda·HOMA-S 인슐린감수성, GLP-1 excursion, 체중 감소 p=0.06, 체간지방 감소 p<0.05) → Mount 2026·Dao 2016과 동일하게 **기저 *Akkermansia* 풍부도가 낮은 층이 responder**라는 바이오마커 가설을 인체 RCT에서 재확인. 균질 집단 1차 종결점은 음성이나 층화(stratified) 반응이 뚜렷
+- **responder = low baseline Akkermansia**: **기저 *Akkermansia* 유전자 수가 낮은 참가자에서 유의한 개선**(Matsuda·HOMA-S 인슐린감수성, GLP-1 excursion, 체중 감소 p=0.06, 체간지방 감소 p<0.05) → **기저 *Akkermansia* 풍부도가 낮은 층이 responder**라는 바이오마커 가설을 인체 보충 RCT에서 직접 제시(논문 제목 자체가 "impact of low baseline gut *Akkermansia* levels"). 균질 집단 1차 종결점은 음성이나 층화(stratified) 반응이 뚜렷. 단 Mount 2026은 초록 수준에서 기저 *Akkermansia* 풍부도가 심대사 반응성과 **연관된다**고만 기술하고 **방향(높을수록/낮을수록)을 명시하지 않았으므로**, 두 시험을 같은 방향의 근거로 묶어서는 안 된다
+
+> **Dao 2016과는 방향이 반대이며, 이는 설계가 다르기 때문이다.** [[Jay's Knowledge Base/raw/274-dao-2016-iakkermansia-muciniphilai-and-improved-metabolic-he\|Dao 2016]](*Gut*)은 과체중·비만 성인 N=49를 6주 칼로리제한(CR) + 6주 체중안정화로 추적한 **보충 arm이 없는 관찰·식이중재 코호트**로, **기저 *A. muciniphila*가 높은 참가자가 CR 후 인슐린 감수성 지표·임상 지표 개선이 더 컸고** 유전자 풍부도와 *A. muciniphila*가 모두 높은 군이 가장 건강한 대사 상태를 보였다 — 즉 「기저 생태가 건강한 사람이 식이중재에 더 잘 반응한다」는 결과다. 반면 [[Jay's Knowledge Base/raw/577-suenaert-2026-effect-of-pasteurized-akkermansia-muciniphila-muct-on\|Suenaert 2026]]은 **살균균 보충 RCT**에서 「결핍한 사람이 보충에 반응한다」를 보였다. 두 결과는 상반돼 보이나 실은 서로 다른 질문(기저 생태의 예후·반응 예측 가치 vs 보충에 의한 결손 보정)에 답하고 있다. Dao에는 보충군 자체가 없으므로 「기저가 높으면 보충에 잘 반응한다」는 명제의 근거로는 사용할 수 없다.
 
 ---
 
@@ -82,7 +84,7 @@
 GLP-1RA 효능을 숙주 중심 대사 틀로만 보던 관점에서 벗어나 **마이크로바이옴을 GLP-1RA 효능의 systems-level 매개자**로 재배치하는 종설이 잇따라 제시됐다 (Chakrabarti 2026, 2편). 핵심 논지:
 
 - GLP-1RA가 장내 미생물 조성을 리모델링해 ***Akkermansia*·*Bacteroides*·*Lactobacillus*·SCFA 생산균(*Roseburia*·*F. prausnitzii*)을 농축** → 장벽 강화·전신 염증 감소·**내인성 GLP-1 분비 자극**의 feedback loop 형성
-- **기저 미생물 프로파일이 치료 반응(responder)을 좌우** → 정밀의학적 접근 근거 (cf. Mount 2026·Dao 2016의 *Akkermansia* responder 바이오마커)
+- **기저 미생물 프로파일이 치료 반응(responder)을 좌우** → 정밀의학적 접근 근거 (cf. 기저 *Akkermansia* 풍부도를 반응 예측 지표로 다룬 Mount 2026·Dao 2016·Suenaert 2026 — 단 설계와 보고된 연관 방향이 연구마다 달라 단일 방향의 바이오마커로 통합되지는 않는다. 위 Suenaert 2026 항목의 방향 차이 정리 참조)
 - GLP-1RA 자체의 장내 면역조절·세포보호 작용까지 통합하는 gut–brain–microbiome 신경내분비 축 관점
 
 → *A. muciniphila*가 GLP-1RA 병용 시 농축되는 핵심 유익 taxa로 명시되며, [[Jay's Knowledge Base/wiki/akkermansia-mechanisms\|Yoon 2021 내인성 GLP-1 분비 인자]]·위 Gao 2026 병용 데이터와 개념적으로 합치한다. 단 두 편 모두 **review/opinion 수준**으로 1차 데이터는 아님 ([[Jay's Knowledge Base/raw/529-chakrabarti-2026-decoding-the-gut-brain-microbiome-axis-in-glp-1\|raw/529-chakrabarti-2026-decoding-the-gut-brain-microbiome-axis-in-glp-1]], [[Jay's Knowledge Base/raw/530-chakrabarti-2026-glp-1-therapy-through-a-microbiome-lens\|raw/530-chakrabarti-2026-glp-1-therapy-through-a-microbiome-lens]]).

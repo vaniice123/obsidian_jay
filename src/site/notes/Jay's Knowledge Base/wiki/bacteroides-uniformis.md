@@ -42,6 +42,7 @@
 - 65 kb transposon-like 요소(XBU4422)가 *B. uniformis* 0061 염색체에 통합되어 존재, 접합 테트라사이클린 내성 요소와 상동성 보유 (Shoemaker & Salyers, 1990)
 - 항생제 내성 유전자 전달 메커니즘 연구의 모델 시스템으로 활용
 - 프로바이오틱 균주 선별 시 HGT 위험성 평가에 중요한 참고 자료
+- Shoemaker & Salyers의 *B. uniformis* 접합 요소 계보(1987 IncP R751 유도체의 *E. coli*로의 촉진 전달 / 1988 tetracycline 의존적 NBU1·NBU2 출현 / 1990 cryptic XBU4422)가 NGP 안전성 판정에서 갖는 의미 — 특히 **내성 유전자가 없는 요소도 비이동성 복제단위에 전달성을 부여한다**는 함의와 그 근거의 시대적 한계 — 는 [[Jay's Knowledge Base/wiki/ngp-safety-genomics\|ngp-safety-genomics]]에서 상세히 다룬다.
 
 ---
 

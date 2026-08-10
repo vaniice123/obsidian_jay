@@ -125,7 +125,7 @@ DSS-유도 궤양성 대장염(UC) 마우스 모델에서 살균형 [[Jay's Know
 - **단일 시점 sampling의 한계**: 질병–microbiome 연관 연구의 효과 크기·재현성이 시간 변동을 무시하면 과소·과대 추정될 수 있음 → 종단(longitudinal) 설계의 중요성
 - **중재 효능 평가의 baseline 안정성 가정 재고**: probiotic/postbiotic RCT의 baseline 대비 변화 해석 시 자연 변동 잡음과의 분리 필요 — Mount 2026·Depommier 2019 등 [[Jay's Knowledge Base/wiki/akkermansia-muciniphila\|*A. muciniphila*]] RCT 후속 분석에서도 동일 이슈
 - **prodromal/at-risk 단계 마커 개발**: Menozzi 2026 GBA1-PD 25% intermediate signature(아래 항목)나 GLP-1RA·항생제 노출 후 회복 궤적 분석에 temporal framework가 필수
-- **개인 baseline·variability 기반 정밀 영양**: responder 바이오마커(Dao 2016·Mount 2026의 기저 *Akkermansia* 풍부도)를 단일 시점 → 시간 안정성 보정 지표로 발전시켜야 함 ([[Jay's Knowledge Base/wiki/microbiome-analysis-technologies\|microbiome-analysis-technologies]] 참조)
+- **개인 baseline·variability 기반 정밀 영양**: responder 바이오마커로 거론되는 기저 *Akkermansia* 풍부도(Dao 2016 식이중재 코호트·Mount 2026 보충 RCT — 설계가 달라 연관 방향을 동일하게 볼 수 없음, [[Jay's Knowledge Base/wiki/akkermansia-clinical-evidence\|akkermansia-clinical-evidence]] 참조)를 단일 시점 → 시간 안정성 보정 지표로 발전시켜야 함 ([[Jay's Knowledge Base/wiki/microbiome-analysis-technologies\|microbiome-analysis-technologies]] 참조)
 
 ### 파킨슨병 prodromal 식별자로서의 장내 microbiome (Menozzi 2026, *Nature Medicine*)
 

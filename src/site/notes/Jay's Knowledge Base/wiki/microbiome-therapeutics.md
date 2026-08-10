@@ -79,18 +79,30 @@ GLP-1 수용체 작용제의 **근손실 부작용**을 해결하기 위한 마�
 
 인체 장 마이크로바이옴 연구의 임상·공중보건 번역이 여전히 제한적이라는 점을 통합 종설로 짚은 연구는 **번역의 missing pieces**를 4대 측면에서 평가한다 ([[Jay's Knowledge Base/raw/571-fassarella-2026-translational-human-gut-microbiome-research-what-are\|Fassarella & Smidt, 2026, *Journal of Translational Medicine*]]): ① 번역 성공사례, ② 효과적 번역의 장벽(barriers), ③ 타 의학분야에서 검증된 번역 프레임워크의 적용가능성, ④ 번역 진전을 강화할 전략. Gilbert 2025의 컨센서스와 상보적으로, 성공사례·프레임워크 이식·전략 관점을 추가하여 본 문서의 임상 중개·규제 논의를 뒷받침한다.
 
+**임상 중개의 분모 — 성공률 기저율(base rate)과 바이오마커 효과 (Wong 2019).** 위 논의가 "무엇이 번역을 가로막는가"를 다룬다면, 그 실패율의 절대적 크기를 대규모 실측으로 제시한 것이 Wong, Siah & Lo (2019, *Biostatistics* 20(2):273–286, [[Jay's Knowledge Base/raw/350-wong-2019-estimation-of-clinical-trial-success-rates-and-rel\|raw/350-wong-2019-estimation-of-clinical-trial-success-rates-and-rel]])이다. 제약업계가 큐레이션한 소규모 데이터베이스에 의존해 선택편향(selection bias) 가능성이 있던 기존 추정치와 달리, **2000년 1월 1일~2015년 10월 31일 임상시험 데이터 406,038건 entry·화합물 21,143개**를 표본으로 집계 성공률과 소요 기간을 추정하고, 이를 **질환군(disease type)·임상 상(phase)·스폰서(산업 vs 학계)·바이오마커 유무·lead indication 여부·시기**로 세분화했다.
+
+- 널리 인용되던 수치와 **유의하게 다른 결과**: 종양학 성공률이 본 표본에서 **3.4%**(선행 연구 5.1%)
+- 시계열 변동: 2012년 **1.7%**까지 하락 후 2014년 **2.5%**, 2015년 **8.3%**로 회복
+- **핵심 발견 — 환자 선별에 바이오마커를 사용한 시험이 사용하지 않은 시험보다 전체 성공 확률이 높다**
+
+**responder 층화와의 접점**: 이 바이오마커 결과는 본 지식베이스 전반에 반복 등장하는 **responder 층화(stratification)** 주제와 직결된다. 체중 감량 유지 RCT(Mount 2026)에서 기저 *Akkermansia* spp. 풍부도가 심대사 반응성과 연관되어 responder 바이오마커 후보로 제시되었고, 대사증후군 다기관 RCT(Suenaert 2026)는 **균질 집단에서 1차 종결점이 음성**이었음에도 **기저 *Akkermansia* 유전자 수가 낮은 층에서 인슐린감수성·GLP-1 excursion·체간지방 개선**이 뚜렷했다 ([[Jay's Knowledge Base/wiki/akkermansia-clinical-evidence\|akkermansia-clinical-evidence]] 참조). 즉 responder 바이오마커는 기전적 정교함의 문제에 그치지 않고 **시험 성공 확률 자체를 측정 가능하게 높이는 설계 변수**이며, Wong 2019은 그 주장에 마이크로바이옴 분야 외부의 대규모 근거를 제공한다. [[Jay's Knowledge Base/wiki/microbiome-analysis-technologies\|기저 미생물 프로파일링]]을 등록 시점의 층화 변수로 사전 규정하는 설계가 정당화되는 지점이다.
+
+**근거의 위상과 한계**: Wong 2019은 표본 규모·기간·세분화 수준 면에서 이 문서가 인용하는 임상 중개 논의 중 가장 강한 **1차 정량 데이터**이나, ① 표본이 **2015년까지**여서 이후 규제·설계 관행 변화가 반영되지 않았고, ② 마이크로바이옴 치료제는 **별도 질환군으로 분리 추정되지 않았다**. 따라서 개별 LBP 프로그램의 성공 확률을 직접 읽어내는 용도가 아니라, 기대치를 보정하는 **참조 프레임(reference frame)** 으로 사용하는 것이 적절하다.
+
 ## 규제 현황
 - 기존 프레임워크에 상당한 갭 존재
 - LBP 특성 분석을 위한 분석 방법론 최적화/검증 필요
-- 한국: LBP 가이드라인 부재, FDA/EMA 기준 참고 개발 예정
+- 한국: 식약처 전용 가이드라인 보유 — 「생균치료제의 임상시험 시 품질·비임상 평가 가이드라인」(2022.4.28 제정, 2022.12.26·2023.8.31 개정으로 현행화). 생균치료제(LBP)를 **생물의약품(생물학적제제)** 으로 분류하는 의약품 규제 경로가 이미 확립 ([[Jay's Knowledge Base/raw/527-mfds-2023-korean-live-biotherapeutic-product-clinical-trial-guideline\|raw/527-mfds-2023-korean-live-biotherapeutic-product-clinical-trial-guideline]])
+- LBP 규제·CMC 요구사항 상세 → [[Jay's Knowledge Base/wiki/lbp-regulatory-cmc\|lbp-regulatory-cmc]]
 - 자세한 한국 규제 → [[Jay's Knowledge Base/wiki/microbiome-dietary-supplement-market\|microbiome-dietary-supplement-market]]
 
 ## 출처
 
 - [[Jay's Knowledge Base/raw/06-microbiome-therapeutics-past-present-future\|raw/06-microbiome-therapeutics-past-present-future]]
 - [[Jay's Knowledge Base/raw/12-bimagrumab-believe-phase2b-glp1-muscle-preservation\|raw/12-bimagrumab-believe-phase2b-glp1-muscle-preservation]]
-- [[Jay's Knowledge Base/raw/14-hb05p-glp1-companion-strategic-positioning\|raw/14-hb05p-glp1-companion-strategic-positioning]]
+- `raw/14-hb05p-glp1-companion-strategic-positioning` (내부 문서, 비공개)
 - [[Jay's Knowledge Base/raw/135-pitashny-2025-the-future-of-microbiome-therapeutics\|raw/135-pitashny-2025-the-future-of-microbiome-therapeutics]] — 후기 개발 단계 차세대 마이크로바이옴 치료 기술 전망 리뷰
 - [[Jay's Knowledge Base/raw/240-khanna-2022-ser-109-an-oral-investigational-microbiome-thera\|raw/240-khanna-2022-ser-109-an-oral-investigational-microbiome-thera]] — SER-109(Vowst™) 경구 포자 기반 rCDI 치료제 임상 근거
 - [[Jay's Knowledge Base/raw/255-gilbert-2025-clinical-translation-of-microbiome-research\|raw/255-gilbert-2025-clinical-translation-of-microbiome-research]] — 마이크로바이옴 연구의 임상 중개 다학제 컨센서스
+- [[Jay's Knowledge Base/raw/350-wong-2019-estimation-of-clinical-trial-success-rates-and-rel\|raw/350-wong-2019-estimation-of-clinical-trial-success-rates-and-rel]] — 임상시험 성공률·소요기간 대규모 추정 (Wong, Siah & Lo, *Biostatistics* 20(2):273–286, 2019): 2000-01~2015-10 임상시험 406,038 entry·화합물 21,143개, 질환군·상·스폰서·바이오마커 유무·lead indication·시기별 세분화. 종양학 3.4%(선행 5.1%), 2012년 1.7% → 2014년 2.5% → 2015년 8.3%. **환자 선별에 바이오마커를 쓴 시험이 전체 성공 확률 더 높음** — responder 층화 설계의 정량적 근거
 - [[Jay's Knowledge Base/raw/571-fassarella-2026-translational-human-gut-microbiome-research-what-are\|raw/571-fassarella-2026-translational-human-gut-microbiome-research-what-are]] — 인체 장 마이크로바이옴 연구의 번역 장벽·전략 통합 종설: 번역 성공사례·효과적 번역의 장벽·타 의학분야 프레임워크 적용가능성·번역 진전 강화 전략 4대 측면 평가, 번역의 missing pieces (Fassarella & Smidt, *Journal of Translational Medicine* 2026)
