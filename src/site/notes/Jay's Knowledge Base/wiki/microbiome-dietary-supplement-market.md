@@ -21,6 +21,39 @@
 - 판매 채널 다변화: 홈쇼핑, 쿠팡, 네이버, 다이소
 - 건기식 중고 거래 제한적 허용
 
+### 성별 소비자 세그먼트 — KNHANES 2023 기반 섭취 결정 요인 (Chae 2026)
+
+**국민건강영양조사(KNHANES) 2023** 원자료로 한국 성인의 건강기능식품(식이보충제) 섭취와 연관된 요인을 **성별로 분리 분석**한 연구 ([[Jay's Knowledge Base/raw/605-chae-2026-factors-associated-with-dietary-supplement-use-by-sex\|Chae, 2026, *INQUIRY*]]). 대상은 **19세 이상 남성 2,517명·여성 3,275명**이며, 복합표본(complex sample) 교차분석과 **성별로 각각 수행한 복합표본 로지스틱 회귀**로 유의 요인을 도출했다. Lam 2026(미국 NHANES 25년 추세)이 **카테고리 이동**을 보여준다면, 본 연구는 **국내 시장의 소비자 세그먼트 구조**를 보여준다.
+
+| 요인 | 남성 (n=2,517) | 여성 (n=3,275) |
+|------|----------------|----------------|
+| 혼인상태 | **OR 1.35** (1.05–1.73) | **OR 1.47** (1.10–1.96) |
+| 건강검진 참여 | **OR 1.52** (1.19–1.93) | **OR 1.44** (1.16–1.80) |
+| 체중조절 | **OR 1.35** (1.10–1.66) | **OR 1.39** (1.11–1.75) |
+| 영양표시 인지 | **OR 1.29** (1.01–1.64) | — |
+| 교육수준 | — | **OR 1.24** (1.01–1.54) |
+| 스트레스 수준 | — | **OR 1.40** (1.10–1.78) |
+| 체형 인식 | — | **OR 1.31** (1.02–1.68) |
+| 중강도 여가 신체활동 | — | **OR 1.26** (1.02–1.56) |
+| 아침식사 빈도 | — | **OR 1.59** (1.28–1.98) — 여성 최대 |
+
+(모든 구간은 95% CI. "—"는 해당 성별 모형에서 유의 요인으로 보고되지 않았음을 의미한다.)
+
+- **공통 3축**: **혼인상태·건강검진 참여·체중조절**은 남녀 모두에서 유의 → 국내 건기식 수요의 공통 기반
+- **남성 = 행동·정보 트리거 중심**: 유의 요인이 4개뿐이고 모두 **검진·체중조절·영양표시 인지** 등 관찰 가능한 행동/정보 접점. 즉 남성 수요는 **이벤트 기반**(검진 결과 통보, 체중 관리 개시)으로 촉발되는 경향
+- **여성 = 심리·생활습관 요인이 추가**: 공통 3축에 더해 **스트레스·체형 인식·교육수준·여가 신체활동·아침식사 빈도**까지 8개 요인이 유의. 특히 **아침식사 빈도(OR 1.59)** 가 여성 모형 최대 효과로, 건기식 섭취가 **규칙적 식생활 루틴에 편입되는 행동**임을 시사
+
+**마케팅·제품기획 함의**
+
+| 관점 | 남성 세그먼트 | 여성 세그먼트 |
+|------|---------------|---------------|
+| 진입 접점 | 건강검진(직장검진 포함) 전후 | 일상 루틴(아침 식사)·체형 관리 |
+| 핵심 메시지 | 수치·리스크 기반(검진 지표), 영양표시·함량 근거 제시 | 스트레스·컨디션·체형 등 자각 기반 |
+| 복용 설계 | 단순·저빈도 복용 | 아침 루틴 결합형(1일 1회 아침) |
+| 채널 | 검진·의료 접점, 정보성 콘텐츠 | 웰니스·생활습관 콘텐츠, 온라인 |
+
+성별 단일 메시지의 한계를 보여주는 근거로, 원 연구의 결론도 「안전·적정 섭취를 위한 **성별 맞춤 교육·상담 전략**의 예비 근거」다. 단, **단면(cross-sectional) 설계**이므로 인과가 아닌 **연관**으로 해석해야 한다. 마이크로바이옴 기반 원료([[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]])는 체중조절·스트레스·장 건강 소구가 모두 가능해 두 세그먼트에 서로 다른 각도로 접근할 여지가 있다.
+
 ## 한국 정부 R&D 투자
 
 | 시기 | 금액 | 비고 |
@@ -135,4 +168,4 @@ Lam 2026이 **65세 이상에서 보충제 사용률이 78%로 최대**임을 �
 - **근거 생성 관점 (함정)**: 보충제 사용은 인과적 위험요인이 아니라 **전반적 임상 취약성의 대리지표**로 해석됨(역인과). 따라서 관찰연구·시판후 조사·리얼월드 데이터에서 소재와 근감소가 **양의 상관**으로 나타나는 역설이 발생할 수 있으며, 기능성 주장 근거로 활용하려면 사용자군의 기저 취약성을 반드시 보정해야 한다 (cf. Klatt 2026의 엄정한 근거 프레임워크 요구)
 - **실무 함의**: 근력 유지 기능성 제품의 임상 설계에서 **기저 SARC-F·기능 지표 층화**가 responder 정의와 규제 근거 품질을 동시에 개선할 수 있음
 
-**출처**: [[Jay's Knowledge Base/raw/07-korean-health-supplement-microbiome-market\|raw/07-korean-health-supplement-microbiome-market]], `raw/13-hb05p-actrii-pathway-literature-survey-and-market` (내부 문서, 비공개), `raw/14-hb05p-glp1-companion-strategic-positioning` (내부 문서, 비공개), [[Jay's Knowledge Base/raw/476-bayer-2026-eli-lilly-centessa-orexin-acquisition\|raw/476-bayer-2026-eli-lilly-centessa-orexin-acquisition]], [[Jay's Knowledge Base/raw/478-sharma-2026-dr-reddys-beyond-the-pill-semaglutide\|raw/478-sharma-2026-dr-reddys-beyond-the-pill-semaglutide]], [[Jay's Knowledge Base/raw/479-park-2026-samsung-biologics-glp1-cdmo-expansion\|raw/479-park-2026-samsung-biologics-glp1-cdmo-expansion]], [[Jay's Knowledge Base/raw/480-shin-2026-global-health-food-regulation-kfood\|raw/480-shin-2026-global-health-food-regulation-kfood]], [[Jay's Knowledge Base/raw/481-yoo-2026-jw-holdings-solidus-bio-vc-acquisition\|raw/481-yoo-2026-jw-holdings-solidus-bio-vc-acquisition]], [[Jay's Knowledge Base/raw/482-cheon-2026-ckd-health-earnings-functional-food-market\|raw/482-cheon-2026-ckd-health-earnings-functional-food-market]], [[Jay's Knowledge Base/raw/527-mfds-2023-korean-live-biotherapeutic-product-clinical-trial-guideline\|raw/527-mfds-2023-korean-live-biotherapeutic-product-clinical-trial-guideline]], [[Jay's Knowledge Base/raw/535-daniells-2026-senate-dietary-supplements-access-act\|raw/535-daniells-2026-senate-dietary-supplements-access-act]], [[Jay's Knowledge Base/raw/554-klatt-2026-dietary-supplement-bioactives-when-rigorous-frameworks\|raw/554-klatt-2026-dietary-supplement-bioactives-when-rigorous-frameworks]] — 식이보충제 생리활성 성분의 엄정한 효능·안전성 프레임워크 대 규제 불확실성 (건기식 근거·규제 표준), [[Jay's Knowledge Base/raw/562-lam-2026-emerging-patterns-in-dietary-supplement-use-among-us\|raw/562-lam-2026-emerging-patterns-in-dietary-supplement-use-among-us]] — 미국 성인 식이보충제 사용 25년(1999–2023, NHANES n=63,442) 추세: 전체 51→60% 증가, MVMM 감소·표적 카테고리(gut/면역/피부/관절·프리·프로바이오틱스) 다양화, 65세 이상 78%로 최대 증가 (*JAMA Network Open* 2026), [[Jay's Knowledge Base/raw/594-ragusa-2026-muscle-matters-dietary-supplement-use-and-sarcopenia\|raw/594-ragusa-2026-muscle-matters-dietary-supplement-use-and-sarcopenia]] — 노인 외래 162명: 보충제 사용과 근감소 위험(SARC-F) 연관(보정 OR 2.35), 사용을 임상 취약성의 대리지표로 해석 → 수요 구조 및 관찰연구 교란 보정 근거 (*Geriatrics* 2026), [[Jay's Knowledge Base/raw/597-zhuang-2026-enrichment-of-akkermansia-muciniphila-by-red-ginseng\|raw/597-zhuang-2026-enrichment-of-akkermansia-muciniphila-by-red-ginseng]] — 홍삼(건기식 대표 원료)이 *A. muciniphila*를 증식시켜 Amuc_1631–GDF15–GFRAL 축으로 식욕 억제: 기존 인정 원료 × 표적균 조합 설계 근거 (*Phytomedicine* 2026)
+**출처**: [[Jay's Knowledge Base/raw/07-korean-health-supplement-microbiome-market\|raw/07-korean-health-supplement-microbiome-market]], `raw/13-hb05p-actrii-pathway-literature-survey-and-market` (내부 문서, 비공개), `raw/14-hb05p-glp1-companion-strategic-positioning` (내부 문서, 비공개), [[Jay's Knowledge Base/raw/476-bayer-2026-eli-lilly-centessa-orexin-acquisition\|raw/476-bayer-2026-eli-lilly-centessa-orexin-acquisition]], [[Jay's Knowledge Base/raw/478-sharma-2026-dr-reddys-beyond-the-pill-semaglutide\|raw/478-sharma-2026-dr-reddys-beyond-the-pill-semaglutide]], [[Jay's Knowledge Base/raw/479-park-2026-samsung-biologics-glp1-cdmo-expansion\|raw/479-park-2026-samsung-biologics-glp1-cdmo-expansion]], [[Jay's Knowledge Base/raw/480-shin-2026-global-health-food-regulation-kfood\|raw/480-shin-2026-global-health-food-regulation-kfood]], [[Jay's Knowledge Base/raw/481-yoo-2026-jw-holdings-solidus-bio-vc-acquisition\|raw/481-yoo-2026-jw-holdings-solidus-bio-vc-acquisition]], [[Jay's Knowledge Base/raw/482-cheon-2026-ckd-health-earnings-functional-food-market\|raw/482-cheon-2026-ckd-health-earnings-functional-food-market]], [[Jay's Knowledge Base/raw/527-mfds-2023-korean-live-biotherapeutic-product-clinical-trial-guideline\|raw/527-mfds-2023-korean-live-biotherapeutic-product-clinical-trial-guideline]], [[Jay's Knowledge Base/raw/535-daniells-2026-senate-dietary-supplements-access-act\|raw/535-daniells-2026-senate-dietary-supplements-access-act]], [[Jay's Knowledge Base/raw/554-klatt-2026-dietary-supplement-bioactives-when-rigorous-frameworks\|raw/554-klatt-2026-dietary-supplement-bioactives-when-rigorous-frameworks]] — 식이보충제 생리활성 성분의 엄정한 효능·안전성 프레임워크 대 규제 불확실성 (건기식 근거·규제 표준), [[Jay's Knowledge Base/raw/562-lam-2026-emerging-patterns-in-dietary-supplement-use-among-us\|raw/562-lam-2026-emerging-patterns-in-dietary-supplement-use-among-us]] — 미국 성인 식이보충제 사용 25년(1999–2023, NHANES n=63,442) 추세: 전체 51→60% 증가, MVMM 감소·표적 카테고리(gut/면역/피부/관절·프리·프로바이오틱스) 다양화, 65세 이상 78%로 최대 증가 (*JAMA Network Open* 2026), [[Jay's Knowledge Base/raw/594-ragusa-2026-muscle-matters-dietary-supplement-use-and-sarcopenia\|raw/594-ragusa-2026-muscle-matters-dietary-supplement-use-and-sarcopenia]] — 노인 외래 162명: 보충제 사용과 근감소 위험(SARC-F) 연관(보정 OR 2.35), 사용을 임상 취약성의 대리지표로 해석 → 수요 구조 및 관찰연구 교란 보정 근거 (*Geriatrics* 2026), [[Jay's Knowledge Base/raw/597-zhuang-2026-enrichment-of-akkermansia-muciniphila-by-red-ginseng\|raw/597-zhuang-2026-enrichment-of-akkermansia-muciniphila-by-red-ginseng]] — 홍삼(건기식 대표 원료)이 *A. muciniphila*를 증식시켜 Amuc_1631–GDF15–GFRAL 축으로 식욕 억제: 기존 인정 원료 × 표적균 조합 설계 근거 (*Phytomedicine* 2026), [[Jay's Knowledge Base/raw/605-chae-2026-factors-associated-with-dietary-supplement-use-by-sex\|raw/605-chae-2026-factors-associated-with-dietary-supplement-use-by-sex]] — KNHANES 2023(남 2,517·여 3,275, ≥19세) 복합표본 로지스틱 회귀로 도출한 한국 성인 건기식 섭취의 **성별 결정 요인**: 남성은 혼인상태·건강검진·체중조절·영양표시 인지 4개, 여성은 여기에 교육수준·스트레스·체형인식·여가 신체활동·아침식사 빈도(OR 1.59, 최대)가 추가된 8개 → 성별 소비자 세그먼트·메시징 근거 (*INQUIRY* 2026)

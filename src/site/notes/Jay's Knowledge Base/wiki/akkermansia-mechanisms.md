@@ -40,6 +40,23 @@ Amuc_1100·GLP-1 유도 인자 외에도 *A. muciniphila*의 효능을 매개하
 - LPS 전위(translocation) 감소 → 전신 염증 억제
 - [[Jay's Knowledge Base/wiki/dysbiosis\|dysbiosis]] 상태에서 *A. muciniphila* 감소가 leaky gut의 핵심 원인
 
+#### 적응증 확장 — 재조합 Amuc_1100의 질 상피 배리어 조절 (Lee 2026)
+
+Amuc_1100–TLR2–tight junction 축이 **장 밖 상피(extra-intestinal epithelium)** 에서도 작동할 수 있음을 시사하는 첫 근거 (Lee et al., 2026, *Arch. Microbiol.*, [[Jay's Knowledge Base/raw/614-lee-2026-recombinant-amuc1100-from-akkermansia-muciniphila\|raw/614-lee-2026-recombinant-amuc1100-from-akkermansia-muciniphila]]).
+
+| 항목 | 내용 |
+|------|------|
+| 생산 | **baculovirus–곤충세포(insect cell) 발현** 후 **IMAC(immobilized metal affinity chromatography)** 정제 재조합 Amuc_1100 |
+| 표적 결합 | ELISA에서 재조합 **TLR2에 농도 의존적(concentration-dependent) 결합** |
+| 세포 모델 | **VK2/E6E7 질 상피세포(vaginal epithelial cells)** |
+| 안전성 | 시험한 농도 범위에서 **세포생존율(viability) 변화 없음 → 세포독성 부재** |
+| 기저 조건 | Western blot에서 **ZO-1(Zonula Occludens-1)·CLDN-1(Claudin-1)·CLDN-4** 발현이 유의하게 증가 |
+| 손상 조건 회복 | **LPS 또는 zymosan A** 자극으로 뚜렷이 감소한 **ZO-1**을 Amuc_1100 병용 처리가 **양쪽 조건 모두에서 회복** |
+
+- **의의**: 지금까지 Amuc_1100의 tight junction 강화는 **장상피** 맥락에서만 정리되어 왔으나, 본 결과는 동일한 **Amuc_1100–TLR2–tight junction 축이 조직 비특이적(tissue-agnostic)** 으로 작동할 가능성을 제시한다 → 장 장벽을 넘어 **질 상피(여성 건강) 포스트바이오틱**이라는 신규 적응증 공간이 열린다 (cf. [[Jay's Knowledge Base/wiki/akkermansia-indications-applications\|akkermansia-indications-applications]], [[Jay's Knowledge Base/wiki/gut-skin-axis\|장-피부 축 등 장외 상피 축]]).
+- LPS(TLR4 리간드)와 zymosan A(β-glucan, TLR2 리간드) **양쪽 자극에서 모두 ZO-1이 회복**된 점은, 작용이 단일 수용체 경쟁에 국한되지 않을 가능성을 시사한다.
+- **한계**: 저자 스스로 **예비 근거(preliminary evidence)** 로 규정 — TEER·투과도 등 **기능적 배리어 assay 부재**, 기전 연구·**in vivo 검증 미완**. 또한 정제 재조합 단백질 결과이므로 살균 균체·EV 제형에서 동일 효과가 재현되는지는 별도 확인이 필요하다 ([[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|정제 effector 포스트바이오틱]], [[Jay's Knowledge Base/wiki/bioprocess-engineering\|재조합 생산]]).
+
 ### 2. 대사 조절
 - 인슐린 감수성 개선 (Depommier 2019 RCT)
 - 지방 조직 대사 조절 → 체지방 감소
@@ -54,6 +71,25 @@ Amuc_1100·GLP-1 유도 인자 외에도 *A. muciniphila*의 효능을 매개하
 - **Everard 2013 (기념비적 전임상, *PNAS*, [[Jay's Knowledge Base/raw/74-everard-2013-cross-talk-between-iakkermansia-muciniphilai-an\|raw/74-everard-2013-cross-talk-between-iakkermansia-muciniphilai-an]])**: *A. muciniphila* 풍부도가 비만·2형 당뇨에서 감소하며, 생균 보충이 식이유도 비만 마우스에서 체중·인슐린 저항성·지방조직 염증을 개선하고 점액층 두께·장벽 기능을 회복시킴을 입증. *A. muciniphila*–장상피 cross-talk 개념과 이후 모든 대사 연구의 출발점.
 - **Dao 2016 (인체 관찰, *Gut*, [[Jay's Knowledge Base/raw/274-dao-2016-iakkermansia-muciniphilai-and-improved-metabolic-he\|raw/274-dao-2016-iakkermansia-muciniphilai-and-improved-metabolic-he]])**: 비만 환자 식이중재 코호트에서 기저 분변 *A. muciniphila* 풍부도가 높을수록 대사 건강 개선폭이 크고 미생물 유전자 풍부도(gene richness)·생태가 우수 → **responder 바이오마커** 개념의 인체 근거 (cf. Mount 2026 RCT의 동일 관찰).
 - **살균 *A. muciniphila*의 대사 기전 (전임상)**: 살균 *A. muciniphila*가 정상식 마우스에서도 안전하게 장 무결성·면역·지질 대사·미생물 조성을 개선(Ashrafian et al., 2021, *Sci. Rep.*, [[Jay's Knowledge Base/raw/261-ashrafian-2021-comparative-effects-of-alive-and-pasteurized\|raw/261-ashrafian-2021-comparative-effects-of-alive-and-pasteurized]]); 고지방식 마우스에서 시상하부 산화질소(NO) 방출 증가를 동반한 **장-뇌 축 경유 혈당 개선**(Abot et al., 2023, *Heliyon*, [[Jay's Knowledge Base/raw/30-abot-2023-pasteurized-akkermansia-muciniphila-improves-gluco\|raw/30-abot-2023-pasteurized-akkermansia-muciniphila-improves-gluco]]); 2형 당뇨 모델에서 병리 수준의 다중오믹스 기전 규명(Niu et al., 2024, *J. Agric. Food Chem.*, [[Jay's Knowledge Base/raw/138-niu-2024-molecular-mechanism-of-pasteurized-iakkermansia-muc\|raw/138-niu-2024-molecular-mechanism-of-pasteurized-iakkermansia-muc]]). 세 연구 모두 EFSA novel food로 인정된 살균형의 「살균 ≥ 생균」 대사 효능을 기전 측면에서 보강.
+
+#### 살균 *A. muciniphila* 포스트바이오틱의 간 이중 신호축 — TLR4/NF-κB(염증) + SREBP2/HMGCR(콜레스테롤 합성) (Chen 2026)
+
+살균(pasteurized) *A. muciniphila* 균주 **AKK PROBIO**를 **db/db 마우스(2형 당뇨, T2DM)** 에 보충한 연구에서, 살균형의 대사 효능이 **장(미생물·GLP-1) → 혈청 대사체 → 간 신호전달**로 이어지는 축으로 정리됨 (Chen et al., 2026, *J. Sci. Food Agric.*, [[Jay's Knowledge Base/raw/606-chen-2026-pasteurized-akkermansia-muciniphila-akk-probio\|raw/606-chen-2026-pasteurized-akkermansia-muciniphila-akk-probio]]).
+
+| 층위 | 관찰된 변화 |
+|------|------|
+| 숙주 대사·염증 | **공복혈당(fasting glucose) 감소**, **염증 지표(inflammatory markers) 감소**, **콜레스테롤 균형(cholesterol balance) 개선** |
+| 장내 미생물 | 조성 변화 + **SCFA 생산과 연관된 분류군의 농축(enrichment)** ([[Jay's Knowledge Base/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]]) |
+| 장 호르몬 | **GLP-1 수치 증가** |
+| 혈청 대사체 | **9,9'-di-cis-ζ-carotene**, **l-arginine** 등 변화 |
+| 간 단백 발현 | **TLR4/MyD88/IKKα/NF-κB**(염증) 및 **SREBP2/HMGCR**(콜레스테롤 합성) 경로 관련 단백 발현 **감소** |
+
+- **새로운 포인트는 간에서 두 경로가 동시에 하향된다는 이중 구조**다. **TLR4/MyD88/IKKα/NF-κB**는 「장벽 약화 → LPS 전위 → 간 염증」이라는 고전 축의 하류에 해당해 위 [[Jay's Knowledge Base/wiki/akkermansia-mechanisms#1. 장 장벽 강화\|장벽 기전]]과 직접 연결되고, **SREBP2/HMGCR**은 콜레스테롤 *de novo* 합성의 율속 축(**HMGCR = 스타틴의 표적**)이다. 즉 "콜레스테롤 균형 개선"이 흡수·배설 수준의 현상 기술에 머물지 않고 **간 합성 경로 억제**라는 기전 후보를 확보한다는 점이 기존 살균형 대사 근거에 새로 더해지는 부분이다.
+- **GLP-1 상승**은 Yoon 2021의 P9·Li 2026의 hexapeptide LKLKLL 등 **GLP-1 유도 effector 계열**과 방향이 합치하며, 살균형에서도 이 축이 유지됨을 보탠다 (cf. [[Jay's Knowledge Base/wiki/akkermansia-clinical-evidence\|Suenaert 2026의 post-OGTT GLP-1 excursion 증가]]).
+- 저자는 ***A. muciniphila*의 균주 특이적 효과(strain-specific effects)와 기전에 대한 추가 규명 필요**를 연구 동기로 명시 → 살균형 효능의 균주 의존성 논의와 합치 ([[Jay's Knowledge Base/wiki/akkermansia-strain-landscape\|akkermansia-strain-landscape]]).
+- **해석 주의**: 초록의 서술은 대체로 **연관(association) 프레이밍**("was accompanied by", "were paralleled by")이며, 경로 차단·유전자 결손 등 인과 검증은 초록 범위에 없다 → **기전 가설** 수준으로 취급. 그럼에도 위 Niu 2024(살균형 T2DM 다중오믹스)·Abot 2023(장-뇌 축 혈당 개선)과 함께 **살균형 대사 효능의 기전 스택**을 두텁게 한다 ([[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]]).
+
+> **식이 의존적(diet-dependent) 균총 리모델링 — 결과 미확보 · 모니터링**: 살균 *A. muciniphila* + **SPM(Specialized Pro-resolving Mediators)** + **비타민 B군(B vitamins)** 복합 중재를 C57BL/6J 마우스의 **표준식이(standard diet, SD) vs 고지방식이(high-fat diet, HFD)** 조건에서 비교해 숙주 대사·장내 미생물 조성에 미치는 영향을 본 연구가 보고됨 (De Rose et al., 2026, *J. Transl. Med.*, [[Jay's Knowledge Base/raw/607-de-rose-2026-diet-dependent-gut-microbiota-remodeling-by\|raw/607-de-rose-2026-diet-dependent-gut-microbiota-remodeling-by]]). **확보된 초록이 도입부(배경·연구 목적)까지이며 결과 수치·효과 방향은 미확보** 상태이므로, 현 시점에서는 ① 살균형이 단독이 아니라 **SPM·비타민 B군과의 병용 매트릭스**로 시험되었다는 점, ② 효과가 **배경 식이에 의존(diet-dependent)** 한다는 전제로 설계되었다는 점만 기록한다. HFD가 배상세포·점액층을 손상시켜 *A. muciniphila*를 고갈시킨다는 아래 Liang 2026 축과 맞물리는 설계이므로, **결과 공개 시 본 절 갱신 필요(모니터링 대상)**.
 
 #### 고지방식 → 배상세포·점액층 손상 → *A. muciniphila* 고갈 → 담즙산·소장 지질흡수 축 (Liang 2026)
 
@@ -89,6 +125,15 @@ Wang 2020(Amuc_1100 → CD8⁺ CTL)·Xu 2024(C15:0)·Zhang 2023(트립토판/AhR
 - 대장 염증 모델에서 보호 효과
 - 분비형 AmTARS → M2 대식세포 분극 (위 [[Jay's Knowledge Base/wiki/akkermansia-mechanisms#추가 분비 단백질·세포외소포·대사산물 (Effector Molecules)\|effector 절]] 참조)
 - *A. muciniphila*와 *F. prausnitzii*는 SLE·HIV·건선·아토피 등 **면역관련 질환에서 항염 효과를 보이는 두 핵심 NGP**로 함께 논의됨 (Effendi et al., 2022, *Microorganisms*, [[Jay's Knowledge Base/raw/117-effendi-2022-akkermansia-muciniphila-and-faecalibacterium-pr\|raw/117-effendi-2022-akkermansia-muciniphila-and-faecalibacterium-pr]]) → [[Jay's Knowledge Base/wiki/faecalibacterium-prausnitzii\|faecalibacterium-prausnitzii]]와의 면역질환 시너지·병용 프로/신바이오틱 설계의 근거
+
+#### 공개 멀티오믹스 리소스 — DSS 대장염 마우스 비장 CD4⁺ T세포 (Jiang 2026, 데이터셋 논문)
+
+> ⚠️ **본 문헌은 가설 검증형 1차 연구가 아니라 데이터셋 논문(data descriptor)** 이다 (*Scientific Data*). 효능 주장이나 기전 결론을 제시하지 않으며, **재분석 가능한 공개 리소스**를 기술하는 성격의 출판물이다.
+
+- **설계**: 야생형 C57BL/6J 마우스에 **DSS(dextran sulfate sodium) 유발 대장염**을 유도하고 *A. muciniphila* 보충 유무를 비교, **비장(splenic) CD4⁺ T세포**를 분리해 **RNA-seq 전사체 + 정량 프로테오믹스(quantitative proteomics)** 를 통합한 멀티오믹스 데이터셋 (Jiang et al., 2026, *Scientific Data*, [[Jay's Knowledge Base/raw/612-jiang-2026-a-dataset-of-rna-seq-and-proteomic-profiling-of\|raw/612-jiang-2026-a-dataset-of-rna-seq-and-proteomic-profiling-of]])
+- **구성**: 전사체 프로파일, 단백질 존재비 정량, **재현성 확보를 위한 QC(quality control) 지표**
+- **활용 가치**: *A. muciniphila*가 장 염증 상황에서 CD4⁺ T세포의 **면역대사(immune metabolism)·신호전달·염증 경로**를 어떻게 조절하는지 탐색할 수 있는 리소스로, 본 절의 Treg 분화·AmTARS 매개 M2 분극 서술에 대한 **가설 생성·검증용 데이터 기반**을 제공한다.
+- **주목점**: 분석 대상이 장관 국소가 아니라 **비장, 즉 전신 면역 구획**이라는 점 — 장 국소 작용이 **전신 T세포 프로그램으로 전이되는지**를 다룰 수 있는 데이터 (cf. [[Jay's Knowledge Base/wiki/gut-microbiome-and-disease\|IBD]], [[Jay's Knowledge Base/wiki/microbiome-analysis-technologies\|멀티오믹스 통합 분석]]).
 
 ---
 

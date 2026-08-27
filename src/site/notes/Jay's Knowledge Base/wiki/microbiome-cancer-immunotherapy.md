@@ -33,6 +33,23 @@
 - **신바이오틱스에 의한 항암화학요법 부작용 완화**: 식도암 환자의 신보강 항암화학요법(neoadjuvant chemotherapy) 후향적 탐색 연구에서, 신바이오틱스(synbiotics) 투여군은 항암제 부작용(adverse events)이 경감되었으며 이 완화 효과가 특정 장내 미생물 조성과 연관됨이 관찰됨 — 미생물 조절이 항암 치료의 독성 관리 보조 전략이 될 가능성 (Sugimoto et al., 2023)
 - **산소민감 Akk의 CRC 전달 제형 (Quah 2026)**: CRC 예방과 연관된 NGP인 *A. muciniphila*의 호기 사멸 문제를 알지네이트 마이크로캡슐화로 극복해 저장 안정성을 높인 전달 시스템 연구 — 항암 미생물의 제형·전달(formulation/delivery) 관점 ([[Jay's Knowledge Base/raw/534-quah-2026-microencapsulation-strategy-for-aerobic-cultivation-of\|raw/534-quah-2026-microencapsulation-strategy-for-aerobic-cultivation-of]]; 공정 상세 [[Jay's Knowledge Base/wiki/bioprocess-engineering\|bioprocess-engineering]])
 
+## 암 악액질(cancer cachexia)과 장내 미생물 — 결과 미확보 · 모니터링
+
+암 악액질(cancer cachexia)은 환자 생존과 삶의 질에 큰 영향을 미치지만 현행 치료로는 진행을 멈추지 못하며, **골격근 소모(skeletal muscle wasting)를 종양 진행(tumor progression)으로부터 분리(uncouple)** 할 수 있는 **숙주 표적(host-directed) 치료**의 임상적 필요가 크다. Youn et al. (2026, *Microbiome*, [[Jay's Knowledge Base/raw/623-youn-2026-micheliolide-ameliorates-colon-cancer-cachexia-by\|raw/623-youn-2026-micheliolide-ameliorates-colon-cancer-cachexia-by]])은 화합물 **micheliolide(MCL)** 가 ***Phocaeicola vulgatus*의 농축(enrichment)** 을 통해 **장내균총–면역 신호(gut microbiota–immune signaling)** 를 조절함으로써 대장암 악액질을 개선한다고 보고했으며, 서로 다른 종양 맥락(distinct tumor contexts)에 걸쳐 MCL의 치료 잠재력을 검토했다.
+
+| 항목 | 내용 |
+|------|------|
+| 문헌 | Youn et al., 2026, *Microbiome* |
+| 중재 | micheliolide (MCL) |
+| 매개 균종 | *Phocaeicola vulgatus* (농축) |
+| 제안 기전 축 | 장내균총 → 면역 신호(microbiota–immune signaling) 조절 |
+| 표적 병태 | 대장암 악액질(colon cancer cachexia) |
+| 치료 컨셉 | host-directed — 종양 진행과 근소모의 **분리(uncoupling)** |
+
+> **상태: 결과 미확보 · 모니터링.** 현재 초록의 앞부분(배경·연구 목적)만 확보된 상태로, **구체적 결과 수치·검증 모델·면역세포 수준의 기전은 미확보**다. 본문 확보 후 보강 필요.
+
+확보된 범위 내에서의 의미는 다음과 같다. 이 축은 [[Jay's Knowledge Base/wiki/gut-muscle-axis\|gut-muscle-axis]](장–근육 축)와 직접 연결되고, 근소모라는 결과 지표에서는 [[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]]와도 접점을 갖는다. 면역관문억제제 병용처럼 **항암 효능 증강**을 노리는 기존 마이크로바이옴 종양학 흐름과 달리, **암 관련 근소모라는 숙주 측 합병증**을 미생물 조절로 다룬다는 점에서 적용 범위를 「반응률(response rate)」에서 「환자 기능·삶의 질」로 확장하는 사례다 (cf. 위 신바이오틱스의 항암화학요법 부작용 완화 항목). *Phocaeicola vulgatus*(구 *Bacteroides vulgatus*)는 [[Jay's Knowledge Base/wiki/next-generation-probiotics\|next-generation-probiotics]] 후보군과 계통적으로 인접한 Bacteroidetes 공생균으로, 저분자 화합물이 **특정 공생균을 선택적으로 농축**시켜 효과를 내는 「소재 × 표적균」 설계 사례로도 읽을 수 있다.
+
 ## 관련 raw/ 소스
 
 - [[Jay's Knowledge Base/raw/22-gomes-2023-modulation-of-the-tumor-microenvironment-by-micro\|raw/22-gomes-2023-modulation-of-the-tumor-microenvironment-by-micro]]
@@ -74,6 +91,7 @@
 - [[Jay's Knowledge Base/raw/208-sugimoto-2023-gut-microbiota-associated-with-the-mitigation\|raw/208-sugimoto-2023-gut-microbiota-associated-with-the-mitigation]] — 식도암 신보강 항암화학요법 부작용을 완화하는 신바이오틱스와 연관 장내 미생물 (후향적 탐색 연구)
 - [[Jay's Knowledge Base/raw/534-quah-2026-microencapsulation-strategy-for-aerobic-cultivation-of\|raw/534-quah-2026-microencapsulation-strategy-for-aerobic-cultivation-of]] — 산소 민감 *A. muciniphila*의 알지네이트 마이크로캡슐화 전달 시스템, CRC 중재 응용 (제형·전달 관점)
 - [[Jay's Knowledge Base/raw/539-menadi-2026-synergistic-anticancer-effects-of-akkermansia\|raw/539-menadi-2026-synergistic-anticancer-effects-of-akkermansia]] — *A. muciniphila* 동결건조 추출물의 HT29·HCT116·SW620 CRC 세포 비교 세포독성·BAX/BCL2 의존 apoptosis·5-FU 시너지(*Cell Biochem. Funct.* 2026)
+- [[Jay's Knowledge Base/raw/623-youn-2026-micheliolide-ameliorates-colon-cancer-cachexia-by\|raw/623-youn-2026-micheliolide-ameliorates-colon-cancer-cachexia-by]] — micheliolide(MCL)가 *Phocaeicola vulgatus* 농축을 통해 장내균총–면역 신호를 조절하여 대장암 악액질 개선; 종양 진행과 골격근 소모를 분리하는 host-directed 치료 관점 (*Microbiome* 2026). **초록 앞부분만 확보 — 결과 미확보 · 모니터링**
 
 ## 관련 wiki 링크
 
@@ -83,3 +101,6 @@
 - [[Jay's Knowledge Base/wiki/microbiome-therapeutics\|microbiome-therapeutics]]
 - [[Jay's Knowledge Base/wiki/dysbiosis\|dysbiosis]]
 - [[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]]
+- [[Jay's Knowledge Base/wiki/gut-muscle-axis\|gut-muscle-axis]] — 암 악액질·골격근 소모의 미생물 축
+- [[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]] — 근소모 결과 지표의 공통 접점
+- [[Jay's Knowledge Base/wiki/next-generation-probiotics\|next-generation-probiotics]] — *Phocaeicola vulgatus* 등 공생균 기반 후보

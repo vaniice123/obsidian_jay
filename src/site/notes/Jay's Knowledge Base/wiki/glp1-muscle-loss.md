@@ -5,7 +5,7 @@
 
 # GLP-1 수용체 작용제와 근손실
 
-GLP-1 수용체 작용제(semaglutide, tirzepatide 등)는 비만 치료에서 15~25%의 체중 감량을 달성하지만, 감량분의 **25~45%가 제지방량(lean mass) 손실**에서 비롯된다(단일 시험 DXA 하위연구 기준의 시험별 편차 범위이며, phase 3 RCT 풀링 추정치는 제지방 **−1.96 kg**으로 별도 — [[Jay's Knowledge Base/wiki/glp1-muscle-loss#DXA 기반 정량화 — Phase 3 RCT 메타분석 (Alaycı 2026)\|Alaycı 2026]]). 이 문제를 해결하기 위해 ActRII 경로 차단 항체(bimagrumab, trevogrumab, apitegromab)를 병용하는 전략이 빠르게 발전하고 있으며, 마이크로바이옴 기반 접근(포스트바이오틱 companion)이 새로운 대안으로 부상하고 있다.
+GLP-1 수용체 작용제(semaglutide, tirzepatide 등)는 비만 치료에서 15~25%의 체중 감량을 달성하지만, 감량분의 **25~45%가 제지방량(lean mass) 손실**에서 비롯된다(단일 시험 DXA 하위연구 기준의 시험별 편차 범위이며, phase 3 RCT 풀링 추정치는 제지방 **−1.96 kg**으로 별도 — [[Jay's Knowledge Base/wiki/glp1-muscle-loss#DXA 기반 정량화 — Phase 3 RCT 메타분석 (Alaycı 2026)\|Alaycı 2026]]). 이 문제를 해결하기 위해 ActRII 경로 차단 항체(bimagrumab, trevogrumab, apitegromab)를 병용하는 전략이 빠르게 발전하고 있으며, 마이크로바이옴 기반 접근(포스트바이오틱 companion)이 새로운 대안으로 부상하고 있다. 이와 별개로 **충분한 단백질 섭취·정밀영양(precision nutrition)·저항운동**이라는 비약물적 축이 독립적으로 정립되고 있으며, 최근 문헌은 근**질량** 감소와 근**기능** 보존이 서로 해리(dissociate)될 수 있다는 점, 그리고 절대 단백질 섭취량 저하가 **이차성 근감소증(secondary sarcopenia)** 의 경로가 된다는 점을 함께 강조한다.
 
 ---
 
@@ -120,6 +120,74 @@ BYM338·trevogrumab류의 전임상 스크리닝에 광범위하게 사용되는
 - 병용군 제지방량 손실 **2.6%** vs semaglutide 단독 **7.9%**
 - Bimagrumab 단독: 제지방량 기저선 대비 **+2.5% 증가**, 체중 감소는 100% 지방 유래
 - 2026년 3월 *Nature Medicine* 게재
+
+---
+
+## 비약물적 완화 전략 — 단백질 섭취·정밀영양·운동
+
+ActRII 차단 항체·15-PGDH 억제제 같은 약리적 축과 나란히, **「덜 먹어서 빠지는」 감량(① 식욕억제형)의 상류를 직접 교정하는 영양·운동 중재**가 독립된 대응 축을 형성한다. 논리 사슬은 다음과 같다 — GLP-1 RA는 에너지 섭취를 약리학적으로 강제 저하시키고(표준화 식사당 약 **−271 kcal**, [[Jay's Knowledge Base/wiki/glp1-muscle-loss#식욕 억제의 정량화 — 표준화 ad libitum 점심 섭취 −271 kcal (Quan 2026)\|Quan 2026]]), 총 에너지 감소는 **절대 단백질 섭취량 감소**로 이어지며, 동화저항(anabolic resistance)이 있는 고령자에서 이는 근단백 합성(muscle protein synthesis) 자극 역치를 밑돌아 **이차성 근감소증(secondary sarcopenia)** 으로 귀결될 수 있다.
+
+| 중재 축 | 대표 근거 | 표적 결과변수 | 근거 수준 |
+|---------|-----------|---------------|-----------|
+| 단백질 적정성(protein adequacy) | Prokopidis 2026, *Advances in Therapy* | 절대 단백질 섭취량 → 근량·근력·신체수행 | 종설 — 직접 시험 근거 부족 |
+| 정밀영양(precision nutrition) | Ruga 2026, *Pharmaceuticals* | 제지방 보존·미량영양소·마이크로바이오타·위장관 증상·순응도 | 종설 — 대부분 간접 근거 |
+| 운동 처방(exercise prescription) | Świerczek 2026, *Quality in Sport* / Jennings 2026 ICR 코호트 | 악력·보행속도·VO₂max·SMM | 서술적 종설 + 후향 코호트 |
+
+### 단백질 섭취 부족과 이차성 근감소증 (Prokopidis 2026)
+
+**Quan 2026이 남겨 둔 「에너지 감소 → 단백질 감소」 중간 고리를 정면으로 다룬 종설**이 보고됐다 (Prokopidis, Cacciatore, Anton et al., 2026, *Advances in Therapy*, DOI 10.1007/s12325-026-03750-w, [[Jay's Knowledge Base/raw/618-prokopidis-2026-risk-of-protein-intake-deficiency-during-treatment\|raw/618-prokopidis-2026-risk-of-protein-intake-deficiency-during-treatment]]). GLP-1 및 이중 GIP/GLP-1 수용체 작용제 치료 중 식이 단백질 섭취 변화와 그것이 고령자의 근량·기능 보존에 갖는 함의를 정리한다.
+
+- **비율은 유지된다**: 무작위 시험 근거상 liraglutide는 단백질 섭취를 **총 에너지의 약 13.9~17.5%** 수준으로 대체로 유지
+- **그러나 절대량은 줄어들 수 있다**: 전반적 칼로리 제한으로 **절대 단백질 섭취량 감소**가 발생할 수 있으며, **식욕 억제가 강력할수록** 그 위험이 커짐
+- **핵심 논점**: 비율이 보존되어도 총 에너지 섭취가 낮아지면 절대 단백질 섭취량이 **고령자에서 근단백 합성을 충분히 자극하는 데 필요한 수준 아래로** 떨어질 수 있음
+- **근거 공백**: 식이 섭취에 관한 포괄적 데이터가 여전히 제한적이며, 이러한 변화가 **임상적으로 유의한 근량·근력·신체수행 저하로 이어지는지를 체계적으로 평가한 연구는 소수**
+- **요구되는 연구 설계**: 상세 식이 평가 + 체성분 분석 + 기능 결과변수를 통합한 **장기 시험**
+
+**포지셔닝 의의**: 본 문헌은 GLP-1 유도 근손실을 수용체 매개 직접 이화 작용이 아니라 **영양학적으로 매개된 이차성 근감소증(secondary sarcopenia)** 으로 명시적으로 프레이밍한다. 이는 [[Jay's Knowledge Base/wiki/glp1-muscle-loss#식욕 억제의 정량화 — 표준화 ad libitum 점심 섭취 −271 kcal (Quan 2026)\|Quan 2026]]의 「−271 kcal」과 [[Jay's Knowledge Base/wiki/glp1-muscle-loss#DXA 기반 정량화 — Phase 3 RCT 메타분석 (Alaycı 2026)\|Alaycı 2026]]의 「LBM −1.96 kg」을 잇는 인과 서사를 완성하는 동시에, 개입 지점이 **약물이 아니라 식단**일 수 있음을 뜻한다. [[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]]에 정리된 단백질 1.2~1.6 g/kg/day 권고, [[Jay's Knowledge Base/wiki/obesity-body-composition\|obesity-body-composition]]의 sarcopenic obesity 논의와 직접 연결.
+
+> ⚠️ 단, 본 문헌의 정량 근거는 **liraglutide 기반**이다. semaglutide·tirzepatide 등 식욕 억제가 더 강력한 약제에서 단백질 비율이 동일하게 보존되는지는 확인되지 않았으며, 저자들도 「더 강력한 식욕 억제에서 절대 섭취량 감소 위험이 크다」고 지적할 뿐 해당 약제의 실측치를 제시하지 않는다.
+
+### 정밀영양과 GLP-1 RA의 통합 (Ruga 2026)
+
+단백질 한 가지를 넘어 **영양 상태 전반을 GLP-1 RA 치료의 보조 전략으로 체계화**한 종설 (Ruga, Matarese, Bava et al., 2026, *Pharmaceuticals* 19(8):1230, DOI 10.3390/ph19081230, [[Jay's Knowledge Base/raw/619-ruga-2026-integrating-precision-nutrition-with-glp-1-receptor\|raw/619-ruga-2026-integrating-precision-nutrition-with-glp-1-receptor]]). 출발점은 GLP-1 RA의 세 가지 실세계 한계 — **치료 반응의 개인 간 변이**, **치료 중단으로 이어지는 빈번한 위장관 이상반응**, **제지방량(lean body mass) 손실 가능성** — 이다.
+
+| 정밀영양 중재 도메인 | 겨냥하는 임상 문제 |
+|---------------------|-------------------|
+| 단백질 섭취 최적화 | 제지방량 보존 |
+| 미량영양소 충분성(micronutrient adequacy) | 저섭취 상태의 결핍 |
+| **마이크로바이오타 조절(microbiota modulation)** | 효능·내약성의 개인차 |
+| 항염증 식이(anti-inflammatory dietary approaches) | 염증 부담 |
+| 위장관 증상 관리 | 이상반응·중단률 |
+
+- **개인화 층위**: nutrigenomics, metabolomics, **microbiome 기반 층화(stratification)**, 디지털 헬스, AI → **약물대사적 개인화(pharmacometabolic personalization)**
+- **결정 인자**: 영양 상태, 식이 패턴, 체성분, 염증 부담, **장내 미생물총 조성**이 GLP-1 기반 치료의 효능과 내약성 모두에 영향을 미칠 수 있음
+- **약물경제학(pharmacoeconomics)**: 순응도 개선 → 치료 관련 비용 절감, 합병증 예방, 장기 대사적 지속성 향상
+
+> ⚠️ **저자들이 명시한 한계**: 기전적 근거(mechanistic rationale)는 뒷받침되나, **통합 전략을 평가한 전향적 임상시험의 직접 근거는 제한적**이다. 대부분의 권고는 일반 체중감량·대사질환 인구에서 얻은 **간접 근거**에 기반하며, GLP-1 RA 치료 환자에 특이적인 효능은 아직 입증되지 않았다.
+
+**시사점**: 「마이크로바이오타 조절」과 「microbiome 기반 층화」가 정밀영양 프레임의 **정식 구성 요소로 등재**되었다는 점이 중요하다. 이는 [[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|포스트바이오틱]] companion을 보조제 마케팅이 아니라 **약물대사적 개인화의 한 축**으로 배치할 수 있는 학술적 근거 프레임을 제공한다. 동시에 「전향적 직접 근거 부재」라는 저자들의 자기 진단은, 이 영역에서 **GLP-1 RA 병용 전향 RCT를 먼저 내놓는 쪽이 선점 이익을 갖는다**는 뜻이기도 하다. cf. [[Jay's Knowledge Base/wiki/gut-muscle-axis\|gut-muscle-axis]]·[[Jay's Knowledge Base/wiki/microbiome-dietary-supplement-market\|microbiome-dietary-supplement-market]]
+
+### 근질량 감소 vs 근기능 보존의 해리 (Świerczek 2026)
+
+**「근량이 줄었다」가 곧 「기능이 나빠졌다」는 아니다.** Świerczek, Zawadzki, Kornacka et al. (2026, *Quality in Sport*, DOI 10.12775/QS.2026.66.73870, [[Jay's Knowledge Base/raw/622-świerczek-2026-glp-1-ras-and-muscle-function-outcomes-in-active\|raw/622-świerczek-2026-glp-1-ras-and-muscle-function-outcomes-in-active]])는 신체활동이 활발한 성인과 레크리에이션 운동선수에서 GLP-1 RA가 **근기능 결과변수**에 미치는 영향을 2019~2026년 문헌(PubMed·EMBASE·Cochrane)에 대한 서술적 종설(narrative review)로 정리했다.
+
+| 결과변수 | 관찰된 방향 |
+|----------|-------------|
+| 골격근량(skeletal muscle mass) | **일관되게 감소** |
+| 악력(handgrip strength) | **보존되거나 경미하게 감소** |
+| 보행속도(gait speed) | **대체로 영향 없음** |
+| VO₂max | **운동 병행 시 개선 가능** |
+
+- **결론**: GLP-1 RA 치료가 신체활동이 활발한 개인에서 근기능을 **일률적으로 손상시키지는 않는다**
+- **권고**: 약물요법에 **운동 처방(exercise prescription)을 통합**하여 기능 결과를 최적화할 것
+- **한계**: 신체활동이 활발한 인구는 기존 임상시험에서 **과소대표(underrepresented)** 되어 있으며, 운동선수 인구를 대상으로 한 **전용 RCT가 필요**
+
+**본 문서 다른 근거와의 대비**: 이 「질량–기능 해리」는 본 문서의 근손실 정량화 섹션과 정면으로 대비된다. [[Jay's Knowledge Base/wiki/glp1-muscle-loss#DXA 기반 정량화 — Phase 3 RCT 메타분석 (Alaycı 2026)\|Alaycı 2026]]의 **LBM −1.96 kg**은 DXA로 측정한 **질량 지표**이며, 그 자체가 기능 저하를 자동으로 함의하지 않는다. 마찬가지로 [[Jay's Knowledge Base/wiki/glp1-muscle-loss#구조화된 운동·재활 통합 — Pritikin ICR 코호트 (Jennings 2026)\|Jennings 2026]]의 ICR 코호트(SMM 변화 무차이, METs 개선)와 [[Jay's Knowledge Base/wiki/glp1-muscle-loss#15-PGDH 억제 — 근육 재생·근력 회복 축의 약리적 대응 (Nalbandian 2026)\|Nalbandian 2026]]의 전임상 관찰(**semaglutide 단독은 근량은 줄이되 수축 기능은 보존**)이 같은 방향을 가리킨다.
+
+**전략적 함의**:
+1. **평가변수 설계** — 근손실 대응 후보물의 임상 설계에서 DXA/BIA 근량 단독 지표는 불충분하며, **악력·보행속도·VO₂max 등 기능 지표를 공동 1차 평가변수로** 두어야 규제·임상적 설득력이 확보된다.
+2. **인구 층화** — 활동적·젊은 인구에서의 「기능 보존」 결과를 **좌식 고령자·근감소증 위험군에 외삽해서는 안 된다**. 오히려 companion(ActRII 차단·포스트바이오틱·단백질·운동)의 한계 효용은 **운동을 하지 않는 인구에서 가장 크다**는 [[Jay's Knowledge Base/wiki/glp1-muscle-loss#구조화된 운동·재활 통합 — Pritikin ICR 코호트 (Jennings 2026)\|Jennings 2026]]의 segmentation 논리를 재확인한다.
+3. **근질량 손실 자체를 방치해도 되는가** — 단기 기능이 보존되더라도 근량은 대사 예비력(metabolic reserve)이며, 반복적 on-off 사이클에서 누적 소실은 장기 [[Jay's Knowledge Base/wiki/sarcopenia\|근감소증]] 위험으로 되돌아온다. 해리는 **안심의 근거가 아니라 시간 지평(time horizon)의 문제**로 읽어야 한다.
 
 ---
 
@@ -248,9 +316,46 @@ GLP-1RA(semaglutide·tirzepatide)가 **외인성 호르몬 모방약**인 반면
 - Maridebart cafraglutide(GIPR 길항+GLP-1RA, 정반대 방향)의 lean mass 데이터는 미공개 — 두 약물의 체성분 비교가 GIPR 신호와 근육 보존의 인과 관계를 가르는 결정적 평가 시점
 - → ActRII 차단·포스트바이오틱 companion은 **incretin receptor profile과 무관하게** 광범위 적용 가능 — 시장 잠재력 보수적 추정에서 incretin 진화는 환자 풀 확장 요인이지 companion 적용 범위 축소 요인이 아님
 
+### GLP-1을 넘어선 차세대 축 — Amylin 기반 약물요법 (Fischer 2026)
+
+차세대 비만 약물 경쟁은 incretin 계열 내부(GLP-1 → GLP-1/GIP → 경구)를 넘어 **완전히 다른 호르몬 축인 amylin**으로 확장되고 있다 (Fischer & Borner, 2026, *Pharmacological Research*, DOI 10.1016/j.phrs.2026.108382, [[Jay's Knowledge Base/raw/609-fischer-2026-beyond-glp-1-amylin-based-pharmacotherapy-and-the\|raw/609-fischer-2026-beyond-glp-1-amylin-based-pharmacotherapy-and-the]]).
+
+- **Amylin의 생리**: 췌장 β세포에서 **인슐린과 공동 분비**되는 호르몬. 식후 혈당 조절 기여, **위 배출 지연**, **글루카곤 분비 억제**, 중추신경계 작용을 통한 **포만(satiation)** 촉진 → incretin 기반 치료와 **약리학적·신경학적으로 구별되는 기전**
+- **기술적 돌파구**: 펩타이드 엔지니어링, 지질화(lipidation), 가역적 알부민 결합(reversible albumin binding) → **장기 지속형 amylin 계열** 개발
+
+| 후보 물질 | 비고 |
+|-----------|------|
+| **Cagrilintide** | 장기 지속형 amylin 유사체 |
+| **Eloralintide** | 장기 지속형 amylin 유사체 |
+| **Petrelintide** | 장기 지속형 amylin 유사체 |
+| **NN1213** | 장기 지속형 amylin 유사체 |
+
+- **수용체 선택성 스펙트럼**: 후보들은 약동학적 특성과 수용체 선택성에서 갈리며, **선택적 amylin 수용체 작용제**부터 **amylin/calcitonin 이중 수용체 작용제**까지 분포한다.
+- **핵심 관점 — 효능과 내약성의 분리**: **calcitonin 수용체 관여**, **노출 동태(exposure kinetics)**, **하류 신경회로 동원**(후뇌 hindbrain·팔곁핵 parabrachial 회로)이, 섭취 감소가 **생리적 포만(physiological satiation)** 에서 오는 것인지 **혐오 신호(aversive signaling)** 에서 오는 것인지를 가른다. 이것이 오심(nausea)·권태(malaise)·구토(emesis) 프로파일을 결정하며, **체중감량 효능을 위장관 불내성으로부터 분리(dissociate)** 하는 것이 차세대 항비만 약물의 합리적 설계 목표라는 것이 본 종설의 결론이다.
+
+**근손실 관점의 정리**:
+1. **여전히 ① 식욕억제형이다** — amylin 계열의 감량도 결국 **섭취 감소**를 통해 일어나므로, 본 문서의 정리 틀([[Jay's Knowledge Base/wiki/glp1-muscle-loss#감량 기전에 따른 근손실 위험의 분화 — 식욕억제형 vs 대사형\|식욕억제형 vs 대사형]])에서 **절대 단백질 섭취량 감소 → 이차성 근감소증**이라는 동일한 논리 사슬이 그대로 적용될 것으로 예상된다.
+2. **내약성 개선은 노출 시간을 늘린다** — 위장관 부작용으로 인한 중단이 줄어들면(현 GLP-1은 12개월 내 46~65% 중단) **장기 지속 사용 인구가 늘어나고**, 그만큼 **누적 근손실 노출 기간이 길어질** 수 있다. 즉 내약성 개선은 근손실 문제를 해소하는 것이 아니라 **오히려 장기 체성분 관리의 중요성을 높인다**.
+3. **companion의 적용 범위 확장** — [[Jay's Knowledge Base/wiki/glp1-muscle-loss#GLP-1/GIP 이중 표적 — 차세대 incretin 약물 패러독스 (Davies 2026)\|Davies 2026]] 항목에서 정리한 「incretin receptor profile과 무관하게 적용 가능」이라는 논리는 amylin 계열에도 동일하게 성립한다. 단백질·운동·포스트바이오틱 companion은 **감량 약물의 수용체 계열이 무엇이든 상류의 저섭취를 보정**하는 위치에 있다.
+
+> ⚠️ 본 종설이 다루는 것은 **amylin 계열의 기전·임상 개발 현황·내약성 프로파일**이며, **체성분(lean mass)·근기능 결과변수는 보고 범위에 포함되어 있지 않다.** amylin 계열이 GLP-1 대비 근손실 측면에서 유리한지 불리한지는 **현재 미확립**이며, 위 3개 항목은 기전 논리에 근거한 추론임을 명시한다.
+
 ### 경구 GLP-1 작용제로의 전환 유지 — Orforglipron ATTAIN-MAINTAIN (2026)
 
 Eli Lilly의 **orforglipron** (경구·1일 1회·비펩타이드 GLP-1 작용제)은 SURMOUNT-5에서 주사형(tirzepatide·semaglutide)으로 감량한 환자가 경구 전환 시 **체중 감량의 74.7~79.3%를 52주간 유지**(위약 37.6~49.2%, P<0.001)함을 phase 3b ATTAIN-MAINTAIN에서 입증 (Aronne 2026, *Nature Medicine* — [[Jay's Knowledge Base/raw/519-aronne-2026-orforglipron-for-maintenance-of-body-weight-reduction\|raw/519-aronne-2026-orforglipron-for-maintenance-of-body-weight-reduction]], n=376). 의미: (1) "주사 → 경구 전환"이라는 **약리학적 maintenance 옵션**의 등장. (2) 경구·비펩타이드·globally scalable → **GLP-1 사용 인구의 절대 규모 확대**, companion(근손실 보존·내인성 GLP-1 분비 자극) 시장의 잠재 환자 풀이 함께 커짐. (3) 다만 **체성분(lean mass) 평가변수는 abstract에 명시되지 않음** — 경구 전환이 근감소 우려를 해결한다는 근거는 부재하며, 동일 수용체 작용 기전상 근손실 위험은 지속될 가능성이 높음. → ActRII 차단·포스트바이오틱 companion의 적용 범위는 **주사형뿐 아니라 경구 GLP-1RA 인구까지 확장**된다고 보아야 함.
+
+---
+
+## 모니터링 중인 문헌 (초록 미확보)
+
+본 지식베이스에 **서지사항만 확보**되어 있어 내용 인용이 불가능한 문헌. 전문 확보 시 우선 반영 대상으로 등재해 둔다.
+
+| 문헌 | 저널 / DOI | 제목상 주제 | 상태 |
+|------|-----------|-------------|------|
+| Gonzalez-Rellan & Drucker, 2026 ([[Jay's Knowledge Base/raw/610-gonzalez-rellan-2026-weight-loss-independent-actions-of-glp-1-medicines\|raw/610-gonzalez-rellan-2026-weight-loss-independent-actions-of-glp-1-medicines]]) | *Cell Metabolism* / 10.1016/j.cmet.2026.07.006 | GLP-1 계열 약물의 **체중감소 비의존적(weight-loss-independent) 작용** | **초록 미확보 · 모니터링** |
+| Maltese, Koufakis & Popovic, 2026 ([[Jay's Knowledge Base/raw/615-maltese-2026-reappraisal-of-glp-1-receptor-agonists-in-older-adults\|raw/615-maltese-2026-reappraisal-of-glp-1-receptor-agonists-in-older-adults]]) | *Trends in Endocrinology & Metabolism* / 10.1016/j.tem.2026.07.009 | **고령자에서의 GLP-1 수용체 작용제 재평가** | **초록 미확보 · 모니터링** |
+
+두 문헌 모두 **초록이 확보되지 않았으므로 본 문서 어디에서도 내용을 인용하지 않는다.** 다만 제목 수준에서 판단할 때 (a) 근손실이 체중 감소에 부수적인 현상인지 아니면 수용체 매개 작용과 분리 가능한지, (b) 근감소증 위험이 가장 높은 고령 인구에서의 위험–편익 재평가라는, 본 문서의 핵심 쟁점과 직결되는 주제에 해당한다. 특히 Gonzalez-Rellan & Drucker는 GLP-1 생물학 분야의 대표 연구그룹(Drucker lab) 발 *Cell Metabolism* 종설이므로 확보 우선순위가 높다. cf. [[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]]·[[Jay's Knowledge Base/wiki/obesity-body-composition\|obesity-body-composition]]
 
 ---
 
@@ -289,6 +394,16 @@ Eli Lilly의 **orforglipron** (경구·1일 1회·비펩타이드 GLP-1 작용�
 - [[Jay's Knowledge Base/raw/540-venkitta-2026-sarcopenia-in-type-2-diabetes-mellitus-a-narrative\|raw/540-venkitta-2026-sarcopenia-in-type-2-diabetes-mellitus-a-narrative]] — T2DM과 근감소증의 양방향 악순환 narrative review (*J. Diabetology* 2026): GLP-1 RA 주 사용 인구가 이미 sarcopenic diabetes 위험군임을 강조 — 근손실 부작용의 임상적 중요도 보강
 - [[Jay's Knowledge Base/raw/604-quan-2026-nutritional-intake-changes-during-glp-1-receptor\|raw/604-quan-2026-nutritional-intake-changes-during-glp-1-receptor]] — GLP-1/이중 GIP-GLP-1 작용제의 객관적 식이 섭취 변화 체계적 문헌고찰(16편)·메타분석(3개 시험 4 arm, 209명, *Diabetes & Metabolic Syndrome* 2026): 표준화 ad libitum 점심 에너지 섭취 **−1132 kJ(≈−271 kcal, 95% CI −1449~−815, I²=0%)**, semaglutide vs tirzepatide 차이 무의미(p=0.154), 습관적 섭취는 여전히 미보고 → 충분한 단백질 강조 영양 상담 권고. 식욕억제형 감량의 상류 정량 근거
 - [[Jay's Knowledge Base/raw/556-nalbandian-2026-15-pgdh-inhibition-promotes-muscle-repair-and-strength\|raw/556-nalbandian-2026-15-pgdh-inhibition-promotes-muscle-repair-and-strength]] — 15-PGDH 억제제(PGDHi)가 semaglutide 병용 시 근육 줄기세포 기능·근섬유 성장을 자극해 손상 후 근육 재생·근력을 회복, 체중 감량 훼손 없이 GLP-1 유도 근손실에 대응 (*PNAS* 2026): ActRII·SCFA 축과 상보적인 prostaglandin/MuSC 재생 축
+- [[Jay's Knowledge Base/raw/609-fischer-2026-beyond-glp-1-amylin-based-pharmacotherapy-and-the\|raw/609-fischer-2026-beyond-glp-1-amylin-based-pharmacotherapy-and-the]] — Amylin 기반 약물요법 종설 (*Pharmacological Research* 2026, DOI 10.1016/j.phrs.2026.108382): 인슐린 공동분비 β세포 호르몬 amylin의 위배출 지연·글루카곤 억제·중추 포만 기전, 장기지속형 cagrilintide·eloralintide·petrelintide·NN1213, 선택적 amylin 수용체 작용제 ↔ amylin/calcitonin 이중 작용제 스펙트럼, 후뇌·팔곁핵 회로와 오심/혐오 신호. **체중감량 효능과 위장관 내약성의 분리**가 차세대 항비만 약물 설계 목표. ※ 체성분·근기능 결과변수는 보고 범위 외
+
+### 비약물적 완화 전략 — 단백질·정밀영양·운동
+- [[Jay's Knowledge Base/raw/618-prokopidis-2026-risk-of-protein-intake-deficiency-during-treatment\|raw/618-prokopidis-2026-risk-of-protein-intake-deficiency-during-treatment]] — GLP-1 및 이중 GIP/GLP-1 수용체 작용제 치료 중 단백질 섭취 부족 위험과 **이차성 근감소증(secondary sarcopenia)** 종설 (*Advances in Therapy* 2026, DOI 10.1007/s12325-026-03750-w): liraglutide는 단백질을 총 에너지의 **약 13.9~17.5%** 비율로 유지하나 전반적 칼로리 제한으로 **절대 섭취량 감소** 가능 — 강력한 식욕 억제일수록 위험 증가. 비율 보존만으로는 고령자 근단백 합성 자극 역치 충족 불가. 상세 식이평가·체성분·기능 결과를 포함한 장기 시험 필요
+- [[Jay's Knowledge Base/raw/619-ruga-2026-integrating-precision-nutrition-with-glp-1-receptor\|raw/619-ruga-2026-integrating-precision-nutrition-with-glp-1-receptor]] — 정밀영양(precision nutrition)과 GLP-1 RA 치료의 통합: 기전·임상 결과·약물경제학 종설 (*Pharmaceuticals* 2026, 19(8):1230, DOI 10.3390/ph19081230). 단백질 최적화(제지방 보존)·미량영양소 충분성·**마이크로바이오타 조절**·항염 식이·위장관 증상 관리 5개 도메인 + nutrigenomics·metabolomics·microbiome 층화·디지털 헬스·AI 기반 **약물대사적 개인화**. ⚠️ 통합 전략의 전향적 임상시험 직접 근거는 제한적, 대부분 간접 근거
+- [[Jay's Knowledge Base/raw/622-świerczek-2026-glp-1-ras-and-muscle-function-outcomes-in-active\|raw/622-świerczek-2026-glp-1-ras-and-muscle-function-outcomes-in-active]] — 활동적 성인·레크리에이션 운동선수에서 GLP-1 RA와 **근기능** 결과 서술적 종설 (*Quality in Sport* 2026, DOI 10.12775/QS.2026.66.73870, PubMed·EMBASE·Cochrane 2019–2026): 골격근량은 일관되게 감소하나 **악력 보존~경미한 감소, 보행속도 대체로 무영향, VO₂max는 운동 병행 시 개선** — **근질량 감소와 근기능 보존의 해리(dissociation)**. 운동 처방의 약물요법 통합 권고, 활동적 인구 과소대표·전용 RCT 필요
+
+### 모니터링 중 (초록 미확보)
+- [[Jay's Knowledge Base/raw/610-gonzalez-rellan-2026-weight-loss-independent-actions-of-glp-1-medicines\|raw/610-gonzalez-rellan-2026-weight-loss-independent-actions-of-glp-1-medicines]] — GLP-1 계열 약물의 체중감소 비의존적(weight-loss-independent) 작용 (Gonzalez-Rellan & Drucker, *Cell Metabolism* 2026, DOI 10.1016/j.cmet.2026.07.006). **초록 미확보 · 모니터링** — 서지사항만 확보, 내용 인용 불가
+- [[Jay's Knowledge Base/raw/615-maltese-2026-reappraisal-of-glp-1-receptor-agonists-in-older-adults\|raw/615-maltese-2026-reappraisal-of-glp-1-receptor-agonists-in-older-adults]] — 고령자에서의 GLP-1 수용체 작용제 재평가 (Maltese, Koufakis & Popovic, *Trends in Endocrinology & Metabolism* 2026, DOI 10.1016/j.tem.2026.07.009). **초록 미확보 · 모니터링** — 서지사항만 확보, 내용 인용 불가
 
 ### ActRII / SMAD2/3 기전 — primary literature
 - [[Jay's Knowledge Base/raw/492-inman-2002-sb-431542-is-a-potent-and-specific-inhibitor-of\|raw/492-inman-2002-sb-431542-is-a-potent-and-specific-inhibitor-of]] — SB-431542 (ALK4/5/7 선택적 저해제)

@@ -44,6 +44,36 @@
 
 ---
 
+## 한계·상충 근거 (Counter-evidence) — 동아시아 인구의 낮은 검출률·저존재비와 신체기능 무관성 (Naito 2026)
+
+위 절의 근거들이 「*Akkermansia* = 건강·대사 개선」 방향을 뒷받침한다면, 본 연구는 그 서사의 **일반화 가능성에 직접 제동을 거는 반증적(counter-evidence) 인체 관찰 데이터**다 (Naito et al., 2026, *Microorganisms*, [[Jay's Knowledge Base/raw/617-naito-2026-low-prevalence-and-abundance-of-akkermansia-in-older\|raw/617-naito-2026-low-prevalence-and-abundance-of-akkermansia-in-older]]).
+
+**설계**: 일본 지역거주(community-dwelling) 고령자 **786명(≥65세)**. 31개 식품군에서 **주성분분석(PCA, varimax 회전)** 으로 식이패턴을 도출하고, *Akkermansia* 속을 **16S rRNA 유전자 시퀀싱**으로 정량해 **CLR(centered log-ratio) 변환 z-score**로 표현.
+
+| 항목 | 결과 |
+|------|------|
+| **검출 불가(undetectable)** | **356명 / 786명 = 45.3%** |
+| 보유자(carrier)의 존재비 | **중앙값 ≈ 0.35%** (저존재비) |
+| 면류(noodle) 중심 식이패턴(PC4)과의 연관 | 연령·성별·BMI·생활습관/동반질환 보정 후 **역상관 (β = −0.125, p = 0.0007)** |
+| 용량-반응 | 사분위(quartile) 간 **p for trend = 0.004** |
+| 2-part 모델 — **검출 여부** | **조정 OR per 1 SD = 0.80 (95% CI 0.69–0.93)** |
+| 2-part 모델 — **보유자 내 존재비** | **연관 없음 (p = 0.25)** |
+| 악력(grip strength)·근육량·허약(frailty) | **무관** — carrier 한정 약한 연관은 **FDR 보정 후 소실 (p = 0.056)**, 저자도 탐색적(exploratory)으로 규정 |
+
+### 해석 포인트
+
+1. **식이는 "얼마나 많은가"가 아니라 "있느냐 없느냐"에 작용한다.** 2-part 모델에서 면류 식이패턴의 연관이 **검출(detection) 부분에만 국한**되고 보유자 내 존재비와는 무관했다는 점은, 식이–*Akkermansia* 관계를 단순 선형 용량관계로 읽어온 통념을 정교화한다. 중재 목표 역시 「보유자에서의 존재비 증량」과 「미보유자에서의 정착(colonization)」이 **서로 다른 문제**임을 시사한다 ([[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]]).
+2. **[[Jay's Knowledge Base/wiki/gut-muscle-axis\|장-근육 축]] 서사에 대한 제한.** 본 코호트에서 *Akkermansia*는 악력·근육량·[[Jay's Knowledge Base/wiki/sarcopenia\|허약·근감소]]와 무관했다. 살균형 RCT에서 관찰된 근력·follistatin 개선(위 [[Jay's Knowledge Base/wiki/akkermansia-clinical-evidence#살균 *A. muciniphila* 포스트바이오틱 임상 결과\|임상 결과]] 절)은 **보충(supplementation)에 의한 개입 효과**인 반면, 본 연구는 **자연 상태 존재비의 관찰적 연관**이다 — 층위가 달라 직접적 모순은 아니나, 「내인성 *Akkermansia* 수치를 근기능 바이오마커로 쓴다」는 주장에 대해서는 명확한 반증이다.
+3. **동아시아 baseline 문제 — 임상 설계상 가장 중요한 함의.** 한국·일본 등 동아시아 인구에서 기저 존재비가 낮고 **절반 가까이가 미검출**이라면:
+    - **층화(stratification) 전제의 붕괴 위험** — 기저 풍부도로 responder를 나누는 설계(위 Suenaert 2026)는 서구 코호트에서 성립해도, 미검출자가 45%에 달하는 집단에서는 "낮음" 구간이 사실상 0에 몰려 **연속변수 기반 층화가 작동하지 않을 수 있다** → 「검출/미검출」 **이분(binary) 층화**가 현실적 대안.
+    - **역설적 기회** — Suenaert 2026이 제시한 「**기저가 낮은 층이 responder**」 가설이 옳다면, 동아시아 인구는 오히려 **보충 반응이 클 수 있는 집단**이 된다. 다만 이는 아직 가설이며 Dao 2016은 반대 방향을 보고했다(위 방향 차이 정리 참조) → 지역 코호트에서 직접 검증해야 할 지점.
+    - **평가변수·바이오마커 선택** — 기저값이 검출한계 근처인 집단에서는 「*Akkermansia* 상대풍부도 증가」를 1차 평가변수로 두기 어렵다. **기전 연계 바이오마커**(GLP-1 excursion, 장벽·염증 지표, [[Jay's Knowledge Base/wiki/short-chain-fatty-acids\|SCFA]])로 대체하는 편이 안전하다.
+4. **관찰연구로서의 한계**: 단면(cross-sectional) 설계로 인과 방향을 규정할 수 없고, 16S 기반 **속(genus) 수준 정량**이라 종·균주 수준 해상도가 없다 ([[Jay's Knowledge Base/wiki/akkermansia-strain-landscape\|akkermansia-strain-landscape]], [[Jay's Knowledge Base/wiki/microbiome-analysis-technologies\|microbiome-analysis-technologies]]). 면류 중심 식이 자체가 원인인지, 그 식이가 대리(proxy)하는 다른 생활습관·영양 프로파일이 원인인지도 미해결이다. 또한 낮은 존재비 자체가 **검출 민감도(detection limit)** 문제와 얽혀 있어, 정량 플랫폼에 따라 "미검출" 비율이 달라질 수 있다.
+
+> **요약**: *A. muciniphila*의 인체 근거는 **보충 중재(RCT)** 층위에서는 유지되지만, **내인성 존재비를 건강·신체기능의 지표로 삼는 관찰적 서사**는 인구집단에 따라 성립하지 않는다. 동아시아 임상 개발에서는 「낮고 자주 없는 baseline」을 예외가 아니라 **설계 전제**로 반영해야 한다 (cf. [[Jay's Knowledge Base/wiki/akkermansia-muciniphila\|akkermansia-muciniphila]], [[Jay's Knowledge Base/wiki/akkermansia-indications-applications\|akkermansia-indications-applications]]).
+
+---
+
 ## GLP-1RA와의 대사 효과 시너지: 데이터와 해석 한계 (2026)
 
 **Akk11 + semaglutide 병용 db/db 마우스(T2D + MASLD) 전임상 데이터** (Gao et al., *Cell & Bioscience* 2026, [[Jay's Knowledge Base/raw/491-gao-2026-combination-of-glp-1-receptor-agonist-and-akkermansia\|raw/491-gao-2026-combination-of-glp-1-receptor-agonist-and-akkermansia]]):

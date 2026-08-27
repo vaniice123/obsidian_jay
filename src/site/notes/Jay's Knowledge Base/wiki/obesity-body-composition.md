@@ -85,6 +85,22 @@ DXA(gold-standard)로 측정한 incretin 약물의 체성분 변화를 절대 kg
 
 **시사점**: (1) 영아 분리주에서도 모균주(MucT)와 일관된 비만 보호 효과 확인 → 균주 다양성과 효능 robustness, (2) **균주별 SCFA 프로파일 차이**(부티르산 vs 프로피온산)는 적응증·후성유전·식욕 조절 등 응용 분야에 따른 균주 선택 근거 제공, (3) **살균형의 *Akkermansia* 속 증가** 현상은 사균체가 잔존 생균 또는 숙주 점막에 작용하여 niche를 변형시킨다는 가설과 부합 — Amuc_1100 외 분비 단백질의 cross-feeding 기여 가능성.
 
+### 사균(heat-killed) 컨소시엄 — *A. muciniphila* + *Bacteroides vulgatus* (Jang 2026, *Scientific Reports*)
+
+뮤신 분해균(mucin-degrading bacteria, MDB)인 *A. muciniphila*와 *Bacteroides vulgatus*는 대사 건강을 개선하지만 **점액 장벽(mucus barrier) 분해라는 안전성 우려**를 동반한다. 이 딜레마의 해법으로 **유익한 균체 성분·대사산물은 보존하되 유해 활성은 제거한 사균(heat-killed) 형태**가 주목받아 왔고, 본 연구는 두 균의 **사균 컨소시엄**을 고지방식이(HFD) 유도 비만 마우스에서 평가했다 (Jang et al., 2026, *Scientific Reports*, [[Jay's Knowledge Base/raw/611-jang-2026-the-heat-killed-bacteria-consortium-containing\|raw/611-jang-2026-the-heat-killed-bacteria-consortium-containing]]).
+
+| 항목 | 결과 |
+|---|---|
+| 투여 | **1 × 10¹⁰ cells/day 경구, 10주** |
+| 체중·체지방 | **섭취량(food intake) 변화 없이** 체중 증가·지방량 축적 감소 |
+| 장 | 장내 미생물 조성의 긍정적 조절, **장 장벽 무결성(intestinal barrier integrity) 개선** |
+| 간·지방조직 | **간 지방증(hepatic steatosis)·지방세포 비대(adipocyte hypertrophy) 유의 완화** |
+| 혈당 | 전신 포도당 항상성 개선 |
+| 안전성 지표 | 간손상·지질 프로파일 관련 여타 생화학 지표에는 영향 없음 |
+| 결론 | **gut–liver–adipose 축** 조절을 통한 안전하고 효과적인 비만·대사증후군 대응 전략 |
+
+**시사점**: (1) **안전성 논지가 핵심** — 생균 MDB의 점액층 분해 우려를 **열처리 사균화로 회피**하면서 대사 효능은 유지된다는 것으로, 살균 *A. muciniphila* 포스트바이오틱 노선([[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]]·[[Jay's Knowledge Base/wiki/akkermansia-clinical-evidence\|akkermansia-clinical-evidence]])의 근거를 **컨소시엄 수준**에서 보강한다. (2) 단일 균주 중심 논의(Mount 2026 MucT·Feng 2025 Akk11)를 넘어 **정의된 사균 컨소시엄(defined consortium)** 으로 확장한 사례로, 균주 간 상보성을 설계 변수로 삼는다([[Jay's Knowledge Base/wiki/next-generation-probiotics\|next-generation-probiotics]]). (3) **섭취량 불변**은 GLP-1 RA 감량의 상당 부분이 급성 섭취 억제로 설명되는 것(위 [[Jay's Knowledge Base/wiki/obesity-body-composition#GLP-1 RA 감량의 섭취량 기여 정량화 — ad libitum 점심 −1132 kJ (Quan 2026)\|Quan 2026]])과 대비되는 지점으로, [[Jay's Knowledge Base/wiki/glp1-muscle-loss#감량 기전에 따른 근손실 위험의 분화 — 식욕억제형 vs 대사형\|식욕억제형 vs 대사형 감량]] 구분에서 **대사형**에 배치된다 — 근손실 위험 관점에서 유리할 가능성(단 본 연구는 제지방량·근기능 종결점을 보고하지 않아 직접 근거는 아님). cf. [[Jay's Knowledge Base/wiki/akkermansia-mechanisms\|akkermansia-mechanisms]]·[[Jay's Knowledge Base/wiki/gut-microbiome-and-disease\|gut-microbiome-and-disease]]
+
 ### *A. muciniphila*–FABP1 축 — L-노르류신을 통한 지방산 흡수 억제 (Li 2026, *PNAS*)
 
 장상피 지방산 결합 단백질(fatty acid-binding protein 1, FABP1)이 식이 지방산 흡수를 직접 촉진하며, 장내 미생물이 대사산물을 통해 FABP1 매개 흡수를 조절함을 규명한 연구 (Li et al., 2026, *PNAS*, [[Jay's Knowledge Base/raw/555-li-2026-akkermansia-muciniphiladerived-l-norleucine-modulates\|raw/555-li-2026-akkermansia-muciniphiladerived-l-norleucine-modulates]]).
@@ -181,6 +197,18 @@ Müller et al. (2022, *Nature Reviews Drug Discovery*, [[Jay's Knowledge Base/ra
 
 비만 약물 시장은 GLP-1R 단일 표적(semaglutide)에서 **GIPR 이중 표적**(tirzepatide: GIPR 작용; maridebart cafraglutide: GIPR 길항)으로 빠르게 분기 중. 두 정반대 방향이 모두 semaglutide 대비 강력한 추가 감량을 달성하는 **이중 표적 패러독스**가 핵심 미해결 쟁점이며, 시상하부·뇌간 회로 cross-talk·desensitization 비대칭이 후보 기전으로 제시된다. 본 리뷰는 약물 개발사·임상 의사·시장 분석에 차세대 incretin 약물의 효력 비교·작용 기전 통합 프레임을 제공 (Davies et al., *Annu. Rev. Nutr.* 2026, [[Jay's Knowledge Base/raw/537-davies-2026-the-paradox-and-future-of-glp-1gip-combination\|raw/537-davies-2026-the-paradox-and-future-of-glp-1gip-combination]]). 체성분 영향은 [[Jay's Knowledge Base/wiki/glp1-muscle-loss#GLP-1/GIP 이중 표적 — 차세대 incretin 약물 패러독스 (Davies 2026)\|glp1-muscle-loss 상세]] 참조.
 
+### GLP-1 너머 — Amylin 기반 차세대 비만 약물 (Fischer & Borner 2026, *Pharmacological Research*)
+
+비만 약물 지형이 GLP-1·GIP 축을 넘어 **아밀린(amylin)** 계열로 분기하고 있다. Fischer & Borner (2026, *Pharmacological Research*, [[Jay's Knowledge Base/raw/609-fischer-2026-beyond-glp-1-amylin-based-pharmacotherapy-and-the\|raw/609-fischer-2026-beyond-glp-1-amylin-based-pharmacotherapy-and-the]])는 **인크레틴 기반 치료와 구별되는 약리·신경 기전**을 갖는 아밀린 기반 약물요법을 종합 정리한다.
+
+- **아밀린 생리**: 췌장 β세포에서 **인슐린과 공동 분비**되는 호르몬으로, 식후 혈당 조절에 기여하고 **위 배출 지연·글루카곤 분비 억제**, 그리고 중추신경계 작용을 통한 **포만(satiation) 촉진**을 매개
+- **장기지속형 후보군**: 펩타이드 엔지니어링·**지질화(lipidation)**·**가역적 알부민 결합(reversible albumin binding)** 기술로 개발된 **cagrilintide · eloralintide · petrelintide · NN1213**
+- **수용체 선택성의 분기**: 선택적 **아밀린 수용체 작용제** ↔ **아밀린/칼시토닌 수용체 이중 작용제**로 갈리며 약동학적 특성도 상이. **칼시토닌 수용체 관여(calcitonin receptor engagement)·노출 동태(exposure kinetics)·하류 신경회로 동원**이 효능과 내약성을 함께 좌우
+- **핵심 쟁점 — 생리적 포만 vs 혐오 신호**: 섭취 감소가 **생리적 포만(physiological satiation)** 을 반영하는지 **혐오적 신호(aversive signaling)** 를 반영하는지가 계열의 성패를 가른다. **후뇌(hindbrain)·팔곁핵(parabrachial) 회로**, 종간 차이, 약동학적 노출이 오심·권태감(malaise)·구토를 좌우
+- **목표**: **체중 감량 효능과 위장관 불내성의 해리(dissociation)** — 즉 "더 잘 견디는(better-tolerated)" 차세대 항비만제의 합리적 설계
+
+**시사점**: (1) [[Jay's Knowledge Base/wiki/obesity-body-composition#GLP-1/GIP 이중 표적 약물의 진화 (Davies 2026)\|GLP-1/GIP 이중 표적]]과 경구 GLP-1RA(orforglipron·elecoglipron)에 이어 **아밀린이 제3의 약리 축**으로 부상 — 뒤집어 말하면 GLP-1 계열의 최빈 이상반응인 **위장관 부작용이 여전히 계열 경쟁의 핵심 미충족 수요**임을 보여준다. (2) 아밀린 계열의 **체성분(lean mass) 영향은 본 리뷰 범위에서 다뤄지지 않았으므로**, GLP-1 계열에서 정량화된 제지방량 손실(위 [[Jay's Knowledge Base/wiki/obesity-body-composition#GLP-1/이중 작용제의 DXA 체성분 효과 — 정량 메타분석 (Alaycı 2026)\|Alaycı 2026]], 제지방 −1.96 kg)이 아밀린에서도 재현되는지는 **미확인** — 근육 보존 companion의 적용 범위 판단에 필요한 데이터 공백이자, 아밀린 임상에서 DXA 체성분 종결점을 주시할 근거. (3) 위 [[Jay's Knowledge Base/wiki/obesity-body-composition#GLP-1 RA 감량의 섭취량 기여 정량화 — ad libitum 점심 −1132 kJ (Quan 2026)\|Quan 2026]]이 GLP-1 감량을 **섭취 억제**로 환원했듯, 아밀린 역시 **섭취 억제형(anorectic)** 경로에 속하므로 [[Jay's Knowledge Base/wiki/glp1-muscle-loss#감량 기전에 따른 근손실 위험의 분화 — 식욕억제형 vs 대사형\|식욕억제형 감량]]의 근손실 위험 논의가 그대로 적용될 가능성이 높다. cf. [[Jay's Knowledge Base/wiki/glp1-muscle-loss\|glp1-muscle-loss]]·[[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]]
+
 ### 경구 small-molecule GLP-1RA 파이프라인 확장 — Elecoglipron VISTA (Davies 2026, *Lancet*)
 
 경구 비펩타이드 GLP-1 작용제 계열이 orforglipron에 이어 빠르게 확장 중이다. **Elecoglipron**(경구 small-molecule GLP-1 수용체 작용제)은 비만·과체중 성인 대상 **다기관 phase 2 무작위·위약대조 임상 VISTA**에서 평가됐다 (M. J. Davies et al., 2026, *The Lancet*, [[Jay's Knowledge Base/raw/559-davies-2026-elecoglipron-an-oral-small-molecule-glp-1-receptor\|raw/559-davies-2026-elecoglipron-an-oral-small-molecule-glp-1-receptor]]). orforglipron(ATTAIN-MAINTAIN, Aronne 2026)과 함께 **주사 → 경구로의 GLP-1 치료 접근성 확대** 흐름을 보강하며, 경구·globally scalable 옵션이 늘수록 GLP-1 사용 인구의 절대 규모와 [[Jay's Knowledge Base/wiki/glp1-muscle-loss\|근손실 보존 companion]]의 잠재 환자 풀이 함께 커진다. (※ 이 Davies는 *Lancet* VISTA 논문으로, GLP-1/GIP 패러독스 종설의 Davies 2026 *Annu. Rev. Nutr.*([[Jay's Knowledge Base/raw/537-davies-2026-the-paradox-and-future-of-glp-1gip-combination\|raw/537-davies-2026-the-paradox-and-future-of-glp-1gip-combination]])와는 별개.)
@@ -210,6 +238,12 @@ UC San Diego Pritikin Intensive Cardiac Rehabilitation(ICR) 후향 코호트(n=4
 - **근감소성 비만(sarcopenic obesity) 자체**는 양성 모두에서 낙상과 독립적 연관 **없음**
 
 **시사점**: 단순 BMI보다 **체지방 분포·중심 비만 지표(PBF·C-index)**가 노인 낙상 위험을 더 잘 설명하며, 체성분-기능 결과의 연관이 **성별에 따라 비대칭**(남성=지방+근력, 여성=근육량)임을 보여줌 → 체성분 평가의 성별 층화 필요성 (cf. [[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]], [[Jay's Knowledge Base/wiki/glp1-muscle-loss\|glp1-muscle-loss]]).
+
+### 대사증후군과 체간근 단면적(CSA)의 10년 종단 변화 (Mano 2026) — 결과 미확보 · 모니터링
+
+**대사증후군(metabolic syndrome, MetS)과 10년 단위 근손실**의 관계를 대규모 근로 인구(working population)에서 검증한 종단 연구는 드물다. Mano et al. (2026, *Journal of Bone and Mineral Metabolism*, [[Jay's Knowledge Base/raw/616-mano-2026-the-impact-of-metabolic-syndrome-on-changes-in-trunk\|raw/616-mano-2026-the-impact-of-metabolic-syndrome-on-changes-in-trunk]])은 **MetS 관련 인자 및 호흡기 인자(respiratory factors)가 체간근(trunk muscle)의 변화에 미치는 영향**을 근로 인구에서 조사하는 것을 목적으로 설계된 **10년 종단 연구**로, 평가 지표는 **체간근 단면적(cross-sectional area, CSA)** 이다.
+
+**현재 상태**: 확보된 초록이 배경·목적 부분에 한정되어 **표본 크기·효과 크기·통계 결과는 결과 미확보 · 모니터링** 대상. 다만 설계 자체가 ① **근로 연령대의 장기(10년) 종단**, ② **BIA/DXA가 아닌 영상 기반 CSA 측정**, ③ **대사 인자 × 근육량**이라는 세 축을 결합한 드문 자료여서, 위 [[Jay's Knowledge Base/wiki/obesity-body-composition#중심 비만 지표·성별 차이와 낙상 위험 (Rho 2026, *Medicina*)\|Rho 2026]]의 단면 설계 한계를 보완하고 [[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]]의 **sarcopenic diabetes**(T2DM ↔ 근감소증 양방향 악순환) 논의에 종단 근거를 더할 잠재력이 있다. 본문 확인 후 보강 필요.
 
 ### PTER 억제 — N-acetyltaurine 포식억제 경로
 - PTER(phosphotriesterase-related)는 포식억제(anorexigenic) 대사체 N-acetyltaurine의 분해를 매개하는 amidohydrolase로, 기질 결합 포켓이 HDAC 계열과 구조적 유사성을 가진다는 것이 진핵 PTER 결정구조(apo/product-bound)에서 새롭게 규명됨
@@ -257,6 +291,9 @@ UC San Diego Pritikin Intensive Cardiac Rehabilitation(ICR) 후향 코호트(n=4
 - [[Jay's Knowledge Base/raw/325-calabrese-2008-neuroscience-and-hormesis-overview-and-general-fin\|raw/325-calabrese-2008-neuroscience-and-hormesis-overview-and-general-fin]] — 호르메시스 용량-반응(저용량 자극·고용량 억제)이 신경보호·신경돌기 성장·AD/PD/불안/통증/경련/뇌졸중 약물·행동약리학·중독약물·스트레스 생물학(Yerkes–Dodson)·p-당단백 유출 전반에서 흔하고 지배적이며, 생물학적 모델·종결점·화학물질 계열과 무관하게 일반화됨 — 「Akk → GDF15 → 근손실」 반박 ③hormesis의 일반 원리 근거 (Calabrese 2008, *Critical Reviews in Toxicology* 38(4):249–252)
 - [[Jay's Knowledge Base/raw/308-calabrese-2008-hormesis-and-medicine\|raw/308-calabrese-2008-hormesis-and-medicine]] — 호르메시스의 의학·임상약리학 일반 논의 (Calabrese 2008, *British Journal of Clinical Pharmacology*); 서지 정보만 확보(초록 미확보), 본문 확인 후 보강 필요
 - [[Jay's Knowledge Base/raw/597-zhuang-2026-enrichment-of-akkermansia-muciniphila-by-red-ginseng\|raw/597-zhuang-2026-enrichment-of-akkermansia-muciniphila-by-red-ginseng]] — 홍삼(RGS) 단기 투여가 *A. muciniphila* 농축 → 균 유래 **Amuc_1631** → **GDF15** 분비 → **뇌간 GFRAL** 경로로 식욕 억제·체중 감소(항생제 고갈 시 소실·FMT 전달·Gfral⁻/⁻ 소실), 결장 *Gdf15*는 PERK–eIF2α–ATF4–CHOP 축 상향, 활성 분획 RGS/50 (*Phytomedicine* 2026)
+- [[Jay's Knowledge Base/raw/609-fischer-2026-beyond-glp-1-amylin-based-pharmacotherapy-and-the\|raw/609-fischer-2026-beyond-glp-1-amylin-based-pharmacotherapy-and-the]] — **아밀린(amylin) 기반 차세대 항비만 약물** 종설: 인크레틴과 구별되는 약리·신경 기전, 장기지속형 후보 **cagrilintide·eloralintide·petrelintide·NN1213**(지질화·가역적 알부민 결합), 선택적 아밀린 수용체 작용제 vs 아밀린/칼시토닌 이중 작용제, 후뇌·팔곁핵 회로와 오심·권태·구토, **감량 효능과 위장관 불내성의 해리**가 설계 목표 (*Pharmacological Research* 2026)
+- [[Jay's Knowledge Base/raw/611-jang-2026-the-heat-killed-bacteria-consortium-containing\|raw/611-jang-2026-the-heat-killed-bacteria-consortium-containing]] — **사균(heat-killed) *A. muciniphila* + *Bacteroides vulgatus* 컨소시엄**, HFD 비만 마우스 **1 × 10¹⁰ cells/day × 10주**: **섭취량 변화 없이** 체중 증가·지방량 감소, 장내 미생물 조성 및 장 장벽 무결성 개선, **간 지방증·지방세포 비대 유의 완화**, 포도당 항상성 개선 — 생균 뮤신 분해균의 점액층 분해 우려를 회피하는 **gut–liver–adipose 축** 전략 (*Scientific Reports* 2026)
+- [[Jay's Knowledge Base/raw/616-mano-2026-the-impact-of-metabolic-syndrome-on-changes-in-trunk\|raw/616-mano-2026-the-impact-of-metabolic-syndrome-on-changes-in-trunk]] — 대사증후군 관련 인자·호흡기 인자가 근로 인구의 **체간근 단면적(CSA)** 변화에 미치는 영향, **10년 종단 연구** (*J. Bone Miner. Metab.* 2026) — 초록 배경·목적만 확보, **결과 미확보 · 모니터링**
 
 ---
 
