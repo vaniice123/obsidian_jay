@@ -38,6 +38,7 @@
 - **선천면역**: 미세아교세포 활성화, 호중구 기능, 수지상세포 조절
 - **적응면역**: 조절 T세포(Treg), IL-17A, B세포 반응
 - **장벽 기능**: 혈뇌장벽(BBB) 완전성, 장 투과성 조절
+- **장상피 신호전달**: 장 상피의 **AMPK/SIRT1** 축이 **Th17/Treg 균형**과 IL-10 신호에 연결되는 상류(upstream) 조절 지점으로 제시됨 (허혈성 뇌졸중 모델, Zheng, *Immunology*) — 아래 별도 섹션
 
 ## 관련 질환
 
@@ -49,6 +50,9 @@
 ### 신경발달장애
 - **자폐스펙트럼장애(ASD)**: 염증 증가, 면역 활성화
 - **ADHD**: 도파민 대사 세균 변화
+
+### 급성 뇌혈관 손상
+- **허혈성 뇌졸중**: 급성기에 뚜렷한 **말초·중추 면역 불균형**이 동반되며, **Th17/Treg 축**의 교란이 신경염증 악화와 이차 손상(secondary injury)의 중요한 동인으로 간주된다. tMCAO 마우스 모델에서 ***A. muciniphila*(AKK) 투여가 장상피 AMPK/SIRT1 신호 활성화·Th17 감소·Treg 증가·IL-10 신호 증강과 연관**되고, 장벽 무결성 보호·경색 부피 감소·신경기능 개선으로 이어졌다 (Zheng, *Immunology*) — 아래 별도 섹션
 
 ### 신경퇴행성 질환
 - **파킨슨병**: α-시누클레인이 미주신경 경유 수송, Prevotella 감소, **GBA1 변이 비발현 보유자(GBA-NMC)에서 PD 중간 microbiome signature 확인 (Menozzi 2026, Nature Medicine)** — 아래 별도 섹션. Radisavljevic의 종합 정리는 장내 미생물 변화가 PD 병태생리(α-시누클레인 응집, 장 염증, 미주신경 전파)에 기여하는 경로를 개관한다 ([[Jay's Knowledge Base/raw/38-radisavljevic-the-role-of-gut-microbiota-in-parkinsons-disea\|raw/38-radisavljevic-the-role-of-gut-microbiota-in-parkinsons-disea]])
@@ -131,6 +135,31 @@ GBA1 변이는 파킨슨병(PD)의 **가장 흔한 유전적 위험인자**(최�
 
 **의의**: ① 미생물이 신경전달물질이 아니라 **숙주 호르몬(GDF15)을 매개로 뇌간 회로를 원격 조절**하는 경로다. 위 AmEV–해마 경로(Chen 2026)가 **인지·정서 축**이라면, 이쪽은 **섭식 행동(feeding behavior) 축**으로 장-뇌 축의 출력 스펙트럼을 넓힌다. ② GDF15–GFRAL은 차세대 비만 신약의 주요 표적이므로, **미생물 조절과 약리적 개입이 동일 회로로 수렴**함을 보여준다. ③ 단 GDF15는 암 악액질에서 식욕부진·근소모를 매개하는 인자이기도 해, 근육 보존을 목표로 하는 맥락에서는 [[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]]·[[Jay's Knowledge Base/wiki/gut-muscle-axis\|gut-muscle-axis]]와의 상충을 별도 검토해야 한다. 기전 상세 [[Jay's Knowledge Base/wiki/akkermansia-mechanisms\|akkermansia-mechanisms]], 대사 표현형 [[Jay's Knowledge Base/wiki/obesity-body-composition\|obesity-body-composition]].
 
+## 허혈성 뇌졸중 — 장상피 AMPK/SIRT1과 *A. muciniphila* 연관 Th17/Treg 리모델링 (Zheng, *Immunology*)
+
+앞선 항목들이 **만성·퇴행성** 뇌 병태를 다뤘다면, 이 연구는 장-뇌 축을 **급성 뇌혈관 손상**으로 확장한다. 급성 허혈성 뇌졸중은 뚜렷한 말초·중추 면역 불균형을 동반하고 그중 **Th17/Treg 축**의 교란이 신경염증 악화와 이차 손상의 중요한 동인으로 간주되어 왔으나, **개입 가능한 상류 조절 경로**는 불명확했다. Zheng et al. (*Immunology*, DOI 10.1111/imm.70191, [[Jay's Knowledge Base/raw/632-zheng-unknown-gut-epithelial-ampksirt1-signalling-is-associated-with\|raw/632-zheng-unknown-gut-epithelial-ampksirt1-signalling-is-associated-with]])은 프로바이오틱 ***A. muciniphila*(AKK)** 가 **장 상피 신호전달**에 영향을 주어 뇌졸중 후 면역 리모델링·신경보호와 연결될 수 있다는 가설을 검증했다.
+
+### 핵심 설계
+- **tMCAO**(일과성 중대뇌동맥 폐색) 마우스 모델 + **AKK 중재**
+- **SIRT1 억제**, **IL-17 결핍** 조건, **IL-17 중화/구제(rescue)** 실험을 조합해 경로 기여도를 분해
+- 장벽 무결성 · 말초 및 중추 면역반응 · 신경학적 손상을 체계적으로 평가
+- Th17/Treg 축의 **단일세포 전사체(single-cell transcriptomics) 및 ATAC-seq** 분석
+- 인체·마우스 **장상피–T세포 공배양계**와 신경세포 **OGD(산소-포도당 결핍)** 모델로 기능적 기전 검증
+
+### 주요 발견
+- AKK는 **AMPK/SIRT1 신호 활성화**, **Th17 비율 감소**, **Treg 증가**, **IL-17 관련 염증반응 억제**, **IL-10 신호 증강**과 연관되었고, 이를 통해 **전신 및 뇌내 염증환경이 개선**되었다
+- 신경세포 OGD 모델에서 **IL-17 중화 단독은 부분적 보호**, **AKK + IL-17 차단 병용은 신경보호를 더욱 증강**, **재조합 IL-17 구제는 AKK의 보호효과를 약화시켰으나 완전히 규정하지는 못함** → IL-17 신호는 **배타적 경로가 아니라 하나의 중요한 구성요소**
+- AKK는 **장벽 무결성을 보호**했고, **경색 부피를 감소**시켰으며 **신경기능을 개선**했다
+- 결론: 장상피 **AMPK/SIRT1 연관 면역조절 네트워크**가 기여하며, 그 안에서 AKK가 **장-면역-뇌 축(gut-immune-brain axis)** 을 통해 Th17/Treg 면역 리모델링 및 뇌졸중 후 신경염증 감소와 연결된다
+
+### 시사점
+- **적응증 확장 축**: 위 [[Jay's Knowledge Base/wiki/akkermansia-indications-applications\|akkermansia-indications-applications]]가 대사·염증성 장질환·인지 영역에 집중돼 있었다면, 본 연구는 AKK를 **급성 허혈성 뇌손상/신경보호** 영역의 후보로 제시한다. 경색 부피·신경기능이라는 **하드 엔드포인트** 수준의 지표가 함께 개선된 점이 특징
+- **새로운 기전 진입점**: 기존 AKK 기전 논의가 Amuc_1100·SCFA·EV 중심이었던 데 반해, 여기서는 **장 상피의 AMPK/SIRT1 → Th17/Treg → IL-17/IL-10**이라는 **면역 축**이 전면에 나온다. 기전 정리는 [[Jay's Knowledge Base/wiki/akkermansia-mechanisms\|akkermansia-mechanisms]], 균주 개요는 [[Jay's Knowledge Base/wiki/akkermansia-muciniphila\|akkermansia-muciniphila]] 참조
+- **표적 조합 가능성**: AKK와 IL-17 차단의 **병용에서 신경보호가 증강**된 관찰은 프로바이오틱–면역조절제 병용 설계의 근거가 될 수 있다
+- **한계**: 어디까지나 **마우스 tMCAO 모델 + in vitro 공배양/OGD** 수준의 전임상 근거이며, 인체 적용 가능성·용량·투여 시점(급성기 vs 예방)은 검증되지 않았다. 연도 미상(저널 게재 정보 기준 *Immunology*, DOI 10.1111/imm.70191)
+
+> ⚠️ **서술 주의**: 원 초록은 시종일관 "associated with", "linked to" 등 **연관(association) 표현**을 신중하게 사용한다. 위 내용도 **인과가 확정된 것이 아니라 연관 및 기여(contributory)** 수준으로 읽어야 한다.
+
 ## 뇌-장-근육 축(Brain-Gut-Muscle Axis)
 
 뇌-장-근육 축(brain-gut-muscle axis)은 골격근, 장내 미생물, 뇌를 연결하는 삼방향 조절 네트워크로, 뇌 건강 유지와 노화 대응에 핵심적 역할을 한다 (Sun et al., 2026).
@@ -151,4 +180,4 @@ GBA1 변이는 파킨슨병(PD)의 **가장 흔한 유전적 위험인자**(최�
 - 일주기 생물학(circadian biology)과의 교차 연구
 - 개인별 면역 프로파일에 기반한 정밀의학
 
-**출처**: [[Jay's Knowledge Base/raw/03-gut-immune-brain-axis\|raw/03-gut-immune-brain-axis]], [[Jay's Knowledge Base/raw/304-sun-unknown-the-brain-gut-muscle-axis-a-mechanism-for-exercise-mediated\|raw/304-sun-unknown-the-brain-gut-muscle-axis-a-mechanism-for-exercise-mediated]], [[Jay's Knowledge Base/raw/487-cox-2026-intestinal-interoceptive-dysfunction-drives-age-associated-cognitive-decline\|raw/487-cox-2026-intestinal-interoceptive-dysfunction-drives-age-associated-cognitive-decline]], [[Jay's Knowledge Base/raw/516-menozzi-2026-microbiome-signature-of-parkinsons-disease-in-healthy\|raw/516-menozzi-2026-microbiome-signature-of-parkinsons-disease-in-healthy]], [[Jay's Knowledge Base/raw/20-2026-brain-gut-muscle-axis-exercise-brain-aging\|raw/20-2026-brain-gut-muscle-axis-exercise-brain-aging]] (뇌-장-근육 3축: 운동 매개 뇌 노화 보호), [[Jay's Knowledge Base/raw/38-radisavljevic-the-role-of-gut-microbiota-in-parkinsons-disea\|raw/38-radisavljevic-the-role-of-gut-microbiota-in-parkinsons-disea]] (장내 미생물의 파킨슨병 역할 개관), [[Jay's Knowledge Base/raw/60-anderson-2023-a-more-holistic-perspective-of-alzheimers-dise\|raw/60-anderson-2023-a-more-holistic-perspective-of-alzheimers-dise]] (알츠하이머병의 통합적 병태생리: 미생물·지방세포·HPA·멜라토닌·성상교세포), [[Jay's Knowledge Base/raw/123-mottawea-2024-multi-level-analysis-of-gut-microbiome-extrace\|raw/123-mottawea-2024-multi-level-analysis-of-gut-microbiome-extrace]] (미생물 세포외소포–숙주 상호작용과 장-뇌 축 신호), [[Jay's Knowledge Base/raw/174-kim-2024-alterations-in-gut-microbiota-and-their-correlation\|raw/174-kim-2024-alterations-in-gut-microbiota-and-their-correlation]] (MCI/AD 환자 장내 미생물 변화와 뇌 베타아밀로이드 PET 상관), [[Jay's Knowledge Base/raw/532-li-2026-akkermansia-muciniphila-and-alzheimers-disease\|raw/532-li-2026-akkermansia-muciniphila-and-alzheimers-disease]] (*A. muciniphila*와 알츠하이머병: 기전·전임상·번역 잠재력 종설, SCFA·Amuc_1100·AmEV 매개, 임상 근거 제한), [[Jay's Knowledge Base/raw/536-chen-2026-akkermansia-muciniphila-derived-extracellular-vesicles\|raw/536-chen-2026-akkermansia-muciniphila-derived-extracellular-vesicles]] (AmEV가 DSS-UC 마우스의 인지장애를 트립토판/5-HT 양방향 재프로그래밍·Amuc_1100 해마 전달로 회복, *Gut Microbes* 2026), [[Jay's Knowledge Base/raw/597-zhuang-2026-enrichment-of-akkermansia-muciniphila-by-red-ginseng\|raw/597-zhuang-2026-enrichment-of-akkermansia-muciniphila-by-red-ginseng]] (홍삼 → *A. muciniphila* 농축 → Amuc_1631 → GDF15 → 뇌간 GFRAL 경로로 식욕 억제: 미생물이 숙주 호르몬을 매개로 뇌간 섭식 회로를 원격 조절, Gfral⁻/⁻에서 효과 소실, *Phytomedicine* 2026)
+**출처**: [[Jay's Knowledge Base/raw/03-gut-immune-brain-axis\|raw/03-gut-immune-brain-axis]], [[Jay's Knowledge Base/raw/304-sun-unknown-the-brain-gut-muscle-axis-a-mechanism-for-exercise-mediated\|raw/304-sun-unknown-the-brain-gut-muscle-axis-a-mechanism-for-exercise-mediated]], [[Jay's Knowledge Base/raw/487-cox-2026-intestinal-interoceptive-dysfunction-drives-age-associated-cognitive-decline\|raw/487-cox-2026-intestinal-interoceptive-dysfunction-drives-age-associated-cognitive-decline]], [[Jay's Knowledge Base/raw/516-menozzi-2026-microbiome-signature-of-parkinsons-disease-in-healthy\|raw/516-menozzi-2026-microbiome-signature-of-parkinsons-disease-in-healthy]], [[Jay's Knowledge Base/raw/20-2026-brain-gut-muscle-axis-exercise-brain-aging\|raw/20-2026-brain-gut-muscle-axis-exercise-brain-aging]] (뇌-장-근육 3축: 운동 매개 뇌 노화 보호), [[Jay's Knowledge Base/raw/38-radisavljevic-the-role-of-gut-microbiota-in-parkinsons-disea\|raw/38-radisavljevic-the-role-of-gut-microbiota-in-parkinsons-disea]] (장내 미생물의 파킨슨병 역할 개관), [[Jay's Knowledge Base/raw/60-anderson-2023-a-more-holistic-perspective-of-alzheimers-dise\|raw/60-anderson-2023-a-more-holistic-perspective-of-alzheimers-dise]] (알츠하이머병의 통합적 병태생리: 미생물·지방세포·HPA·멜라토닌·성상교세포), [[Jay's Knowledge Base/raw/123-mottawea-2024-multi-level-analysis-of-gut-microbiome-extrace\|raw/123-mottawea-2024-multi-level-analysis-of-gut-microbiome-extrace]] (미생물 세포외소포–숙주 상호작용과 장-뇌 축 신호), [[Jay's Knowledge Base/raw/174-kim-2024-alterations-in-gut-microbiota-and-their-correlation\|raw/174-kim-2024-alterations-in-gut-microbiota-and-their-correlation]] (MCI/AD 환자 장내 미생물 변화와 뇌 베타아밀로이드 PET 상관), [[Jay's Knowledge Base/raw/532-li-2026-akkermansia-muciniphila-and-alzheimers-disease\|raw/532-li-2026-akkermansia-muciniphila-and-alzheimers-disease]] (*A. muciniphila*와 알츠하이머병: 기전·전임상·번역 잠재력 종설, SCFA·Amuc_1100·AmEV 매개, 임상 근거 제한), [[Jay's Knowledge Base/raw/536-chen-2026-akkermansia-muciniphila-derived-extracellular-vesicles\|raw/536-chen-2026-akkermansia-muciniphila-derived-extracellular-vesicles]] (AmEV가 DSS-UC 마우스의 인지장애를 트립토판/5-HT 양방향 재프로그래밍·Amuc_1100 해마 전달로 회복, *Gut Microbes* 2026), [[Jay's Knowledge Base/raw/597-zhuang-2026-enrichment-of-akkermansia-muciniphila-by-red-ginseng\|raw/597-zhuang-2026-enrichment-of-akkermansia-muciniphila-by-red-ginseng]] (홍삼 → *A. muciniphila* 농축 → Amuc_1631 → GDF15 → 뇌간 GFRAL 경로로 식욕 억제: 미생물이 숙주 호르몬을 매개로 뇌간 섭식 회로를 원격 조절, Gfral⁻/⁻에서 효과 소실, *Phytomedicine* 2026), [[Jay's Knowledge Base/raw/632-zheng-unknown-gut-epithelial-ampksirt1-signalling-is-associated-with\|raw/632-zheng-unknown-gut-epithelial-ampksirt1-signalling-is-associated-with]] (허혈성 뇌졸중: 장상피 AMPK/SIRT1 신호가 *A. muciniphila* 연관 Th17/Treg 리모델링·IL-10 증강·경색 부피 감소와 연관, IL-17은 배타적 경로가 아닌 한 구성요소, tMCAO 마우스 모델, *Immunology*)

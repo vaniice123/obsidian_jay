@@ -132,6 +132,7 @@ ActRII 차단 항체·15-PGDH 억제제 같은 약리적 축과 나란히, **「
 | 단백질 적정성(protein adequacy) | Prokopidis 2026, *Advances in Therapy* | 절대 단백질 섭취량 → 근량·근력·신체수행 | 종설 — 직접 시험 근거 부족 |
 | 정밀영양(precision nutrition) | Ruga 2026, *Pharmaceuticals* | 제지방 보존·미량영양소·마이크로바이오타·위장관 증상·순응도 | 종설 — 대부분 간접 근거 |
 | 운동 처방(exercise prescription) | Świerczek 2026, *Quality in Sport* / Jennings 2026 ICR 코호트 | 악력·보행속도·VO₂max·SMM | 서술적 종설 + 후향 코호트 |
+| 다중 중재 병용(multimodal) | Mendias 2026, *Obesity Pillars* | LBM·SMM·악력·HbA1c·hs-CRP·PROMIS | 후향 케이스 시리즈 — 비대조, 성분별 귀속 불가 |
 
 ### 단백질 섭취 부족과 이차성 근감소증 (Prokopidis 2026)
 
@@ -189,6 +190,27 @@ ActRII 차단 항체·15-PGDH 억제제 같은 약리적 축과 나란히, **「
 2. **인구 층화** — 활동적·젊은 인구에서의 「기능 보존」 결과를 **좌식 고령자·근감소증 위험군에 외삽해서는 안 된다**. 오히려 companion(ActRII 차단·포스트바이오틱·단백질·운동)의 한계 효용은 **운동을 하지 않는 인구에서 가장 크다**는 [[Jay's Knowledge Base/wiki/glp1-muscle-loss#구조화된 운동·재활 통합 — Pritikin ICR 코호트 (Jennings 2026)\|Jennings 2026]]의 segmentation 논리를 재확인한다.
 3. **근질량 손실 자체를 방치해도 되는가** — 단기 기능이 보존되더라도 근량은 대사 예비력(metabolic reserve)이며, 반복적 on-off 사이클에서 누적 소실은 장기 [[Jay's Knowledge Base/wiki/sarcopenia\|근감소증]] 위험으로 되돌아온다. 해리는 **안심의 근거가 아니라 시간 지평(time horizon)의 문제**로 읽어야 한다.
 
+### 다중 중재 병용의 실사용 관찰 — tirzepatide + 테스토스테론 + 운동·영양 (Mendias 2026)
+
+Mendias & Awan (2026, *Obesity Pillars*, DOI 10.1016/j.obpill.2026.100317, [[Jay's Knowledge Base/raw/629-mendias-2026-increasing-skeletal-muscle-mass-and-strength-during\|raw/629-mendias-2026-increasing-skeletal-muscle-mass-and-strength-during]])은 비만·테스토스테론 결핍 증상·아침 총 테스토스테론 **<400 ng/dL** 남성 **93명**(T2DM 동반 45명 / 비동반 48명)을 단일 외래 클리닉에서 분석한 **후향적 케이스 시리즈**다. 중재는 **주 1회 tirzepatide + 테스토스테론 시피오네이트 근주 + 저항운동·단백질 섭취 중심 생활습관 코칭**이며, 다주파수 생체전기임피던스(BIA)로 체성분을, 악력계(dynamometry)로 악력을 기저·3·6·12개월에 측정했다.
+
+| 결과변수 (12개월) | 변화 |
+|---|---|
+| 체중 | **−20.9~22.6 kg (18~20%)** |
+| 지방량 | **−16.6~17.1 kg (38~40%)** |
+| 제지방량(LBM) | **−4.0~6.1 kg** |
+| BIA 유래 골격근량(SMM) | **+1.6~3.7 kg (4~12%)** |
+| 악력 | **+5.7~7.1 kg (18~21%)** |
+| HbA1c (T2DM군) | **10.1% → 5.8%** |
+| LDL-C | **−20%** |
+| hs-CRP | **−43~53%** |
+| PROMIS 신체·정신 건강 점수 | **+13~16%** |
+
+- **핵심 관찰**: **LBM은 순감소했는데 SMM과 악력은 오히려 증가**했다. 저자들은 이를 골격근 대비 **비근육 제지방 조직(non-muscle lean tissue)의 불균형한 소실**을 반영하는 것으로 해석한다.
+- ⚠️ **한계**: 저자들 스스로 **비대조·다중요소(uncontrolled multimodal) 설계상 개별 구성요소로 결과를 귀속할 수 없다**고 명시했다. tirzepatide·테스토스테론·저항운동·단백질 중 무엇이 기여했는지 분리 불가하며, 대상이 **테스토스테론 결핍 남성**으로 한정되어 일반화도 제한된다. BIA는 DXA보다 체성분 정밀도가 낮다.
+
+**시사점 — 「LBM 감소 = 근손실」 등치의 위험**: 이는 위 「[[Jay's Knowledge Base/wiki/glp1-muscle-loss#근질량 감소 vs 근기능 보존의 해리 (Świerczek 2026)\|질량–기능 해리]]」의 실사용(real-world) 사례인 동시에, **LBM이라는 노출 지표 자체의 오측정** 문제를 드러낸다. DXA/BIA의 lean mass는 근육이 아니라 장기·결합조직·체액을 포함한 비근육 제지방까지 합산하므로, LBM 감소분을 그대로 근손실로 읽으면 **과대 추정**된다. Oh et al. (2026, *Ageing Research Reviews*, [[Jay's Knowledge Base/raw/630-oh-2026-the-force-producing-fraction-muscle-quality-as-a\|raw/630-oh-2026-the-force-producing-fraction-muscle-quality-as-a]])은 이를 **「노출의 오측정 — DXA lean mass는 근육이 아니다」** 로 정식화하고, 나아가 **보행속도·SPPB의 최소검출변화량(MDC)이 그 자신의 임상적 유의 변화 합의 기준을 초과한다**는 **「결과의 오측정」** 문제까지 지적하며 **질량 매칭(mass-matched) 시험 설계**를 제안했다. 즉 companion 후보물의 임상 설계에서는 **근량 지표와 기능 지표가 모두 측정 특성의 한계를 안고 있음**을 전제해야 하며, 단일 지표 개선만으로 규제·임상적 설득력을 확보하기 어렵다 (상세 [[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]]·[[Jay's Knowledge Base/wiki/gut-muscle-axis\|gut-muscle-axis]])
+
 ---
 
 ## GLP-1 Companion 서플리먼트 시장
@@ -209,6 +231,7 @@ GLP-1RA **부작용 연구 자체가 빠르게 성장** 중. Scopus 기반 서�
 - 현재 companion 제품은 프로틴(43%), 소화 건강(프로바이오틱) 순
 - Walmart "GLP-1 Support" 카테고리 신설, Nature Made GLP-1 Companion Health Pack 출시
 - **"체중 감량의 질(quality of weight loss)"** 이 새로운 경쟁 축으로 확립
+- **제네릭 진입 → 잠재 환자 풀 확대 (Lang 2026, *BMJ*)**: 초기 특허가 만료되며 제네릭 GLP-1이 시장에 진입 중이다. **인도에서만 50개 이상 기업**이 semaglutide 생산에 관여하는 것으로 추정되며(바이알 공급·맞춤 펜·Novo Nordisk 생산분 협업 등 형태가 갈림), 가격은 **바이알 < 펜 < Novo 생산 펜 < wraparound 케어 패키지 동반** 순으로 차등화된다(wraparound = 영양 지도·구조화된 신체활동·행동 상담·정기 점검 등 부가 서비스). 전문가들은 **접근이 배급(rationing)되던 NHS 같은 체계에서 제네릭이 접근성을 넓힐 수 있다**고 보며, 이는 그간 사보험·자비 부담 여부로 갈렸던 접근 불평등을 완화할 여지가 있다. companion 시장에는 두 방향으로 작용한다 — ① **잠재 사용자 풀 확대**(경구 GLP-1 확장과 동일 방향), ② 약가 하락으로 지출 여력이 **wraparound 서비스와 companion 제품 쪽으로 이동**할 여지 ([[Jay's Knowledge Base/raw/628-lang-2026-what-the-age-of-glp-1-generics-will-mean\|raw/628-lang-2026-what-the-age-of-glp-1-generics-will-mean]], *BMJ* 2026)
 
 ### 마이크로바이옴 기반 companion 접근
 
@@ -375,6 +398,7 @@ Eli Lilly의 **orforglipron** (경구·1일 1회·비펩타이드 GLP-1 작용�
 - `raw/14-hb05p-glp1-companion-strategic-positioning` (내부 문서, 비공개)
 - [[Jay's Knowledge Base/raw/295-heymsfield-2026-bimagrumab-plus-semaglutide-alone-or-in-combination-for-the\|raw/295-heymsfield-2026-bimagrumab-plus-semaglutide-alone-or-in-combination-for-the]]
 - [[Jay's Knowledge Base/raw/476-bayer-2026-eli-lilly-centessa-orexin-acquisition\|raw/476-bayer-2026-eli-lilly-centessa-orexin-acquisition]]
+- [[Jay's Knowledge Base/raw/628-lang-2026-what-the-age-of-glp-1-generics-will-mean\|raw/628-lang-2026-what-the-age-of-glp-1-generics-will-mean]] — GLP-1 제네릭 시대의 시장·접근성 전망 (Lang, *BMJ* 2026, DOI 10.1136/bmj-2026-100748): 인도 50개 이상 기업의 semaglutide 생산 추정, 바이알/펜/wraparound 케어 패키지별 가격 차등, NHS 배급 완화 및 접근 불평등 시사 — **companion 잠재 환자 풀 확대 요인**
 - [[Jay's Knowledge Base/raw/478-sharma-2026-dr-reddys-beyond-the-pill-semaglutide\|raw/478-sharma-2026-dr-reddys-beyond-the-pill-semaglutide]]
 - [[Jay's Knowledge Base/raw/479-park-2026-samsung-biologics-glp1-cdmo-expansion\|raw/479-park-2026-samsung-biologics-glp1-cdmo-expansion]]
 - [[Jay's Knowledge Base/raw/489-fu-2026-a-small-molecule-pter-selective-inhibitor-reduces-food\|raw/489-fu-2026-a-small-molecule-pter-selective-inhibitor-reduces-food]] — PTER 선택적 억제제 PTERi, GLP1-RA 병용 강화 및 중단 후 반등 방지
@@ -401,11 +425,13 @@ Eli Lilly의 **orforglipron** (경구·1일 1회·비펩타이드 GLP-1 작용�
 - [[Jay's Knowledge Base/raw/619-ruga-2026-integrating-precision-nutrition-with-glp-1-receptor\|raw/619-ruga-2026-integrating-precision-nutrition-with-glp-1-receptor]] — 정밀영양(precision nutrition)과 GLP-1 RA 치료의 통합: 기전·임상 결과·약물경제학 종설 (*Pharmaceuticals* 2026, 19(8):1230, DOI 10.3390/ph19081230). 단백질 최적화(제지방 보존)·미량영양소 충분성·**마이크로바이오타 조절**·항염 식이·위장관 증상 관리 5개 도메인 + nutrigenomics·metabolomics·microbiome 층화·디지털 헬스·AI 기반 **약물대사적 개인화**. ⚠️ 통합 전략의 전향적 임상시험 직접 근거는 제한적, 대부분 간접 근거
 - [[Jay's Knowledge Base/raw/622-świerczek-2026-glp-1-ras-and-muscle-function-outcomes-in-active\|raw/622-świerczek-2026-glp-1-ras-and-muscle-function-outcomes-in-active]] — 활동적 성인·레크리에이션 운동선수에서 GLP-1 RA와 **근기능** 결과 서술적 종설 (*Quality in Sport* 2026, DOI 10.12775/QS.2026.66.73870, PubMed·EMBASE·Cochrane 2019–2026): 골격근량은 일관되게 감소하나 **악력 보존~경미한 감소, 보행속도 대체로 무영향, VO₂max는 운동 병행 시 개선** — **근질량 감소와 근기능 보존의 해리(dissociation)**. 운동 처방의 약물요법 통합 권고, 활동적 인구 과소대표·전용 RCT 필요
 
+- [[Jay's Knowledge Base/raw/629-mendias-2026-increasing-skeletal-muscle-mass-and-strength-during\|raw/629-mendias-2026-increasing-skeletal-muscle-mass-and-strength-during]] — incretin 기반 감량 중 골격근량·근력 증가 후향 케이스 시리즈 (Mendias & Awan, *Obesity Pillars* 2026, DOI 10.1016/j.obpill.2026.100317): 테스토스테론 결핍 비만 남성 93명에 **주 1회 tirzepatide + 테스토스테론 시피오네이트 + 저항운동·단백질 코칭** 12개월 — 체중 −20.9~22.6 kg·지방 −16.6~17.1 kg·**LBM −4.0~6.1 kg인데 BIA SMM +1.6~3.7 kg·악력 +5.7~7.1 kg**, HbA1c 10.1→5.8%(T2DM군), hs-CRP −43~53%. 저자 해석은 **비근육 제지방의 불균형 소실**. ⚠️ 비대조·다중요소 설계로 성분별 귀속 불가, BIA 정밀도 한계
 ### 모니터링 중 (초록 미확보)
 - [[Jay's Knowledge Base/raw/610-gonzalez-rellan-2026-weight-loss-independent-actions-of-glp-1-medicines\|raw/610-gonzalez-rellan-2026-weight-loss-independent-actions-of-glp-1-medicines]] — GLP-1 계열 약물의 체중감소 비의존적(weight-loss-independent) 작용 (Gonzalez-Rellan & Drucker, *Cell Metabolism* 2026, DOI 10.1016/j.cmet.2026.07.006). **초록 미확보 · 모니터링** — 서지사항만 확보, 내용 인용 불가
 - [[Jay's Knowledge Base/raw/615-maltese-2026-reappraisal-of-glp-1-receptor-agonists-in-older-adults\|raw/615-maltese-2026-reappraisal-of-glp-1-receptor-agonists-in-older-adults]] — 고령자에서의 GLP-1 수용체 작용제 재평가 (Maltese, Koufakis & Popovic, *Trends in Endocrinology & Metabolism* 2026, DOI 10.1016/j.tem.2026.07.009). **초록 미확보 · 모니터링** — 서지사항만 확보, 내용 인용 불가
 
 ### ActRII / SMAD2/3 기전 — primary literature
+- [[Jay's Knowledge Base/raw/630-oh-2026-the-force-producing-fraction-muscle-quality-as-a\|raw/630-oh-2026-the-force-producing-fraction-muscle-quality-as-a]] — **근질(muscle quality) = 힘 생산 분율**을 근감소증 치료 표적으로 재정의한 종설 (Oh, Ku & Oh, *Ageing Research Reviews* 2026, DOI 10.1016/j.arr.2026.103349): 노화가 저하시키는 4개 속성(**신경지배·대사 능력·재생 능력·근내지방**)에 모든 치료 계열을 매핑 — **동화 약제는 어느 축도 건드리지 못하고**, 질 축을 건드리는 계열도 하나씩만 건드림. 신경지배 갭의 두 반증: **가용성 ActRIIB의 탈신경 근육 보호 실패**, **follistatin 과발현의 운동단위 소실·NMJ 전달 회복 실패**(운동 단독 대비). 임상 실패의 세 설명(노출 오측정=DXA lean mass는 근육이 아님 / 결과 오측정=보행속도·SPPB의 MDC가 자체 임상 유의 기준 초과 / 진짜 탈동조 생물학)과 **질량 매칭 시험 설계** 제안, 15-PGDH 억제 평가. ⚠️ **ActRII 차단 전략에 대한 직접 반론 근거**
 - [[Jay's Knowledge Base/raw/492-inman-2002-sb-431542-is-a-potent-and-specific-inhibitor-of\|raw/492-inman-2002-sb-431542-is-a-potent-and-specific-inhibitor-of]] — SB-431542 (ALK4/5/7 선택적 저해제)
 - [[Jay's Knowledge Base/raw/494-lach-trifilieff-2014-an-antibody-blocking-activin-type-ii-receptors-induces\|raw/494-lach-trifilieff-2014-an-antibody-blocking-activin-type-ii-receptors-induces]] — **BYM338(bimagrumab) 기반 논문**
 - [[Jay's Knowledge Base/raw/496-langley-2002-myostatin-inhibits-myoblast-differentiation-by-down\|raw/496-langley-2002-myostatin-inhibits-myoblast-differentiation-by-down]] — Myostatin·Smad3·MyoD
