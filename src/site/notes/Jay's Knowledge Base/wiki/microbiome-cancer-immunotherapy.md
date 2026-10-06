@@ -31,7 +31,7 @@
 - **비타민 D와 미생물 시너지**: 비타민 D가 장내 미생물을 매개로 면역치료 반응을 개선할 가능성 (Franco et al., 2024)
 - **Sodium butyrate + 화학항암제 병용**: 부티르산나트륨이 옥살리플라틴(oxaliplatin)과 시너지 효과를 보임 (Shuwen et al., 2023)
 - **신바이오틱스에 의한 항암화학요법 부작용 완화**: 식도암 환자의 신보강 항암화학요법(neoadjuvant chemotherapy) 후향적 탐색 연구에서, 신바이오틱스(synbiotics) 투여군은 항암제 부작용(adverse events)이 경감되었으며 이 완화 효과가 특정 장내 미생물 조성과 연관됨이 관찰됨 — 미생물 조절이 항암 치료의 독성 관리 보조 전략이 될 가능성 (Sugimoto et al., 2023)
-- **산소민감 Akk의 CRC 전달 제형 (Quah 2026)**: CRC 예방과 연관된 NGP인 *A. muciniphila*의 호기 사멸 문제를 알지네이트 마이크로캡슐화로 극복해 저장 안정성을 높인 전달 시스템 연구 — 항암 미생물의 제형·전달(formulation/delivery) 관점 ([[Jay's Knowledge Base/raw/534-quah-2026-microencapsulation-strategy-for-aerobic-cultivation-of\|raw/534-quah-2026-microencapsulation-strategy-for-aerobic-cultivation-of]]; 공정 상세 [[bioprocess-engineering\|bioprocess-engineering]])
+- **산소민감 Akk의 CRC 전달 제형 (Quah 2026)**: CRC 예방과 연관된 NGP인 *A. muciniphila*의 호기 사멸 문제를 알지네이트 마이크로캡슐화로 극복해 저장 안정성을 높인 전달 시스템 연구 — 항암 미생물의 제형·전달(formulation/delivery) 관점 ([[Jay's Knowledge Base/raw/534-quah-2026-microencapsulation-strategy-for-aerobic-cultivation-of\|raw/534-quah-2026-microencapsulation-strategy-for-aerobic-cultivation-of]]; 공정 상세 [[Jay's Knowledge Base/wiki/bioprocess-engineering\|bioprocess-engineering]])
 
 ## 암 악액질(cancer cachexia)과 장내 미생물 — 결과 미확보 · 모니터링
 
@@ -48,7 +48,7 @@
 
 > **상태: 결과 미확보 · 모니터링.** 현재 초록의 앞부분(배경·연구 목적)만 확보된 상태로, **구체적 결과 수치·검증 모델·면역세포 수준의 기전은 미확보**다. 본문 확보 후 보강 필요.
 
-확보된 범위 내에서의 의미는 다음과 같다. 이 축은 [[Jay's Knowledge Base/wiki/gut-muscle-axis\|gut-muscle-axis]](장–근육 축)와 직접 연결되고, 근소모라는 결과 지표에서는 [[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]]와도 접점을 갖는다. 면역관문억제제 병용처럼 **항암 효능 증강**을 노리는 기존 마이크로바이옴 종양학 흐름과 달리, **암 관련 근소모라는 숙주 측 합병증**을 미생물 조절로 다룬다는 점에서 적용 범위를 「반응률(response rate)」에서 「환자 기능·삶의 질」로 확장하는 사례다 (cf. 위 신바이오틱스의 항암화학요법 부작용 완화 항목). *Phocaeicola vulgatus*(구 *Bacteroides vulgatus*)는 [[next-generation-probiotics\|next-generation-probiotics]] 후보군과 계통적으로 인접한 Bacteroidetes 공생균으로, 저분자 화합물이 **특정 공생균을 선택적으로 농축**시켜 효과를 내는 「소재 × 표적균」 설계 사례로도 읽을 수 있다.
+확보된 범위 내에서의 의미는 다음과 같다. 이 축은 [[Jay's Knowledge Base/wiki/gut-muscle-axis\|gut-muscle-axis]](장–근육 축)와 직접 연결되고, 근소모라는 결과 지표에서는 [[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]]와도 접점을 갖는다. 면역관문억제제 병용처럼 **항암 효능 증강**을 노리는 기존 마이크로바이옴 종양학 흐름과 달리, **암 관련 근소모라는 숙주 측 합병증**을 미생물 조절로 다룬다는 점에서 적용 범위를 「반응률(response rate)」에서 「환자 기능·삶의 질」로 확장하는 사례다 (cf. 위 신바이오틱스의 항암화학요법 부작용 완화 항목). *Phocaeicola vulgatus*(구 *Bacteroides vulgatus*)는 [[Jay's Knowledge Base/wiki/next-generation-probiotics\|next-generation-probiotics]] 후보군과 계통적으로 인접한 Bacteroidetes 공생균으로, 저분자 화합물이 **특정 공생균을 선택적으로 농축**시켜 효과를 내는 「소재 × 표적균」 설계 사례로도 읽을 수 있다.
 
 ## 관련 raw/ 소스
 
@@ -96,11 +96,11 @@
 ## 관련 wiki 링크
 
 - [[Jay's Knowledge Base/wiki/akkermansia-muciniphila\|akkermansia-muciniphila]]
-- [[short-chain-fatty-acids\|short-chain-fatty-acids]]
+- [[Jay's Knowledge Base/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]]
 - [[Jay's Knowledge Base/wiki/gut-microbiome-and-disease\|gut-microbiome-and-disease]]
-- [[microbiome-therapeutics\|microbiome-therapeutics]]
-- [[dysbiosis\|dysbiosis]]
+- [[Jay's Knowledge Base/wiki/microbiome-therapeutics\|microbiome-therapeutics]]
+- [[Jay's Knowledge Base/wiki/dysbiosis\|dysbiosis]]
 - [[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]]
 - [[Jay's Knowledge Base/wiki/gut-muscle-axis\|gut-muscle-axis]] — 암 악액질·골격근 소모의 미생물 축
 - [[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]] — 근소모 결과 지표의 공통 접점
-- [[next-generation-probiotics\|next-generation-probiotics]] — *Phocaeicola vulgatus* 등 공생균 기반 후보
+- [[Jay's Knowledge Base/wiki/next-generation-probiotics\|next-generation-probiotics]] — *Phocaeicola vulgatus* 등 공생균 기반 후보

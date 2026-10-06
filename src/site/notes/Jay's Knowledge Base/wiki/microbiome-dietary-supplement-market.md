@@ -108,7 +108,7 @@ Eli Lilly는 GLP-1 포트폴리오로 구축한 DTC(direct-to-consumer) 인프�
 
 ## 관련 항목
 - [[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]] — 바이오틱스 종류 비교
-- [[microbiome-therapeutics\|microbiome-therapeutics]] — 치료제 개발 현황
+- [[Jay's Knowledge Base/wiki/microbiome-therapeutics\|microbiome-therapeutics]] — 치료제 개발 현황
 
 ## 한국 업계 동향 (2026)
 

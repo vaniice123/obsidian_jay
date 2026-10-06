@@ -244,7 +244,7 @@ GLP-1RA **부작용 연구 자체가 빠르게 성장** 중. Scopus 기반 서�
 
 항체 의약품($수천/월)과 달리 포스트바이오틱([[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]]) companion은:
 - 경구, 1/100 비용, 비면역원성
-- [[short-chain-fatty-acids\|short-chain-fatty-acids]] (SCFA) → Akt/mTOR 활성화로 SMAD2/3 매개 근위축에 대항
+- [[Jay's Knowledge Base/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]] (SCFA) → Akt/mTOR 활성화로 SMAD2/3 매개 근위축에 대항
 - 장 장벽 강화 → LPS 전위 감소 → myostatin 발현 유도 염증 차단
 - [[Jay's Knowledge Base/wiki/akkermansia-muciniphila\|akkermansia-muciniphila]]의 세포외소포가 C2C12 근아세포에서 S6K1, 4EBP1 인산화 직접 활성화
 - 살균 *A. muciniphila* RCT에서 follistatin 유의 상승(myostatin 격리), 하지 근력·peak torque 개선 (RCT 1·2)
@@ -316,7 +316,7 @@ ActRII 차단(근단백 분해 억제)·SCFA(근단백 합성 촉진) 외에, **
 
 - 마른 마우스와 식이유도 비만 마우스에서 **주 1회 Zfp423 ASO** → 백색지방 **베이지화(beiging)**, 체온·산소 소비↑, 포도당 항상성·인슐린 감수성·지질 대사·미토콘드리아 호흡 개선, 지방간 완화
 - **semaglutide 병용** 시 어느 단독요법보다 **체중·지방 감량이 크면서 제지방량은 보존**되고 대사 지표도 개선
-- **포지셔닝 의의**: GLP-1RA는 식욕을 줄이고(섭취↓), Zfp423 ASO는 에너지 소비를 늘린다(소비↑) — **기전이 겹치지 않는 상보적 병용**. ActRII 차단(근분해 억제)·15-PGDH 억제(근재생)가 「근육을 지키는」 전략이라면, 이 접근은 「감량분에서 근육이 차지하는 몫을 줄이는」 전략이다. ⚠️ 마우스 전임상 단계이고 ASO 지방 표적 전달의 인체 적용성은 미검증.
+- **포지셔닝 의의**: GLP-1RA는 식욕을 줄이고(섭취↓), Zfp423 ASO는 에너지 소비를 늘린다(소비↑) — **기전이 겹치지 않는 상보적 병용**. ActRII 차단(근분해 억제)·15-PGDH 억제(근재생)가 「근육을 지키는」 전략이라면, 이 접근은 「감량분에서 근육이 차지하는 몫을 줄이는」 전략이다. ⚠️ 마우스 전임상 단계이고 ASO 지방 표적 전달의 인체 적용성은 미검증. cf. [[Jay's Knowledge Base/wiki/antisense-oligonucleotides\|antisense-oligonucleotides]]
 
 > 📌 **근감소증 신약 파이프라인 전체 맥락**: Ancel et al. (2026, *Nature Reviews Drug Discovery*, [[Jay's Knowledge Base/raw/633-ancel-2026-strengthening-muscle-for-healthy-ageing-innovative\|raw/633-ancel-2026-strengthening-muscle-for-healthy-ageing-innovative]])은 **GLP-1RA 감량제와 근육 보존 약물의 병용 임상이 급증**하고 있음을 짚으며, 근육 표적 약리 축을 미토콘드리아(NAD⁺·urolithin A)·자가포식(mTORC1 억제)·동화(myostatin 억제)·SARM·혈관화(VEGF·apelin)·염증노화 억제·신경지배/재생(15-PGDH 억제)의 7개로 정리했다. 상세 [[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]]
 
@@ -403,8 +403,8 @@ Eli Lilly의 **orforglipron** (경구·1일 1회·비펩타이드 GLP-1 작용�
 
 - [[Jay's Knowledge Base/wiki/gut-muscle-axis\|gut-muscle-axis]] — 장-근육 축 기전 상세
 - [[Jay's Knowledge Base/wiki/akkermansia-muciniphila\|akkermansia-muciniphila]] — Akkermansia 기반 GLP-1 companion 포지셔닝
-- [[microbiome-therapeutics\|microbiome-therapeutics]] — 마이크로바이옴 치료제 전체 동향
-- [[dysbiosis\|dysbiosis]] — 디스바이오시스와 근감소증의 악순환
+- [[Jay's Knowledge Base/wiki/microbiome-therapeutics\|microbiome-therapeutics]] — 마이크로바이옴 치료제 전체 동향
+- [[Jay's Knowledge Base/wiki/dysbiosis\|dysbiosis]] — 디스바이오시스와 근감소증의 악순환
 
 ## 출처
 

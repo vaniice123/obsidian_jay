@@ -9,7 +9,7 @@
 ## 핵심 기전
 
 ### 미생물 대사산물
-- 장내 미생물이 식이섬유를 혐기 발효 → [[short-chain-fatty-acids\|short-chain-fatty-acids]] 생산
+- 장내 미생물이 식이섬유를 혐기 발효 → [[Jay's Knowledge Base/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]] 생산
 - SCFAs가 혈류로 흡수 → 근육 대사에 직접 영향
 - 부티레이트: 항염증, 인슐린 감수성 개선, 미토콘드리아 기능 지원
 - **Urolithin A**: 미생물-숙주 상호작용 유래 대사산물, 미토콘드리아 기능 복원 (Zhao 2021)
@@ -22,9 +22,9 @@
 - 내분비 조절 — IGF-1, 마이오카인, 아디포카인, 인슐린 신호
 - **담즙산–FXR–FGF15 축 (Hua 2026) — 새로 명명된 네 번째 경로**: 위의 SCFA 대사산물 경로·전신 염증 경로·미토콘드리아 경로와 **구별되는 담즙산(bile acid) 매개 장–근육 내분비 경로**가 제시되었다.
 
-  > **용어** (담즙산 축 전반 → [[bile-acid-metabolism\|bile-acid-metabolism]]): **FXR**(farnesoid X receptor)은 **담즙산을 리간드로 삼는 핵수용체(nuclear receptor)** 로, 담즙산 조성의 변화를 곧바로 유전자 발현으로 번역하는 센서에 해당한다. **FGF15**(설치류)/**FGF19**(사람 상동체)는 회장 상피에서 FXR 활성화에 의해 분비되어 **혈류를 타고 원격 조직에 작용하는 내분비 인자**이며, 표적 세포에서는 수용체 **FGFR4**가 보조수용체 **KLB(β-Klotho)** 와 복합체를 이룰 때 비로소 신호를 전달한다(KLB가 없으면 FGF15/19에 대한 특이성이 성립하지 않는다). 이 「장에서 분비 → 순환 → 근육에서 수신」 구조가 본 경로를 국소 대사산물 확산에 의존하는 SCFA 경로와 구분되는 **내분비(endocrine) 경로**로 만든다.
+  > **용어** (담즙산 축 전반 → [[Jay's Knowledge Base/wiki/bile-acid-metabolism\|bile-acid-metabolism]]): **FXR**(farnesoid X receptor)은 **담즙산을 리간드로 삼는 핵수용체(nuclear receptor)** 로, 담즙산 조성의 변화를 곧바로 유전자 발현으로 번역하는 센서에 해당한다. **FGF15**(설치류)/**FGF19**(사람 상동체)는 회장 상피에서 FXR 활성화에 의해 분비되어 **혈류를 타고 원격 조직에 작용하는 내분비 인자**이며, 표적 세포에서는 수용체 **FGFR4**가 보조수용체 **KLB(β-Klotho)** 와 복합체를 이룰 때 비로소 신호를 전달한다(KLB가 없으면 FGF15/19에 대한 특이성이 성립하지 않는다). 이 「장에서 분비 → 순환 → 근육에서 수신」 구조가 본 경로를 국소 대사산물 확산에 의존하는 SCFA 경로와 구분되는 **내분비(endocrine) 경로**로 만든다.
 
-  담즙염 가수분해효소(bile salt hydrolase, BSH) 고활성 균주 3종(*Lactiplantibacillus plantarum* H-87, *Bifidobacterium animalis* F1-7, F1-3-2)을 선별했고, 이 중 **F1-7·F1-3-2**가 **덱사메타손(dexamethasone, Dex) 유도 근감소 모델**에서 우수한 효능을 보였다. 경로는 ① 포합 담즙산의 **탈포합(deconjugation)·담즙산 조성 리모델링** → ② 회장(ileum)에서 **FXR–FGF15/19 신호 활성화** → ③ 순환 FGF15/19가 골격근의 **FGFR4/KLB(β-Klotho) 수용체 복합체**를 자극 → ④ **근단백 분해 억제**로 이어지며, 근육량·근섬유 단면적(cross-sectional area)·조직학적 무결성·운동수행능력 개선과 장내 미생물 조성 조절을 동반했다. 요컨대 **효소 활성(BSH)이 곧 작용 기전인 균주 선별 기준**이 되는 경로로, 균주 스크리닝에 측정 가능한 분자 지표를 제공한다는 점이 실무적 함의다. 아울러 F1-7·F1-3-2로 제조한 **발효유가 품질규격을 충족하고 관능 특성도 개선**되어 기능성 유제품 적용 가능성을 함께 제시했다. 주목할 점은 사용된 **Dex 유도 위축 모델이 아래 살균 *A. muciniphila* 포스트바이오틱 연구(Zheng 2026)와 동일**하다는 것으로, 두 연구는 동일한 이화 스트레스 모델에서 서로 다른 상류 경로가 수렴함을 보여준다 — Zheng은 근세포 내 **Akt/mTOR-FoxO3a·Atrogin-1/MuRF1** 축을, Hua는 그 상류의 **장–간–근육 담즙산 내분비 축**을 각각 짚는다 ([[Jay's Knowledge Base/raw/602-hua-2026-bile-salt-hydrolase-active-bifidobacterium-animalis\|raw/602-hua-2026-bile-salt-hydrolase-active-bifidobacterium-animalis]], Hua et al. 2026, *Food Chemistry*; cf. [[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]]·[[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]]·[[short-chain-fatty-acids\|short-chain-fatty-acids]])
+  담즙염 가수분해효소(bile salt hydrolase, BSH) 고활성 균주 3종(*Lactiplantibacillus plantarum* H-87, *Bifidobacterium animalis* F1-7, F1-3-2)을 선별했고, 이 중 **F1-7·F1-3-2**가 **덱사메타손(dexamethasone, Dex) 유도 근감소 모델**에서 우수한 효능을 보였다. 경로는 ① 포합 담즙산의 **탈포합(deconjugation)·담즙산 조성 리모델링** → ② 회장(ileum)에서 **FXR–FGF15/19 신호 활성화** → ③ 순환 FGF15/19가 골격근의 **FGFR4/KLB(β-Klotho) 수용체 복합체**를 자극 → ④ **근단백 분해 억제**로 이어지며, 근육량·근섬유 단면적(cross-sectional area)·조직학적 무결성·운동수행능력 개선과 장내 미생물 조성 조절을 동반했다. 요컨대 **효소 활성(BSH)이 곧 작용 기전인 균주 선별 기준**이 되는 경로로, 균주 스크리닝에 측정 가능한 분자 지표를 제공한다는 점이 실무적 함의다. 아울러 F1-7·F1-3-2로 제조한 **발효유가 품질규격을 충족하고 관능 특성도 개선**되어 기능성 유제품 적용 가능성을 함께 제시했다. 주목할 점은 사용된 **Dex 유도 위축 모델이 아래 살균 *A. muciniphila* 포스트바이오틱 연구(Zheng 2026)와 동일**하다는 것으로, 두 연구는 동일한 이화 스트레스 모델에서 서로 다른 상류 경로가 수렴함을 보여준다 — Zheng은 근세포 내 **Akt/mTOR-FoxO3a·Atrogin-1/MuRF1** 축을, Hua는 그 상류의 **장–간–근육 담즙산 내분비 축**을 각각 짚는다 ([[Jay's Knowledge Base/raw/602-hua-2026-bile-salt-hydrolase-active-bifidobacterium-animalis\|raw/602-hua-2026-bile-salt-hydrolase-active-bifidobacterium-animalis]], Hua et al. 2026, *Food Chemistry*; cf. [[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]]·[[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]]·[[Jay's Knowledge Base/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]])
 
 - **장 상피 미토콘드리아 complex I–GDF15 축 (Sebo 2026) — 후보 경로**: 메트포르민(metformin)의 혈당 강하 작용이 전신이 아니라 **장 상피 특이적(intestine-specific) 미토콘드리아 complex I 억제**로 매핑되었다. 인체 대사체 데이터와 마우스 유전학적 접근을 결합해, ① **소장 미토콘드리아에서만 생성되는 시트룰린(citrulline) 합성의 억제**를 표적 조직 특정 지표로 삼았고, ② 동일한 complex I 억제가 **GDF15 상승**을 유발하며, ③ 장을 **glucose sink**로 전환시켜 과잉 포도당을 흡수해 **락테이트(lactate)·lactoyl-phenylalanine**으로 전환함을 보였다. 혈당 강하는 만성 누적 반응이 아니라 **반복적 bolus 노출**에 기인했고, phenformin 및 구조적으로 무관한 **berberine**도 동일한 장 특이적 complex I 억제에 의존해 **공유 기전**임이 드러났다 ([[Jay's Knowledge Base/raw/620-sebo-2026-metformin-inhibits-mitochondrial-complex-i-in\|raw/620-sebo-2026-metformin-inhibits-mitochondrial-complex-i-in]], *Nature Metabolism* 2026).
 
@@ -145,7 +145,7 @@ GLP-1 수용체 작용제(semaglutide, tirzepatide)의 체중 감량분 중 **25
 
 ### 3. FMT
 - 전임상에서 가장 강력한 근거 (악력 30-50%↑)
-- 임상 번역 진행 중 → [[microbiome-therapeutics\|microbiome-therapeutics]] 참조
+- 임상 번역 진행 중 → [[Jay's Knowledge Base/wiki/microbiome-therapeutics\|microbiome-therapeutics]] 참조
 
 ### 4. 프로바이오틱스
 - L. casei LC122, B. longum BL986, L. plantarum TWK10
