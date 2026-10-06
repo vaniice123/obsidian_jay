@@ -11,4 +11,4 @@
 - **주제**: SCFA, 운동, 미생물 교차 급식의 면역 시너지
 - **핵심 내용**: 단쇄지방산(SCFA) 대사, 운동, 미생물 교차 급식(cross-feeding)이 면역 시스템과 근육에 미치는 시너지 효과 분석
 - **키워드**: SCFA, exercise, cross-feeding, gut-muscle-immune axis, immunity
-- **출처**: [[Jay's Knowledge Base/outputs/gut-muscle-axis-key-papers\|outputs/gut-muscle-axis-key-papers]]에서 발췌
+- **출처**: [[outputs/gut-muscle-axis-key-papers\|outputs/gut-muscle-axis-key-papers]]에서 발췌

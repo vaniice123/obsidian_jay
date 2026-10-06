@@ -5,11 +5,11 @@
 
 # 장내 마이크로바이옴과 질병(Gut Microbiome and Disease)
 
-장내 마이크로바이옴은 약 100조 개의 미생물(세균, 고세균, 바이러스, 진균)로 구성된 복잡한 생태계로, 영양소 대사, 면역 기능, 에너지 균형의 핵심 조절자이다. 이 균형이 무너지면([[Jay's Knowledge Base/wiki/dysbiosis\|dysbiosis]]) 다양한 질병이 발생하거나 악화된다.
+장내 마이크로바이옴은 약 100조 개의 미생물(세균, 고세균, 바이러스, 진균)로 구성된 복잡한 생태계로, 영양소 대사, 면역 기능, 에너지 균형의 핵심 조절자이다. 이 균형이 무너지면([[dysbiosis\|dysbiosis]]) 다양한 질병이 발생하거나 악화된다.
 
 ## 마이크로바이옴의 건강 기여
 
-- **영양소 대사**: 식이섬유 분해, 비타민(B군, K) 합성, [[Jay's Knowledge Base/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]] 생산
+- **영양소 대사**: 식이섬유 분해, 비타민(B군, K) 합성, [[short-chain-fatty-acids\|short-chain-fatty-acids]] 생산
 - **면역 조절**: 면역 체계 발달 및 항상성 유지, 병원체 방어
 - **신경전달물질 생산**: 세로토닌의 약 95%가 장에서 생산 → [[Jay's Knowledge Base/wiki/gut-brain-axis\|gut-brain-axis]]와 연결
 - **장벽 기능**: 상피세포 간 tight junction 유지, 점막 방어
@@ -37,7 +37,7 @@
 - 근감소증(sarcopenia) → [[Jay's Knowledge Base/wiki/gut-muscle-axis\|gut-muscle-axis]] 참조
 
 ### 감염성 질환
-- 바이러스 감염 후 [[Jay's Knowledge Base/wiki/dysbiosis\|dysbiosis]] (예: SARS-CoV-2/COVID-19)
+- 바이러스 감염 후 [[dysbiosis\|dysbiosis]] (예: SARS-CoV-2/COVID-19)
 
 ### 기타
 - 만성 신장 질환, 만성 간질환
@@ -45,11 +45,11 @@
 
 ## SARS-CoV-2 감염과 장내 마이크로바이옴 교란
 
-COVID-19은 급성기 및 회복 후(post-acute) 단계 모두에서 장내 마이크로바이옴에 부정적 영향을 미친다. 급성 감염 시 *Roseburia*, Lachnospiraceae 등 **유익 공생균이 감소**하고 *Enterococcus*, Proteobacteria 등 **기회감염균이 증가**하며, α-다양성은 특히 증상 발현·입원 초기에 저하된다. 임상적 회복이 장내 항상성 개선과 대체로 일치하지만, [[Jay's Knowledge Base/wiki/dysbiosis\|dysbiosis]]가 지속되어 회복기 이후 합병증 및 후유증(long COVID)에 기여할 수 있다 ([[Jay's Knowledge Base/raw/68-righi-2024-gut-microbiome-disruption-following-sars-cov-2-a\|Righi et al., 2024, *Microorganisms*]]). 이는 바이러스 감염이 장내 생태계 교란의 한 유발 요인임을 보여준다.
+COVID-19은 급성기 및 회복 후(post-acute) 단계 모두에서 장내 마이크로바이옴에 부정적 영향을 미친다. 급성 감염 시 *Roseburia*, Lachnospiraceae 등 **유익 공생균이 감소**하고 *Enterococcus*, Proteobacteria 등 **기회감염균이 증가**하며, α-다양성은 특히 증상 발현·입원 초기에 저하된다. 임상적 회복이 장내 항상성 개선과 대체로 일치하지만, [[dysbiosis\|dysbiosis]]가 지속되어 회복기 이후 합병증 및 후유증(long COVID)에 기여할 수 있다 ([[Jay's Knowledge Base/raw/68-righi-2024-gut-microbiome-disruption-following-sars-cov-2-a\|Righi et al., 2024, *Microorganisms*]]). 이는 바이러스 감염이 장내 생태계 교란의 한 유발 요인임을 보여준다.
 
 ## 미생물 군집 안정성의 숙주 측 결정 요인
 
-질병은 종종 군집 안정성의 붕괴로 나타나므로, 숙주가 일관된 세균총을 어떻게 획득·유지하는지가 핵심 질문이다. 숙주는 특정 세균과 공진화하며, 일부 관계는 미생물 공생균을 **선택·격리·유지하는 특화된 물리적 서식 niche**에 의해 뒷받침된다는 가설이 제시된다 ([[Jay's Knowledge Base/raw/95-ludington-2024-the-importance-of-host-physical-niches-for-th\|Ludington, 2024, *Phil Trans R Soc B*]]). 즉 마이크로바이옴 안정성은 미생물 간 상호작용뿐 아니라 숙주가 제공하는 물리적 구조(점액층, 음와 등)에 의해 결정되며, 이 niche의 교란이 [[Jay's Knowledge Base/wiki/dysbiosis\|dysbiosis]]로 이어질 수 있다.
+질병은 종종 군집 안정성의 붕괴로 나타나므로, 숙주가 일관된 세균총을 어떻게 획득·유지하는지가 핵심 질문이다. 숙주는 특정 세균과 공진화하며, 일부 관계는 미생물 공생균을 **선택·격리·유지하는 특화된 물리적 서식 niche**에 의해 뒷받침된다는 가설이 제시된다 ([[Jay's Knowledge Base/raw/95-ludington-2024-the-importance-of-host-physical-niches-for-th\|Ludington, 2024, *Phil Trans R Soc B*]]). 즉 마이크로바이옴 안정성은 미생물 간 상호작용뿐 아니라 숙주가 제공하는 물리적 구조(점액층, 음와 등)에 의해 결정되며, 이 niche의 교란이 [[dysbiosis\|dysbiosis]]로 이어질 수 있다.
 
 ## 생애 초기 균총 형성(early-life colonization) — 모체 "장"이 주 저수지 (Sinha 2026, *Nature*)
 
@@ -71,11 +71,11 @@ COVID-19은 급성기 및 회복 후(post-acute) 단계 모두에서 장내 마�
 - **모체 장내균총은 임신·산후 중 미미한 변화만(subtle changes)**: 임신에 수반되는 대규모 생리·면역 변화에도 모체 장내 생태계는 크게 흔들리지 않으며, 관찰된 변화는 **식이(diet)·감염(infections)·임신 전 흡연(pre-pregnancy smoking)** 과 연관됐다.
 - **전달 경로 — 모체 "장"이 주 저수지(major reservoir)**: 영아 장내 균주(strain)의 주된 공급원은 **모체 장내균총**이며, **질(vaginal)·모유(breast milk) 유래 전달은 간헐적(occasional)** 이었다. 이는 「질식분만 시 산도 통과로 질 균총이 접종된다」는 통념을 상당 부분 **수정**하는 결과다. 질·모유 경로가 배제되는 것은 아니지만, 주 경로가 아니라 **보조·간헐 경로**로 재배치된다.
 - **전달의 정량 규칙**: 모–영아 균주 공유(strain sharing)는 **시간 의존적(time dependent)** 이며, **모체에서 해당 종의 존재비(abundance)가 높을수록 균주 전달 확률이 상승**했다. → 모체 균총을 표적으로 한 중재(식이·[[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]])가 영아 정착에 영향을 줄 수 있다는 용량–반응 논리의 근거.
-- **모체 장내균총이 영아 습진(eczema)의 예측인자**: 모체 균총이 영아 습진 발생을 예측 → 생애 초기 면역 교육과 [[Jay's Knowledge Base/wiki/gut-skin-axis\|gut-skin-axis]]의 접점을 모체 세대까지 확장.
+- **모체 장내균총이 영아 습진(eczema)의 예측인자**: 모체 균총이 영아 습진 발생을 예측 → 생애 초기 면역 교육과 [[gut-skin-axis\|gut-skin-axis]]의 접점을 모체 세대까지 확장.
 - **영아 균총·기능 프로파일의 1차 결정 요인**: **분만방식(mode of delivery)** 과 **수유방식(feeding mode)** 이 영아 균총 조성과 기능 프로파일을 주로 결정했고, 모체 노출 요인이 부가적으로 기여했다.
 - **가정분만의 영향은 중간 정도**: 질식분만 585명 중 155명이 가정분만이었으나, 가정분만과 영아 균총 조성의 연관은 **중간 정도(moderate)** 로, 밀어내기(pushing) 지속시간·양막 파수(ruptured membranes) 등 다른 분만 파라미터와 비슷한 수준이었다.
 
-> **함의**: (1) 생애 초기 균총 중재의 표적은 분만 시점의 **일회성 접종 이벤트**보다 **모체 장내균총 자체**일 수 있다. (2) 전달 경로를 구분하려면 종(species) 수준이 아닌 **균주(strain) 수준 추적**이 전제되므로 [[Jay's Knowledge Base/wiki/microbiome-analysis-technologies\|microbiome-analysis-technologies]]의 strain-resolved 메타지노믹스가 필수 조건이다. (3) 습진 예측은 [[Jay's Knowledge Base/wiki/dysbiosis\|dysbiosis]]를 결과가 아닌 **선행 지표(predictor)** 로 다루는 관점을 제시한다.
+> **함의**: (1) 생애 초기 균총 중재의 표적은 분만 시점의 **일회성 접종 이벤트**보다 **모체 장내균총 자체**일 수 있다. (2) 전달 경로를 구분하려면 종(species) 수준이 아닌 **균주(strain) 수준 추적**이 전제되므로 [[microbiome-analysis-technologies\|microbiome-analysis-technologies]]의 strain-resolved 메타지노믹스가 필수 조건이다. (3) 습진 예측은 [[dysbiosis\|dysbiosis]]를 결과가 아닌 **선행 지표(predictor)** 로 다루는 관점을 제시한다.
 
 ## 노화와 장내 마이크로바이옴 — 회춘(rejuvenation) 모델
 
@@ -112,7 +112,7 @@ COVID-19은 급성기 및 회복 후(post-acute) 단계 모두에서 장내 마�
 
 ### 후속 공개 데이터셋
 
-동일 연구진이 위 3종 중재에 **경구 *A. muciniphila* 투여**를 더한 **4종 procedure**의 노화·회춘 마우스 **결장** 시료에 대해 **16S rRNA(107건) + 샷건 메타게놈(109건)** 데이터셋을 공개 (Shin et al., 2022, *Scientific Data*, [[Jay's Knowledge Base/raw/596-shin-2022-comprehensive-16s-rrna-and-metagenomic-data-from-the\|raw/596-shin-2022-comprehensive-16s-rrna-and-metagenomic-data-from-the]]) → 데이터셋 상세는 [[Jay's Knowledge Base/wiki/microbiome-analysis-technologies\|microbiome-analysis-technologies]]. ***A. muciniphila* 경구 투여가 parabiosis·혈청 주입 같은 전신 회춘 중재와 동일한 실험 프레임에서 비교 가능**하다는 점이 이 자원의 고유 가치다 (cf. [[Jay's Knowledge Base/wiki/akkermansia-indications-applications\|akkermansia-indications-applications]]).
+동일 연구진이 위 3종 중재에 **경구 *A. muciniphila* 투여**를 더한 **4종 procedure**의 노화·회춘 마우스 **결장** 시료에 대해 **16S rRNA(107건) + 샷건 메타게놈(109건)** 데이터셋을 공개 (Shin et al., 2022, *Scientific Data*, [[Jay's Knowledge Base/raw/596-shin-2022-comprehensive-16s-rrna-and-metagenomic-data-from-the\|raw/596-shin-2022-comprehensive-16s-rrna-and-metagenomic-data-from-the]]) → 데이터셋 상세는 [[microbiome-analysis-technologies\|microbiome-analysis-technologies]]. ***A. muciniphila* 경구 투여가 parabiosis·혈청 주입 같은 전신 회춘 중재와 동일한 실험 프레임에서 비교 가능**하다는 점이 이 자원의 고유 가치다 (cf. [[akkermansia-indications-applications\|akkermansia-indications-applications]]).
 
 KAIST·KRIBB 등 한국 연구진 주도 연구로(교신저자 Byoung-Chan Kim·Chul-Ho Lee·Byung-Kwan Cho), 공개 데이터셋은 노화–마이크로바이옴 가설의 독립 재분석·검증에 활용 가능하다.
 
@@ -122,13 +122,13 @@ KAIST·KRIBB 등 한국 연구진 주도 연구로(교신저자 Byoung-Chan Kim�
 |------|------------|------------|
 | 식이 | 고섬유질, 발효식품 → 다양성 증가 | 서구화 식이(고지방, 저섬유질) → 다양성 감소 |
 | 운동 | 규칙적 운동 → 유익균 증가 | 좌식 생활 → 다양성 감소 |
-| 수면 | 규칙적 수면 → 미생물 리듬 안정 | 수면 부족 → [[Jay's Knowledge Base/wiki/dysbiosis\|dysbiosis]] |
+| 수면 | 규칙적 수면 → 미생물 리듬 안정 | 수면 부족 → [[dysbiosis\|dysbiosis]] |
 | 약물 | — | 항생제 → 미생물 파괴 |
 
 ## 2024년 주요 연구 동향
 - FMT 기반 신제품 2개가 임상에 도입
 - 초기 생애(early-life) 마이크로바이옴이 장기 건강의 결정 인자로 재확인
-- [[Jay's Knowledge Base/wiki/microbiome-therapeutics\|microbiome-therapeutics]]의 적응증 확대 (CDI → IBD, 대사질환, 암)
+- [[microbiome-therapeutics\|microbiome-therapeutics]]의 적응증 확대 (CDI → IBD, 대사질환, 암)
 
 ## 2025~2026 주요 동향
 
@@ -148,7 +148,7 @@ DSS 유발 대장염(colitis) 마우스에 [[Jay's Knowledge Base/wiki/akkermans
 | 데이터 | 전사체(RNA-seq) + 단백질 정량 + 재현성 QC 지표 |
 | 활용 | 면역대사(immune metabolism)·신호전달·염증 경로 재분석, 멀티오믹스 통합·비교 |
 
-배경 문제의식은 *A. muciniphila*가 장 건강·면역 조절에 기여한다는 점은 알려졌으나 **T세포 반응에 대한 구체적 영향은 미확립**이라는 것으로, IBD 모델에서 숙주–미생물 상호작용을 독립적으로 재분석할 수 있는 리소스로서 가치가 있다 (cf. [[Jay's Knowledge Base/wiki/akkermansia-mechanisms\|akkermansia-mechanisms]], [[Jay's Knowledge Base/wiki/microbiome-analysis-technologies\|microbiome-analysis-technologies]]).
+배경 문제의식은 *A. muciniphila*가 장 건강·면역 조절에 기여한다는 점은 알려졌으나 **T세포 반응에 대한 구체적 영향은 미확립**이라는 것으로, IBD 모델에서 숙주–미생물 상호작용을 독립적으로 재분석할 수 있는 리소스로서 가치가 있다 (cf. [[Jay's Knowledge Base/wiki/akkermansia-mechanisms\|akkermansia-mechanisms]], [[microbiome-analysis-technologies\|microbiome-analysis-technologies]]).
 
 ### 점액 분해성 공생균과 변비 — 모니터링 가설
 
@@ -156,7 +156,7 @@ DSS 유발 대장염(colitis) 마우스에 [[Jay's Knowledge Base/wiki/akkermans
 
 ### 대장염 조직 미세환경의 공간적 다중모달 해부
 
-대장염(colitis) 병변에서 숙주–미생물 상호작용은 조직 내 위치에 따라 이질적이다. 공간 다중모달(spatial multi-modal) 접근으로 대장염 조직 미세환경(tissue microenvironment) 내 숙주 세포 상태와 미생물의 공간적 배치를 동시에 해부한 연구는, 균총 변화가 점막 전반에 균일하게 일어나는 것이 아니라 **국소적 면역세포·상피세포 상태와 결합된 공간 구조**를 가짐을 보여, IBD/대장염의 [[Jay's Knowledge Base/wiki/dysbiosis\|dysbiosis]] 기전을 조직 수준에서 정밀하게 해석할 필요성을 제시한다 ([[Jay's Knowledge Base/raw/78-zhu-a-spatial-multi-modal-dissection-of-host-microbiome-inte\|Zhu et al.]]).
+대장염(colitis) 병변에서 숙주–미생물 상호작용은 조직 내 위치에 따라 이질적이다. 공간 다중모달(spatial multi-modal) 접근으로 대장염 조직 미세환경(tissue microenvironment) 내 숙주 세포 상태와 미생물의 공간적 배치를 동시에 해부한 연구는, 균총 변화가 점막 전반에 균일하게 일어나는 것이 아니라 **국소적 면역세포·상피세포 상태와 결합된 공간 구조**를 가짐을 보여, IBD/대장염의 [[dysbiosis\|dysbiosis]] 기전을 조직 수준에서 정밀하게 해석할 필요성을 제시한다 ([[Jay's Knowledge Base/raw/78-zhu-a-spatial-multi-modal-dissection-of-host-microbiome-inte\|Zhu et al.]]).
 
 ### 장내 마이크로바이옴의 시간적 변동 — 건강·질환 해석의 기본 틀 (Zeng 2026, *Lancet Microbe*)
 
@@ -165,7 +165,7 @@ DSS 유발 대장염(colitis) 마우스에 [[Jay's Knowledge Base/wiki/akkermans
 - **단일 시점 sampling의 한계**: 질병–microbiome 연관 연구의 효과 크기·재현성이 시간 변동을 무시하면 과소·과대 추정될 수 있음 → 종단(longitudinal) 설계의 중요성
 - **중재 효능 평가의 baseline 안정성 가정 재고**: probiotic/postbiotic RCT의 baseline 대비 변화 해석 시 자연 변동 잡음과의 분리 필요 — Mount 2026·Depommier 2019 등 [[Jay's Knowledge Base/wiki/akkermansia-muciniphila\|*A. muciniphila*]] RCT 후속 분석에서도 동일 이슈
 - **prodromal/at-risk 단계 마커 개발**: Menozzi 2026 GBA1-PD 25% intermediate signature(아래 항목)나 GLP-1RA·항생제 노출 후 회복 궤적 분석에 temporal framework가 필수
-- **개인 baseline·variability 기반 정밀 영양**: responder 바이오마커로 거론되는 기저 *Akkermansia* 풍부도(Dao 2016 식이중재 코호트·Mount 2026 보충 RCT — 설계가 달라 연관 방향을 동일하게 볼 수 없음, [[Jay's Knowledge Base/wiki/akkermansia-clinical-evidence\|akkermansia-clinical-evidence]] 참조)를 단일 시점 → 시간 안정성 보정 지표로 발전시켜야 함 ([[Jay's Knowledge Base/wiki/microbiome-analysis-technologies\|microbiome-analysis-technologies]] 참조)
+- **개인 baseline·variability 기반 정밀 영양**: responder 바이오마커로 거론되는 기저 *Akkermansia* 풍부도(Dao 2016 식이중재 코호트·Mount 2026 보충 RCT — 설계가 달라 연관 방향을 동일하게 볼 수 없음, [[Jay's Knowledge Base/wiki/akkermansia-clinical-evidence\|akkermansia-clinical-evidence]] 참조)를 단일 시점 → 시간 안정성 보정 지표로 발전시켜야 함 ([[microbiome-analysis-technologies\|microbiome-analysis-technologies]] 참조)
 
 ### 파킨슨병 prodromal 식별자로서의 장내 microbiome (Menozzi 2026, *Nature Medicine*)
 
@@ -177,7 +177,7 @@ GBA1 유전자 변이는 PD의 가장 흔한 위험인자(최대 30배)이지만
 
 ### 장 유래 세균 세포외소포(BEV) — 숙주 염증·심혈관대사 질환의 "미생물 암흑물질" (Oliver 2026, *Gut Microbes*)
 
-장내 세균이 분비하는 세포외소포(bacterial extracellular vesicles, BEV; 세균 세포외소포)는 그동안 충분히 인식되지 못한 **"미생물 암흑물질(microbial dark matter)"** 로, 장벽(gut barrier)을 통과해 전신으로 이동하며 숙주 염증과 심혈관대사 질환(cardiometabolic disease)에 기여한다는 종설이 제시됐다 ([[Jay's Knowledge Base/raw/557-oliver-2026-gut-derived-bacterial-extracellular-vesicles-the\|Oliver 2026, *Gut Microbes*]]). BEV는 단백질·지질·핵산 등 세균 유래 화물을 원격 조직으로 운반하는 매개체로, [[Jay's Knowledge Base/wiki/dysbiosis\|dysbiosis]]가 대사·심혈관 질환으로 전이되는 새로운 기전 축을 제시한다.
+장내 세균이 분비하는 세포외소포(bacterial extracellular vesicles, BEV; 세균 세포외소포)는 그동안 충분히 인식되지 못한 **"미생물 암흑물질(microbial dark matter)"** 로, 장벽(gut barrier)을 통과해 전신으로 이동하며 숙주 염증과 심혈관대사 질환(cardiometabolic disease)에 기여한다는 종설이 제시됐다 ([[Jay's Knowledge Base/raw/557-oliver-2026-gut-derived-bacterial-extracellular-vesicles-the\|Oliver 2026, *Gut Microbes*]]). BEV는 단백질·지질·핵산 등 세균 유래 화물을 원격 조직으로 운반하는 매개체로, [[dysbiosis\|dysbiosis]]가 대사·심혈관 질환으로 전이되는 새로운 기전 축을 제시한다.
 
 ### 경구 대사약물의 작용부위 재정의 — 장 상피 미토콘드리아 complex I (Sebo 2026, *Nature Metabolism*)
 
@@ -192,11 +192,11 @@ GBA1 유전자 변이는 PD의 가장 흔한 위험인자(최대 30배)이지만
 | 노출–반응 | 혈당강하는 **누적 만성반응이 아니라 반복 볼루스(bolus) 노출**에 기인 |
 | 기전 공유 | **phenformin**(비구아나이드)과 **berberine**(구조적으로 무관한 뉴트라수티컬)도 동일하게 장 특이적 complex I 억제에 의존 |
 
-**함의**: (1) 경구 대사 약물·소재의 작용부위를 「간·근육 등 말초」에서 **장 상피**로 재정의한다 — 장은 통과 경로가 아니라 **표적 장기**다. (2) 구조가 전혀 다른 **berberine 같은 뉴트라수티컬(건기식 원료)이 동일 기전 축을 공유**한다는 점은, 경구 소재의 대사 효능을 평가할 때 장 상피 미토콘드리아 반응을 공통 판독 지표로 삼을 수 있음을 시사한다 ([[Jay's Knowledge Base/wiki/microbiome-dietary-supplement-market\|microbiome-dietary-supplement-market]] 참조). (3) **반복 볼루스 노출**이 효능을 결정한다는 결과는 서방형/1일 1회 설계 등 **투여 스케줄이 곧 기전 변수**임을 뜻한다. (4) 장 상피 미토콘드리아가 노출–반응의 허브라면, 장 내강 대사산물([[Jay's Knowledge Base/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]])과 미생물–숙주 미토콘드리아 축(아래 Han 2026)이 같은 지점에서 만난다.
+**함의**: (1) 경구 대사 약물·소재의 작용부위를 「간·근육 등 말초」에서 **장 상피**로 재정의한다 — 장은 통과 경로가 아니라 **표적 장기**다. (2) 구조가 전혀 다른 **berberine 같은 뉴트라수티컬(건기식 원료)이 동일 기전 축을 공유**한다는 점은, 경구 소재의 대사 효능을 평가할 때 장 상피 미토콘드리아 반응을 공통 판독 지표로 삼을 수 있음을 시사한다 ([[Jay's Knowledge Base/wiki/microbiome-dietary-supplement-market\|microbiome-dietary-supplement-market]] 참조). (3) **반복 볼루스 노출**이 효능을 결정한다는 결과는 서방형/1일 1회 설계 등 **투여 스케줄이 곧 기전 변수**임을 뜻한다. (4) 장 상피 미토콘드리아가 노출–반응의 허브라면, 장 내강 대사산물([[short-chain-fatty-acids\|short-chain-fatty-acids]])과 미생물–숙주 미토콘드리아 축(아래 Han 2026)이 같은 지점에서 만난다.
 
 ### 장내 마이크로바이옴과 미토콘드리아 기능 — 모니터링 (Han 2026, *Gut Microbes*)
 
-장내 마이크로바이옴과 숙주 **미토콘드리아 기능(mitochondrial function)**의 상호작용을 대사(metabolism)·면역(immunity)·질병 전반에 걸쳐 다룬 종설이 발표됐다 ([[Jay's Knowledge Base/raw/581-han-2026-the-gut-microbiome-and-mitochondrial-function-in\|Han et al., 2026, *Gut Microbes*]]). 현재 **서지 정보만 확보된 상태(초록 미확보)**이므로 구체적 기전·결론은 미확정이며, 본문 확인 후 보강 필요. 주제상 [[Jay's Knowledge Base/wiki/gut-muscle-axis\|gut-muscle-axis]](근육 미토콘드리아 기능)와 [[Jay's Knowledge Base/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]](미토콘드리아 기질로서의 SCFA)에 잠재적으로 연관될 수 있어 모니터링 대상으로 등록한다.
+장내 마이크로바이옴과 숙주 **미토콘드리아 기능(mitochondrial function)**의 상호작용을 대사(metabolism)·면역(immunity)·질병 전반에 걸쳐 다룬 종설이 발표됐다 ([[Jay's Knowledge Base/raw/581-han-2026-the-gut-microbiome-and-mitochondrial-function-in\|Han et al., 2026, *Gut Microbes*]]). 현재 **서지 정보만 확보된 상태(초록 미확보)**이므로 구체적 기전·결론은 미확정이며, 본문 확인 후 보강 필요. 주제상 [[Jay's Knowledge Base/wiki/gut-muscle-axis\|gut-muscle-axis]](근육 미토콘드리아 기능)와 [[short-chain-fatty-acids\|short-chain-fatty-acids]](미토콘드리아 기질로서의 SCFA)에 잠재적으로 연관될 수 있어 모니터링 대상으로 등록한다.
 
 ## 출처
 

@@ -15,11 +15,11 @@
 *A. muciniphila*는 인간 분변을 위 점액(gastric mucin) 단일 탄소·질소원 혐기 배지에서 dilution-to-extinction 배양해 분리한 우점 점액 분해균 **MucT 균주**로 2004년 최초 기재되었다 ([[Jay's Knowledge Base/raw/521-derrien-2004-akkermansia-muciniphila-gen-nov-sp-nov-a-human\|Derrien et al., 2004, *Int. J. Syst. Evol. Microbiol.*]]). 그람음성·절대혐기·비운동성·비포자 형성 난형균으로, 16S rRNA 분석상 **Verrucomicrobia 문(phylum)** 1아분류군에 속하는 신규 속·종 *Akkermansia muciniphila* gen. nov., sp. nov.가 제안되었다. 표준 균주 MucT는 **ATCC BAA-835T = CIP 107961T(= DSM 22959)**로 기탁되어 이후 모든 *A. muciniphila* 연구·산업 균주의 reference가 된다.
 
 - 점액을 주 탄소·질소원으로 이용 (DNA G+C 47.6 mol%)
-- N-acetylglucosamine(GlcNAc)·N-acetylgalactosamine·glucose 등 제한된 당만 이용 가능하며, 단백질원이 있을 때만 성장 (mucin 대비 성장 속도·최종 밀도 낮음) → **점막 niche 적응**의 생리적 기반 (cf. [[Jay's Knowledge Base/wiki/bioprocess-engineering\|배지 설계]])
+- N-acetylglucosamine(GlcNAc)·N-acetylgalactosamine·glucose 등 제한된 당만 이용 가능하며, 단백질원이 있을 때만 성장 (mucin 대비 성장 속도·최종 밀도 낮음) → **점막 niche 적응**의 생리적 기반 (cf. [[bioprocess-engineering\|배지 설계]])
 - 16S rRNA 서열이 미배양 대장 세균 3종과 99% 유사 → 인간 장내 우점 공생균임을 시사
 - 대장 뮤신의 **황산화(sulfation) 장벽**을 넘는 탄수화물 설파타아제(carbohydrate sulfatase) **Amuc1755·Amuc0953**의 희귀한 적응(신규 뮤신 결합 도메인, GlcNAc은 periplasm·Gal은 세포외+periplasm의 구획화된 탈황산화)이 대장 뮤신 단일 탄소원 성장의 효소학적 기반으로 보고됨 (Dey et al., 2026, *Nature Microbiology*) → 상세 [[Jay's Knowledge Base/wiki/akkermansia-mechanisms\|akkermansia-mechanisms]]
 
-> *Akkermansia* 속의 종 분화("beyond muciniphila", *A. massiliensis* sp. nov. 등)와 균주 다양성·게놈 안정성·배양 생리는 → [[Jay's Knowledge Base/wiki/akkermansia-strain-landscape\|akkermansia-strain-landscape]] 참조.
+> *Akkermansia* 속의 종 분화("beyond muciniphila", *A. massiliensis* sp. nov. 등)와 균주 다양성·게놈 안정성·배양 생리는 → [[akkermansia-strain-landscape\|akkermansia-strain-landscape]] 참조.
 
 ---
 
@@ -44,10 +44,10 @@ Amuc_1100과 별개로, *A. muciniphila*는 **L-cell 유래 GLP-1 분비를 유�
 
 상세는 [[Jay's Knowledge Base/wiki/akkermansia-mechanisms\|akkermansia-mechanisms]] 문서로 분리. 핵심 4대 축은:
 
-1. **장 장벽 강화** — 점막층 두께·tight junction(ZO-1, occludin)↑, LPS 전위 감소 → 전신 염증 억제 ([[Jay's Knowledge Base/wiki/dysbiosis\|dysbiosis]] 시 leaky gut 핵심)
-2. **대사 조절** — 인슐린 감수성·체지방·혈당 개선, [[Jay's Knowledge Base/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]] 생태 지원, 운동 유도 대사 개선의 매개자. 전임상 토대: Everard 2013·Dao 2016·살균형 기전 연구
+1. **장 장벽 강화** — 점막층 두께·tight junction(ZO-1, occludin)↑, LPS 전위 감소 → 전신 염증 억제 ([[dysbiosis\|dysbiosis]] 시 leaky gut 핵심)
+2. **대사 조절** — 인슐린 감수성·체지방·혈당 개선, [[short-chain-fatty-acids\|short-chain-fatty-acids]] 생태 지원, 운동 유도 대사 개선의 매개자. 전임상 토대: Everard 2013·Dao 2016·살균형 기전 연구
 3. **근육 건강 (장-근육 축)** — Follistatin↑(myostatin 격리)·EV의 근단백 합성 자극·근위축 모델 근보호 ([[Jay's Knowledge Base/wiki/gut-muscle-axis\|gut-muscle-axis]])
-4. **면역 조절** — TLR2 항염·Treg 분화·분비형 AmTARS의 M2 대식세포 분극·[[Jay's Knowledge Base/wiki/faecalibacterium-prausnitzii\|faecalibacterium-prausnitzii]]와의 면역질환 시너지
+4. **면역 조절** — TLR2 항염·Treg 분화·분비형 AmTARS의 M2 대식세포 분극·[[faecalibacterium-prausnitzii\|faecalibacterium-prausnitzii]]와의 면역질환 시너지
 
 > GLP-1RA 병용 대사 시너지에 대한 비판적 검토는 → [[Jay's Knowledge Base/wiki/akkermansia-clinical-evidence\|akkermansia-clinical-evidence]] 참조.
 
@@ -59,9 +59,9 @@ Amuc_1100과 별개로, *A. muciniphila*는 **L-cell 유래 GLP-1 분비를 유�
 |------|-------------|
 | [[Jay's Knowledge Base/wiki/akkermansia-mechanisms\|akkermansia-mechanisms]] | 추가 분비 effector(Amuc_1409·AmTARS·EV·GABA·CAZyme), 4대 작용 기전 상세 |
 | [[Jay's Knowledge Base/wiki/akkermansia-clinical-evidence\|akkermansia-clinical-evidence]] | 살균 포스트바이오틱 인체 RCT·장외 임상, GLP-1RA 시너지 비판적 검토, GLP-1 companion 포지셔닝·ActRII 접점 |
-| [[Jay's Knowledge Base/wiki/akkermansia-indications-applications\|akkermansia-indications-applications]] | IBD/UC·적응증별 전임상 효능, living co-therapy 약물 캐리어, engineered NGP, 점액분해·pathobiont 양면성 |
-| [[Jay's Knowledge Base/wiki/akkermansia-strain-landscape\|akkermansia-strain-landscape]] | 종 분화(*A. massiliensis* 등), MucT 게놈 안정성, food-grade 배양·대사 생리, 분리주 다양성·안전성·역가 |
-| [[Jay's Knowledge Base/wiki/akkermansia-commercialization\|akkermansia-commercialization]] | 주요 기업·제품, EFSA novel food 규제(2021/2025), 서지 계량 지형, 글로벌 시장 |
+| [[akkermansia-indications-applications\|akkermansia-indications-applications]] | IBD/UC·적응증별 전임상 효능, living co-therapy 약물 캐리어, engineered NGP, 점액분해·pathobiont 양면성 |
+| [[akkermansia-strain-landscape\|akkermansia-strain-landscape]] | 종 분화(*A. massiliensis* 등), MucT 게놈 안정성, food-grade 배양·대사 생리, 분리주 다양성·안전성·역가 |
+| [[akkermansia-commercialization\|akkermansia-commercialization]] | 주요 기업·제품, EFSA novel food 규제(2021/2025), 서지 계량 지형, 글로벌 시장 |
 
 ---
 
@@ -70,8 +70,8 @@ Amuc_1100과 별개로, *A. muciniphila*는 **L-cell 유래 GLP-1 분비를 유�
 - [[Jay's Knowledge Base/wiki/glp1-muscle-loss\|glp1-muscle-loss]] — GLP-1 근손실과 ActRII 경쟁 환경
 - [[Jay's Knowledge Base/wiki/gut-muscle-axis\|gut-muscle-axis]] — 장-근육 축 기전 상세
 - [[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]] — 바이오틱스 분류와 포스트바이오틱 장점
-- [[Jay's Knowledge Base/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]] — SCFA의 근육 건강 기전
-- [[Jay's Knowledge Base/wiki/microbiome-therapeutics\|microbiome-therapeutics]] — 마이크로바이옴 치료제 개발 동향
+- [[short-chain-fatty-acids\|short-chain-fatty-acids]] — SCFA의 근육 건강 기전
+- [[microbiome-therapeutics\|microbiome-therapeutics]] — 마이크로바이옴 치료제 개발 동향
 
 ## 출처
 
@@ -160,3 +160,6 @@ Amuc_1100과 별개로, *A. muciniphila*는 **L-cell 유래 GLP-1 분비를 유�
 - [[Jay's Knowledge Base/raw/600-dey-2026-unique-adaptations-in-sulfatases-underpin-colonic\|raw/600-dey-2026-unique-adaptations-in-sulfatases-underpin-colonic]] — *A. muciniphila* 탄수화물 설파타아제 **Amuc1755·Amuc0953**이 황산화 대장 뮤신 구조를 표적하는 **희귀 적응**과 **더 높은 모듈성**(기존 미보고 **뮤신 결합 도메인** 포함)을 보유. 대장 뮤신 배양 시 **크기가 축소된 당단백질**이 성장에 중요하며, 변이·국재화 분석에서 **GlcNAc 탈황산화는 periplasmic, Gal 탈황산화는 세포외+periplasmic**으로 구획화 → 대장 뮤신 단일 탄소원 대사의 분자적 실체이자 Bakshani 2025의 11 sulfatase를 효소·도메인 수준으로 해상 (*Nature Microbiology* 2026)
 - [[Jay's Knowledge Base/raw/601-ghahari-2026-decoding-akkermansia-muciniphila-effector-biology-from\|raw/601-ghahari-2026-decoding-akkermansia-muciniphila-effector-biology-from]] — *A. muciniphila*의 **effector 중심 프레임(effector-centered framework)** 종설. 분류군 수준 연관의 불일치를 **숙주 대면 분자**(Amuc_1100/PAS·**P9**, EV/OMV, 탈락 세포외피 조각·지질)로 설명. **HFD/CCl₄ 간손상 모델에서 소포 제제가 살균 균체와 동등하거나 상회**, Amuc_1100→면역 재프로그래밍·장벽 신호, **P9→GLP-1 분비**. 단 **점액 활성 효소·항원성 에피토프는 감수성 숙주에서 liability**. 핵심 공백: **생리적 용량 현실성**, **CFU 대 단백질/소포 용량 등가성 부재**, **effector 발현의 균주·배양조건 의존성**, **뇌 관련 지표의 인체 데이터 부족** (*MicrobiologyOpen* 2026)
 - [[Jay's Knowledge Base/raw/626-rojas-2026-the-role-of-akkermansia-muciniphila-in-obesity-benefit\|raw/626-rojas-2026-the-role-of-akkermansia-muciniphila-in-obesity-benefit]] — 비만에서 *A. muciniphila*의 **이익 대 해악(benefit or harm)** 을 비판적으로 검토한 narrative review. 건강 성인 장내 미생물의 **약 3~5%** 를 차지하며 비만에서 감소하는 상재균이자 NGP 후보로, 대사산물·단백질·**외막 성분**이 장벽·포도당 대사·면역에 작용. 그러나 ① **기전이 여전히 불완전하게 규명**되어 있고 ② 일부 연구가 **특정 조건 또는 고농도에서 전염증(pro-inflammatory) 효과 가능성**을 제기하며 ③ **식이가 미생물 조성·기능의 핵심 결정인자**이므로 표적 식이중재가 접근 가능한 전략이 될 수 있다고 결론 → 「존재비·용량이 클수록 좋다」는 단조 가정에 대한 경계 조건 제시. 우려는 **생균형에 더 강하게, 살균형에 약하게** 적용됨 (*Probiotics and Antimicrobial Proteins* 2026)
+- [[Jay's Knowledge Base/raw/634-scudino-2026-chocolate-dairy-dessert-as-a-robust-carrier-for-the\|raw/634-scudino-2026-chocolate-dairy-dessert-as-a-robust-carrier-for-the]] — 초콜릿맛 유제품 디저트를 *A. muciniphila* **생균** 운반체로 활용: 0~12 log CFU/g 탑재, 호기 냉장(4 °C) 28일 동안 권장 수준 이상 생존, 모사 위장관 감소 0.9~1.5 log CFU/g, 아미노산 프로파일·관능 양호, in vitro 항산화·항고혈압·항당뇨·항비만 활성 농도 의존적 증가 (*Food Bioscience* 2026). 상세 [[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]]
+- [[Jay's Knowledge Base/raw/635-zeng-2026-adjunctive-akkermansia-muciniphila-postbiotic\|raw/635-zeng-2026-adjunctive-akkermansia-muciniphila-postbiotic]] — **비만 동반 PMOS 여성 100명 RCT**(경구피임제 표준치료 + AKK 포스트바이오틱 vs 위약, ChiCTR2400090949): 체중 −1.92 vs −0.37 kg(p<0.001), LH·LH/FSH·테스토스테론 감소폭↑, 다모증·여드름 완화, 당·지질 개선, *Bifidobacterium*·*Faecalibacterium*↑ (*Clinical Nutrition* 2026). ⚠️ 초록에 균주·불활성화법·용량 미기재. 상세 [[Jay's Knowledge Base/wiki/akkermansia-clinical-evidence\|akkermansia-clinical-evidence]]
+- [[Jay's Knowledge Base/raw/636-li-2026-ultrasound-treated-akkermansia-muciniphila\|raw/636-li-2026-ultrasound-treated-akkermansia-muciniphila]] — 뮤신 보충 + 초음파 보조 열불활성화(U300W) 포스트바이오틱이 일반 열불활성화품과 다른 대사체(아미노산·hypoxanthine·유기산 유도체) 조성, 부티릴화 전분 대장 표적 펠릿 탑재 시 in vitro 분변 발효에서 α-다양성↑·F/B 비↓·*Bifidobacterium*·*Bacteroides*↑ (*Food Bioscience* 2026). 상세 [[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]]

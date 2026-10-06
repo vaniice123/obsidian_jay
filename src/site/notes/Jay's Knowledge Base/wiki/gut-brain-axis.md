@@ -4,7 +4,7 @@
 
 # 장-뇌 축(Gut-Brain Axis)
 
-장-뇌 축(gut-brain axis)은 장내 미생물이 면역, 신경, 내분비 경로를 통해 뇌와 양방향으로 소통하는 시스템이다. 선천면역과 적응면역 모두가 이 축의 핵심 매개체이며, [[Jay's Knowledge Base/wiki/dysbiosis\|dysbiosis]]는 우울증, 파킨슨병, 알츠하이머 등 다양한 신경/정신 질환과 연관된다.
+장-뇌 축(gut-brain axis)은 장내 미생물이 면역, 신경, 내분비 경로를 통해 뇌와 양방향으로 소통하는 시스템이다. 선천면역과 적응면역 모두가 이 축의 핵심 매개체이며, [[dysbiosis\|dysbiosis]]는 우울증, 파킨슨병, 알츠하이머 등 다양한 신경/정신 질환과 연관된다.
 
 ## 소통 경로
 
@@ -12,7 +12,7 @@
 |------|------|
 | **미주신경(vagus nerve)** | 장-뇌 직접 신경 연결, 자율신경계 조절 |
 | **장신경계(ENS)** | "제2의 뇌", 면역 세포와 상호작용 |
-| **미생물 대사산물** | [[Jay's Knowledge Base/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]], 이차 담즙산 |
+| **미생물 대사산물** | [[short-chain-fatty-acids\|short-chain-fatty-acids]], 이차 담즙산 |
 | **내분비 경로** | 세로토닌(장에서 95% 생산), 트립토판 대사 |
 | **HPA 축** | 시상하부-뇌하수체-부신 축, 스트레스 반응 |
 | **면역 경로** | 사이토카인, 미세아교세포(microglia) 활성화 |
@@ -31,7 +31,7 @@
 4. **트립토판 대사 양방향 재프로그래밍** — 결장 5-HT 과생산은 감소, 해마 5-HT/5-HT1A 수용체 발현·BDNF·시냅스 가소성은 회복 → "장 5-HT 과잉 + 뇌 5-HT 결핍"이라는 IBD-기분장애 패턴을 정상화하는 분자 메커니즘
 5. **AmEV가 Amuc_1100을 해마 뉴런까지 직접 전달** (프로테오믹스·바이오디스트리뷰션) → in vitro 5-HT 생산 증강
 
-→ IBD의 신경정신 동반질환(IBD-related neuropsychiatric comorbidities)에 **무세포 EV**가 단일 중재로 작동하는 첫 분자 근거이자, MEV가 단순 신호분자 캐리어가 아닌 **활성 effector(Amuc_1100) 전달체**임을 보여줌. 균주 자체의 IBD 효능은 [[Jay's Knowledge Base/wiki/akkermansia-indications-applications\|akkermansia-indications-applications]], EV 기전은 [[Jay's Knowledge Base/wiki/akkermansia-mechanisms\|akkermansia-mechanisms]] 참조.
+→ IBD의 신경정신 동반질환(IBD-related neuropsychiatric comorbidities)에 **무세포 EV**가 단일 중재로 작동하는 첫 분자 근거이자, MEV가 단순 신호분자 캐리어가 아닌 **활성 effector(Amuc_1100) 전달체**임을 보여줌. 균주 자체의 IBD 효능은 [[akkermansia-indications-applications\|akkermansia-indications-applications]], EV 기전은 [[Jay's Knowledge Base/wiki/akkermansia-mechanisms\|akkermansia-mechanisms]] 참조.
 
 ## 면역 기전
 
@@ -56,7 +56,7 @@
 
 ### 신경퇴행성 질환
 - **파킨슨병**: α-시누클레인이 미주신경 경유 수송, Prevotella 감소, **GBA1 변이 비발현 보유자(GBA-NMC)에서 PD 중간 microbiome signature 확인 (Menozzi 2026, Nature Medicine)** — 아래 별도 섹션. Radisavljevic의 종합 정리는 장내 미생물 변화가 PD 병태생리(α-시누클레인 응집, 장 염증, 미주신경 전파)에 기여하는 경로를 개관한다 ([[Jay's Knowledge Base/raw/38-radisavljevic-the-role-of-gut-microbiota-in-parkinsons-disea\|raw/38-radisavljevic-the-role-of-gut-microbiota-in-parkinsons-disea]])
-- **알츠하이머병**: Aβ 플라크 축적 ↔ 미생물 불균형/신경염증. Anderson (2023)은 AD를 아밀로이드/타우 중심의 좁은 시각에서 벗어나 **장내 미생물·지방세포·HPA 축·멜라토닌 경로·성상교세포 미토콘드리아**가 자가면역 발생에 함께 작용하는 통합적(holistic) 병태생리로 재개념화하며, Aβ를 염증·감염에 반응해 증가하는 내인성 항균 물질로 해석한다 ([[Jay's Knowledge Base/raw/60-anderson-2023-a-more-holistic-perspective-of-alzheimers-dise\|raw/60-anderson-2023-a-more-holistic-perspective-of-alzheimers-dise]]). 임상 근거로, 알츠하이머병으로 인한 경도인지장애(MCI) 환자 24명과 정상 대조군 17명을 ¹⁸F-florbetaben PET 및 분변 16S rRNA로 분석한 결과, Aβ 양성 MCI군에서 장내 미생물 조성이 유의하게 변화했고 특정 분류군의 풍부도가 **뇌 베타아밀로이드 부담(amyloid burden)과 상관**을 보였다 ([[Jay's Knowledge Base/raw/174-kim-2024-alterations-in-gut-microbiota-and-their-correlation\|raw/174-kim-2024-alterations-in-gut-microbiota-and-their-correlation]], *J Clin Med*). 균주 수준에서는 Li et al. (2026, *Biomolecules*, [[Jay's Knowledge Base/raw/532-li-2026-akkermansia-muciniphila-and-alzheimers-disease\|raw/532-li-2026-akkermansia-muciniphila-and-alzheimers-disease]])이 ***A. muciniphila*가 장벽 보호·염증 감소·면역–뇌–미토콘드리아 소통 조절**을 통해 AD에 작용하며 SCFA·Amuc_1100·세포외소포(AmEV)가 매개 인자임을 종합했다. 다만 동물 근거는 신경보호적이나 **임상 근거는 아직 제한적**이고, 균주 차이·방법론 이질성으로 strain-level 인체 연구·humanized 모델·바이오마커 기반 초기 임상이 필요함을 강조한다 (cf. [[Jay's Knowledge Base/wiki/akkermansia-indications-applications\|akkermansia-indications-applications]])
+- **알츠하이머병**: Aβ 플라크 축적 ↔ 미생물 불균형/신경염증. Anderson (2023)은 AD를 아밀로이드/타우 중심의 좁은 시각에서 벗어나 **장내 미생물·지방세포·HPA 축·멜라토닌 경로·성상교세포 미토콘드리아**가 자가면역 발생에 함께 작용하는 통합적(holistic) 병태생리로 재개념화하며, Aβ를 염증·감염에 반응해 증가하는 내인성 항균 물질로 해석한다 ([[Jay's Knowledge Base/raw/60-anderson-2023-a-more-holistic-perspective-of-alzheimers-dise\|raw/60-anderson-2023-a-more-holistic-perspective-of-alzheimers-dise]]). 임상 근거로, 알츠하이머병으로 인한 경도인지장애(MCI) 환자 24명과 정상 대조군 17명을 ¹⁸F-florbetaben PET 및 분변 16S rRNA로 분석한 결과, Aβ 양성 MCI군에서 장내 미생물 조성이 유의하게 변화했고 특정 분류군의 풍부도가 **뇌 베타아밀로이드 부담(amyloid burden)과 상관**을 보였다 ([[Jay's Knowledge Base/raw/174-kim-2024-alterations-in-gut-microbiota-and-their-correlation\|raw/174-kim-2024-alterations-in-gut-microbiota-and-their-correlation]], *J Clin Med*). 균주 수준에서는 Li et al. (2026, *Biomolecules*, [[Jay's Knowledge Base/raw/532-li-2026-akkermansia-muciniphila-and-alzheimers-disease\|raw/532-li-2026-akkermansia-muciniphila-and-alzheimers-disease]])이 ***A. muciniphila*가 장벽 보호·염증 감소·면역–뇌–미토콘드리아 소통 조절**을 통해 AD에 작용하며 SCFA·Amuc_1100·세포외소포(AmEV)가 매개 인자임을 종합했다. 다만 동물 근거는 신경보호적이나 **임상 근거는 아직 제한적**이고, 균주 차이·방법론 이질성으로 strain-level 인체 연구·humanized 모델·바이오마커 기반 초기 임상이 필요함을 강조한다 (cf. [[akkermansia-indications-applications\|akkermansia-indications-applications]])
 - **다발성 경화증(MS)**: 미생물 매개 T세포 반응
 
 ## 치료적 접근
@@ -119,7 +119,7 @@ GBA1 변이는 파킨슨병(PD)의 **가장 흔한 유전적 위험인자**(최�
 - α-시누클레인·미주신경·prevotella 감소 등 기존 PD 가설과 결합되어 **장-뇌 축이 PD 병인의 결정적 축**임을 강화 — 식이/probiotic/postbiotic 등 마이크로바이옴 중재가 신경퇴행 예방 전략 후보로 부상
 - 한국 코호트가 검증 데이터에 포함되어 한국 임상 연구·시료뱅크 가치 부각
 
-> 💡 차등 풍부도 + Cliff's δ coherence 결합 분석은 [[Jay's Knowledge Base/wiki/microbiome-analysis-technologies\|microbiome-analysis-technologies]]의 통계 도구로도 주목할 만함 (질병 점진성·intermediate state 탐지).
+> 💡 차등 풍부도 + Cliff's δ coherence 결합 분석은 [[microbiome-analysis-technologies\|microbiome-analysis-technologies]]의 통계 도구로도 주목할 만함 (질병 점진성·intermediate state 탐지).
 
 ---
 
@@ -153,7 +153,7 @@ GBA1 변이는 파킨슨병(PD)의 **가장 흔한 유전적 위험인자**(최�
 - 결론: 장상피 **AMPK/SIRT1 연관 면역조절 네트워크**가 기여하며, 그 안에서 AKK가 **장-면역-뇌 축(gut-immune-brain axis)** 을 통해 Th17/Treg 면역 리모델링 및 뇌졸중 후 신경염증 감소와 연결된다
 
 ### 시사점
-- **적응증 확장 축**: 위 [[Jay's Knowledge Base/wiki/akkermansia-indications-applications\|akkermansia-indications-applications]]가 대사·염증성 장질환·인지 영역에 집중돼 있었다면, 본 연구는 AKK를 **급성 허혈성 뇌손상/신경보호** 영역의 후보로 제시한다. 경색 부피·신경기능이라는 **하드 엔드포인트** 수준의 지표가 함께 개선된 점이 특징
+- **적응증 확장 축**: 위 [[akkermansia-indications-applications\|akkermansia-indications-applications]]가 대사·염증성 장질환·인지 영역에 집중돼 있었다면, 본 연구는 AKK를 **급성 허혈성 뇌손상/신경보호** 영역의 후보로 제시한다. 경색 부피·신경기능이라는 **하드 엔드포인트** 수준의 지표가 함께 개선된 점이 특징
 - **새로운 기전 진입점**: 기존 AKK 기전 논의가 Amuc_1100·SCFA·EV 중심이었던 데 반해, 여기서는 **장 상피의 AMPK/SIRT1 → Th17/Treg → IL-17/IL-10**이라는 **면역 축**이 전면에 나온다. 기전 정리는 [[Jay's Knowledge Base/wiki/akkermansia-mechanisms\|akkermansia-mechanisms]], 균주 개요는 [[Jay's Knowledge Base/wiki/akkermansia-muciniphila\|akkermansia-muciniphila]] 참조
 - **표적 조합 가능성**: AKK와 IL-17 차단의 **병용에서 신경보호가 증강**된 관찰은 프로바이오틱–면역조절제 병용 설계의 근거가 될 수 있다
 - **한계**: 어디까지나 **마우스 tMCAO 모델 + in vitro 공배양/OGD** 수준의 전임상 근거이며, 인체 적용 가능성·용량·투여 시점(급성기 vs 예방)은 검증되지 않았다. 연도 미상(저널 게재 정보 기준 *Immunology*, DOI 10.1111/imm.70191)

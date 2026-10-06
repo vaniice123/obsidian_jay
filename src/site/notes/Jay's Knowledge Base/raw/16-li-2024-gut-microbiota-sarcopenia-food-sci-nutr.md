@@ -11,4 +11,4 @@
 - **주제**: 장-근육 축을 통한 미생물-근감소증 관계
 - **핵심 내용**: 장-근육 축(gut-muscle axis) 기반으로 장내 미생물과 근감소증(sarcopenia) 관계 탐구
 - **키워드**: gut microbiota, sarcopenia, gut-muscle axis, food science
-- **출처**: [[Jay's Knowledge Base/outputs/gut-muscle-axis-key-papers\|outputs/gut-muscle-axis-key-papers]]에서 발췌
+- **출처**: [[outputs/gut-muscle-axis-key-papers\|outputs/gut-muscle-axis-key-papers]]에서 발췌

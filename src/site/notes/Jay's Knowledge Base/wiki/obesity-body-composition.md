@@ -72,7 +72,7 @@ DXA(gold-standard)로 측정한 incretin 약물의 체성분 변화를 절대 kg
 - 기저 *Akkermansia* spp. 풍부도가 MucT에 대한 **심대사(cardiometabolic) 반응성**과 연관 → responder 층화 바이오마커 가능성
 - 치료 관련 중대 이상반응 없음. 한계: 비교적 단기 중재, 활성 성분이 결손된 변형주 대조군 부재. ClinicalTrials.gov NCT05417360
 
-**시사점**: (1) 살균 *A. muciniphila*가 동물·인슐린 감수성(Depommier 2019)을 넘어 **인체 체중 유지(weight-loss maintenance)**라는 명확한 임상 적응증에서 효능을 입증한 첫 RCT, (2) 식이·GLP-1RA 중단 후의 **체중 반등**이라는 임상 공백(cf. 위 PTER 억제제 항목, [[Jay's Knowledge Base/wiki/glp1-muscle-loss\|glp1-muscle-loss]] GLP-1 중단 후 50%+ 반등)에 경구 포스트바이오틱이 대응 가능함을 시사, (3) 기저 *Akkermansia* 풍부도 기반 responder 선별이 [[Jay's Knowledge Base/wiki/microbiome-analysis-technologies\|microbiome 진단]]과 결합한 정밀 영양 전략으로 확장 가능.
+**시사점**: (1) 살균 *A. muciniphila*가 동물·인슐린 감수성(Depommier 2019)을 넘어 **인체 체중 유지(weight-loss maintenance)**라는 명확한 임상 적응증에서 효능을 입증한 첫 RCT, (2) 식이·GLP-1RA 중단 후의 **체중 반등**이라는 임상 공백(cf. 위 PTER 억제제 항목, [[Jay's Knowledge Base/wiki/glp1-muscle-loss\|glp1-muscle-loss]] GLP-1 중단 후 50%+ 반등)에 경구 포스트바이오틱이 대응 가능함을 시사, (3) 기저 *Akkermansia* 풍부도 기반 responder 선별이 [[microbiome-analysis-technologies\|microbiome 진단]]과 결합한 정밀 영양 전략으로 확장 가능.
 
 ### 균주별 *A. muciniphila* 비만 효능 — Akk11 (영아 분리주)
 
@@ -99,7 +99,7 @@ DXA(gold-standard)로 측정한 incretin 약물의 체성분 변화를 절대 kg
 | 안전성 지표 | 간손상·지질 프로파일 관련 여타 생화학 지표에는 영향 없음 |
 | 결론 | **gut–liver–adipose 축** 조절을 통한 안전하고 효과적인 비만·대사증후군 대응 전략 |
 
-**시사점**: (1) **안전성 논지가 핵심** — 생균 MDB의 점액층 분해 우려를 **열처리 사균화로 회피**하면서 대사 효능은 유지된다는 것으로, 살균 *A. muciniphila* 포스트바이오틱 노선([[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]]·[[Jay's Knowledge Base/wiki/akkermansia-clinical-evidence\|akkermansia-clinical-evidence]])의 근거를 **컨소시엄 수준**에서 보강한다. (2) 단일 균주 중심 논의(Mount 2026 MucT·Feng 2025 Akk11)를 넘어 **정의된 사균 컨소시엄(defined consortium)** 으로 확장한 사례로, 균주 간 상보성을 설계 변수로 삼는다([[Jay's Knowledge Base/wiki/next-generation-probiotics\|next-generation-probiotics]]). (3) **섭취량 불변**은 GLP-1 RA 감량의 상당 부분이 급성 섭취 억제로 설명되는 것(위 [[Jay's Knowledge Base/wiki/obesity-body-composition#GLP-1 RA 감량의 섭취량 기여 정량화 — ad libitum 점심 −1132 kJ (Quan 2026)\|Quan 2026]])과 대비되는 지점으로, [[Jay's Knowledge Base/wiki/glp1-muscle-loss#감량 기전에 따른 근손실 위험의 분화 — 식욕억제형 vs 대사형\|식욕억제형 vs 대사형 감량]] 구분에서 **대사형**에 배치된다 — 근손실 위험 관점에서 유리할 가능성(단 본 연구는 제지방량·근기능 종결점을 보고하지 않아 직접 근거는 아님). cf. [[Jay's Knowledge Base/wiki/akkermansia-mechanisms\|akkermansia-mechanisms]]·[[Jay's Knowledge Base/wiki/gut-microbiome-and-disease\|gut-microbiome-and-disease]]
+**시사점**: (1) **안전성 논지가 핵심** — 생균 MDB의 점액층 분해 우려를 **열처리 사균화로 회피**하면서 대사 효능은 유지된다는 것으로, 살균 *A. muciniphila* 포스트바이오틱 노선([[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]]·[[Jay's Knowledge Base/wiki/akkermansia-clinical-evidence\|akkermansia-clinical-evidence]])의 근거를 **컨소시엄 수준**에서 보강한다. (2) 단일 균주 중심 논의(Mount 2026 MucT·Feng 2025 Akk11)를 넘어 **정의된 사균 컨소시엄(defined consortium)** 으로 확장한 사례로, 균주 간 상보성을 설계 변수로 삼는다([[next-generation-probiotics\|next-generation-probiotics]]). (3) **섭취량 불변**은 GLP-1 RA 감량의 상당 부분이 급성 섭취 억제로 설명되는 것(위 [[Jay's Knowledge Base/wiki/obesity-body-composition#GLP-1 RA 감량의 섭취량 기여 정량화 — ad libitum 점심 −1132 kJ (Quan 2026)\|Quan 2026]])과 대비되는 지점으로, [[Jay's Knowledge Base/wiki/glp1-muscle-loss#감량 기전에 따른 근손실 위험의 분화 — 식욕억제형 vs 대사형\|식욕억제형 vs 대사형 감량]] 구분에서 **대사형**에 배치된다 — 근손실 위험 관점에서 유리할 가능성(단 본 연구는 제지방량·근기능 종결점을 보고하지 않아 직접 근거는 아님). cf. [[Jay's Knowledge Base/wiki/akkermansia-mechanisms\|akkermansia-mechanisms]]·[[Jay's Knowledge Base/wiki/gut-microbiome-and-disease\|gut-microbiome-and-disease]]
 
 ### *A. muciniphila*–FABP1 축 — L-노르류신을 통한 지방산 흡수 억제 (Li 2026, *PNAS*)
 
@@ -144,7 +144,7 @@ DXA(gold-standard)로 측정한 incretin 약물의 체성분 변화를 절대 kg
 
 - **점액층 손상 경로**: 고지방식이 배상세포(goblet cell)의 **글루타민 대사·산화환원 항상성을 손상**시켜 점액층이 얇아지고, 점액 의존 ***A. muciniphila*가 고갈**되는 반면 ***Clostridium scindens*가 확장**
 - **담즙산 미생물 전환 교란 → 소장 흡수↑**: 변화한 미생물이 담즙산을 **변형(modified bile acids)**시키고, 이 변형 담즙산 풀이 소장 **FXR-PLIN2 신호를 활성화**하고 장세포 **PPARα 의존 지질 흡수 경로를 상향** → 소장 지방 흡수 증가
-  - **용어** (담즙산 축 전반 → [[Jay's Knowledge Base/wiki/bile-acid-metabolism\|bile-acid-metabolism]]): **FXR**(farnesoid X receptor) = 담즙산이 리간드인 **핵수용체**(미생물의 담즙산 변형이 숙주 유전자 발현으로 번역되는 지점), **PLIN2**(perilipin-2) = **지질방울 피막 단백질**(흡수 지방의 장세포 내 축적 실행자), **PPARα** = 여기서는 지방산 산화가 아니라 **장세포 지질 흡수 상향**으로 작동. 기전 상세 → [[Jay's Knowledge Base/wiki/akkermansia-mechanisms\|akkermansia-mechanisms]], 장–근육 방향의 담즙산–FXR–FGF15 축 → [[Jay's Knowledge Base/wiki/gut-muscle-axis\|gut-muscle-axis]]
+  - **용어** (담즙산 축 전반 → [[bile-acid-metabolism\|bile-acid-metabolism]]): **FXR**(farnesoid X receptor) = 담즙산이 리간드인 **핵수용체**(미생물의 담즙산 변형이 숙주 유전자 발현으로 번역되는 지점), **PLIN2**(perilipin-2) = **지질방울 피막 단백질**(흡수 지방의 장세포 내 축적 실행자), **PPARα** = 여기서는 지방산 산화가 아니라 **장세포 지질 흡수 상향**으로 작동. 기전 상세 → [[Jay's Knowledge Base/wiki/akkermansia-mechanisms\|akkermansia-mechanisms]], 장–근육 방향의 담즙산–FXR–FGF15 축 → [[Jay's Knowledge Base/wiki/gut-muscle-axis\|gut-muscle-axis]]
 - **글루타민 rescue**: **글루타민 보충이 배상세포 기능과 담즙산 풀을 회복**시켜 FXR 활성과 지질 흡수를 낮춤 → 식이 지질 흡수를 미생물–점액 축에서 되돌릴 수 있는 중재점 제시
 
 **시사점**: L-노르류신(Li 2026)이 *A. muciniphila* 단일 대사산물의 FABP1 억제를 다룬 데 더해, 본 축은 ***A. muciniphila* 고갈 자체가 담즙산-FXR/PPARα 경로를 통해 소장 지방흡수를 증폭**하는 상류 기전을 제시 → *A. muciniphila* 보존이 갖는 항비만 의의를 점액-담즙산 관점에서 보강 (기전 상세 [[Jay's Knowledge Base/wiki/akkermansia-mechanisms\|akkermansia-mechanisms]], 임상 근거 [[Jay's Knowledge Base/wiki/akkermansia-clinical-evidence\|akkermansia-clinical-evidence]] 참조).
@@ -157,7 +157,7 @@ DXA(gold-standard)로 측정한 incretin 약물의 체성분 변화를 절대 kg
 - **탐색적 하위군**: 전당뇨군·63세 이상군에서 HOMA 기반 인슐린 감수성 개선(p=0.05), post-OGTT **GLP-1 excursion 증가**(p<0.01)
 - **responder = low baseline *Akkermansia***: 기저 *Akkermansia* 풍부도가 낮은 참가자에서 유의 개선(인슐린 감수성·GLP-1·체중 p=0.06, 체간지방 p<0.05)
 
-**시사점**: Mount 2026(체중 유지 1차 종결점 양성)과 대비되어 **1차 종결점(Matsuda index)이 음성**이었으나, **기저 *Akkermansia* 낮은 층에서의 반응성**과 **GLP-1 excursion 증가**는 살균 *A. muciniphila* 대사 중재에서 **low-baseline *Akkermansia* 층화**가 효능 검출의 열쇠일 수 있음을 시사한다. 단 Mount 2026은 기저 *Akkermansia* 풍부도와 심대사 반응의 **연관만 보고했을 뿐 방향을 명시하지 않았으므로**, 두 RCT를 같은 방향의 responder 신호로 합산해서는 안 된다 (방향이 반대인 Dao 2016 식이중재 코호트와의 대비 포함, 상세 → [[Jay's Knowledge Base/wiki/akkermansia-clinical-evidence\|akkermansia-clinical-evidence]]; cf. [[Jay's Knowledge Base/wiki/microbiome-analysis-technologies\|microbiome 진단]]).
+**시사점**: Mount 2026(체중 유지 1차 종결점 양성)과 대비되어 **1차 종결점(Matsuda index)이 음성**이었으나, **기저 *Akkermansia* 낮은 층에서의 반응성**과 **GLP-1 excursion 증가**는 살균 *A. muciniphila* 대사 중재에서 **low-baseline *Akkermansia* 층화**가 효능 검출의 열쇠일 수 있음을 시사한다. 단 Mount 2026은 기저 *Akkermansia* 풍부도와 심대사 반응의 **연관만 보고했을 뿐 방향을 명시하지 않았으므로**, 두 RCT를 같은 방향의 responder 신호로 합산해서는 안 된다 (방향이 반대인 Dao 2016 식이중재 코호트와의 대비 포함, 상세 → [[Jay's Knowledge Base/wiki/akkermansia-clinical-evidence\|akkermansia-clinical-evidence]]; cf. [[microbiome-analysis-technologies\|microbiome 진단]]).
 
 ### 운동-유도 체지방 감소의 미생물 매개 — *A. muciniphila* 축
 - 동물에서 유산소·중등도 운동이 일관되게 *A. muciniphila* 증가 + 다양성 증가 + 포도당 내성 개선 + 지방량 감소 유도
@@ -179,11 +179,11 @@ DXA(gold-standard)로 측정한 incretin 약물의 체성분 변화를 절대 kg
 
 ### 체중 *유지* 전략 비교 — 약물 vs 마이크로바이옴 (2026 *Nature Medicine* 두 RCT 통합)
 
-2026년 5월 13일 *Nature Medicine*에 체중 감량 후 **유지(weight-loss maintenance)**를 1차 결과로 설정한 두 RCT가 동시 게재되어, 비만 치료 패러다임이 *감량*에서 *유지*로 이동하는 분기점이 형성되었다. 이 두 연구를 체계적으로 비교 분석한 종합 리뷰([[Jay's Knowledge Base/raw/15-nature-medicine-2026-orforglipron-vs-akkermansia-muct-weight-maintenance-comparative\|raw/15-nature-medicine-2026-orforglipron-vs-akkermansia-muct-weight-maintenance-comparative]])는 다음을 정리한다.
+2026년 5월 13일 *Nature Medicine*에 체중 감량 후 **유지(weight-loss maintenance)**를 1차 결과로 설정한 두 RCT가 동시 게재되어, 비만 치료 패러다임이 *감량*에서 *유지*로 이동하는 분기점이 형성되었다. 이 두 연구를 체계적으로 비교 분석한 종합 리뷰([[Jay's Knowledge Base/raw/641-nature-medicine-2026-orforglipron-vs-akkermansia-muct-weight-maintenance-comparative\|raw/641-nature-medicine-2026-orforglipron-vs-akkermansia-muct-weight-maintenance-comparative]])는 다음을 정리한다.
 
 - **Orforglipron — ATTAIN-MAINTAIN** (phase 3b, n=376): 주사형 incretin(tirzepatide/semaglutide)으로 감량한 환자를 경구 비펩타이드 GLP-1RA로 전환 → 사전 감량의 74.7~79.3% 유지 (위약 37.6~49.2%). **대형 약리효과**, 약물 의존적, 처방의약품 (상세 → 본 문서 [[Jay's Knowledge Base/wiki/obesity-body-composition#경구 GLP-1 작용제로의 전환 유지 — Orforglipron ATTAIN-MAINTAIN (Aronne 2026, *Nature Medicine*)\|Orforglipron 항목]])
 - **Pasteurized *A. muciniphila* MucT** (n=90, 24주): 저열량식 ≥8% 감량 후 보충 → 체중 재증가 1.2 vs 3.2 kg (P=0.012), 순감량 3.1 kg 더 큼 (P=0.009). **소~중형 보조효과**, 비약물·무바늘, 기저 *Akkermansia* 풍부도가 심대사 반응성과 **연관**(원 보고는 연관만 기술하고 높을수록/낮을수록의 방향은 미명시) (상세 → 본 문서 [[Jay's Knowledge Base/wiki/obesity-body-composition#살균 *A. muciniphila* — 체중 감량 후 유지 RCT (Mount 2026, *Nature Medicine*)\|MucT 항목]])
-- **통합 해석**: 두 접근은 효과 크기(약물 ≫ 균주), 기전(GLP-1 수용체 직접 자극 vs 장-대사 축 조절), 대상, 규모에서 대비를 이루나 **경쟁이 아닌 상보 관계**. 향후 표준은 *주사 incretin으로 강력 감량 → 경구 GLP-1RA + 마이크로바이옴 보조 + 생활습관으로 평생 유지*라는 하이브리드·바이오마커 기반 개인화 모형으로 수렴할 가능성. 기저 microbiome / GLP-1 반응자 상태에 따른 층화([[Jay's Knowledge Base/wiki/microbiome-analysis-technologies\|microbiome 진단]])와 살균 *A. muciniphila* 기반 [[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|포스트바이오틱]]의 "post-injection maintenance" 카테고리 근거를 강화
+- **통합 해석**: 두 접근은 효과 크기(약물 ≫ 균주), 기전(GLP-1 수용체 직접 자극 vs 장-대사 축 조절), 대상, 규모에서 대비를 이루나 **경쟁이 아닌 상보 관계**. 향후 표준은 *주사 incretin으로 강력 감량 → 경구 GLP-1RA + 마이크로바이옴 보조 + 생활습관으로 평생 유지*라는 하이브리드·바이오마커 기반 개인화 모형으로 수렴할 가능성. 기저 microbiome / GLP-1 반응자 상태에 따른 층화([[microbiome-analysis-technologies\|microbiome 진단]])와 살균 *A. muciniphila* 기반 [[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|포스트바이오틱]]의 "post-injection maintenance" 카테고리 근거를 강화
 
 ### GLP-1 중단 후 체중 유지 — 근거 종합 (Moiz 2026)
 
@@ -249,7 +249,7 @@ UC San Diego Pritikin Intensive Cardiac Rehabilitation(ICR) 후향 코호트(n=4
 - PTER(phosphotriesterase-related)는 포식억제(anorexigenic) 대사체 N-acetyltaurine의 분해를 매개하는 amidohydrolase로, 기질 결합 포켓이 HDAC 계열과 구조적 유사성을 가진다는 것이 진핵 PTER 결정구조(apo/product-bound)에서 새롭게 규명됨
 - 이 유사성을 기반으로 nanomolar 효력·HDAC 대비 >100배 선택성을 갖는 기질경쟁형 억제제 **PTERi**를 first-in-class로 개발
 - Diet-induced obese 마우스 투여 시 **섭식량 감소**, **GLP1-RA 병용 시 체중 감량 강화**, **GLP1-RA 중단 후 체중 재증가(weight regain) 예방** 효과 확인 → GLP-1 중단 후 50% 이상 반등하는 임상 공백에 대응하는 신규 기전 제시 (Fu, 2026)
-- 비만 치료에서 **histone deacetylation(HDAC)과 metabolite deacetylation(PTER)을 병렬 개념 프레임워크**로 연결. SCFA의 HDAC 억제 기전([[Jay's Knowledge Base/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]])과 개념적 교차점
+- 비만 치료에서 **histone deacetylation(HDAC)과 metabolite deacetylation(PTER)을 병렬 개념 프레임워크**로 연결. SCFA의 HDAC 억제 기전([[short-chain-fatty-acids\|short-chain-fatty-acids]])과 개념적 교차점
 
 ---
 
@@ -273,7 +273,7 @@ UC San Diego Pritikin Intensive Cardiac Rehabilitation(ICR) 후향 코호트(n=4
 - [[Jay's Knowledge Base/raw/509-feng-2025-investigating-the-role-of-akkermansia-muciniphila\|raw/509-feng-2025-investigating-the-role-of-akkermansia-muciniphila]] — 영아 분리주 *A. muciniphila* Akk11 (생균·살균) HFD 비만 마우스 보호, 균주별 SCFA 프로파일 (부티르산↑ vs 프로피온산↑)
 - [[Jay's Knowledge Base/raw/518-mount-2026-pasteurized-akkermansia-muciniphila-muct-for-weight\|raw/518-mount-2026-pasteurized-akkermansia-muciniphila-muct-for-weight]] — 살균 *A. muciniphila* MucT 체중 감량 유지 RCT (과체중·비만 성인 n=90, 24주): 체중 재증가 억제(1.2 vs 3.2 kg, P=0.012)·순 체중 감량 3.1 kg 더 큼(P=0.009)·기저 *Akkermansia* 풍부도와 심대사 반응 연관 (*Nature Medicine* 2026, NCT05417360)
 - [[Jay's Knowledge Base/raw/519-aronne-2026-orforglipron-for-maintenance-of-body-weight-reduction\|raw/519-aronne-2026-orforglipron-for-maintenance-of-body-weight-reduction]] — **Orforglipron(경구 비펩타이드 GLP-1RA) ATTAIN-MAINTAIN phase 3b RCT** (n=376, 52주, *Nature Medicine* 2026): 주사 GLP-1RA(tirzepatide/semaglutide) 감량 후 경구 전환 시 체중 감량 **74.7~79.3% 유지** vs 위약 37.6~49.2% (P<0.001), 주사 중단 후 반등 공백을 약리학적으로 충족하는 첫 phase 3b 데이터 (NCT06584916)
-- [[Jay's Knowledge Base/raw/15-nature-medicine-2026-orforglipron-vs-akkermansia-muct-weight-maintenance-comparative\|raw/15-nature-medicine-2026-orforglipron-vs-akkermansia-muct-weight-maintenance-comparative]] — Orforglipron(ATTAIN-MAINTAIN) vs 살균 *A. muciniphila* MucT(Mount 2026) **체중 유지 전략 비교 분석 리뷰**: 두 2026 *Nature Medicine* RCT의 효과 크기·기전·대상·규제 경로 체계적 대비, 약물–마이크로바이옴 상보 및 바이오마커 기반 개인화 maintenance 청사진
+- [[Jay's Knowledge Base/raw/641-nature-medicine-2026-orforglipron-vs-akkermansia-muct-weight-maintenance-comparative\|raw/641-nature-medicine-2026-orforglipron-vs-akkermansia-muct-weight-maintenance-comparative]] — Orforglipron(ATTAIN-MAINTAIN) vs 살균 *A. muciniphila* MucT(Mount 2026) **체중 유지 전략 비교 분석 리뷰**: 두 2026 *Nature Medicine* RCT의 효과 크기·기전·대상·규제 경로 체계적 대비, 약물–마이크로바이옴 상보 및 바이오마커 기반 개인화 maintenance 청사진
 - [[Jay's Knowledge Base/raw/537-davies-2026-the-paradox-and-future-of-glp-1gip-combination\|raw/537-davies-2026-the-paradox-and-future-of-glp-1gip-combination]] — GLP-1/GIP 이중 표적 incretin 약물(tirzepatide, maridebart cafraglutide) 효능·기전 종설, GIPR 작용/길항 패러독스 (*Annu. Rev. Nutr.* 2026)
 - [[Jay's Knowledge Base/raw/538-jennings-2026-body-composition-changes-in-patients-on-glp-1-receptor\|raw/538-jennings-2026-body-composition-changes-in-patients-on-glp-1-receptor]] — Pritikin ICR 후향 코호트, 운동·영양 통합 시 GLP-1 RA 사용군 SMM 변화 비사용군과 무차이 (*Eur. J. Prev. Cardiol.* 2026)
 - [[Jay's Knowledge Base/raw/546-moiz-2026-weight-maintenance-after-discontinuation-of-glp-1\|raw/546-moiz-2026-weight-maintenance-after-discontinuation-of-glp-1]] — GLP-1 치료 중단 후 체중 유지 근거 종합, "post-injection maintenance" 문제 공간 규정 (*eClinicalMedicine* 2026)
@@ -299,11 +299,11 @@ UC San Diego Pritikin Intensive Cardiac Rehabilitation(ICR) 후향 코호트(n=4
 
 ## 관련 wiki 링크
 
-- [[Jay's Knowledge Base/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]] — SCFAs의 대사·면역 조절 기전
-- [[Jay's Knowledge Base/wiki/dysbiosis\|dysbiosis]] — 장내 미생물 불균형과 비만
+- [[short-chain-fatty-acids\|short-chain-fatty-acids]] — SCFAs의 대사·면역 조절 기전
+- [[dysbiosis\|dysbiosis]] — 장내 미생물 불균형과 비만
 - [[Jay's Knowledge Base/wiki/gut-microbiome-and-disease\|gut-microbiome-and-disease]] — 장내 미생물과 질병 관계 종합
 - [[Jay's Knowledge Base/wiki/akkermansia-muciniphila\|akkermansia-muciniphila]] — 비만 조절 핵심 균주
-- [[Jay's Knowledge Base/wiki/bacteroides-uniformis\|bacteroides-uniformis]] — 비만/NASH 개선 효과의 NGP 균주
+- [[bacteroides-uniformis\|bacteroides-uniformis]] — 비만/NASH 개선 효과의 NGP 균주
 - [[Jay's Knowledge Base/wiki/glp1-muscle-loss\|glp1-muscle-loss]] — GLP-1 유도 체성분 변화
 - [[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]] — 바이오틱스를 통한 비만 중재
-- [[Jay's Knowledge Base/wiki/roseburia-intestinalis\|roseburia-intestinalis]] — 부티르산 생산 균주와 대사 조절
+- [[roseburia-intestinalis\|roseburia-intestinalis]] — 부티르산 생산 균주와 대사 조절

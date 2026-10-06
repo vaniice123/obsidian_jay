@@ -211,6 +211,13 @@ Mendias & Awan (2026, *Obesity Pillars*, DOI 10.1016/j.obpill.2026.100317, [[Jay
 
 **시사점 — 「LBM 감소 = 근손실」 등치의 위험**: 이는 위 「[[Jay's Knowledge Base/wiki/glp1-muscle-loss#근질량 감소 vs 근기능 보존의 해리 (Świerczek 2026)\|질량–기능 해리]]」의 실사용(real-world) 사례인 동시에, **LBM이라는 노출 지표 자체의 오측정** 문제를 드러낸다. DXA/BIA의 lean mass는 근육이 아니라 장기·결합조직·체액을 포함한 비근육 제지방까지 합산하므로, LBM 감소분을 그대로 근손실로 읽으면 **과대 추정**된다. Oh et al. (2026, *Ageing Research Reviews*, [[Jay's Knowledge Base/raw/630-oh-2026-the-force-producing-fraction-muscle-quality-as-a\|raw/630-oh-2026-the-force-producing-fraction-muscle-quality-as-a]])은 이를 **「노출의 오측정 — DXA lean mass는 근육이 아니다」** 로 정식화하고, 나아가 **보행속도·SPPB의 최소검출변화량(MDC)이 그 자신의 임상적 유의 변화 합의 기준을 초과한다**는 **「결과의 오측정」** 문제까지 지적하며 **질량 매칭(mass-matched) 시험 설계**를 제안했다. 즉 companion 후보물의 임상 설계에서는 **근량 지표와 기능 지표가 모두 측정 특성의 한계를 안고 있음**을 전제해야 하며, 단일 지표 개선만으로 규제·임상적 설득력을 확보하기 어렵다 (상세 [[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]]·[[Jay's Knowledge Base/wiki/gut-muscle-axis\|gut-muscle-axis]])
 
+### 감량 식이 중 크레아틴 보충 — 제지방 보존의 저비용 영양 수단 (Chun 2026)
+
+Chun et al. (2026, *J. Int. Soc. Sports Nutr.*, [[Jay's Knowledge Base/raw/637-chun-2026-effects-of-creatine-supplementation-with-and-without\|raw/637-chun-2026-effects-of-creatine-supplementation-with-and-without]])은 45~65세 비활동 성인 64명을 대상으로 한 12주 이중맹검 RCT(ISRCTN83081058)에서 **크레아틴 일수화물 2×5 g/일**이 위약 대비 **제지방량·근력·근지구력을 높인다**고 보고했다. 특히 **운동 + 감량 식이를 병행한 군**에서 크레아틴은 제지방량을 늘리면서 **체지방률을 더 크게 줄였다** — 「감량하면서 근육은 지킨다」는 GLP-1RA 근손실 대응의 목표와 같은 방향이다.
+
+- ⚠️ **한계**: GLP-1RA 사용자가 아닌 **식이 기반 감량**이고, 대상이 건강한 중년이다. 인지·바이오마커 결과는 저자 스스로 탐색적이라고 밝혔다. GLP-1RA 병용 시의 효과는 직접 검증되지 않았다.
+- 💡 **companion 관점**: 단백질 섭취(Prokopidis 2026)·운동(Jennings 2026)과 함께 **근거가 축적된 저비용 영양 중재**로서, 마이크로바이옴 기반 companion의 **비교 대조(benchmark) 또는 병용 파트너** 후보. 상세 [[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]]
+
 ---
 
 ## GLP-1 Companion 서플리먼트 시장
@@ -237,7 +244,7 @@ GLP-1RA **부작용 연구 자체가 빠르게 성장** 중. Scopus 기반 서�
 
 항체 의약품($수천/월)과 달리 포스트바이오틱([[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]]) companion은:
 - 경구, 1/100 비용, 비면역원성
-- [[Jay's Knowledge Base/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]] (SCFA) → Akt/mTOR 활성화로 SMAD2/3 매개 근위축에 대항
+- [[short-chain-fatty-acids\|short-chain-fatty-acids]] (SCFA) → Akt/mTOR 활성화로 SMAD2/3 매개 근위축에 대항
 - 장 장벽 강화 → LPS 전위 감소 → myostatin 발현 유도 염증 차단
 - [[Jay's Knowledge Base/wiki/akkermansia-muciniphila\|akkermansia-muciniphila]]의 세포외소포가 C2C12 근아세포에서 S6K1, 4EBP1 인산화 직접 활성화
 - 살균 *A. muciniphila* RCT에서 follistatin 유의 상승(myostatin 격리), 하지 근력·peak torque 개선 (RCT 1·2)
@@ -302,6 +309,16 @@ ActRII 차단(근단백 분해 억제)·SCFA(근단백 합성 촉진) 외에, **
 - **PGDHi × semaglutide 시너지**: 체중 감량을 훼손하지 않으면서 손상 후 근육의 질·force 개선
 
 **포지셔닝 의의**: ActRII 차단 항체(근단백 분해 차단)나 포스트바이오틱(follistatin↑·SCFA·EV)이 주로 **근위축 억제·근단백 항상성**을 겨냥하는 반면, PGDHi는 **prostaglandin(PGE2) 신호를 통한 근육 줄기세포 활성화·재생**이라는 **상보적(complementary) 기전 축**을 제공한다. GLP-1RA 근손실 대응 전략이 단일 경로가 아닌 다축(multi-axis) 병용으로 확장될 수 있음을 시사.
+
+### 지방 열생성 활성화 — Zfp423 ASO로 「감량의 질」 개선 (Thorne 2026)
+
+근육을 직접 표적하는 대신 **지방조직의 에너지 소비를 늘려 감량을 지방 쪽으로 몰아주는** 별도의 축이 제시됐다. Thorne et al. (2026, *PNAS*, [[Jay's Knowledge Base/raw/638-thorne-2026-an-rna-thermogenic-therapy-to-preserve-lean-mass-and\|raw/638-thorne-2026-an-rna-thermogenic-therapy-to-preserve-lean-mass-and]])은 GLP-1RA 감량이 **에너지 소비 감소·제지방 손실·중단 후 지방 위주의 빠른 재증가**를 동반한다는 문제에서 출발해, 식이유도 열생성(diet-induced thermogenesis)을 조절하는 전사 억제인자 **ZFP423**(갈색·베이지 지방세포 정체성의 억제자)을 표적하는 **지방조직 지향 안티센스 올리고뉴클레오타이드(ASO)**를 개발했다.
+
+- 마른 마우스와 식이유도 비만 마우스에서 **주 1회 Zfp423 ASO** → 백색지방 **베이지화(beiging)**, 체온·산소 소비↑, 포도당 항상성·인슐린 감수성·지질 대사·미토콘드리아 호흡 개선, 지방간 완화
+- **semaglutide 병용** 시 어느 단독요법보다 **체중·지방 감량이 크면서 제지방량은 보존**되고 대사 지표도 개선
+- **포지셔닝 의의**: GLP-1RA는 식욕을 줄이고(섭취↓), Zfp423 ASO는 에너지 소비를 늘린다(소비↑) — **기전이 겹치지 않는 상보적 병용**. ActRII 차단(근분해 억제)·15-PGDH 억제(근재생)가 「근육을 지키는」 전략이라면, 이 접근은 「감량분에서 근육이 차지하는 몫을 줄이는」 전략이다. ⚠️ 마우스 전임상 단계이고 ASO 지방 표적 전달의 인체 적용성은 미검증.
+
+> 📌 **근감소증 신약 파이프라인 전체 맥락**: Ancel et al. (2026, *Nature Reviews Drug Discovery*, [[Jay's Knowledge Base/raw/633-ancel-2026-strengthening-muscle-for-healthy-ageing-innovative\|raw/633-ancel-2026-strengthening-muscle-for-healthy-ageing-innovative]])은 **GLP-1RA 감량제와 근육 보존 약물의 병용 임상이 급증**하고 있음을 짚으며, 근육 표적 약리 축을 미토콘드리아(NAD⁺·urolithin A)·자가포식(mTORC1 억제)·동화(myostatin 억제)·SARM·혈관화(VEGF·apelin)·염증노화 억제·신경지배/재생(15-PGDH 억제)의 7개로 정리했다. 상세 [[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]]
 
 ### 내인성 GLP-1 분비 자극 — 별도의 차별 기전 (Yoon 2021 foundational)
 
@@ -386,8 +403,8 @@ Eli Lilly의 **orforglipron** (경구·1일 1회·비펩타이드 GLP-1 작용�
 
 - [[Jay's Knowledge Base/wiki/gut-muscle-axis\|gut-muscle-axis]] — 장-근육 축 기전 상세
 - [[Jay's Knowledge Base/wiki/akkermansia-muciniphila\|akkermansia-muciniphila]] — Akkermansia 기반 GLP-1 companion 포지셔닝
-- [[Jay's Knowledge Base/wiki/microbiome-therapeutics\|microbiome-therapeutics]] — 마이크로바이옴 치료제 전체 동향
-- [[Jay's Knowledge Base/wiki/dysbiosis\|dysbiosis]] — 디스바이오시스와 근감소증의 악순환
+- [[microbiome-therapeutics\|microbiome-therapeutics]] — 마이크로바이옴 치료제 전체 동향
+- [[dysbiosis\|dysbiosis]] — 디스바이오시스와 근감소증의 악순환
 
 ## 출처
 
@@ -419,13 +436,16 @@ Eli Lilly의 **orforglipron** (경구·1일 1회·비펩타이드 GLP-1 작용�
 - [[Jay's Knowledge Base/raw/604-quan-2026-nutritional-intake-changes-during-glp-1-receptor\|raw/604-quan-2026-nutritional-intake-changes-during-glp-1-receptor]] — GLP-1/이중 GIP-GLP-1 작용제의 객관적 식이 섭취 변화 체계적 문헌고찰(16편)·메타분석(3개 시험 4 arm, 209명, *Diabetes & Metabolic Syndrome* 2026): 표준화 ad libitum 점심 에너지 섭취 **−1132 kJ(≈−271 kcal, 95% CI −1449~−815, I²=0%)**, semaglutide vs tirzepatide 차이 무의미(p=0.154), 습관적 섭취는 여전히 미보고 → 충분한 단백질 강조 영양 상담 권고. 식욕억제형 감량의 상류 정량 근거
 - [[Jay's Knowledge Base/raw/556-nalbandian-2026-15-pgdh-inhibition-promotes-muscle-repair-and-strength\|raw/556-nalbandian-2026-15-pgdh-inhibition-promotes-muscle-repair-and-strength]] — 15-PGDH 억제제(PGDHi)가 semaglutide 병용 시 근육 줄기세포 기능·근섬유 성장을 자극해 손상 후 근육 재생·근력을 회복, 체중 감량 훼손 없이 GLP-1 유도 근손실에 대응 (*PNAS* 2026): ActRII·SCFA 축과 상보적인 prostaglandin/MuSC 재생 축
 - [[Jay's Knowledge Base/raw/609-fischer-2026-beyond-glp-1-amylin-based-pharmacotherapy-and-the\|raw/609-fischer-2026-beyond-glp-1-amylin-based-pharmacotherapy-and-the]] — Amylin 기반 약물요법 종설 (*Pharmacological Research* 2026, DOI 10.1016/j.phrs.2026.108382): 인슐린 공동분비 β세포 호르몬 amylin의 위배출 지연·글루카곤 억제·중추 포만 기전, 장기지속형 cagrilintide·eloralintide·petrelintide·NN1213, 선택적 amylin 수용체 작용제 ↔ amylin/calcitonin 이중 작용제 스펙트럼, 후뇌·팔곁핵 회로와 오심/혐오 신호. **체중감량 효능과 위장관 내약성의 분리**가 차세대 항비만 약물 설계 목표. ※ 체성분·근기능 결과변수는 보고 범위 외
+- [[Jay's Knowledge Base/raw/638-thorne-2026-an-rna-thermogenic-therapy-to-preserve-lean-mass-and\|raw/638-thorne-2026-an-rna-thermogenic-therapy-to-preserve-lean-mass-and]] — 지방조직 지향 **Zfp423 ASO**(갈색·베이지 지방 정체성 억제자 ZFP423 표적 RNA 치료제)가 백색지방 베이지화·에너지 소비↑로 대사 개선, **semaglutide 병용 시 단독 대비 체중·지방 감량↑ + 제지방 보존** (*PNAS* 2026, DOI 10.1073/pnas.2618845123, 마우스 전임상)
+- [[Jay's Knowledge Base/raw/633-ancel-2026-strengthening-muscle-for-healthy-ageing-innovative\|raw/633-ancel-2026-strengthening-muscle-for-healthy-ageing-innovative]] — 근감소증 신약 개발 종설 (*Nature Reviews Drug Discovery* 2026): 근육 표적 7개 약리 축, **GLP-1RA + 근육 보존제 병용 임상 급증** 지적
 
 ### 비약물적 완화 전략 — 단백질·정밀영양·운동
 - [[Jay's Knowledge Base/raw/618-prokopidis-2026-risk-of-protein-intake-deficiency-during-treatment\|raw/618-prokopidis-2026-risk-of-protein-intake-deficiency-during-treatment]] — GLP-1 및 이중 GIP/GLP-1 수용체 작용제 치료 중 단백질 섭취 부족 위험과 **이차성 근감소증(secondary sarcopenia)** 종설 (*Advances in Therapy* 2026, DOI 10.1007/s12325-026-03750-w): liraglutide는 단백질을 총 에너지의 **약 13.9~17.5%** 비율로 유지하나 전반적 칼로리 제한으로 **절대 섭취량 감소** 가능 — 강력한 식욕 억제일수록 위험 증가. 비율 보존만으로는 고령자 근단백 합성 자극 역치 충족 불가. 상세 식이평가·체성분·기능 결과를 포함한 장기 시험 필요
 - [[Jay's Knowledge Base/raw/619-ruga-2026-integrating-precision-nutrition-with-glp-1-receptor\|raw/619-ruga-2026-integrating-precision-nutrition-with-glp-1-receptor]] — 정밀영양(precision nutrition)과 GLP-1 RA 치료의 통합: 기전·임상 결과·약물경제학 종설 (*Pharmaceuticals* 2026, 19(8):1230, DOI 10.3390/ph19081230). 단백질 최적화(제지방 보존)·미량영양소 충분성·**마이크로바이오타 조절**·항염 식이·위장관 증상 관리 5개 도메인 + nutrigenomics·metabolomics·microbiome 층화·디지털 헬스·AI 기반 **약물대사적 개인화**. ⚠️ 통합 전략의 전향적 임상시험 직접 근거는 제한적, 대부분 간접 근거
 - [[Jay's Knowledge Base/raw/622-świerczek-2026-glp-1-ras-and-muscle-function-outcomes-in-active\|raw/622-świerczek-2026-glp-1-ras-and-muscle-function-outcomes-in-active]] — 활동적 성인·레크리에이션 운동선수에서 GLP-1 RA와 **근기능** 결과 서술적 종설 (*Quality in Sport* 2026, DOI 10.12775/QS.2026.66.73870, PubMed·EMBASE·Cochrane 2019–2026): 골격근량은 일관되게 감소하나 **악력 보존~경미한 감소, 보행속도 대체로 무영향, VO₂max는 운동 병행 시 개선** — **근질량 감소와 근기능 보존의 해리(dissociation)**. 운동 처방의 약물요법 통합 권고, 활동적 인구 과소대표·전용 RCT 필요
-
 - [[Jay's Knowledge Base/raw/629-mendias-2026-increasing-skeletal-muscle-mass-and-strength-during\|raw/629-mendias-2026-increasing-skeletal-muscle-mass-and-strength-during]] — incretin 기반 감량 중 골격근량·근력 증가 후향 케이스 시리즈 (Mendias & Awan, *Obesity Pillars* 2026, DOI 10.1016/j.obpill.2026.100317): 테스토스테론 결핍 비만 남성 93명에 **주 1회 tirzepatide + 테스토스테론 시피오네이트 + 저항운동·단백질 코칭** 12개월 — 체중 −20.9~22.6 kg·지방 −16.6~17.1 kg·**LBM −4.0~6.1 kg인데 BIA SMM +1.6~3.7 kg·악력 +5.7~7.1 kg**, HbA1c 10.1→5.8%(T2DM군), hs-CRP −43~53%. 저자 해석은 **비근육 제지방의 불균형 소실**. ⚠️ 비대조·다중요소 설계로 성분별 귀속 불가, BIA 정밀도 한계
+- [[Jay's Knowledge Base/raw/637-chun-2026-effects-of-creatine-supplementation-with-and-without\|raw/637-chun-2026-effects-of-creatine-supplementation-with-and-without]] — 45~65세 64명 12주 이중맹검 RCT (*J. Int. Soc. Sports Nutr.* 2026, ISRCTN83081058): 크레아틴 2×5 g/일이 운동·식이 중재 유무와 무관하게 제지방량·근력·근지구력↑, **감량 식이 병행 시 체지방률 감소폭↑**. GLP-1RA 병용은 미검증
+
 ### 모니터링 중 (초록 미확보)
 - [[Jay's Knowledge Base/raw/610-gonzalez-rellan-2026-weight-loss-independent-actions-of-glp-1-medicines\|raw/610-gonzalez-rellan-2026-weight-loss-independent-actions-of-glp-1-medicines]] — GLP-1 계열 약물의 체중감소 비의존적(weight-loss-independent) 작용 (Gonzalez-Rellan & Drucker, *Cell Metabolism* 2026, DOI 10.1016/j.cmet.2026.07.006). **초록 미확보 · 모니터링** — 서지사항만 확보, 내용 인용 불가
 - [[Jay's Knowledge Base/raw/615-maltese-2026-reappraisal-of-glp-1-receptor-agonists-in-older-adults\|raw/615-maltese-2026-reappraisal-of-glp-1-receptor-agonists-in-older-adults]] — 고령자에서의 GLP-1 수용체 작용제 재평가 (Maltese, Koufakis & Popovic, *Trends in Endocrinology & Metabolism* 2026, DOI 10.1016/j.tem.2026.07.009). **초록 미확보 · 모니터링** — 서지사항만 확보, 내용 인용 불가
