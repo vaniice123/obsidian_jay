@@ -100,3 +100,7 @@ NGP를 생물치료제(Live Bio-Therapeutics, LBP)로 개발하는 경로와 상
 - [[Jay's Knowledge Base/wiki/microbiome-therapeutics\|microbiome-therapeutics]]
 - [[Jay's Knowledge Base/wiki/lbp-regulatory-cmc\|lbp-regulatory-cmc]]
 - [[Jay's Knowledge Base/wiki/bioprocess-engineering\|bioprocess-engineering]]
+
+**추가 출처 (2026-10 정리)**:
+- [[Jay's Knowledge Base/raw/634-scudino-2026-chocolate-dairy-dessert-as-a-robust-carrier-for-the\|raw/634-scudino-2026-chocolate-dairy-dessert-as-a-robust-carrier-for-the]] — NGP *A. muciniphila* **생균**을 초콜릿 유제품 디저트에 탑재: 호기 냉장 28일 생존, 모사 위장관 감소 0.9~1.5 log CFU/g (*Food Bioscience* 2026) — NGP 식품 적용성의 사례. 상세 [[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]]
+- [[Jay's Knowledge Base/raw/636-li-2026-ultrasound-treated-akkermansia-muciniphila\|raw/636-li-2026-ultrasound-treated-akkermansia-muciniphila]] — *A. muciniphila* 포스트바이오틱 대장 표적 펠릿 (*Food Bioscience* 2026)

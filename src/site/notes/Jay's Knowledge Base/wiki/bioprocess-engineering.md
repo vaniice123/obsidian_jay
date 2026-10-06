@@ -58,3 +58,6 @@
 - [[Jay's Knowledge Base/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]]
 - [[Jay's Knowledge Base/wiki/microbiome-therapeutics\|microbiome-therapeutics]]
 - [[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]]
+
+**추가 출처 (2026-10 정리)**:
+- [[Jay's Knowledge Base/raw/636-li-2026-ultrasound-treated-akkermansia-muciniphila\|raw/636-li-2026-ultrasound-treated-akkermansia-muciniphila]] — *A. muciniphila* 포스트바이오틱의 **초음파 보조 열불활성화(U300W)** 공정이 대사체 조성을 바꾸고, 압출–구형화 + 부티릴화 전분 코팅으로 **대장 표적 펠릿**을 제조 (*Food Bioscience* 2026). 상세 [[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]]

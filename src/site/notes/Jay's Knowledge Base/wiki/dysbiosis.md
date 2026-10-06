@@ -39,3 +39,14 @@
 - 항생제 사용 최소화
 
 **출처**: [[Jay's Knowledge Base/raw/01-microbiome-health-disease-overview\|raw/01-microbiome-health-disease-overview]], [[Jay's Knowledge Base/raw/03-gut-immune-brain-axis\|raw/03-gut-immune-brain-axis]], [[Jay's Knowledge Base/raw/04-gut-muscle-axis-sarcopenia\|raw/04-gut-muscle-axis-sarcopenia]]
+
+## 관련 문헌 (2026-10 정리 — 디스바이오시스가 핵심 주제인 raw 문헌)
+- [[Jay's Knowledge Base/raw/41-mendes-2023-inflammatory-bowel-disease-and-sarcopenia-a-focu\|raw/41-mendes-2023-inflammatory-bowel-disease-and-sarcopenia-a-focu]] — IBD와 근감소증 — 근력 중심 서술적 리뷰
+- [[Jay's Knowledge Base/raw/43-aguwa-2023-targeting-dysbiosis-in-psoriasis-atopic-dermatiti\|raw/43-aguwa-2023-targeting-dysbiosis-in-psoriasis-atopic-dermatiti]] — 건선·아토피피부염·화농성 한선염에서 디스바이오시스 표적 치료 (cf. [[Jay's Knowledge Base/wiki/gut-skin-axis\|gut-skin-axis]])
+- [[Jay's Knowledge Base/raw/69-kranyak-2024-the-mediterranean-diet-as-a-potential-solution\|raw/69-kranyak-2024-the-mediterranean-diet-as-a-potential-solution]] — 지중해식 식단과 장내 디스바이오시스 교정
+- [[Jay's Knowledge Base/raw/118-ryguła-2024-the-role-of-the-gut-microbiome-and-microbial-dys\|raw/118-ryguła-2024-the-role-of-the-gut-microbiome-and-microbial-dys]] — 흔한 피부질환에서 장내 미생물·디스바이오시스의 역할 (cf. [[Jay's Knowledge Base/wiki/gut-skin-axis\|gut-skin-axis]])
+- [[Jay's Knowledge Base/raw/169-ambat-enhancing-recovery-from-gut-microbiome-dysbiosis-and-a\|raw/169-ambat-enhancing-recovery-from-gut-microbiome-dysbiosis-and-a]] — DSS 대장염 모델에서 디스바이오시스 회복 촉진
+- [[Jay's Knowledge Base/raw/248-birebent-2025-surrogate-markers-of-intestinal-dysfunction-as\|raw/248-birebent-2025-surrogate-markers-of-intestinal-dysfunction-as]] — 진행암 환자 생존과 연관된 장 기능장애 대리지표
+- [[Jay's Knowledge Base/raw/509-feng-2025-investigating-the-role-of-akkermansia-muciniphila\|raw/509-feng-2025-investigating-the-role-of-akkermansia-muciniphila]] — *A. muciniphila* Akk11의 비만·디스바이오시스 조절 (cf. [[Jay's Knowledge Base/wiki/obesity-body-composition\|obesity-body-composition]])
+- [[Jay's Knowledge Base/raw/533-nagamine-2026-the-gut-muscle-axis-in-sarcopenia-from-parallel-aging\|raw/533-nagamine-2026-the-gut-muscle-axis-in-sarcopenia-from-parallel-aging]] — 근감소증의 장-근육 축 — 병행 노화에서 자기영속 악순환으로 (Nagamine 2026, cf. [[Jay's Knowledge Base/wiki/gut-muscle-axis\|gut-muscle-axis]])
+- [[Jay's Knowledge Base/raw/551-cappella-2026-rethinking-probiotics-breaking-the-lactobacillus\|raw/551-cappella-2026-rethinking-probiotics-breaking-the-lactobacillus]] — *Lactobacillus*–*Bifidobacterium* 이원 지배를 넘어선 프로바이오틱스 재고 (cf. [[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]])
