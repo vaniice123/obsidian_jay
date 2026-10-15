@@ -38,6 +38,7 @@ EFSA의 QPS(Qualified Presumption of Safety) 시스템은 식품 및 사료에 �
 - **불활성화 공정 = 품질 속성 — 실제 데이터 (Li 2026)**: 같은 *A. muciniphila*라도 **초음파 보조 열불활성화(U300W)** 제품은 일반 열불활성화품과 **대사체 조성이 달랐다**(아미노산·hypoxanthine·유기산 유도체 풍부) ([[Jay's Knowledge Base/raw/636-li-2026-ultrasound-treated-akkermansia-muciniphila\|raw/636-li-2026-ultrasound-treated-akkermansia-muciniphila]]). 위 Anjum & Ouwehand의 「불활성화 온도·시간 문서화」 요구를 뒷받침하는 사례로, **공정 변경 시 동등성(comparability) 입증**이 CMC 3.2.S의 과제가 됨을 보여준다
 - **국가별 균주 승인 목록의 장벽 — 중국 (Zeng 2026)**: *A. muciniphila*가 **중국 「식품용 미생물 균주 승인 목록」에 등재되지 않아** 중국 내 임상이 드물었다고 RCT 저자들이 명시 ([[Jay's Knowledge Base/raw/635-zeng-2026-adjunctive-akkermansia-muciniphila-postbiotic\|raw/635-zeng-2026-adjunctive-akkermansia-muciniphila-postbiotic]]). EFSA(살균형 novel food 승인)·FDA NDI와 달리 **중국 시장 진입에는 별도의 균주 등재 절차**가 선행돼야 함을 시사
 - **생균 식품 제형의 규제 공백 (Scudino 2026)**: 초콜릿 유제품 디저트에 *A. muciniphila* **생균**을 탑재한 연구가 나왔으나([[Jay's Knowledge Base/raw/634-scudino-2026-chocolate-dairy-dessert-as-a-robust-carrier-for-the\|raw/634-scudino-2026-chocolate-dairy-dessert-as-a-robust-carrier-for-the]]), EFSA novel food 승인은 **살균형**에 한정된다 → 생균 식품은 별도 안전성 평가(점액 분해 우려 포함)가 필요
+- **균종 단위 연구 방법론 표준화 — *A. muciniphila* (Chen & Qiu, *Gut Medicine*)**: 분리·배양 / 검출·정량 / 기능 평가 / 모델 시스템 / 임상 설계의 **5개 방법론 모듈**로 실행 가능한 평가·번역 프레임워크를 제시한 종설 ([[Jay's Knowledge Base/raw/646-chen-unknown-standardized-research-methodology-for-akkermansia\|raw/646-chen-unknown-standardized-research-methodology-for-akkermansia]], 출판 연도 **확인 필요**). 안전성·**AMR**·위장관 내약성·**장기 정착(colonization) 위험**에 대한 통일 기준과 **생균·살균·포스트바이오틱 제형의 비교 평가** 기준을 포함하고, 번역에 **필수인 근거**와 **점진적으로 축적되는 기전 근거**를 구분한다 → 살균형 *A. muciniphila* 기반 제품의 IND/NDI 자료 패키지에서 「무엇이 필수이고 무엇이 보강 근거인가」를 정리하는 체크리스트로 활용 가능 (추정 — 규제 당국이 이 프레임을 채택했다는 근거는 없음)
 
 ## 관련 raw/ 소스
 
@@ -72,6 +73,7 @@ EFSA의 QPS(Qualified Presumption of Safety) 시스템은 식품 및 사료에 �
 - [[Jay's Knowledge Base/raw/636-li-2026-ultrasound-treated-akkermansia-muciniphila\|raw/636-li-2026-ultrasound-treated-akkermansia-muciniphila]] — 초음파 보조 열불활성화 공정이 *A. muciniphila* 포스트바이오틱의 대사체 조성을 바꿈 (*Food Bioscience* 2026)
 - [[Jay's Knowledge Base/raw/635-zeng-2026-adjunctive-akkermansia-muciniphila-postbiotic\|raw/635-zeng-2026-adjunctive-akkermansia-muciniphila-postbiotic]] — PMOS RCT; 중국 식품용 균주 승인 목록 미등재가 임상 장벽임을 명시 (*Clinical Nutrition* 2026)
 - [[Jay's Knowledge Base/raw/634-scudino-2026-chocolate-dairy-dessert-as-a-robust-carrier-for-the\|raw/634-scudino-2026-chocolate-dairy-dessert-as-a-robust-carrier-for-the]] — *A. muciniphila* 생균 식품 제형(유제품 디저트) (*Food Bioscience* 2026)
+- [[Jay's Knowledge Base/raw/646-chen-unknown-standardized-research-methodology-for-akkermansia\|raw/646-chen-unknown-standardized-research-methodology-for-akkermansia]] — *A. muciniphila* 연구 방법론 표준화 5개 모듈 프레임워크: LBP 규제 경로·안전성/AMR/장기 정착 기준·생균/살균/포스트바이오틱 비교 평가 (*Gut Medicine*, 연도 확인 필요)
 
 ## 관련 wiki 링크
 

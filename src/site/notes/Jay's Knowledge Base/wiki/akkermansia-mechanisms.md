@@ -147,6 +147,20 @@ Wang 2020(Amuc_1100 → CD8⁺ CTL)·Xu 2024(C15:0)·Zhang 2023(트립토판/AhR
 - **본 절 서술에 대한 함의**: 기존의 「TLR2 → 항염 사이토카인」·「Treg 분화 촉진」·「AmTARS → M2 분극」 서술에 대해, **장상피 세포의 대사 센서(AMPK/SIRT1)를 상류 노드로** 하는 후보 축을 보태고 작용 경로를 **장-면역-뇌 축(gut–immune–brain axis)** 으로 확장한다 ([[Jay's Knowledge Base/wiki/gut-brain-axis\|gut-brain-axis]]; cf. Abot 2023의 살균형 장-뇌 축 혈당 개선, Chen 2026 AmEV의 해마 도달).
 - **해석 주의**: 초록이 시종일관 **"associated with" · "linked to" 등 연관(association) 표현**을 신중하게 사용하며 인과를 단정하지 않는다(SIRT1 억제·IL-17 결손 조건이 포함되었음에도 결론은 "contributory ... network"에 머문다) → 본 문서에서도 **기전 가설 수준**으로 취급한다 (cf. 위 Chen 2026 AKK PROBIO 항목의 동일한 프레이밍 주의).
 
+#### IBD 자가포식(autophagy) 유전자 ATG5·ATG16L1 조절 — 생균 vs EV의 용량–반응 차이 (Kazemifard 2026)
+
+Kazemifard, Farmani, Basiji et al. (2026, *Scientific Reports*, DOI 10.1038/s41598-026-75310-9, [[Jay's Knowledge Base/raw/648-kazemifard-2026-modulation-of-dysregulated-atg5-and-atg16l1-expression\|raw/648-kazemifard-2026-modulation-of-dysregulated-atg5-and-atg16l1-expression]])은 자가포식소체 형성의 핵심 유전자 **ATG5·ATG16L1**(ATG16L1은 크론병 감수성 유전자로 알려짐)을 축으로 *A. muciniphila* 생균과 그 **세포외소포(EV)** 의 작용을 비교했다.
+
+| 구분 | 관찰 |
+|---|---|
+| 환자 조직 (real-time PCR) | UC·CD 환자에서 **ATG5·ATG16L1 모두 건강 대조 대비 유의하게 과발현** |
+| IL-1β 염증 Caco-2 모델 | **ATG5↑ / ATG16L1↓** — 두 유전자가 서로 반대 방향으로 교란 |
+| 생균 처리 | 용량 의존적으로 염증 유도 교란을 **일관되게 역전** |
+| EV 처리 | **이상(biphasic) 반응** — **고농도에서 ATG16L1 발현 회복이 더 효과적** |
+
+- **함의**: 위 [[Jay's Knowledge Base/wiki/akkermansia-mechanisms#4. 면역 조절\|면역 조절]]·[[Jay's Knowledge Base/wiki/akkermansia-mechanisms#1. 장 장벽 강화\|장벽 강화]] 축에 **상피 자가포식 항상성**이라는 별도 축을 보탠다. 또한 **비생균 분획(EV)이 생균과 같은 방향으로 작용하되 용량–반응 형태가 다르다**는 점은, 살균형·EV 등 비생균 제형 개발 시 **용량 설정을 생균 데이터에서 외삽할 수 없음**을 시사한다 (cf. Ghahari 2026이 지적한 「CFU 대 단백질/소포 용량 등가성 부재」, [[Jay's Knowledge Base/wiki/akkermansia-muciniphila\|akkermansia-muciniphila]] 출처).
+- ⚠️ **한계**: 환자 데이터는 **mRNA 발현 비교(연관)** 이고, 기능 검증은 **단일 세포주(Caco-2) in vitro** 에 한정된다. 자가포식 flux(LC3·p62 등 단백질 수준) 측정 여부와 동물 모델 검증은 초록에서 확인되지 않으며(**확인 필요**), 환자 조직에서는 두 유전자가 모두 **과발현**인 반면 Caco-2에서는 ATG16L1이 **감소**해 모델과 환자 패턴이 일치하지 않는다. 살균형 *A. muciniphila* 는 시험되지 않았다.
+
 ---
 
 ## 관련 문서

@@ -218,6 +218,21 @@ Chun et al. (2026, *J. Int. Soc. Sports Nutr.*, [[Jay's Knowledge Base/raw/637-c
 - ⚠️ **한계**: GLP-1RA 사용자가 아닌 **식이 기반 감량**이고, 대상이 건강한 중년이다. 인지·바이오마커 결과는 저자 스스로 탐색적이라고 밝혔다. GLP-1RA 병용 시의 효과는 직접 검증되지 않았다.
 - 💡 **companion 관점**: 단백질 섭취(Prokopidis 2026)·운동(Jennings 2026)과 함께 **근거가 축적된 저비용 영양 중재**로서, 마이크로바이옴 기반 companion의 **비교 대조(benchmark) 또는 병용 파트너** 후보. 상세 [[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]]
 
+### 「감량인가 근손실인가」 — 세포 기전과 lean mass 보존 전략 종합 (Sukurica, *DOM*)
+
+Sukurica, Sengul & Uysal Cinar (*Diabetes, Obesity and Metabolism*, DOI 10.1111/dom.71422, [[Jay's Knowledge Base/raw/650-sukurica-unknown-weight-loss-or-muscle-loss-cellular-mechanisms-and\|raw/650-sukurica-unknown-weight-loss-or-muscle-loss-cellular-mechanisms-and]]; 출판 연도는 Zotero 서지에 누락되어 **확인 필요**)는 GLP-1 및 이중·삼중 incretin 작용제 치료 중 lean mass 변화의 **세포·조직 수준 기전**과 골격근 보존 전략을 정리한 종설이다. 위 [[Jay's Knowledge Base/wiki/glp1-muscle-loss#다중 중재 병용의 실사용 관찰 — tirzepatide + 테스토스테론 + 운동·영양 (Mendias 2026)\|Mendias 2026]]·Oh 2026이 제기한 「LBM ≠ 근육」 문제를 **종설 수준에서 정식 입장으로 채택**했다는 점이 핵심이다.
+
+- **구획 해석**: 제지방(fat-free)·lean mass 감소는 **수축성 골격근 소실과 등치할 수 없다** — 이 구획에는 체액·장기·결합조직·지방조직의 비지방 성분이 포함된다
+- **근질(quality) 측면의 잠재적 이득**: incretin 요법은 주로 지방량을 줄이며, 전임상과 **제한적인 인체 근거**는 인슐린 감수성 개선·**근내지방(myosteatosis) 감소**·염증 감소·미토콘드리아 적응을 통한 근질 개선 가능성을 시사한다
+- **불확실성**: lean mass 감소 중 **진짜 골격근 소실의 비율과 장기 기능적 의미는 여전히 불확실**
+- **위험 요인**: **빠른 감량과 부적절한 영양 섭취**가 취약 인구(고령자·근 예비력이 낮은 사람)에서 임상적으로 의미 있는 근손실 위험을 높일 수 있다
+- **권고 전략**: 개인화된 단백질 섭취·점진적 저항운동·**위장관 부작용 관리**·기능 모니터링. 동화(anabolic) 병용요법은 **아직 연구 단계**이며 체성분뿐 아니라 **근력·신체수행 결과로 평가**해야 한다
+- **치료 성공의 재정의**: 감량 크기뿐 아니라 **골격근량·기능 보존 정도**를 함께 성공 기준으로 삼아야 한다
+
+**시사점**: 이 종설은 (1) [[Jay's Knowledge Base/wiki/glp1-muscle-loss#근질량 감소 vs 근기능 보존의 해리 (Świerczek 2026)\|Świerczek 2026]]의 「기능 지표 공동 1차 평가변수」 논리, (2) [[Jay's Knowledge Base/wiki/glp1-muscle-loss#단백질 섭취 부족과 이차성 근감소증 (Prokopidis 2026)\|Prokopidis 2026]]의 영양 섭취 위험, (3) ActRII 차단 등 동화 병용의 「연구 단계」 위치를 **하나의 임상 권고 프레임**으로 묶는다. companion 후보물(포스트바이오틱 포함) 입장에서는 **근내지방·인슐린 감수성·염증 등 「근질」 지표**가 체성분 질량 지표보다 차별화 여지가 큰 평가축이 될 수 있다 (추정 — 직접 검증 근거는 본 종설 초록 범위 밖). ⚠️ 초록 기반 정리이며 전문 미검토.
+
+> 📌 **관련 선행 종설 (초록 미확보)**: Neeland, Linge & Birkenfeld (2024, *Diabetes, Obesity and Metabolism*, DOI 10.1111/dom.15728, [[Jay's Knowledge Base/raw/649-neeland-2024-changes-in-lean-body-mass-with-glucagon-like-peptide-1\|raw/649-neeland-2024-changes-in-lean-body-mass-with-glucagon-like-peptide-1]]) — GLP-1 기반 요법의 lean mass 변화와 완화 전략. 초록이 잘린 상태로 수집되어 내용은 인용하지 않으며 [[Jay's Knowledge Base/wiki/glp1-muscle-loss#모니터링 중인 문헌 (초록 미확보)\|모니터링 목록]]에 등재.
+
 ---
 
 ## GLP-1 Companion 서플리먼트 시장
@@ -394,8 +409,9 @@ Eli Lilly의 **orforglipron** (경구·1일 1회·비펩타이드 GLP-1 작용�
 |------|-----------|-------------|------|
 | Gonzalez-Rellan & Drucker, 2026 ([[Jay's Knowledge Base/raw/610-gonzalez-rellan-2026-weight-loss-independent-actions-of-glp-1-medicines\|raw/610-gonzalez-rellan-2026-weight-loss-independent-actions-of-glp-1-medicines]]) | *Cell Metabolism* / 10.1016/j.cmet.2026.07.006 | GLP-1 계열 약물의 **체중감소 비의존적(weight-loss-independent) 작용** | **초록 미확보 · 모니터링** |
 | Maltese, Koufakis & Popovic, 2026 ([[Jay's Knowledge Base/raw/615-maltese-2026-reappraisal-of-glp-1-receptor-agonists-in-older-adults\|raw/615-maltese-2026-reappraisal-of-glp-1-receptor-agonists-in-older-adults]]) | *Trends in Endocrinology & Metabolism* / 10.1016/j.tem.2026.07.009 | **고령자에서의 GLP-1 수용체 작용제 재평가** | **초록 미확보 · 모니터링** |
+| Neeland, Linge & Birkenfeld, 2024 ([[Jay's Knowledge Base/raw/649-neeland-2024-changes-in-lean-body-mass-with-glucagon-like-peptide-1\|raw/649-neeland-2024-changes-in-lean-body-mass-with-glucagon-like-peptide-1]]) | *Diabetes, Obesity and Metabolism* / 10.1111/dom.15728 | GLP-1 기반 요법의 **lean body mass 변화와 완화 전략** | **초록 불완전(첫 문장만 수집) · 모니터링** |
 
-두 문헌 모두 **초록이 확보되지 않았으므로 본 문서 어디에서도 내용을 인용하지 않는다.** 다만 제목 수준에서 판단할 때 (a) 근손실이 체중 감소에 부수적인 현상인지 아니면 수용체 매개 작용과 분리 가능한지, (b) 근감소증 위험이 가장 높은 고령 인구에서의 위험–편익 재평가라는, 본 문서의 핵심 쟁점과 직결되는 주제에 해당한다. 특히 Gonzalez-Rellan & Drucker는 GLP-1 생물학 분야의 대표 연구그룹(Drucker lab) 발 *Cell Metabolism* 종설이므로 확보 우선순위가 높다. cf. [[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]]·[[Jay's Knowledge Base/wiki/obesity-body-composition\|obesity-body-composition]]
+세 문헌 모두 **초록이 확보되지 않았으므로 본 문서 어디에서도 내용을 인용하지 않는다.** 다만 제목 수준에서 판단할 때 (a) 근손실이 체중 감소에 부수적인 현상인지 아니면 수용체 매개 작용과 분리 가능한지, (b) 근감소증 위험이 가장 높은 고령 인구에서의 위험–편익 재평가라는, 본 문서의 핵심 쟁점과 직결되는 주제에 해당한다. 특히 Gonzalez-Rellan & Drucker는 GLP-1 생물학 분야의 대표 연구그룹(Drucker lab) 발 *Cell Metabolism* 종설이므로 확보 우선순위가 높다. cf. [[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]]·[[Jay's Knowledge Base/wiki/obesity-body-composition\|obesity-body-composition]]
 
 ---
 
@@ -445,10 +461,12 @@ Eli Lilly의 **orforglipron** (경구·1일 1회·비펩타이드 GLP-1 작용�
 - [[Jay's Knowledge Base/raw/622-świerczek-2026-glp-1-ras-and-muscle-function-outcomes-in-active\|raw/622-świerczek-2026-glp-1-ras-and-muscle-function-outcomes-in-active]] — 활동적 성인·레크리에이션 운동선수에서 GLP-1 RA와 **근기능** 결과 서술적 종설 (*Quality in Sport* 2026, DOI 10.12775/QS.2026.66.73870, PubMed·EMBASE·Cochrane 2019–2026): 골격근량은 일관되게 감소하나 **악력 보존~경미한 감소, 보행속도 대체로 무영향, VO₂max는 운동 병행 시 개선** — **근질량 감소와 근기능 보존의 해리(dissociation)**. 운동 처방의 약물요법 통합 권고, 활동적 인구 과소대표·전용 RCT 필요
 - [[Jay's Knowledge Base/raw/629-mendias-2026-increasing-skeletal-muscle-mass-and-strength-during\|raw/629-mendias-2026-increasing-skeletal-muscle-mass-and-strength-during]] — incretin 기반 감량 중 골격근량·근력 증가 후향 케이스 시리즈 (Mendias & Awan, *Obesity Pillars* 2026, DOI 10.1016/j.obpill.2026.100317): 테스토스테론 결핍 비만 남성 93명에 **주 1회 tirzepatide + 테스토스테론 시피오네이트 + 저항운동·단백질 코칭** 12개월 — 체중 −20.9~22.6 kg·지방 −16.6~17.1 kg·**LBM −4.0~6.1 kg인데 BIA SMM +1.6~3.7 kg·악력 +5.7~7.1 kg**, HbA1c 10.1→5.8%(T2DM군), hs-CRP −43~53%. 저자 해석은 **비근육 제지방의 불균형 소실**. ⚠️ 비대조·다중요소 설계로 성분별 귀속 불가, BIA 정밀도 한계
 - [[Jay's Knowledge Base/raw/637-chun-2026-effects-of-creatine-supplementation-with-and-without\|raw/637-chun-2026-effects-of-creatine-supplementation-with-and-without]] — 45~65세 64명 12주 이중맹검 RCT (*J. Int. Soc. Sports Nutr.* 2026, ISRCTN83081058): 크레아틴 2×5 g/일이 운동·식이 중재 유무와 무관하게 제지방량·근력·근지구력↑, **감량 식이 병행 시 체지방률 감소폭↑**. GLP-1RA 병용은 미검증
+- [[Jay's Knowledge Base/raw/650-sukurica-unknown-weight-loss-or-muscle-loss-cellular-mechanisms-and\|raw/650-sukurica-unknown-weight-loss-or-muscle-loss-cellular-mechanisms-and]] — GLP-1 기반 요법 중 lean mass 변화의 세포 기전·골격근 보존 전략 종설 (Sukurica, Sengul & Uysal Cinar, *Diabetes, Obesity and Metabolism*, DOI 10.1111/dom.71422, **출판 연도 확인 필요**): **lean/fat-free mass 감소 ≠ 수축성 골격근 소실**, incretin 요법의 근내지방·염증·미토콘드리아 경유 근질 개선 가능성, 빠른 감량·영양 부족이 취약군 위험 요인, 단백질·저항운동·GI 부작용 관리·기능 모니터링 권고, 동화 병용은 연구 단계 — 근력·신체수행으로 평가
 
 ### 모니터링 중 (초록 미확보)
 - [[Jay's Knowledge Base/raw/610-gonzalez-rellan-2026-weight-loss-independent-actions-of-glp-1-medicines\|raw/610-gonzalez-rellan-2026-weight-loss-independent-actions-of-glp-1-medicines]] — GLP-1 계열 약물의 체중감소 비의존적(weight-loss-independent) 작용 (Gonzalez-Rellan & Drucker, *Cell Metabolism* 2026, DOI 10.1016/j.cmet.2026.07.006). **초록 미확보 · 모니터링** — 서지사항만 확보, 내용 인용 불가
 - [[Jay's Knowledge Base/raw/615-maltese-2026-reappraisal-of-glp-1-receptor-agonists-in-older-adults\|raw/615-maltese-2026-reappraisal-of-glp-1-receptor-agonists-in-older-adults]] — 고령자에서의 GLP-1 수용체 작용제 재평가 (Maltese, Koufakis & Popovic, *Trends in Endocrinology & Metabolism* 2026, DOI 10.1016/j.tem.2026.07.009). **초록 미확보 · 모니터링** — 서지사항만 확보, 내용 인용 불가
+- [[Jay's Knowledge Base/raw/649-neeland-2024-changes-in-lean-body-mass-with-glucagon-like-peptide-1\|raw/649-neeland-2024-changes-in-lean-body-mass-with-glucagon-like-peptide-1]] — GLP-1 기반 요법의 lean body mass 변화와 완화 전략 (Neeland, Linge & Birkenfeld, *Diabetes, Obesity and Metabolism* 2024, DOI 10.1111/dom.15728). **초록 불완전 · 모니터링** — 내용 인용 불가
 
 ### ActRII / SMAD2/3 기전 — primary literature
 - [[Jay's Knowledge Base/raw/630-oh-2026-the-force-producing-fraction-muscle-quality-as-a\|raw/630-oh-2026-the-force-producing-fraction-muscle-quality-as-a]] — **근질(muscle quality) = 힘 생산 분율**을 근감소증 치료 표적으로 재정의한 종설 (Oh, Ku & Oh, *Ageing Research Reviews* 2026, DOI 10.1016/j.arr.2026.103349): 노화가 저하시키는 4개 속성(**신경지배·대사 능력·재생 능력·근내지방**)에 모든 치료 계열을 매핑 — **동화 약제는 어느 축도 건드리지 못하고**, 질 축을 건드리는 계열도 하나씩만 건드림. 신경지배 갭의 두 반증: **가용성 ActRIIB의 탈신경 근육 보호 실패**, **follistatin 과발현의 운동단위 소실·NMJ 전달 회복 실패**(운동 단독 대비). 임상 실패의 세 설명(노출 오측정=DXA lean mass는 근육이 아님 / 결과 오측정=보행속도·SPPB의 MDC가 자체 임상 유의 기준 초과 / 진짜 탈동조 생물학)과 **질량 매칭 시험 설계** 제안, 15-PGDH 억제 평가. ⚠️ **ActRII 차단 전략에 대한 직접 반론 근거**
