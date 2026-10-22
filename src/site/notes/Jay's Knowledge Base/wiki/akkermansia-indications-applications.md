@@ -56,6 +56,8 @@ UC는 단순 소화기 질환이 아니라 **인지장애 등 전신 동반증�
 | **장과민증(IBS) 유사 증상** | 모성분리·신경가소성 IBS 마우스 | 살균형이 내장과민·관련 행동장애(불안 등) 완화 | [[Jay's Knowledge Base/raw/270-meynier-2024-pasteurized-iakkermansia-muciniphilai-improves\|raw/270-meynier-2024-pasteurized-iakkermansia-muciniphilai-improves]] |
 | **5-FU 항암 독성** | BALB/c 마우스 | 살균 *A. muciniphila*가 면역 회복 및 5-fluorouracil 독성 경감 | [[Jay's Knowledge Base/raw/81-teng-pasteurized-akkermansia-muciniphila-improves-immunity-a\|raw/81-teng-pasteurized-akkermansia-muciniphila-improves-immunity-a]] |
 | **CRC + 5-FU 시너지** | HT29·HCT116·SW620 CRC cell + 정상 Hs738 | 동결건조 추출물이 **BAX↑/BCL2↓ 의존 apoptosis**·암세포 선택적 세포독성·**5-FU 시너지(용량 감량 가능)** | [[Jay's Knowledge Base/raw/539-menadi-2026-synergistic-anticancer-effects-of-akkermansia\|raw/539-menadi-2026-synergistic-anticancer-effects-of-akkermansia]] |
+| **MSS 대장암 anti-PD-1 저항** | MSS CRC 마우스 모델 + **인체 phase 1**(NCT06865521, 전이성 MSS CRC) | **경구 생균 Akk**가 TLR2/NF-κB로 **대식세포 efferocytosis 약화** → 세포자멸사 암세포 축적 → **cGAS-STING·I형 IFN** → CD8⁺ T세포 활성화·anti-PD-1 반응 개선; phase 1에서 **안전성 양호·ORR 19%**. ⚠️ 살균형 미평가 | [[Jay's Knowledge Base/raw/655-jiang-2026-akkermansia-muciniphila-attenuates-macrophage\|raw/655-jiang-2026-akkermansia-muciniphila-attenuates-macrophage]] |
+| **폐경후 골다공증 (에스트로겐 결핍)** | 난소절제(OVX) 랫드 | **살균 *A. muciniphila*(pAkk)** 가 해면골 손실·파골세포 골흡수 억제, 장벽 개선·대장 염증↓, **분변 부티르산↑**; 단 16S상 *Akkermansia* 농축·OVX 군집의 Sham 복원 **없음** → 군집 복원 비의존적 효과 | [[Jay's Knowledge Base/raw/653-chen-2026-pasteurized-akkermansia-muciniphila-reshapes-gut\|raw/653-chen-2026-pasteurized-akkermansia-muciniphila-reshapes-gut]] |
 | **식품알레르기** | OVA 유도 마우스 | *A. muciniphila* BAA-835이 알레르기 임상·면역·조직 지표 개선 (프로·포스트바이오틱 잠재력) | [[Jay's Knowledge Base/raw/280-miranda-2024-a-next-generation-bacteria-akkermansia-muciniph\|raw/280-miranda-2024-a-next-generation-bacteria-akkermansia-muciniph]] |
 | **테스토스테론 유도 탈모** | 마우스 등 피부 | 생균·살균 경구 투여가 테스토스테론 매개 모발 성장 억제를 완화 | [[Jay's Knowledge Base/raw/53-lee-2023-iakkermansia-muciniphilai-promotes-testosteronemedi\|raw/53-lee-2023-iakkermansia-muciniphilai-promotes-testosteronemedi]] |
 | **자외선(UVB) 피부 탈수·장벽 손상** | UVB 노출 인간 각질세포 + SKH-1 무모 마우스 | 살균 *A. muciniphila*가 표피 탈수·주름 완화, filaggrin·aquaporin·COL1A1 회복, JNK/p38 인산화·NF-κB p65 핵 전위 억제 → 피부 수분·장벽 paraprobiotic 후보(첫 전임상 근거) | [[Jay's Knowledge Base/raw/547-song-2026-pasteurized-akkermansia-muciniphila-hb05-improves\|raw/547-song-2026-pasteurized-akkermansia-muciniphila-hb05-improves]] |
@@ -105,6 +107,15 @@ UC는 단순 소화기 질환이 아니라 **인지장애 등 전신 동반증�
 ### 내인성 골 항상성 effector — Amuc_1473 (Rao 2026)
 
 공학화 BEV(Ji 2026)·living vehicle(SAL@AKK)이 *A. muciniphila*를 **전달체**로 활용하는 반면, Rao et al. (*Advanced Science*, [[Jay's Knowledge Base/raw/567-rao-unknown-amuc1473-links-gut-microbes-to-skeletal-homeostasis\|raw/567-rao-unknown-amuc1473-links-gut-microbes-to-skeletal-homeostasis]])은 균 EV에 농축된 **내인성 단백질 Amuc_1473** 자체가 gut–bone axis의 핵심 effector임을 동정했다. Amuc_1473은 **NELF-E·RPL26**에 결합해 **골형성 촉진 + 파골세포 형성 억제**를 동시에 유도하며, 노화·에스트로겐 결핍·기계적 비하중·고지방식·흡연·음주·만성 스트레스 등 **다요인성 골다공증** 조건에서 *A. muciniphila*·EV와 함께 감소한다. **간헐적 단식**이 뮤신 생산 증가를 통해 Akk·Amuc_1473·골질을 회복 → 식이 기반 비약물 전략 + 정제 effector 양면의 골다공증 중재 후보. 분자 기전 상세는 [[Jay's Knowledge Base/wiki/akkermansia-mechanisms#추가 분비 단백질·세포외소포·대사산물 (Effector Molecules)\|akkermansia-mechanisms]] 참조.
+
+### 살균 균체 자체의 골보호 — 군집 「복원」 없이 기능 「재편」 (Chen 2026)
+
+위 BEV(Ji 2026)·Amuc_1473(Rao 2026)이 정제·공학화 effector라면, Chen et al. (2026, *Food & Function*, [[Jay's Knowledge Base/raw/653-chen-2026-pasteurized-akkermansia-muciniphila-reshapes-gut\|raw/653-chen-2026-pasteurized-akkermansia-muciniphila-reshapes-gut]])은 **살균 *A. muciniphila* 균체(pAkk)** 를 그대로 경구 투여해 **난소절제(OVX) 랫드의 에스트로겐 결핍성 골손실**을 완화했다.
+
+- **표현형**: 해면골(trabecular bone) 손실 감소, 파골세포 매개 골흡수 억제, 장벽 무결성 개선, 대장 염증 감소
+- **핵심 관찰 — 「복원 없는 효과」**: 16S rRNA 분석에서 ***Akkermansia* 농축이 검출되지 않았고**, OVX로 변한 군집이 **Sham 상태로 복원되지도 않았다**. 그럼에도 **분변 부티르산이 증가**했으며, 예측 기능상 **CoA-transferase 경로 유전자↑·Ptb–Buk 경로 유전자↓** 로 부티르산 생산 경로 구성이 재편되었다
+- **💡 함의**: 살균형은 정착이 불가능하므로 효과가 「균 증식·군집 정상화」가 아니라 **기존 군집의 대사 기능(부티르산 생산 경로) 재편**을 통해 나타날 수 있다는 근거다. 이는 [[Jay's Knowledge Base/wiki/gut-muscle-axis\|장-근육 축]]의 인체 관찰에서 내인성 *Akkermansia* 존재비가 근기능과 무관·역방향으로 나온 결과(Naito 2026·Ramezani Kashal 2026)와도 모순되지 않는 설명 틀 — **살균 포스트바이오틱의 효능 지표는 「Akkermansia 증가」가 아니라 기능·대사산물(SCFA)·숙주 표현형**이어야 한다는 설계 원칙을 뒷받침한다
+- ⚠️ 한계: 랫드 단일 모델, 기능은 16S **예측(predicted)** 기반으로 메타지놈 실측이 아니며 부티르산 증가와 골보호의 인과는 「연관(associated)」 수준으로만 기술됨. 용량·균주 정보는 초록에 없음 (확인 필요). 골 대사는 Ji 2026·Rao 2026과 함께 *A. muciniphila*–뼈 축의 세 번째 근거 (cf. [[Jay's Knowledge Base/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]])
 
 ### 대장 표적 펠릿 — 포스트바이오틱 전달 제형 (Li 2026)
 

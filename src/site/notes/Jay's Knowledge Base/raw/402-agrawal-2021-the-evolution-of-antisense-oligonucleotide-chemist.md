@@ -16,4 +16,6 @@
 
 ## Abstract
 
-Over the last four decades, tremendous progress has been made in use of synthetic oligonucleotides as therapeutics. This has been possible largely by introducing chemical modiﬁcations to provide drug like properties to oligonucleotides. In this article I have summarized twists and turns on use of chemical modiﬁcations and their road to success and highlight areas of future directions.
+Over the last four decades, tremendous progress has been made in use of synthetic oligonucleotides as therapeutics. This has been possible largely by introducing chemical modifications to provide drug like properties to oligonucleotides. In this article I have summarized twists and turns on use of chemical modifications and their road to success and highlight areas of future directions.
+
+> 초록 보강: Zotero 항목의 초록이 비어 있거나 불완전하여 2026-10-23 Europe PMC (PMID 34063675)에서 수집

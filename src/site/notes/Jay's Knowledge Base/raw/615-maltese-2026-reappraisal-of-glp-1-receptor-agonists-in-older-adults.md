@@ -12,3 +12,9 @@
 - **URL**: https://www.cell.com/trends/endocrinology-metabolism/abstract/S1043-2760(26)00180-3
 - **유형**: article-journal
 - **출처**: Zotero library export (auto-generated)
+
+## Abstract
+
+Glucagon-like peptide-1 receptor agonists are transforming cardiometabolic care, yet their expanding use in older adults raises an overlooked question: can cardiovascular and renal protection come at the expense of muscle mass, nutritional resilience, and independence? We propose a geriatric-informed prescribing framework that redefines treatment success beyond weight loss.
+
+> 초록 보강: Zotero 항목의 초록이 비어 있어 2026-10-23 Europe PMC (PMID 42567819)에서 수집

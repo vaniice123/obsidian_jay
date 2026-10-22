@@ -218,6 +218,27 @@ Chun et al. (2026, *J. Int. Soc. Sports Nutr.*, [[Jay's Knowledge Base/raw/637-c
 - ⚠️ **한계**: GLP-1RA 사용자가 아닌 **식이 기반 감량**이고, 대상이 건강한 중년이다. 인지·바이오마커 결과는 저자 스스로 탐색적이라고 밝혔다. GLP-1RA 병용 시의 효과는 직접 검증되지 않았다.
 - 💡 **companion 관점**: 단백질 섭취(Prokopidis 2026)·운동(Jennings 2026)과 함께 **근거가 축적된 저비용 영양 중재**로서, 마이크로바이옴 기반 companion의 **비교 대조(benchmark) 또는 병용 파트너** 후보. 상세 [[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]]
 
+### ⛑ 「비례적 손실인가 선택적 손실인가」 — RCT 8편 + NMA 22편의 수렴 (Ataei 2026)
+
+본 문서 상단의 「감량분의 25~45%가 제지방」 수치를 **해석의 층위에서 재정의**하는 종설이다. Ataei & Ataei (*Journal of Fitness, Wellness, and Human Performance* 2026, [[Jay's Knowledge Base/raw/651-ataei-2026-effects-of-glp-1related-therapies-on-lean-mass-and\|raw/651-ataei-2026-effects-of-glp-1related-therapies-on-lean-mass-and]])는 성인·청소년의 비만·T2DM·1형 당뇨·**시상하부 비만(hypothalamic obesity, HO)** 을 포함한 **RCT 8편(순 감량 7편)** 을 1차 근거 기반으로 삼았다.
+
+| 항목 | 결과 |
+|---|---|
+| LM 감소 비중 | 총 감량의 **약 25~40%** |
+| 비교 기준 | **동일 감량 폭의 칼로리 제한·비만수술과 일치하는 범위** |
+| 선택적·불균형 LM 손실 | **이를 입증한 시험 없음** — 다만 **어느 시험도 그 효과를 검출할 검정력이 없었다** |
+| 독립 확증 | 2025년 **네트워크 메타분석 RCT 22편**(2024-11까지 검색): LM ≈ 총 감량의 **25%**, **상대 LM 비율은 불변** |
+| 예외 사례 | **HO — 에너지 결손이 없는 조건에서 LM 보존** |
+| 중단 후 | 체중 재증가가 **FM을 우선 회복** → **기저 대비 체성분 악화** |
+
+**이 종설이 바꾸는 것**
+
+1. **「GLP-1이 근육을 특별히 더 빼앗는다」는 주장은 현 RCT 근거로 지지되지 않는다** — LM 손실 비중이 칼로리 제한·비만수술과 같은 범위라면, 관찰되는 LM 감소는 **약물 특이적 효과가 아니라 감량 자체에 수반되는 비례적 현상**일 수 있다. 위 [[Jay's Knowledge Base/wiki/glp1-muscle-loss#근질량 감소 vs 근기능 보존의 해리 (Świerczek 2026)\|Świerczek 2026]]·[[Jay's Knowledge Base/wiki/glp1-muscle-loss#「감량인가 근손실인가」 — 세포 기전과 lean mass 보존 전략 종합 (Sukurica, *DOM*)\|Sukurica]]의 「LM ≠ 수축성 근육」 논지와 **독립적으로 같은 방향**이다.
+2. **그러나 「음성」이 아니라 「미검정」이다 (결정적 단서)** — 저자들은 **어느 시험도 선택적 LM 손실을 검출할 검정력을 갖추지 않았다**고 명시했다. 즉 「차이 없음」이 아니라 **「차이를 검정할 설계가 없었음」**이며, 이는 Oh 2026이 제기한 질량 매칭(mass-matched) 설계 요구와 정확히 맞물린다.
+3. **💡 HO 예외가 기전적으로 가장 시사적이다** — **에너지 결손이 없으면 LM이 보존**된다는 관찰은, LM 손실의 **상류 동인이 수용체 신호 자체가 아니라 에너지·단백질 결손**임을 시사한다. 이는 companion 전략의 표적을 「약물 기전 상쇄」에서 **「결손 보정(단백질·영양·운동)」으로 이동**시키는 근거다 — Prokopidis 2026의 절대 단백질 섭취량 저하 논지와 정합.
+4. **⚠️ companion 포지셔닝상의 양날** — 「GLP-1 특이적 근손실」을 전제로 한 마케팅 서사는 이 종설에 의해 약화된다. 반면 **중단 후 FM 우선 회복으로 체성분이 기저보다 나빠진다**는 지적은 **유지기(maintenance) companion**의 새로운 근거가 된다 — cf. [[Jay's Knowledge Base/wiki/glp1-muscle-loss#GLP-1 중단 후 반등 방지 기전 — PTER 억제\|반등 방지]]·[[Jay's Knowledge Base/wiki/glp1-muscle-loss#경구 GLP-1 작용제로의 전환 유지 — Orforglipron ATTAIN-MAINTAIN (2026)\|전환 유지]].
+5. **근거 수준의 한계**: 서술적 종설(narrative review)이며 체계적 문헌고찰·메타분석이 아니다. 1차 근거가 **RCT 8편**으로 좁고, 저널의 인지도·심사 수준은 위 *DOM*·*PNAS* 급 문헌과 동급으로 취급하기 어렵다. **확증 인용은 본문에서 재인용된 2025년 NMA(RCT 22편) 쪽이 더 견고**하다.
+
 ### 「감량인가 근손실인가」 — 세포 기전과 lean mass 보존 전략 종합 (Sukurica, *DOM*)
 
 Sukurica, Sengul & Uysal Cinar (*Diabetes, Obesity and Metabolism*, DOI 10.1111/dom.71422, [[Jay's Knowledge Base/raw/650-sukurica-unknown-weight-loss-or-muscle-loss-cellular-mechanisms-and\|raw/650-sukurica-unknown-weight-loss-or-muscle-loss-cellular-mechanisms-and]]; 출판 연도는 Zotero 서지에 누락되어 **확인 필요**)는 GLP-1 및 이중·삼중 incretin 작용제 치료 중 lean mass 변화의 **세포·조직 수준 기전**과 골격근 보존 전략을 정리한 종설이다. 위 [[Jay's Knowledge Base/wiki/glp1-muscle-loss#다중 중재 병용의 실사용 관찰 — tirzepatide + 테스토스테론 + 운동·영양 (Mendias 2026)\|Mendias 2026]]·Oh 2026이 제기한 「LBM ≠ 근육」 문제를 **종설 수준에서 정식 입장으로 채택**했다는 점이 핵심이다.
@@ -254,6 +275,7 @@ GLP-1RA **부작용 연구 자체가 빠르게 성장** 중. Scopus 기반 서�
 - Walmart "GLP-1 Support" 카테고리 신설, Nature Made GLP-1 Companion Health Pack 출시
 - **"체중 감량의 질(quality of weight loss)"** 이 새로운 경쟁 축으로 확립
 - **제네릭 진입 → 잠재 환자 풀 확대 (Lang 2026, *BMJ*)**: 초기 특허가 만료되며 제네릭 GLP-1이 시장에 진입 중이다. **인도에서만 50개 이상 기업**이 semaglutide 생산에 관여하는 것으로 추정되며(바이알 공급·맞춤 펜·Novo Nordisk 생산분 협업 등 형태가 갈림), 가격은 **바이알 < 펜 < Novo 생산 펜 < wraparound 케어 패키지 동반** 순으로 차등화된다(wraparound = 영양 지도·구조화된 신체활동·행동 상담·정기 점검 등 부가 서비스). 전문가들은 **접근이 배급(rationing)되던 NHS 같은 체계에서 제네릭이 접근성을 넓힐 수 있다**고 보며, 이는 그간 사보험·자비 부담 여부로 갈렸던 접근 불평등을 완화할 여지가 있다. companion 시장에는 두 방향으로 작용한다 — ① **잠재 사용자 풀 확대**(경구 GLP-1 확장과 동일 방향), ② 약가 하락으로 지출 여력이 **wraparound 서비스와 companion 제품 쪽으로 이동**할 여지 ([[Jay's Knowledge Base/raw/628-lang-2026-what-the-age-of-glp-1-generics-will-mean\|raw/628-lang-2026-what-the-age-of-glp-1-generics-will-mean]], *BMJ* 2026)
+- **GLP-1 확산이 식품 시스템에 미치는 영향 — 근거 3단계 분류 (Munialo 2026, *Food and Humanity*)**: semaglutide·tirzepatide 확산이 식욕·포만·**음식 선호** 변화를 통해 인구 수준 식품 소비를 재편할 가능성을 농업 생산·식품 제조·소매·외식·글로벌 공급망 전반에서 검토한 서술적 종설. 근거를 **확립(established)·부상(emerging)·시나리오 기반(scenario-based)** 3단계로 구분해 제시한 것이 특징이다. GLP-1 확산이 **구매 패턴 변화·제품 재설계(reformulation)·마케팅/소매 전략 변화·영양밀도 높은 고단백 식품 수요 증가**에 기여할 수 있으나, **인구 수준 식품 시스템 효과의 실증 근거는 제한적·이질적**이며 대부분 단기 임상시험·국소 관찰·가구 구매 데이터·**업계 보고서**에서 나온다고 저자 스스로 밝힌다. 장기 식이 전환·**치료 지속률(persistence)**·환경 영향의 정량화가 핵심 공백. 💡 companion 시장 함의: 「고단백·영양밀도 제품 수요↑」는 위 단백질 companion(43%) 비중과 같은 방향이나, **시장 규모 추정의 다수가 업계 자료 기반의 시나리오 단계**라는 점을 사업계획서 인용 시 명시해야 한다 ([[Jay's Knowledge Base/raw/657-munialo-2026-glp-1-revolution-and-future-of-food-systems-current\|raw/657-munialo-2026-glp-1-revolution-and-future-of-food-systems-current]]; cf. [[Jay's Knowledge Base/wiki/microbiome-dietary-supplement-market\|microbiome-dietary-supplement-market]])
 
 ### 마이크로바이옴 기반 companion 접근
 
@@ -349,6 +371,20 @@ GLP-1RA(semaglutide·tirzepatide)가 **외인성 호르몬 모방약**인 반면
 **시사점**: Gao 2026 (db/db + Akk11 + semaglutide)에서 관찰된 **"병용 시 혈중 GLP-1 추가 증가"** 결과는 본 Yoon 2021의 분비 단백질 기전으로 설명 가능. → Akk 포스트바이오틱이 근손실 보존 외에도 **장 내인성 GLP-1 분비 자극**이라는 별도의 합리적 기전을 통해 GLP-1 효능을 보강 또는 중단 후 효과를 연장시킬 가능성을 제시. companion 포지셔닝의 second pillar.
 
 > ⚠️ **자주 인용되는 Gao 2026 (db/db 마우스 + Akk11 + semaglutide) 데이터에 대한 주의**: 본 논문은 GLP-1RA + AKK 병용의 **대사·간지질 개선**은 강하게 지지하나, **"근손실 보존" 근거로는 사용할 수 없다**. 동일 실험에서 lean mass는 병용군에서 GLP-1RA 단독 대비 **추가 감소**(p<0.01)했으며, 측정 장비(Bruker Minispec LF50, TD-NMR)는 골격근과 장기(특히 간)를 분리하지 못한다. 같은 군에서 간 무게가 유의 감소(p<0.001)했으므로 lean mass 변화가 골격근 손실인지 간지방 해소인지 현 데이터로 구별 불가. "Synergy"의 2-factor ANOVA interaction 검정도 부재. AKK의 근육 보존 가설은 **follistatin RCT·EV·SCFA 경로** 같은 별도 근거 또는 DEXA/MRI 기반 후속 연구로 입증되어야 함 (상세 [[Jay's Knowledge Base/wiki/akkermansia-muciniphila\|akkermansia-muciniphila]] §2-1).
+
+#### 숙주 측 GLP-1 분비 브레이크 — 장 myostatin(MSTN)–SGLT1 팔미토일화 (Han 2026)
+
+Yoon 2021이 「미생물이 L세포를 **자극**하는 인자」를 보였다면, Han et al. (*Advanced Science* 2026, [[Jay's Knowledge Base/raw/654-han-2026-loss-of-intestinal-mstn-promotes-glp1-secretion\|raw/654-han-2026-loss-of-intestinal-mstn-promotes-glp1-secretion]])은 L세포의 포도당 감지 단계에 걸린 **숙주 측 억제 인자**를 동정했다.
+
+| 단계 | 발견 |
+|---|---|
+| 포도당 감지 | SGLT1의 **S-팔미토일화(Cys301)** 가 세포막 집적과 SGLT1 매개 GLP-1 분비에 필수 |
+| 상류 조절자 | **장 MSTN**이 YY1 연관 **ZDHHC20**(palmitoyl acyltransferase) 발현을 억제 |
+| MSTN 결손 | ZDHHC20↑ → SGLT1 팔미토일화·막 집적↑ → **포도당 자극 GLP-1 분비↑**, 고지방식 마우스 내당능 개선 |
+| 팔미토일화 차단 | MSTN 결손에 의한 GLP-1 분비 증가가 **현저히 억제** → 경로 인과성 지지 |
+| 약물 상호작용 | **simvastatin이 장 MSTN을 상향**, GLP-1 분비·포도당 항상성 손상 — MSTN 결손 시 대부분 완화 |
+
+- **💡 포지셔닝상 의미 (본 문서의 추론, 확인 필요)**: ① myostatin은 ActRII 경로의 핵심 리간드이므로, 근손실 대응(ActRII 차단)과 내인성 GLP-1 분비가 **같은 리간드 축에서 교차**할 가능성이 생긴다. 그러나 이 연구는 **장 특이적 유전자 결손 마우스**이며, bimagrumab 같은 전신 항체나 follistatin 상승(살균 *A. muciniphila* RCT)이 **장 L세포의 MSTN 신호까지 바꾸는지는 검증되지 않았다** — 「Akk의 follistatin↑가 GLP-1 분비도 늘린다」는 식의 연결은 현재 **근거 없는 추론**이다. ② **스타틴 병용 환자**에서 내인성 GLP-1 분비가 저하될 수 있다는 단서는, 대사질환 고령자(스타틴 사용률 높음) 대상 인체시험 설계 시 **스타틴 사용을 층화·보정 변수로 둘 근거**가 된다. ③ 마우스 단일 연구로 인체 재현은 미확인.
 
 ### GLP-1 중단 후 반등 방지 기전 — PTER 억제
 
@@ -454,6 +490,8 @@ Eli Lilly의 **orforglipron** (경구·1일 1회·비펩타이드 GLP-1 작용�
 - [[Jay's Knowledge Base/raw/609-fischer-2026-beyond-glp-1-amylin-based-pharmacotherapy-and-the\|raw/609-fischer-2026-beyond-glp-1-amylin-based-pharmacotherapy-and-the]] — Amylin 기반 약물요법 종설 (*Pharmacological Research* 2026, DOI 10.1016/j.phrs.2026.108382): 인슐린 공동분비 β세포 호르몬 amylin의 위배출 지연·글루카곤 억제·중추 포만 기전, 장기지속형 cagrilintide·eloralintide·petrelintide·NN1213, 선택적 amylin 수용체 작용제 ↔ amylin/calcitonin 이중 작용제 스펙트럼, 후뇌·팔곁핵 회로와 오심/혐오 신호. **체중감량 효능과 위장관 내약성의 분리**가 차세대 항비만 약물 설계 목표. ※ 체성분·근기능 결과변수는 보고 범위 외
 - [[Jay's Knowledge Base/raw/638-thorne-2026-an-rna-thermogenic-therapy-to-preserve-lean-mass-and\|raw/638-thorne-2026-an-rna-thermogenic-therapy-to-preserve-lean-mass-and]] — 지방조직 지향 **Zfp423 ASO**(갈색·베이지 지방 정체성 억제자 ZFP423 표적 RNA 치료제)가 백색지방 베이지화·에너지 소비↑로 대사 개선, **semaglutide 병용 시 단독 대비 체중·지방 감량↑ + 제지방 보존** (*PNAS* 2026, DOI 10.1073/pnas.2618845123, 마우스 전임상)
 - [[Jay's Knowledge Base/raw/633-ancel-2026-strengthening-muscle-for-healthy-ageing-innovative\|raw/633-ancel-2026-strengthening-muscle-for-healthy-ageing-innovative]] — 근감소증 신약 개발 종설 (*Nature Reviews Drug Discovery* 2026): 근육 표적 7개 약리 축, **GLP-1RA + 근육 보존제 병용 임상 급증** 지적
+- [[Jay's Knowledge Base/raw/654-han-2026-loss-of-intestinal-mstn-promotes-glp1-secretion\|raw/654-han-2026-loss-of-intestinal-mstn-promotes-glp1-secretion]] — **장 특이적 MSTN 결손 → YY1–ZDHHC20 → SGLT1 Cys301 S-팔미토일화·막 집적 → 포도당 자극 GLP-1 분비↑**, 고지방식 마우스 내당능 개선; simvastatin의 장 MSTN 상향이 GLP-1 분비 손상 (*Advanced Science* 2026, DOI 10.1002/advs.78302, 마우스·세포). 내인성 GLP-1 분비의 숙주 측 억제 인자
+- [[Jay's Knowledge Base/raw/657-munialo-2026-glp-1-revolution-and-future-of-food-systems-current\|raw/657-munialo-2026-glp-1-revolution-and-future-of-food-systems-current]] — GLP-1 확산의 식품 시스템 영향 서술적 종설 (*Food and Humanity* 2026): 근거를 확립·부상·시나리오 3단계로 분류, 구매·재설계·고단백 식품 수요 변화 가능성, **인구 수준 실증 근거는 제한적(업계 보고서 의존)**, 치료 지속률·장기 식이 전환 정량화 필요
 
 ### 비약물적 완화 전략 — 단백질·정밀영양·운동
 - [[Jay's Knowledge Base/raw/618-prokopidis-2026-risk-of-protein-intake-deficiency-during-treatment\|raw/618-prokopidis-2026-risk-of-protein-intake-deficiency-during-treatment]] — GLP-1 및 이중 GIP/GLP-1 수용체 작용제 치료 중 단백질 섭취 부족 위험과 **이차성 근감소증(secondary sarcopenia)** 종설 (*Advances in Therapy* 2026, DOI 10.1007/s12325-026-03750-w): liraglutide는 단백질을 총 에너지의 **약 13.9~17.5%** 비율로 유지하나 전반적 칼로리 제한으로 **절대 섭취량 감소** 가능 — 강력한 식욕 억제일수록 위험 증가. 비율 보존만으로는 고령자 근단백 합성 자극 역치 충족 불가. 상세 식이평가·체성분·기능 결과를 포함한 장기 시험 필요
@@ -467,6 +505,7 @@ Eli Lilly의 **orforglipron** (경구·1일 1회·비펩타이드 GLP-1 작용�
 - [[Jay's Knowledge Base/raw/610-gonzalez-rellan-2026-weight-loss-independent-actions-of-glp-1-medicines\|raw/610-gonzalez-rellan-2026-weight-loss-independent-actions-of-glp-1-medicines]] — GLP-1 계열 약물의 체중감소 비의존적(weight-loss-independent) 작용 (Gonzalez-Rellan & Drucker, *Cell Metabolism* 2026, DOI 10.1016/j.cmet.2026.07.006). **초록 미확보 · 모니터링** — 서지사항만 확보, 내용 인용 불가
 - [[Jay's Knowledge Base/raw/615-maltese-2026-reappraisal-of-glp-1-receptor-agonists-in-older-adults\|raw/615-maltese-2026-reappraisal-of-glp-1-receptor-agonists-in-older-adults]] — 고령자에서의 GLP-1 수용체 작용제 재평가 (Maltese, Koufakis & Popovic, *Trends in Endocrinology & Metabolism* 2026, DOI 10.1016/j.tem.2026.07.009). **초록 미확보 · 모니터링** — 서지사항만 확보, 내용 인용 불가
 - [[Jay's Knowledge Base/raw/649-neeland-2024-changes-in-lean-body-mass-with-glucagon-like-peptide-1\|raw/649-neeland-2024-changes-in-lean-body-mass-with-glucagon-like-peptide-1]] — GLP-1 기반 요법의 lean body mass 변화와 완화 전략 (Neeland, Linge & Birkenfeld, *Diabetes, Obesity and Metabolism* 2024, DOI 10.1111/dom.15728). **초록 불완전 · 모니터링** — 내용 인용 불가
+- [[Jay's Knowledge Base/raw/651-ataei-2026-effects-of-glp-1related-therapies-on-lean-mass-and\|raw/651-ataei-2026-effects-of-glp-1related-therapies-on-lean-mass-and]] — incretin·multiagonist 요법의 lean mass·체성분 효과 서술적 종설 (Ataei & Ataei, *J. Fitness, Wellness, and Human Performance* 2026, DOI 10.70834/JFWHP-26-0004, 온라인 2026-10-16): **RCT 8편(순 감량 7편) 기반 — LM 감소가 총 감량의 약 25~40%** 로 **동일 감량 폭의 칼로리 제한·비만수술과 일치**하며, **총 체중 감소와 독립적인 선택적·불균형 LM 손실의 근거를 제시한 시험은 없음**(단 어느 시험도 이를 검출할 검정력 없음); 2025년 네트워크 메타분석(RCT 22편, 2024-11까지) LM ≈ 25%·LM 비율 불변으로 확증; **시상하부 비만(HO)은 에너지 결손 부재 시 LM 보존**이라는 예외; **중단 후 체중 재증가는 FM을 우선 회복해 기저 대비 체성분 악화**; 저항운동·충분한 단백질·지속가능한 생활습관 지원 권고(단 incretin 치료 인구에서의 직접 근거는 제한적)
 
 ### ActRII / SMAD2/3 기전 — primary literature
 - [[Jay's Knowledge Base/raw/630-oh-2026-the-force-producing-fraction-muscle-quality-as-a\|raw/630-oh-2026-the-force-producing-fraction-muscle-quality-as-a]] — **근질(muscle quality) = 힘 생산 분율**을 근감소증 치료 표적으로 재정의한 종설 (Oh, Ku & Oh, *Ageing Research Reviews* 2026, DOI 10.1016/j.arr.2026.103349): 노화가 저하시키는 4개 속성(**신경지배·대사 능력·재생 능력·근내지방**)에 모든 치료 계열을 매핑 — **동화 약제는 어느 축도 건드리지 못하고**, 질 축을 건드리는 계열도 하나씩만 건드림. 신경지배 갭의 두 반증: **가용성 ActRIIB의 탈신경 근육 보호 실패**, **follistatin 과발현의 운동단위 소실·NMJ 전달 회복 실패**(운동 단독 대비). 임상 실패의 세 설명(노출 오측정=DXA lean mass는 근육이 아님 / 결과 오측정=보행속도·SPPB의 MDC가 자체 임상 유의 기준 초과 / 진짜 탈동조 생물학)과 **질량 매칭 시험 설계** 제안, 15-PGDH 억제 평가. ⚠️ **ActRII 차단 전략에 대한 직접 반론 근거**

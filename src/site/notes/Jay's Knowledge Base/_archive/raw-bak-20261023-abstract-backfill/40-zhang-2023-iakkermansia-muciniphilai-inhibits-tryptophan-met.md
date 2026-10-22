@@ -1,0 +1,18 @@
+---
+{"dg-publish":true,"permalink":"/jay-s-knowledge-base/archive/raw-bak-20261023-abstract-backfill/40-zhang-2023-iakkermansia-muciniphilai-inhibits-tryptophan-met/","dg-note-properties":{}}
+---
+
+
+# <i>Akkermansia muciniphila</i> inhibits tryptophan metabolism via the AhR/β-catenin signaling pathway to counter the progression of colorectal cancer
+
+- **저자**: Lu Zhang, Qing Ji, Qian Chen, Zhenzhen Wei, Shuochuan Liu, Long Zhang et al.
+- **연도**: 2023
+- **저널**: *International Journal of Biological Sciences*
+- **DOI**: 10.7150/ijbs.85712
+- **URL**: https://www.ijbs.com/v19p4393.htm
+- **유형**: article-journal
+- **출처**: Zotero library export (auto-generated)
+
+## Abstract
+
+Akkermansia muciniphila (A. muciniphila), a gram-negative anaerobic bacterium, is selectively decreased in the fecal microbiota of patients with colorectal cancer (CRC), but its molecular mechanism in CRC development remains inconclusive. In this study, we first confirmed the inhibitory effect of A. muciniphila on CRC formation and analyzed the metabolic role of intestinal flora in human Polyps, A-CRA (advanced colorectal adenoma) and CRC samples. To better clarify the role of A. muciniphila in CRC development, a pseudo-germ-free (GF) azoxymethane (AOM)/dextran sulfate sodium (DSS) mouse model was established, followed by infection with or without A. muciniphila. Metabolomic analysis and RNA-seq analysis showed tryptophan-mediated aryl hydrocarbon receptor (AhR) was significantly down-regulated in A. muciniphila-infected CRC mice. Then, mice with intestinal specific AhR deficiency (AhRfl/fl Cre) were generated and were used in 2 murine models: AOM/DSS treatment as a model of carcinogen-induced colon cancer and a genetically induced model using ApcMin/+ mice. Notably, AhR deficiency inhibited CRC growth in the AOM/DSS and ApcMin/+ mouse model. Moreover, AhR deficiency inhibited, rather than enhanced, tumor formation and tumor-derived organoids in Apc-deficient cells both in vivo and in vitro by activating Wnt/β-catenin signaling and TCF4/LEF1-dependent transcription. Furthermore, the antitumor effectiveness of A. muciniphila was abolished either in a human colon cancer tumor model induced by subcutaneous transplantation of AhR-silenced CRC cells, or AhR-deficienty spontaneous colorectal cancer model. In conclusion, supplementation with A. muciniphila. protected mice from CRC development by specifically inhibiting tryptophan-mediated AhR/β-catenin signaling.

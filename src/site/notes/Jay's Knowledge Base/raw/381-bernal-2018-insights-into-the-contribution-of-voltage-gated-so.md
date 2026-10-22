@@ -13,3 +13,9 @@
 - **권호**: Vol. 38(27), pp. 6025–6027
 - **유형**: article-journal
 - **출처**: Zotero library export (auto-generated)
+
+## Abstract
+
+Chemotherapy-induced peripheral neuropathy (CIPN) is a common side effect of antineoplastic treatments, such as paclitaxel (for review, see [Mekhail and Markman, 2005][1]). Paclitaxel exerts its effects by promoting tubulin assembly and preventing microtubule depolymerization, hence inhibiting cell
+
+> 초록 보강: Zotero 항목의 초록이 비어 있거나 불완전하여 2026-10-23 Semantic Scholar API에서 수집

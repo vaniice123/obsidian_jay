@@ -15,4 +15,6 @@
 
 ## Abstract
 
-The strictly anaerobic Gram-negative bacteria Butyricimonas species have recently been described in human faeces and have to our knowledge not been isolated in infectious clinical materials. We report the ﬁrst case of Butyricimonas virosa bacteraemia in a 72-year-old man with colon adenocarcinoma, who underwent aortic aneurysm replacement surgery.
+The strictly anaerobic Gram-negative bacteria Butyricimonas species have recently been described in human faeces and have to our knowledge not been isolated in infectious clinical materials. We report the first case of Butyricimonas virosa bacteraemia in a 72-year-old man with colon adenocarcinoma, who underwent aortic aneurysm replacement surgery.
+
+> 초록 보강: Zotero 항목의 초록이 비어 있거나 불완전하여 2026-10-23 Europe PMC (PMID 25830028)에서 수집

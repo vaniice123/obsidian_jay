@@ -118,6 +118,28 @@ Zhang et al. (2026, *Aging Cell*, [[Jay's Knowledge Base/raw/631-zhang-2026-akke
 
 ---
 
+## 한계·상충 근거 (Counter-evidence) — 이란 고령자: *Akkermansia*↑와 근감소증 위험 증가 (Ramezani Kashal 2026)
+
+Naito 2026이 「동아시아 저존재비 인구에서 신체기능과 **무관**」을 보였다면, 이란 Birjand Longitudinal Aging Study(BLAS) 2차 웨이브 분석은 **유해 방향의 연관**을 보고했다 (Ramezani Kashal et al., 2026, *Aging Clinical and Experimental Research*, [[Jay's Knowledge Base/raw/658-ramezani-kashal-2026-association-between-gut-microbiota-and-sarcopenia-in\|raw/658-ramezani-kashal-2026-association-between-gut-microbiota-and-sarcopenia-in]]).
+
+| 항목 | 결과 |
+|------|------|
+| 대상 | 지역사회 거주 **≥60세 293명** (단면), 근감소 **38.2%** (AWGS 2019, BIA) |
+| 정량법 | 12개 속 특이 프라이머 **qPCR** (16S 군집 분석 아님) |
+| *Akkermansia* ↔ 근감소증 | 단위 증가당 odds **+7%** |
+| *Akkermansia* ↔ 구성요소 | 악력·SMI·보행속도와 **음의 상관**; 저 SMI odds **+9%**, 저 보행속도 odds **+8%** |
+| 비교 분류군 | *Lactobacillus* **+8%**(위험), *Roseburia* **−11.5%**(보호) |
+
+**해석 포인트**
+
+1. **세 층위의 정리**: (a) 동물 보충 개입 — 근육 개선(Shin 2021·Park 2025·Zheng 2026), (b) 인체 보충 RCT — 근력·follistatin 개선(위 [[Jay's Knowledge Base/wiki/akkermansia-clinical-evidence#살균 *A. muciniphila* 포스트바이오틱 임상 결과\|임상 결과]]), (c) 인체 **내인성 존재비 관찰** — 일본 무관(Naito 2026)·이란 **역방향**(본 연구). (c)는 (a)·(b)를 반증하지 않지만, **「장내 Akkermansia가 많을수록 근육이 건강하다」는 서사는 인체 관찰 근거로 지지되지 않는다**.
+2. **역인과·교란**: 단면 설계, 근감소군의 고령·성비 차이, 노쇠에 따른 식이·장 통과시간·점액층 변화가 점액 분해균 상대 증가를 유도했을 가능성 — 위 Rojas 2026의 「조건 의존적 양면성」 프레임과 정합.
+3. **커뮤니케이션 리스크 (HB05P 관점)**: 근력 유지 기능성 소재 메시지에서 「Akkermansia 증가 = 근육 건강」식의 **내인성 존재비 연결 표현은 피하고**, 근거는 **살균 균체 보충 RCT의 기능 종결점**으로 한정하는 것이 안전하다. 또한 *Lactobacillus*마저 위험 방향으로 나온 점은 **속 수준 qPCR 지표의 해석 한계**로 함께 제시하는 것이 공정하다.
+
+> **요약**: 서로 다른 두 인구(일본·이란)에서 내인성 *Akkermansia*–근기능 연관이 **무관 또는 역방향**으로 나왔다. 보충 개입의 근거와는 층위가 다르지만, 바이오마커·메시징에서는 반드시 반영해야 할 제약이다 (cf. [[Jay's Knowledge Base/wiki/gut-muscle-axis\|gut-muscle-axis]], [[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]]).
+
+---
+
 ## 한계·상충 근거 (Counter-evidence) — 「이익인가 해악인가」: 용량·조건 의존적 양면성 (Rojas 2026)
 
 Naito 2026이 **인구 수준의 존재비 서사**에 제동을 걸었다면, Rojas & González(2026, *Probiotics and Antimicrobial Proteins*, [[Jay's Knowledge Base/raw/626-rojas-2026-the-role-of-akkermansia-muciniphila-in-obesity-benefit\|raw/626-rojas-2026-the-role-of-akkermansia-muciniphila-in-obesity-benefit]])는 **비만 적응증 자체의 이익–위해 균형**을 제목에서부터 물음표로 놓는 비판적 narrative review다.

@@ -102,6 +102,14 @@ Semaglutide 특허 만료(2026.03.20) 후 **40개 이상 제조사, 50+ 브랜�
 
 Eli Lilly는 GLP-1 포트폴리오로 구축한 DTC(direct-to-consumer) 인프라를 향후 다른 약물 클래스에 활용할 수 있다. 2026년 4월 Centessa Pharmaceuticals 인수($63억)로 확보한 orexin 수용체 작용제가 대표적 사례이며, 수면장애 → ADHD/피로 등으로 적응증 확장 시 DTC 채널이 핵심 유통 경로가 될 수 있다. 이는 **마이크로바이옴 companion 서플리먼트에게도 기회**: Lilly가 DTC로 환자 접점을 넓힐수록 companion 제품의 번들 전략이 더 유효해진다 ([[Jay's Knowledge Base/raw/476-bayer-2026-eli-lilly-centessa-orexin-acquisition\|출처]]).
 
+### GLP-1 확산의 식품 시스템 재편 전망 (Munialo 2026, *Food and Humanity*)
+
+GLP-1 RA·이중 incretin 확산이 식욕·포만·**음식 선호**를 바꿔 인구 수준 식품 소비를 재편할 가능성을 농업 생산·식품 제조·소매·외식·글로벌 공급망에 걸쳐 검토한 서술적 종설. 저자는 근거를 **① 확립(established) ② 부상(emerging) ③ 시나리오 기반(scenario-based)** 3단계로 명시 분류했다 ([[Jay's Knowledge Base/raw/657-munialo-2026-glp-1-revolution-and-future-of-food-systems-current\|raw/657-munialo-2026-glp-1-revolution-and-future-of-food-systems-current]]).
+
+- **방향성**: 식품 구매 패턴 변화, 제품 재설계(reformulation), 마케팅·소매 전략 전환, **영양밀도 높은 고단백 식품 수요 증가** 가능성
+- **⚠️ 근거의 질**: 인구 수준 식품 시스템 효과의 실증 근거는 **제한적·이질적**이며, 대부분 **단기 임상시험·국소 관찰 분석·가구 구매 데이터·업계 상업 보고서**에서 유래. 장기 식이 전환, **치료 지속률(persistence)**, 자원·환경 영향의 정량화가 핵심 공백으로 지적됨
+- **💡 본 문서 함의**: 위 companion 시장 규모·성장률 수치 역시 상당 부분 상업 조사기관 자료에 근거하므로, 사업계획·IR 자료에 인용할 때 **「시나리오 단계 추정」임을 구분 표기**하는 것이 타당하다. 고단백 수요 증가 전망은 companion 제품 구성에서 단백질(현 43%)·근육 기능성 소재의 우위를 지지하는 방향 (cf. [[Jay's Knowledge Base/wiki/glp1-muscle-loss\|glp1-muscle-loss]])
+
 ### Akkermansia 서플리먼트 시장
 - 글로벌: 2025년 $4,250만 → 2034년 $8,930만 (CAGR 7.8%)
 - 살균 [[Jay's Knowledge Base/wiki/akkermansia-muciniphila\|akkermansia-muciniphila]] 포스트바이오틱 원료가 FDA NDI 인정 및 한국 식약처 근력 유지 기능성 인정을 획득

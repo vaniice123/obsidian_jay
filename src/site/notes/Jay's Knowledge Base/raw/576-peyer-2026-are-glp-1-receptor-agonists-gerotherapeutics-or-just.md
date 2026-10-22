@@ -12,3 +12,8 @@
 - **URL**: https://www.nature.com/articles/s43587-026-01165-4
 - **유형**: article-journal
 - **출처**: Zotero library export (auto-generated)
+
+## Abstract
+
+<!-- no-abstract -->
+> **원문에 초록 없음** — 출판 유형 **Correspondence** (*Nature Aging*; 출판사 페이지 citation_article_type 기준). 서신형 글은 초록이 없음 (2026-10-23 확인)
