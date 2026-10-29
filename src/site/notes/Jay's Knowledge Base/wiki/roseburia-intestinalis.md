@@ -30,6 +30,13 @@
 - *R. intestinalis* 유래 부티르산이 **세포독성 CD8+ T 세포를 활성화**하여 anti-PD-1 면역관문억제제의 효능을 증강 (Kang et al., 2023, *Gut*)
 - MSI-low(CT26) 및 MSI-high(MC38) 이종이식 모델 모두에서 면역 경관(immune landscape) 변화 유도
 
+### 근감소증 — 보호 방향 인체 연관 (Ramezani Kashal 2026)
+
+이란 Birjand Longitudinal Aging Study(BLAS) 2차 웨이브의 지역사회 거주 **≥60세 293명** 단면 분석(AWGS 2019 기준, 12개 속 qPCR)에서 근감소증 유병은 38.2%였고, ***Roseburia* 풍부도 단위 증가당 근감소증 odds가 11.5% 감소**했으며 **보행속도와 양의 상관**을 보였다. 같은 연구에서 *Akkermansia*(+7%)·*Lactobacillus*(+8%)는 반대로 위험 방향이었다 ([[Jay's Knowledge Base/raw/658-ramezani-kashal-2026-association-between-gut-microbiota-and-sarcopenia-in\|raw/658-ramezani-kashal-2026-association-between-gut-microbiota-and-sarcopenia-in]], *Aging Clinical and Experimental Research* 2026).
+
+- 부티르산 생산균이 보호 방향으로 나온 점은 SCFA 매개 [[Jay's Knowledge Base/wiki/gut-muscle-axis\|장-근육 축]] 가설과 정합적이며, *R. intestinalis*의 적응증을 장·대장암·대사 영역 밖 **근육·기능 노화**로 확장할 단서가 된다.
+- ⚠️ 단면 설계(인과 불가), 속(genus) 수준 qPCR(종·균주 해상도 없음), 단일 국가·소표본. **종단 코호트와 개입 연구가 필요**하다는 저자 결론을 그대로 유지해야 한다.
+
 ### 인지 기능 및 뇌-장 축
 - *R. intestinalis* 보충이 인지 기능 저하를 역전시킬 수 있음 (Sun, 2024)
 - 부티르산 및 유산(lactate)의 알츠하이머병 예방 가능성 (Song, 2024)
@@ -46,6 +53,7 @@
 
 ## 관련 raw/ 소스
 
+- [[Jay's Knowledge Base/raw/658-ramezani-kashal-2026-association-between-gut-microbiota-and-sarcopenia-in\|raw/658-ramezani-kashal-2026-association-between-gut-microbiota-and-sarcopenia-in]] — 이란 BLAS ≥60세 293명 단면: ***Roseburia* 단위 증가당 근감소증 odds −11.5%**·보행속도와 양의 상관(*Akkermansia* +7%·*Lactobacillus* +8%는 위험 방향) — 장-근육 축 보호 방향 인체 연관 (*Aging Clin. Exp. Res.* 2026)
 - [[Jay's Knowledge Base/raw/181-hazan-2021-s160-the-role-of-roseburia-in-covid-19-pathogenes\|raw/181-hazan-2021-s160-the-role-of-roseburia-in-covid-19-pathogenes]]
 - [[Jay's Knowledge Base/raw/196-tan-2019-roseburia-intestinalis-inhibits-oncostatin-m-and-ma\|raw/196-tan-2019-roseburia-intestinalis-inhibits-oncostatin-m-and-ma]]
 - [[Jay's Knowledge Base/raw/197-xu-2021-new-pathway-ameliorating-ulcerative-colitis-focus-on\|raw/197-xu-2021-new-pathway-ameliorating-ulcerative-colitis-focus-on]]

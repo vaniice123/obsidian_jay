@@ -15,4 +15,6 @@
 
 ## Abstract
 
-This guidance document is intended to assist the applicant in the preparation and the presentation of an application, as foreseen in Article 7.6 of Regulation (EC) No 1831/2003, for the authorisation of additives for use in animal nutrition. It speciﬁcally covers the characterisation of microorganisms used as feed additives or as production organisms.
+[Table: see text]. Abstract This guidance document is intended to assist the applicant in the preparation and the presentation of an application, as foreseen in Article 7.6 of Regulation (EC) No 1831/2003, for the authorisation of additives for use in animal nutrition. It specifically covers the characterisation of microorganisms used as feed additives or as production organisms.
+
+> 초록 보강: Zotero 항목의 초록이 비어 있거나 불완전하여 2026-10-23 Europe PMC (PMID 32625840)에서 수집

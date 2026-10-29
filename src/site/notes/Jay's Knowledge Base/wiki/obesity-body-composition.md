@@ -189,6 +189,10 @@ DXA(gold-standard)로 측정한 incretin 약물의 체성분 변화를 절대 kg
 
 GLP-1 작용제 중단 후 체중 반등은 일관되게 관찰되는 현상이며, Moiz et al. (2026, *eClinicalMedicine*, [[Jay's Knowledge Base/raw/546-moiz-2026-weight-maintenance-after-discontinuation-of-glp-1\|raw/546-moiz-2026-weight-maintenance-after-discontinuation-of-glp-1]])은 **GLP-1 치료 중단 이후의 체중 유지(weight maintenance after discontinuation)** 근거를 종합한다. 약물 의존적 감량의 본질적 한계를 부각하며, 중단 후 유지를 위한 행동·생활습관·후속 약리·보조 전략의 필요성을 정리 → 위 Orforglipron(주사→경구 전환)·살균 *A. muciniphila* MucT(Mount 2026)·PTER 억제제와 함께 **"post-injection maintenance" 문제 공간**을 규정하는 근거. 마이크로바이옴 기반 경구 보조 전략이 이 공백의 비약물 축으로 자리매김할 수 있음을 시사. cf. [[Jay's Knowledge Base/wiki/glp1-muscle-loss\|glp1-muscle-loss]]
 
+### 장기 사용의 「치료 천장」과 tachyphylaxis 가설 (Roslin 2026)
+
+중단 후 반등(위 Moiz 2026)과 대칭되는 질문, 즉 **중단하지 않고 5~10년 최대 용량을 유지할 때 무슨 일이 일어나는가**를 다룬 개념적 종설 (Roslin et al., 2026, *J. Clin. Med.*, [[Jay's Knowledge Base/raw/661-roslin-2026-durability-of-glp-1-based-therapies-in-obesity\|raw/661-roslin-2026-durability-of-glp-1-based-therapies-in-obesity]]). GLP-1의 **위 배출 지연 효과에 대한 빠른 내성은 이미 입증**되었고, 장기 체중 조절도 지속적 수용체 신호에 의존하므로 **효과 특이적 부분 약화(tachyphylaxis)는 검증 가능한 가설**로 다뤄야 한다고 주장한다. 기존 시험은 수년간 지속 활성을 보였지만 장기 고정용량 중 수용체 적응을 배제하도록 설계되지 않았고, 중단 연구는 **치료 의존성**을 보여줄 뿐 치료 중 약화의 부재를 입증하지 않는다. 다만 에너지 요구량 감소·적응적 열생성·체중의 신경내분비적 방어·행동 적응·용량 제약이라는 **강력한 경쟁 설명**이 있다. 장기 평가축으로 식욕·보상 반응, 체중 유지, 혈당·심혈관 이득, β세포 기능, 위장관 부담, **체성분·신체 기능**, 잔여 질환을 제시하고, 치료 천장에서 **유지·병용·전환·시술 추가**를 결정하는 임상 프레임을 제안 → 「post-injection maintenance」와 함께 **「on-treatment plateau」** 를 별도의 문제 공간으로 규정. ⚠️ 신규 임상 데이터 없는 개념적 종설. cf. [[Jay's Knowledge Base/wiki/glp1-muscle-loss\|glp1-muscle-loss]]
+
 ### 항비만 신약개발의 역사와 차세대 방향 (Müller 2022)
 
 Müller et al. (2022, *Nature Reviews Drug Discovery*, [[Jay's Knowledge Base/raw/347-muller-2022-anti-obesity-drug-discovery-advances-and-challenge\|raw/347-muller-2022-anti-obesity-drug-discovery-advances-and-challenge]])은 반세기에 걸친 항비만제(anti-obesity medication, AOM) 개발사를 정리하며, 과거 AOM이 **불충분한 효능과 안전성 논란**으로 대부분 실패·퇴출됐음을 짚는다. 최근 **장-뇌 소통(gut–brain communication)**에 대한 분자 수준 이해 심화가 안전하게 크고 지속적인 체중 감량을 달성하는 차세대 AOM(GLP-1 계열·다중 incretin 등) 추구를 견인하고 있다고 평가 → 본 문서의 GLP-1·incretin 약물 논의([[Jay's Knowledge Base/wiki/glp1-muscle-loss\|glp1-muscle-loss]]·Davies 2026·Aronne 2026)와 [[Jay's Knowledge Base/wiki/gut-brain-axis\|장-뇌 축]] 기반 식욕·대사 조절의 **역사적·기전적 배경**을 제공하는 foundational 종설.
@@ -302,6 +306,7 @@ GLP-1RA 감량은 **에너지 소비 감소·제지방 손실·중단 후 지방
 - [[Jay's Knowledge Base/raw/616-mano-2026-the-impact-of-metabolic-syndrome-on-changes-in-trunk\|raw/616-mano-2026-the-impact-of-metabolic-syndrome-on-changes-in-trunk]] — 대사증후군 관련 인자·호흡기 인자가 근로 인구의 **체간근 단면적(CSA)** 변화에 미치는 영향, **10년 종단 연구** (*J. Bone Miner. Metab.* 2026) — 초록 배경·목적만 확보, **결과 미확보 · 모니터링**
 - [[Jay's Knowledge Base/raw/638-thorne-2026-an-rna-thermogenic-therapy-to-preserve-lean-mass-and\|raw/638-thorne-2026-an-rna-thermogenic-therapy-to-preserve-lean-mass-and]] — 지방조직 지향 **Zfp423 ASO**: 백색지방 베이지화·에너지 소비↑, **semaglutide 병용 시 체중·지방 감량↑ + 제지방 보존** (*PNAS* 2026, 마우스 전임상)
 - [[Jay's Knowledge Base/raw/640-yang-2026-systematic-review-and-meta-analysis-of-biomarkers\|raw/640-yang-2026-systematic-review-and-meta-analysis-of-biomarkers]] — 근감소증·근감소성 비만 혈청 바이오마커 메타분석 (43편, *Medicine* 2026): SO vs 단순 비만은 TG 외 차이 없음
+- [[Jay's Knowledge Base/raw/661-roslin-2026-durability-of-glp-1-based-therapies-in-obesity\|raw/661-roslin-2026-durability-of-glp-1-based-therapies-in-obesity]] — GLP-1 기반 비만 치료의 장기 지속성·수용체 적응·**tachyphylaxis**·치료 천장 개념적 종설: 위 배출 효과 내성은 입증, 장기 효과 특이적 약화는 미배제, 중단 연구는 치료 의존성만 입증, 체성분·신체 기능 포함 다축 장기 평가 제안 (*J. Clin. Med.* 2026, DOI 10.3390/jcm15218265)
 
 ---
 

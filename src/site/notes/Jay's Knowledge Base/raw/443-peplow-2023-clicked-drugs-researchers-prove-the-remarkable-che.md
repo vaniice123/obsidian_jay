@@ -13,3 +13,8 @@
 - **권호**: Vol. 41(7), pp. 883–885
 - **유형**: article-journal
 - **출처**: Zotero library export (auto-generated)
+
+## Abstract
+
+<!-- no-abstract -->
+> **원문에 초록 없음** — 출판 유형 **News** (*Nature Biotechnology*, PubMed PMID 37407704). 뉴스 기사는 초록이 없음 (2026-10-23 확인)
