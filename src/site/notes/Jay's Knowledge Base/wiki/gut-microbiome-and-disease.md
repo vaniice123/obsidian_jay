@@ -208,7 +208,26 @@ Fan, Chen, Li et al. (*Microbiological Research*, DOI 10.1016/j.micres.2026.1287
 - **중재 근거**: CP 동물 모델에서 미생물 표적 중재 후 섬유화 완화·장벽/면역 지표 개선이 보고됐으나, 소수의 인체 **신바이오틱 시험**은 일부 위장관·수술 전후 결과 개선만 보고했고 **내인성 GLP-1·마이크로바이옴 정착·췌장 섬유화·질병 진행은 평가하지 않았다**
 - **번역 요건 제안**: 마이크로바이옴 층화 CP 시험, 기능 마이크로바이옴·대사체 프로파일링, **공복·식후 활성/총 GLP-1 + PYY 측정**, 사전 지정 임상 결과, 매개(mediation)·치료×바이오마커 분석, 장기 안전성
 
+
 **시사점**: 「장내 미생물이 **내인성 GLP-1** 분비를 자극한다」는 축은 [[Jay's Knowledge Base/wiki/akkermansia-muciniphila\|akkermansia-muciniphila]](Yoon 2021 P9, Li 2026 LKLKLL 펩타이드)·[[Jay's Knowledge Base/wiki/glp1-muscle-loss\|glp1-muscle-loss]](내인성 GLP-1 분비 자극 절)에서 대사 질환 맥락으로 다뤄져 왔다. 본 종설은 이를 **췌장 섬유염증 질환**으로 확장하는 한편, **약리적 GLP-1RA 데이터를 내인성 GLP-1 효과로 외삽하지 말라**는 근거 수준 경고를 명시한다 — GLP-1 유도형 마이크로바이옴 소재의 효능 주장에도 동일하게 적용되는 기준이다. ⚠️ 인과 방향과 임상 관련성은 **종단 검증이 필요**하다고 저자 스스로 결론지었다.
+
+### 장 GPR128 결핍이 아세트아미노펜 간손상을 막는 장–간 축 — 배상세포·*A. muciniphila*·β-galactosidase·식이 GA 캐스케이드 (Wang 2026, *CMGH*)
+
+아세트아미노펜(APAP) 유발 간손상(AILI)은 **급성 간부전의 최대 원인**이지만, 장–간 축을 통해 이를 조절하는 **장내 숙주 유전자–미생물 상호작용**은 잘 규명되지 않았다. Wang et al. ([[Jay's Knowledge Base/raw/668-wang-2026-intestinal-gpr128-deficiency-protects-against\|raw/668-wang-2026-intestinal-gpr128-deficiency-protects-against]], *Cellular and Molecular Gastroenterology and Hepatology* 2026, DOI 10.1016/j.jcmgh.2026.101925)는 **장 특이적 GPR128 결핍 마우스**에 APAP를 투여해 간손상·배상세포/점액층 완전성·균총 조성·미생물 **β-galactosidase 활성**을 평가했다.
+
+**캐스케이드 (저자 제시)**:
+
+1. **장 GPR128 결핍 → AILI 보호**: 배상세포–점액층 항상성이 보존되고, **점액 연관 *A. muciniphila*가 농축**
+2. ***A. muciniphila* 연관 β-galactosidase 활성** → **식이 젠티스산(gentisic acid, GA) 유리 촉진** → 전신 GA 농도 상승
+3. **GA → HSP90α 작용** → HSP90α–**CBFβ** 상호작용 감소 → CBFβ 핵 전위 억제 → **RUNX1 의존 UPP1 전사 억제**
+4. **UPP1 억제 → 우리딘 유래 락테이트 생산 감소 → AILI 완화**
+
+**해석 (본 문서의 관점)**:
+
+- **점액층 → *A. muciniphila* → 숙주 대사라는 익숙한 축이 「간 급성 손상」으로 확장**된다. 본 위키에 축적된 동일 구조의 사례는 담즙산·소장 지질흡수(Liang 2026, [[Jay's Knowledge Base/wiki/bile-acid-metabolism\|bile-acid-metabolism]])와 간 이중 신호축(Chen 2026, [[Jay's Knowledge Base/wiki/akkermansia-mechanisms\|akkermansia-mechanisms]])이 있는데, 본 연구는 **미생물 효소(β-galactosidase)가 식이 성분을 활성 대사체로 전환**하는 경로를 중심에 놓는다 — 즉 Akk의 기여가 균체 자체가 아니라 **효소 활성 → 식이 유래 소분자 유리**로 설명된다.
+- **⚠️ 인과 구조상의 유보**: *A. muciniphila* 농축은 **GPR128 결핍의 하류 결과**로 제시되며, **Akk 단독 투여가 AILI를 막는지는 본 초록만으로 확정되지 않는다**(초록은 Akk·GA·경로의 "역할을 평가했다"고 기술 — 투여 실험 설계와 결과는 **본문 확인 필요**). 또한 초록 자체가 GA의 HSP90α 작용을 **"appeared to act"** 로 신중하게 기술한다.
+- **⚠️ 전임상·마우스 한정**: 인체 근거는 없고, 식이 GA 섭취량·장내 β-galactosidase 활성의 개인 간 변이는 다루어지지 않았다. **살균형·포스트바이오틱은 평가되지 않았다**.
+- **개발 관점**: 「미생물 **효소 활성**을 기능 지표로 삼는다」는 발상은 균종 존재비 중심 바이오마커의 대안이 될 수 있어, [[Jay's Knowledge Base/wiki/microbiome-analysis-technologies\|microbiome-analysis-technologies]]·[[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|probiotics-prebiotics-postbiotics]]와 연결된다. 다만 현 단계에서 HB 파이프라인의 적응증 근거로 쓰기에는 층위가 멀다.
 
 ## 출처
 
@@ -223,6 +242,7 @@ Fan, Chen, Li et al. (*Microbiological Research*, DOI 10.1016/j.micres.2026.1287
 - [[Jay's Knowledge Base/raw/612-jiang-2026-a-dataset-of-rna-seq-and-proteomic-profiling-of\|raw/612-jiang-2026-a-dataset-of-rna-seq-and-proteomic-profiling-of]] — DSS 유발 대장염 마우스에 *A. muciniphila* 투여 후 비장 CD4⁺ T세포의 RNA-seq + 정량 프로테오믹스 **공개 멀티오믹스 데이터셋** (*Scientific Data* 2026); 1차 연구가 아닌 데이터 기술 논문
 - [[Jay's Knowledge Base/raw/620-sebo-2026-metformin-inhibits-mitochondrial-complex-i-in\|raw/620-sebo-2026-metformin-inhibits-mitochondrial-complex-i-in]] — 메트포르민의 혈당 조절이 **장 상피 특이적 미토콘드리아 complex I 억제**에 기인(시트룰린 합성 억제·GDF15 상승·장의 glucose sink 전환·락테이트/lactoyl-phenylalanine); 효능은 반복 볼루스 노출에 의존하며 phenformin·berberine도 동일 기전 공유 (*Nature Metabolism* 2026)
 - [[Jay's Knowledge Base/raw/621-sinha-2026-maternal-influences-on-infant-gut-microbiome-and-health\|raw/621-sinha-2026-maternal-influences-on-infant-gut-microbiome-and-health]] — Lifelines NEXT 출생코호트 714 모–영아 쌍·종단 분변 4,526샘플 메타지놈 + 474개 임상·노출 변수 + 모유·질 초심층 시퀀싱: 모체 장내균총은 임신·산후 중 미미한 변화만, **모체 장이 영아 균주의 주 저수지**(질·모유는 간헐적), 균주 공유는 시간 의존적·모체 종 존재비 의존적, 모체 균총이 **영아 습진 예측인자**, 분만·수유방식이 영아 균총을 주로 결정 (*Nature* 2026)
+- [[Jay's Knowledge Base/raw/668-wang-2026-intestinal-gpr128-deficiency-protects-against\|raw/668-wang-2026-intestinal-gpr128-deficiency-protects-against]] — **장 GPR128 결핍 → 배상세포·점액층 보존 → 점액 연관 *A. muciniphila* 농축 → 미생물 β-galactosidase가 식이 젠티스산(GA) 유리 → GA가 HSP90α–CBFβ 상호작용 감소 → RUNX1 의존 UPP1 전사 억제 → 우리딘 유래 락테이트↓ → 아세트아미노펜 유발 간손상(AILI) 완화** (Wang et al., *Cell. Mol. Gastroenterol. Hepatol.* 2026, DOI 10.1016/j.jcmgh.2026.101925). ⚠️ 마우스 전임상, Akk 농축은 GPR128 결핍의 하류 결과로 제시 — Akk 단독 투여 효과·살균형은 본문 확인 필요
 - [[Jay's Knowledge Base/raw/647-fan-2027-the-gutpancreas-axis-in-chronic-pancreatitis\|raw/647-fan-2027-the-gutpancreas-axis-in-chronic-pancreatitis]] — 만성 췌장염의 장–췌장 축 종설: 장벽 붕괴·LPS/TLR4 섬유염증 신호, 미생물 대사산물의 L세포 GLP-1 분비 조절, 췌장 GLP-1R 직접 신호는 β세포에서만 근거 강함, 인체 신바이오틱 시험은 GLP-1·섬유화 미평가 → 마이크로바이옴 층화 시험 설계 제안 (*Microbiological Research*, 연도 확인 필요)
 - [[Jay's Knowledge Base/raw/68-righi-2024-gut-microbiome-disruption-following-sars-cov-2-a\|raw/68-righi-2024-gut-microbiome-disruption-following-sars-cov-2-a]] — SARS-CoV-2 감염 후 장내 마이크로바이옴 교란 리뷰
 - [[Jay's Knowledge Base/raw/78-zhu-a-spatial-multi-modal-dissection-of-host-microbiome-inte\|raw/78-zhu-a-spatial-multi-modal-dissection-of-host-microbiome-inte]] — 대장염 조직 미세환경의 공간 다중모달 숙주–미생물 해부

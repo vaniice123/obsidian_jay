@@ -254,6 +254,17 @@ Sukurica, Sengul & Uysal Cinar (*Diabetes, Obesity and Metabolism*, DOI 10.1111/
 
 > 📌 **관련 선행 종설 (초록 미확보)**: Neeland, Linge & Birkenfeld (2024, *Diabetes, Obesity and Metabolism*, DOI 10.1111/dom.15728, [[Jay's Knowledge Base/raw/649-neeland-2024-changes-in-lean-body-mass-with-glucagon-like-peptide-1\|raw/649-neeland-2024-changes-in-lean-body-mass-with-glucagon-like-peptide-1]]) — GLP-1 기반 요법의 lean mass 변화와 완화 전략. 초록이 잘린 상태로 수집되어 내용은 인용하지 않으며 [[Jay's Knowledge Base/wiki/glp1-muscle-loss#모니터링 중인 문헌 (초록 미확보)\|모니터링 목록]]에 등재.
 
+### 「근손실인가 생리의 회복인가」 — incretin 근감소 우려의 재해석 (Koufakis 2026)
+
+Koufakis et al. (2026, *Advances in Therapy*, DOI 10.1007/s12325-026-03804-z, [[Jay's Knowledge Base/raw/642-koufakis-2026-losing-muscle-or-restoring-physiology-reframing-the\|raw/642-koufakis-2026-losing-muscle-or-restoring-physiology-reframing-the]])은 incretin 치료 중 lean mass 감소를 **단독으로 해석하면 오도될 수 있다**는 관점(perspective) 논문이다.
+
+- **비율 논거**: 총 감량의 **약 1/4~1/3이 lean mass** — 다른 효과적 감량 중재와 비슷한 비율로, **병적 근손실이 아닌 생리적 체성분 재편**에 부합
+- **질적 논거**: incretin 요법은 **지방량을 우선적으로 줄이고 lean-to-fat 비율을 개선**하며, **신체 기능·이동성·건강관련 삶의 질 개선**과 연관
+- **단, 고위험군은 예외**: 고령자, 기존 근감소증·노쇠, 만성 신장·심혈관 질환, 만성 염증성 질환, 영양 불량 → **근력·신체수행 정기 평가 + 충분한 단백질 + 구조화된 저항운동**을 약물치료에 병행
+- **연구 방향**: lean mass 단독이 아닌 **근질(quality)·기능**을 우선 평가해야 함
+
+**시사점**: [[Jay's Knowledge Base/wiki/glp1-muscle-loss#⛑ 「비례적 손실인가 선택적 손실인가」 — RCT 8편 + NMA 22편의 수렴 (Ataei 2026)\|Ataei 2026]]·[[Jay's Knowledge Base/wiki/glp1-muscle-loss#「감량인가 근손실인가」 — 세포 기전과 lean mass 보존 전략 종합 (Sukurica, *DOM*)\|Sukurica]]에 이어 「GLP-1 특이적 근손실」 서사를 약화시키는 세 번째 문헌이다. companion 포지셔닝은 **전체 GLP-1 사용자**가 아니라 **위 고위험군**(고령·근감소·CKD 등)을 1차 표적으로 좁히고, 평가지표를 **근력·신체수행·근질**로 두는 방향이 근거와 더 정합적이다 (본 문서의 추론). ⚠️ 관점 논문으로 새 데이터 없음, 초록 기반 정리.
+
 ### 근감소증 신약의 「번역 갭」 — 생물학적 제제는 운동을 대체하지 못한다 (Travieso 2026)
 
 Travieso et al. (2026, *ACS Nutrition Science*, DOI 10.1021/acsnutrsci.6c00069, [[Jay's Knowledge Base/raw/662-travieso-2026-bridging-the-translational-gap-in-sarcopenia\|raw/662-travieso-2026-bridging-the-translational-gap-in-sarcopenia]])은 GLP-1 맥락이 아닌 **노인성 근감소증 전반**을 다루는 서술적 종설이나, 본 문서의 「동화 병용은 연구 단계」 판단을 독립적으로 뒷받침한다.
@@ -470,8 +481,11 @@ Roslin et al. (2026, *Journal of Clinical Medicine*, DOI 10.3390/jcm15218265, [[
 | Maltese, Koufakis & Popovic, 2026 ([[Jay's Knowledge Base/raw/615-maltese-2026-reappraisal-of-glp-1-receptor-agonists-in-older-adults\|raw/615-maltese-2026-reappraisal-of-glp-1-receptor-agonists-in-older-adults]]) | *Trends in Endocrinology & Metabolism* / 10.1016/j.tem.2026.07.009 | **고령자에서의 GLP-1 수용체 작용제 재평가** | **초록 미확보 · 모니터링** |
 | Neeland, Linge & Birkenfeld, 2024 ([[Jay's Knowledge Base/raw/649-neeland-2024-changes-in-lean-body-mass-with-glucagon-like-peptide-1\|raw/649-neeland-2024-changes-in-lean-body-mass-with-glucagon-like-peptide-1]]) | *Diabetes, Obesity and Metabolism* / 10.1111/dom.15728 | GLP-1 기반 요법의 **lean body mass 변화와 완화 전략** | **초록 불완전(첫 문장만 수집) · 모니터링** |
 | Hendrickse, Xiao & Bowen, 2026 ([[Jay's Knowledge Base/raw/660-hendrickse-2026-effects-of-glp-1-medications-on-skeletal-muscle-and\|raw/660-hendrickse-2026-effects-of-glp-1-medications-on-skeletal-muscle-and]]) | *Journal of Sport and Health Science* / 10.1016/j.jshs.2026.101185 | GLP-1 약물의 **골격근 영향과 대응책으로서의 운동** | **Journal Pre-proof · 초록 미공개 · 모니터링** (PMID 42913786, 2026-10-29 확인) |
+| Shin, 2026 ([[Jay's Knowledge Base/raw/666-shin-2026-persistence-and-geographic-availability-of-medicare\|raw/666-shin-2026-persistence-and-geographic-availability-of-medicare]]) | 저널·DOI 미확보 | **비당뇨 적응증 GLP-1 치료제의 Medicare Part D 보험 적용 지속성·지역별 이용 가능성, 2024–2026** | **서지 불완전(저널·DOI·초록 모두 미확보) · 모니터링** (2026-11-05 Zotero 동기화) |
 
-네 문헌 모두 **초록이 확보되지 않았으므로 본 문서 어디에서도 내용을 인용하지 않는다.** 다만 제목 수준에서 판단할 때 (a) 근손실이 체중 감소에 부수적인 현상인지 아니면 수용체 매개 작용과 분리 가능한지, (b) 근감소증 위험이 가장 높은 고령 인구에서의 위험–편익 재평가, (c) 운동이 GLP-1 유도 근손실의 대응책이 될 수 있는가라는, 본 문서의 핵심 쟁점과 직결되는 주제에 해당한다. 특히 Gonzalez-Rellan & Drucker는 GLP-1 생물학 분야의 대표 연구그룹(Drucker lab) 발 *Cell Metabolism* 종설이므로 확보 우선순위가 높다. cf. [[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]]·[[Jay's Knowledge Base/wiki/obesity-body-composition\|obesity-body-composition]]
+위 문헌 모두 **초록이 확보되지 않았으므로 본 문서 어디에서도 내용을 인용하지 않는다.** 다만 제목 수준에서 판단할 때 (a) 근손실이 체중 감소에 부수적인 현상인지 아니면 수용체 매개 작용과 분리 가능한지, (b) 근감소증 위험이 가장 높은 고령 인구에서의 위험–편익 재평가, (c) 운동이 GLP-1 유도 근손실의 대응책이 될 수 있는가라는, 본 문서의 핵심 쟁점과 직결되는 주제에 해당한다. 특히 Gonzalez-Rellan & Drucker는 GLP-1 생물학 분야의 대표 연구그룹(Drucker lab) 발 *Cell Metabolism* 종설이므로 확보 우선순위가 높다. cf. [[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]]·[[Jay's Knowledge Base/wiki/obesity-body-composition\|obesity-body-composition]]
+
+Shin 2026은 성격이 다르다 — 기전·임상 문헌이 아니라 **미국 Medicare Part D에서 비당뇨(비만 등) 적응증 GLP-1 치료제의 급여 지속성과 지역별 이용 가능성**을 다루는 **지불자·접근성(payer/access) 연구**로 보인다. 확보되면 위 「[[Jay's Knowledge Base/wiki/glp1-muscle-loss#미국 사용자 인구·연령 분포 (2024–2025)\|미국 사용자 인구·연령 분포]]」 절과 [[Jay's Knowledge Base/wiki/microbiome-dietary-supplement-market\|microbiome-dietary-supplement-market]]의 시장 추정에 연결될 수 있다. ⚠️ 다만 **저널·DOI·초록이 모두 미확보**이며 단독 저자 항목이라 **출판 형태(정식 논문·프리프린트·working paper 등)조차 확인되지 않았다** — 인용 전 서지 검증이 반드시 필요하다.
 
 ---
 
@@ -526,6 +540,7 @@ Roslin et al. (2026, *Journal of Clinical Medicine*, DOI 10.3390/jcm15218265, [[
 - [[Jay's Knowledge Base/raw/637-chun-2026-effects-of-creatine-supplementation-with-and-without\|raw/637-chun-2026-effects-of-creatine-supplementation-with-and-without]] — 45~65세 64명 12주 이중맹검 RCT (*J. Int. Soc. Sports Nutr.* 2026, ISRCTN83081058): 크레아틴 2×5 g/일이 운동·식이 중재 유무와 무관하게 제지방량·근력·근지구력↑, **감량 식이 병행 시 체지방률 감소폭↑**. GLP-1RA 병용은 미검증
 - [[Jay's Knowledge Base/raw/650-sukurica-unknown-weight-loss-or-muscle-loss-cellular-mechanisms-and\|raw/650-sukurica-unknown-weight-loss-or-muscle-loss-cellular-mechanisms-and]] — GLP-1 기반 요법 중 lean mass 변화의 세포 기전·골격근 보존 전략 종설 (Sukurica, Sengul & Uysal Cinar, *Diabetes, Obesity and Metabolism*, DOI 10.1111/dom.71422, **출판 연도 확인 필요**): **lean/fat-free mass 감소 ≠ 수축성 골격근 소실**, incretin 요법의 근내지방·염증·미토콘드리아 경유 근질 개선 가능성, 빠른 감량·영양 부족이 취약군 위험 요인, 단백질·저항운동·GI 부작용 관리·기능 모니터링 권고, 동화 병용은 연구 단계 — 근력·신체수행으로 평가
 - [[Jay's Knowledge Base/raw/662-travieso-2026-bridging-the-translational-gap-in-sarcopenia\|raw/662-travieso-2026-bridging-the-translational-gap-in-sarcopenia]] — 근감소증 신규 생물학적 제제와 생활습관 중재 통합 서술적 종설 (Travieso et al., *ACS Nutrition Science* 2026, DOI 10.1021/acsnutrsci.6c00069): 호르몬·myokine·myostatin·미토콘드리아·유전자 기반 후보 전반에서 **바이오마커 개선 ≠ 기능 이득**, **운동 + 영양 최적화만이 근량·기능 모두 신뢰성 있게 개선**, 기능 평가변수 1차 기준화와 운동·영양 **보완형 adjunct** 설계 제안. cf. [[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]]
+- [[Jay's Knowledge Base/raw/642-koufakis-2026-losing-muscle-or-restoring-physiology-reframing-the\|raw/642-koufakis-2026-losing-muscle-or-restoring-physiology-reframing-the]] — incretin 치료 중 lean mass 감소를 **생리적 체성분 재편**으로 재해석한 관점 논문 (Koufakis et al., *Adv. Ther.* 2026, DOI 10.1007/s12325-026-03804-z): 감량의 약 1/4~1/3이 lean mass로 타 감량 중재와 유사, 지방 우선 감소·lean/fat 비율 개선·기능·QoL 개선 연관, **고위험군(고령·근감소·노쇠·CKD·CVD·염증·영양불량)은 근력·수행 평가 + 단백질 + 저항운동 병행**, 근질·기능 중심 연구 권고
 
 ### 모니터링 중 (초록 미확보)
 - [[Jay's Knowledge Base/raw/610-gonzalez-rellan-2026-weight-loss-independent-actions-of-glp-1-medicines\|raw/610-gonzalez-rellan-2026-weight-loss-independent-actions-of-glp-1-medicines]] — GLP-1 계열 약물의 체중감소 비의존적(weight-loss-independent) 작용 (Gonzalez-Rellan & Drucker, *Cell Metabolism* 2026, DOI 10.1016/j.cmet.2026.07.006). **초록 미확보 · 모니터링** — 서지사항만 확보, 내용 인용 불가

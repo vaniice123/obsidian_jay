@@ -159,6 +159,16 @@ DXA(gold-standard)로 측정한 incretin 약물의 체성분 변화를 절대 kg
 
 **시사점**: Mount 2026(체중 유지 1차 종결점 양성)과 대비되어 **1차 종결점(Matsuda index)이 음성**이었으나, **기저 *Akkermansia* 낮은 층에서의 반응성**과 **GLP-1 excursion 증가**는 살균 *A. muciniphila* 대사 중재에서 **low-baseline *Akkermansia* 층화**가 효능 검출의 열쇠일 수 있음을 시사한다. 단 Mount 2026은 기저 *Akkermansia* 풍부도와 심대사 반응의 **연관만 보고했을 뿐 방향을 명시하지 않았으므로**, 두 RCT를 같은 방향의 responder 신호로 합산해서는 안 된다 (방향이 반대인 Dao 2016 식이중재 코호트와의 대비 포함, 상세 → [[Jay's Knowledge Base/wiki/akkermansia-clinical-evidence\|akkermansia-clinical-evidence]]; cf. [[Jay's Knowledge Base/wiki/microbiome-analysis-technologies\|microbiome 진단]]).
 
+### 살균 *A. muciniphila* AH39 — 담즙산–FXR 축 경유 비만 완화 (Kuang 2026, *Food Bioscience*)
+
+살균 *A. muciniphila* **AH39 (CCFM1083)** 를 HFD 마우스에 12주 투여(**군당 n=6**, CON·HFD·AH39 3군) ([[Jay's Knowledge Base/raw/643-kuang-2026-pasteurized-akkermansia-muciniphila-ah39-alleviates\|raw/643-kuang-2026-pasteurized-akkermansia-muciniphila-ah39-alleviates]]).
+- **표현형**: 체중 증가 억제, 간 지방증↓, 내당능·인슐린 감수성 개선, 혈청 지질·간 손상 마커 개선, 전신 염증·간 산화 스트레스 완화
+- **미생물**: *Parabacteroides*·*Roseburia*·*Muribaculum*↑, *Alistipes*·*Tyzzerella*↓
+- **담즙산 (간, 표적 대사체)**: 1차 담즙산 및 타우린 포합체 **CA·CDCA·β-MCA·T-β-MCA·TCA·TCDCA↑**, 2차 담즙산 **DCA·TLCA↓**
+- **장 FXR–FGF15 관련 유전자 전사 변화** 동반 (초록에서는 증감 방향 미기재)
+
+💡 아래 Liang 2026(고지방식→담즙산→FXR→소장 지방흡수)과 같은 **담즙산–FXR 축**을 살균형 Akk의 기전으로 연결한 사례다. 다만 **군당 6마리의 단일 마우스 연구**이고 FXR 결과는 「연관(association)」 수준이므로 인과 기전으로 읽어서는 안 된다. 살균 Akk 원료 경쟁 측면에서는 **중국 연구기관 발 신규 살균 균주**가 추가된 것으로, 균주별 차이는 [[Jay's Knowledge Base/wiki/akkermansia-strain-landscape\|akkermansia-strain-landscape]] 참조.
+
 ### 운동-유도 체지방 감소의 미생물 매개 — *A. muciniphila* 축
 - 동물에서 유산소·중등도 운동이 일관되게 *A. muciniphila* 증가 + 다양성 증가 + 포도당 내성 개선 + 지방량 감소 유도
 - 인간 결과는 이질적이나 과체중·대사 이상자에서 *A. muciniphila* 소폭 증가와 대사 개선 확인
@@ -255,6 +265,10 @@ GLP-1RA 감량은 **에너지 소비 감소·제지방 손실·중단 후 지방
 ### 근감소성 비만(SO)의 혈청 바이오마커 — 단순 비만과의 구분 한계 (Yang 2026)
 43편 메타분석([[Jay's Knowledge Base/raw/640-yang-2026-systematic-review-and-meta-analysis-of-biomarkers\|raw/640-yang-2026-systematic-review-and-meta-analysis-of-biomarkers]], *Medicine* 2026)에서 SO는 건강인 대비 **CRP·LDL-C·TC·TG·WBC·크레아티닌·요산·공복 혈당·인슐린이 높고**, HDL-C·비타민 D가 높을수록 위험이 낮았다. 그러나 **단순 비만과 비교하면 TG만 SO에서 더 낮았고** CRP·지질·비타민 D·혈당·IL-6는 차이가 없었다 → 비만 인구에서 근감소성 비만을 가려내려면 **혈액 검사가 아니라 체성분(DXA/BIA)·근기능 측정이 필요**하다. 상세 [[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]]
 
+### 조작 합성 세균의 식이 유도 프로그램형 GLP-1 전달 (Wang 2026, *Genome Medicine*)
+GLP-1은 **식후 장내분비세포에서 박동적으로 분비**되는데, 기존 개발은 **장기 지속형**에 집중되어 약물 저항성·부작용과 흔히 연관되었다. Wang et al. ([[Jay's Knowledge Base/raw/667-wang-2026-diet-induced-programmable-glp-1-delivery-by-synthetic\|raw/667-wang-2026-diet-induced-programmable-glp-1-delivery-by-synthetic]], DOI 10.1186/s13073-026-01809-5)는 **합성 세균을 이용한 식이 유도(diet-induced) 프로그램형 GLP-1 전달**로 항비만 효능을 높이고, 동시에 **GLP-1 불활성화 잠재력을 보유한 장내 세균 taxa를 감소**시켰다고 보고한다. 기존 장기 지속형의 약점을 겨냥한 설계로, 본 문서의 **tachyphylaxis·치료 천장 가설(Roslin 2026)** 과 같은 문제의식에 서 있다.
+> **⚠️ 결과 미확보 · 모니터링.** 초록은 배경·목적까지만 확보 — **유도 회로 구성·숙주 균주·체중/체성분 수치·대상 taxa는 미확보**. 또한 **제지방·근기능 지표는 초록에 등장하지 않아** 근손실 관점([[Jay's Knowledge Base/wiki/glp1-muscle-loss\|glp1-muscle-loss]])의 근거로 쓸 수 없다. 자연 분리주가 아닌 **유전자 조작 생균**이므로 규제 경로가 다르다 (상세 [[Jay's Knowledge Base/wiki/microbiome-therapeutics\|microbiome-therapeutics]]).
+
 ### PTER 억제 — N-acetyltaurine 포식억제 경로
 - PTER(phosphotriesterase-related)는 포식억제(anorexigenic) 대사체 N-acetyltaurine의 분해를 매개하는 amidohydrolase로, 기질 결합 포켓이 HDAC 계열과 구조적 유사성을 가진다는 것이 진핵 PTER 결정구조(apo/product-bound)에서 새롭게 규명됨
 - 이 유사성을 기반으로 nanomolar 효력·HDAC 대비 >100배 선택성을 갖는 기질경쟁형 억제제 **PTERi**를 first-in-class로 개발
@@ -307,6 +321,7 @@ GLP-1RA 감량은 **에너지 소비 감소·제지방 손실·중단 후 지방
 - [[Jay's Knowledge Base/raw/638-thorne-2026-an-rna-thermogenic-therapy-to-preserve-lean-mass-and\|raw/638-thorne-2026-an-rna-thermogenic-therapy-to-preserve-lean-mass-and]] — 지방조직 지향 **Zfp423 ASO**: 백색지방 베이지화·에너지 소비↑, **semaglutide 병용 시 체중·지방 감량↑ + 제지방 보존** (*PNAS* 2026, 마우스 전임상)
 - [[Jay's Knowledge Base/raw/640-yang-2026-systematic-review-and-meta-analysis-of-biomarkers\|raw/640-yang-2026-systematic-review-and-meta-analysis-of-biomarkers]] — 근감소증·근감소성 비만 혈청 바이오마커 메타분석 (43편, *Medicine* 2026): SO vs 단순 비만은 TG 외 차이 없음
 - [[Jay's Knowledge Base/raw/661-roslin-2026-durability-of-glp-1-based-therapies-in-obesity\|raw/661-roslin-2026-durability-of-glp-1-based-therapies-in-obesity]] — GLP-1 기반 비만 치료의 장기 지속성·수용체 적응·**tachyphylaxis**·치료 천장 개념적 종설: 위 배출 효과 내성은 입증, 장기 효과 특이적 약화는 미배제, 중단 연구는 치료 의존성만 입증, 체성분·신체 기능 포함 다축 장기 평가 제안 (*J. Clin. Med.* 2026, DOI 10.3390/jcm15218265)
+- [[Jay's Knowledge Base/raw/643-kuang-2026-pasteurized-akkermansia-muciniphila-ah39-alleviates\|raw/643-kuang-2026-pasteurized-akkermansia-muciniphila-ah39-alleviates]] — 살균 *A. muciniphila* **AH39(CCFM1083)** HFD 마우스 12주(군당 n=6): 체중 증가·간 지방증↓, 내당능·인슐린 감수성↑, *Parabacteroides*·*Roseburia*·*Muribaculum*↑, 간 1차·포합 담즙산↑·DCA·TLCA↓, 장 FXR–FGF15 관련 전사 변화 (*Food Bioscience* 2026, DOI 10.1016/j.fbio.2026.110085)
 
 ---
 

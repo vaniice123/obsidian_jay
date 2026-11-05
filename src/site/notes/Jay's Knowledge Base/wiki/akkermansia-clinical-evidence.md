@@ -158,6 +158,16 @@ Naito 2026이 **인구 수준의 존재비 서사**에 제동을 걸었다면, R
 
 ---
 
+## 한계·상충 근거 (Counter-evidence) — 면역관문차단 이상반응(irAE) 모델에서 *Akkermansia* 농축이 위험 표지 (Patra 2026, *Cell*)
+
+Rojas 2026이 「용량·조건 의존적 양면성」을 일반 원칙으로 제기했다면, Patra et al. (2026, *Cell*, [[Jay's Knowledge Base/raw/664-patra-2026-lifestyle-induced-regulatory-t-cell-fragility-primes\|raw/664-patra-2026-lifestyle-induced-regulatory-t-cell-fragility-primes]], DOI 10.1016/j.cell.2026.09.055, PMID 42913630)은 **구체적인 임상 맥락 하나에서 위험 방향의 연관**을 제시한다. 식이 유도 감수성 모델(LISA)에서 사람과 유사한 anti-PD-1 독성이 재현되는데, 그 디스바이오시스가 ***A. muciniphila* 농축으로 표지(marked)** 되며 **조절 T세포(Treg) 취약성**과 CD8⁺ 효과기 확장을 동반했고, 두 소견은 **면역치료 유발 대장염(irColitis) 환자에서도 관찰**되었다. 식이 되돌림·대사체 보충·Treg IFN-γ 차단으로 가역적이었다.
+
+- **⚠️ 인과로 읽을 수 없는 이유**: 초록은 Akk 농축을 **표지**로 기술하며, **Akk를 투여해 irAE를 유발/악화시킨 개입 실험은 초록 범위에서 확인되지 않는다**(확인 필요). 균주 수준 정보, 생균 vs 살균 구분, 용량 역시 미확인이다 — 즉 **보충 개입의 안전성에 직접 외삽할 수 없다**. 이는 Naito 2026·Ramezani Kashal 2026에서 정리한 「**내인성 존재비 연관 ≠ 보충 개입 효과**」라는 층위 구분이 그대로 적용되는 사례다.
+- **그럼에도 유효한 함의**: ① **ICB 병용 맥락**에서 Akk 계열 소재를 포지셔닝할 경우, 효능(반응률) 지표와 별도로 **irAE 관련 안전성 지표(Treg 안정성·IFN-γ·대장염 소견)를 평가 설계에 포함**해야 한다. ② 상류 결정인자가 **식이**로 지목되었고 FMT 효과도 수용자 식이에 의존했으므로, 시험 설계에서 **배경 식이의 통제·기록**이 필요하다. ③ 위 Rojas 2026이 권고한 「생균 vs 살균의 위해 프로파일 분리 문서화」가 **항암 병용 영역에서도 그대로 요구**된다.
+- **문맥 구분**: 항암 효능 쪽 Akk 근거(MSS CRC phase 1 ORR 19% 등)는 [[Jay's Knowledge Base/wiki/microbiome-cancer-immunotherapy\|microbiome-cancer-immunotherapy]]에 정리되어 있다. **효능 근거와 독성 근거는 서로 다른 결과 지표이므로 한쪽으로 다른 쪽을 상쇄할 수 없다.**
+
+---
+
 ## GLP-1RA와의 대사 효과 시너지: 데이터와 해석 한계 (2026)
 
 **Akk11 + semaglutide 병용 db/db 마우스(T2D + MASLD) 전임상 데이터** (Gao et al., *Cell & Bioscience* 2026, [[Jay's Knowledge Base/raw/491-gao-2026-combination-of-glp-1-receptor-agonist-and-akkermansia\|raw/491-gao-2026-combination-of-glp-1-receptor-agonist-and-akkermansia]]):

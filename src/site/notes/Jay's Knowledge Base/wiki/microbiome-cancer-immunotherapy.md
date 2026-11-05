@@ -55,6 +55,32 @@
 
 확보된 범위 내에서의 의미는 다음과 같다. 이 축은 [[Jay's Knowledge Base/wiki/gut-muscle-axis\|gut-muscle-axis]](장–근육 축)와 직접 연결되고, 근소모라는 결과 지표에서는 [[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]]와도 접점을 갖는다. 면역관문억제제 병용처럼 **항암 효능 증강**을 노리는 기존 마이크로바이옴 종양학 흐름과 달리, **암 관련 근소모라는 숙주 측 합병증**을 미생물 조절로 다룬다는 점에서 적용 범위를 「반응률(response rate)」에서 「환자 기능·삶의 질」로 확장하는 사례다 (cf. 위 신바이오틱스의 항암화학요법 부작용 완화 항목). *Phocaeicola vulgatus*(구 *Bacteroides vulgatus*)는 [[Jay's Knowledge Base/wiki/next-generation-probiotics\|next-generation-probiotics]] 후보군과 계통적으로 인접한 Bacteroidetes 공생균으로, 저분자 화합물이 **특정 공생균을 선택적으로 농축**시켜 효과를 내는 「소재 × 표적균」 설계 사례로도 읽을 수 있다.
 
+## ⚠️ 면역관련 이상반응(irAE)에서 *Akkermansia* 농축이 「위험 방향」으로 나타난 근거 (Patra 2026, *Cell*)
+
+면역관문차단(immune checkpoint blockade, ICB)은 암 치료를 바꿨으나 **면역관련 이상반응(immune-related adverse events, irAEs)** 은 때로 치명적인 주요 한계로 남아 있고, 견고한 전임상 모델의 부재가 기전 규명을 가로막아 왔다. Patra et al. (2026, *Cell*, [[Jay's Knowledge Base/raw/664-patra-2026-lifestyle-induced-regulatory-t-cell-fragility-primes\|raw/664-patra-2026-lifestyle-induced-regulatory-t-cell-fragility-primes]], DOI 10.1016/j.cell.2026.09.055)는 **식이 유래 대사·미생물 변화가 사람과 유사한 anti-PD-1 독성 감수성을 재현**하는 **LISA(lifestyle-induced susceptibility to irAEs) 모델**을 제시했다.
+
+- **모델 특성**: 다장기 irAE(면역세포 침윤·사이토카인 생산)를 재현하며, 중증도는 **성별·연령·치료 방식·면역치료 반응 여부**에 따라 달라진다
+- **🔴 핵심 기전 — *A. muciniphila* 농축이 표지가 된 디스바이오시스**: 저자들이 기술한 디스바이오시스는 ***Akkermansia muciniphila* 농축(enrichment)으로 표지(marked)** 되며, 이것이 비정상적 면역 활성화를 동반하면서 **조절 T세포(Treg) 취약성(fragility)** 과 **CD8⁺ 세포독성 효과기 집단**을 유도한다. 두 소견은 **면역치료 유발 대장염(irColitis) 환자에서도 관찰**되었다
+- **가역성**: 식이 되돌림(dietary reversal), 대사체 보충, Treg에서의 **IFN-γ 생산 또는 신호 차단**이 Treg 안정성을 회복시키고 염증을 해소했다
+- **인체→마우스 분변 이식**: 사람 분변 미생물 이식이 **수용 마우스의 식이와 상호작용**하여 감수성을 결정했다 — 미생물 단독이 아니라 **식이 × 미생물**의 교호작용
+
+### 💡 전략적 해석 — 본 문서 서사에 대한 중요한 경계 조건
+
+본 문서의 기존 서사는 ***A. muciniphila*가 항암 면역을 증강한다**는 방향이었다(Amuc_1100/CD8⁺ CTL 축, TLR2→cGAS-STING 축, 추출물 직접 세포독성, anti-PD-L1 효능 강화 등). 본 연구는 **같은 균종의 농축이 irAE 감수성 쪽에서는 위험 표지로 나타난** 사례이므로, 다음과 같이 읽어야 한다.
+
+1. **「효능」과 「독성」은 분리된 결과 지표다**: ICB 반응률 증강 근거가 곧 안전성 근거가 되지 않는다. *A. muciniphila* 농축이 **효능 쪽에서 유리, 독성 쪽에서 불리**할 수 있다는 가능성이 제기된다 — 이는 [[Jay's Knowledge Base/wiki/akkermansia-clinical-evidence\|akkermansia-clinical-evidence]]의 Rojas 2026(용량·조건 의존적 양면성)이 지적한 「경계 조건 명시」 요구와 같은 방향이다.
+2. **⚠️ 인과 방향은 본 초록으로 확정되지 않는다**: 초록은 Akk 농축을 디스바이오시스의 **표지(marked by)** 로 기술하며, **Akk 투여가 irAE를 유발한다는 개입 실험은 초록 범위에서 확인되지 않는다**(확인 필요). 즉 「동반 소견」과 「원인」을 구분해야 하며, 보충 개입(supplementation)의 안전성에 직접 외삽할 수 없다.
+3. **상류 결정인자는 식이**: 가역성이 식이 되돌림·대사체 보충으로 확보되었고 FMT 효과도 수용자 식이에 의존했다 — 미생물 조성 자체보다 **식이-대사 맥락**이 상류라는 틀이다 (cf. [[Jay's Knowledge Base/wiki/akkermansia-clinical-evidence\|akkermansia-clinical-evidence]] Rojas 2026의 동일 지적).
+4. **개발 관점의 과제**: HB03 등 **항암 영역에서 Akk 계열 소재를 ICB 병용으로 포지셔닝할 경우, 효능 지표와 함께 irAE 관련 안전성 지표(Treg 안정성·IFN-γ·대장염 소견)를 평가 설계에 포함**해야 한다는 근거가 된다. 본 연구는 **생균/살균 구분이나 특정 균주 투여를 평가하지 않았으므로**(내인성 농축 관찰) 살균형 소재에 그대로 적용되는지는 **별도 검증이 필요**하다.
+
+## 소화기암에서 마이크로바이옴–ICI 시그니처의 재현성과 번역 준비도 (Sagawa 2026, *Current Oncology Reports*)
+
+장내 미생물 특징은 **면역관문억제제(ICI) 결과와 연관**되어 왔으나, 이 시그니처가 **소화기(GI) 종양 유형·치료 레지멘·인구집단에 걸쳐 견고한지(robust)는 불확실**하다. Sagawa et al. ([[Jay's Knowledge Base/raw/665-sagawa-2026-gut-microbiome-signatures-and-immune-checkpoint\|raw/665-sagawa-2026-gut-microbiome-signatures-and-immune-checkpoint]], DOI 10.1007/s11912-026-01853-9)는 **비판적 내러티브 리뷰(critical narrative review)** 로 ① 인체 근거, ② 실험적 기전, ③ 종단 샘플링(longitudinal sampling), ④ **임상 적용(clinical implementation)에 필요한 기준**을 평가했다.
+
+> **상태: 결과·결론 미확보 · 모니터링.** 확보된 초록은 **연구 목적과 평가 범위까지**이며, 저자들이 제시한 **구체적 번역 기준(criteria)·재현성 판정·권고 사항은 미확보**다. 본문 확보 후 보강 필요.
+
+**확보 범위 내 의미**: 본 문서가 축적한 개별 기전·균종 근거(위 MSS CRC phase 1, Akk 항암 축, *R. intestinalis* 부티르산 축 등)에 대해 **「종양 유형·레지멘·인구를 넘어 재현되는가」라는 외부 타당성 질문을 정면으로 제기**하는 리뷰다. 소화기암 중심이므로 **CRC 적응증([[Jay's Knowledge Base/wiki/akkermansia-indications-applications\|akkermansia-indications-applications]]·HB03/HB05P CRC 평가)과 직접 겹치며**, 번역 기준 항목이 확보되면 **임상 개발 계획의 체크리스트로 활용 가치가 높다**. cf. [[Jay's Knowledge Base/wiki/microbiome-therapeutics\|microbiome-therapeutics]]의 번역 장벽 종설(Fassarella 2026·Gilbert 2025).
+
 ## 관련 raw/ 소스
 
 - [[Jay's Knowledge Base/raw/22-gomes-2023-modulation-of-the-tumor-microenvironment-by-micro\|raw/22-gomes-2023-modulation-of-the-tumor-microenvironment-by-micro]]
@@ -98,6 +124,8 @@
 - [[Jay's Knowledge Base/raw/539-menadi-2026-synergistic-anticancer-effects-of-akkermansia\|raw/539-menadi-2026-synergistic-anticancer-effects-of-akkermansia]] — *A. muciniphila* 동결건조 추출물의 HT29·HCT116·SW620 CRC 세포 비교 세포독성·BAX/BCL2 의존 apoptosis·5-FU 시너지(*Cell Biochem. Funct.* 2026)
 - [[Jay's Knowledge Base/raw/623-youn-2026-micheliolide-ameliorates-colon-cancer-cachexia-by\|raw/623-youn-2026-micheliolide-ameliorates-colon-cancer-cachexia-by]] — micheliolide(MCL)가 *Phocaeicola vulgatus* 농축을 통해 장내균총–면역 신호를 조절하여 대장암 악액질 개선; 종양 진행과 골격근 소모를 분리하는 host-directed 치료 관점 (*Microbiome* 2026). **초록 앞부분만 확보 — 결과 미확보 · 모니터링**
 - [[Jay's Knowledge Base/raw/655-jiang-2026-akkermansia-muciniphila-attenuates-macrophage\|raw/655-jiang-2026-akkermansia-muciniphila-attenuates-macrophage]] — **MSS CRC(전체 CRC의 ~85%, anti-PD-1 내재 저항)에서 경구 Akk가 TLR2/NF-κB로 대식세포 efferocytosis 약화 → 세포자멸사 암세포 축적 → cGAS-STING → I형 IFN → CD8⁺ T세포 활성화**; **phase 1(NCT06865521, 전이성 MSS CRC, Akk 프로바이오틱 + PD-1 항체): 안전성 양호·ORR 19%** (Jiang et al., *Cell Host & Microbe* 2026, DOI 10.1016/j.chom.2026.09.014, PMID 42887494). ⚠️ 생균 경구 투여 — 살균형 미평가
+- [[Jay's Knowledge Base/raw/664-patra-2026-lifestyle-induced-regulatory-t-cell-fragility-primes\|raw/664-patra-2026-lifestyle-induced-regulatory-t-cell-fragility-primes]] — **🔴 irAE 감수성 모델(LISA)**: 식이 유도 대사·미생물 변화가 사람 유사 anti-PD-1 독성을 재현; ***A. muciniphila* 농축으로 표지된 디스바이오시스**가 **Treg 취약성 + CD8⁺ 효과기 확장**을 유도(irColitis 환자에서도 관찰), 식이 되돌림·대사체 보충·Treg IFN-γ 차단으로 가역, 인체→마우스 FMT는 수용자 식이와 교호작용 (Patra et al., *Cell* 2026, DOI 10.1016/j.cell.2026.09.055, PMID 42913630). ⚠️ Akk는 **표지(marked by)** 로 기술 — 투여 개입 실험·균주/생균-살균 구분은 초록 범위 밖(확인 필요)
+- [[Jay's Knowledge Base/raw/665-sagawa-2026-gut-microbiome-signatures-and-immune-checkpoint\|raw/665-sagawa-2026-gut-microbiome-signatures-and-immune-checkpoint]] — 소화기암에서 마이크로바이옴–ICI 시그니처의 **종양 유형·레지멘·인구 간 재현성과 번역 준비도(translational readiness)** 비판적 내러티브 리뷰: 인체 근거·실험 기전·종단 샘플링·임상 적용 기준 4축 평가 (*Current Oncology Reports* 2026, DOI 10.1007/s11912-026-01853-9). **초록 앞부분(목적·범위)만 확보 — 결론 미확보 · 모니터링**
 
 ## 관련 wiki 링크
 

@@ -80,6 +80,10 @@ AKK2645의 기전:
 
 > 💡 **전략적 시사점**: UC(582)·MetS(588) 두 스크리닝이 **동일 선도 균주 AKK2645**를 각각 독립적으로 지목한 것은, 「살균형 효능=균주 의존적」이라는 원칙에 더해 **AKK2645가 적응증(UC↔MetS)을 가로지르는 광범위 고역가(broad high-potency) 후보**일 가능성을 시사한다. 살균 라벨만으로 효능을 담보할 수 없다는 균주 특이성 원칙(위 582)과, 반대로 검증된 단일 균주가 다중 적응증을 커버할 수 있다는 가능성이 함께 도출된다. 단 두 논문 모두 동일 연구그룹·동일 저널(*Frontiers in Nutrition*)이므로 제3자 독립 검증이 필요하다.
 
+### 신규 살균 균주 AH39 (CCFM1083) — 비만 모델 (Kuang 2026)
+
+살균 *A. muciniphila* **AH39 (CCFM1083)** 가 HFD 마우스에서 체중 증가·간 지방증을 억제하고 담즙산–FXR–FGF15 축 변화를 동반했다 (Kuang et al., 2026, *Food Bioscience*, [[Jay's Knowledge Base/raw/643-kuang-2026-pasteurized-akkermansia-muciniphila-ah39-alleviates\|raw/643-kuang-2026-pasteurized-akkermansia-muciniphila-ah39-alleviates]]; 상세 [[Jay's Knowledge Base/wiki/obesity-body-composition\|obesity-body-composition]]). 위 AKK2645 스크리닝과 달리 **단일 균주·군당 n=6** 연구이므로 균주 간 우열 비교 근거는 아니며, 「살균형 효능은 균주 의존적」 원칙에 비추어 **개별 균주 데이터를 다른 살균 원료(HB05P 포함)에 외삽하지 않아야** 한다.
+
 ### 분리주 안전성·역가 평가 (Safety & Potency Screening)
 
 NGP 상업화에는 분리주별 안전성(독성인자·항생제 내성)·역가 검증이 전제된다.

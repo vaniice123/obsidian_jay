@@ -96,6 +96,19 @@ GLP-1 수용체 작용제의 **근손실 부작용**을 해결하기 위한 마�
 - LBP 규제·CMC 요구사항 상세 → [[Jay's Knowledge Base/wiki/lbp-regulatory-cmc\|lbp-regulatory-cmc]]
 - 자세한 한국 규제 → [[Jay's Knowledge Base/wiki/microbiome-dietary-supplement-market\|microbiome-dietary-supplement-market]]
 
+### 조작 균주(engineered bacteria)를 통한 식이 유도 프로그램형 GLP-1 전달 (Wang 2026, *Genome Medicine*)
+
+GLP-1은 **식후(postprandially) 장내분비세포에서 주로 분비**되는데, 기존 GLP-1 기반 치료제 개발은 **장기 지속형(long-lasting)** 쪽에 집중되어 왔고 이는 **약물 저항성·부작용**과 흔히 연관된다. Wang et al. ([[Jay's Knowledge Base/raw/667-wang-2026-diet-induced-programmable-glp-1-delivery-by-synthetic\|raw/667-wang-2026-diet-induced-programmable-glp-1-delivery-by-synthetic]], DOI 10.1186/s13073-026-01809-5)는 **프로그램형(programmable) GLP-1 전달이 거의 탐색되지 않았다**는 공백을 지적하고, **합성 세균(synthetic bacteria)에 의한 식이 유도 GLP-1 전달**로 항비만 효능을 높이면서 **GLP-1 불활성화 잠재력을 보유한 장내 세균 분류군(taxa)을 감소**시켰다고 보고한다.
+
+> **상태: 결과 미확보 · 모니터링.** 확보된 초록은 **배경과 문제 설정까지**이며, **유도 회로(diet-inducible circuit)의 구성·숙주 균주·투여 모델·체중·체성분 수치, 그리고 "GLP-1 불활성화 잠재력 taxa"의 정체와 감소 폭은 미확보**다. 본문 확보 후 보강 필요.
+
+**확보 범위 내 전략적 의미 (본 문서의 해석)**:
+
+1. **치료 모달리티의 층위가 다르다**: 본 위키가 다루는 LBP·포스트바이오틱은 **자연 분리주 기반**인데, 이는 **유전자 회로를 넣은 조작 생균(engineered live biotherapeutic)** 이다 — 규제상 **유전자변형 미생물(GMM)** 경로에 해당해 위 「[[Jay's Knowledge Base/wiki/microbiome-therapeutics#규제 현황\|규제 현황]]」의 LBP 경로와 **요구 자료·심사 난이도가 다르다**(확인 필요). 자연 분리주 기반인 HB05P 등과 **직접 경쟁 관계로 보기 어렵다**.
+2. **「프로그램형 = 생리적 박동성」이라는 설계 논리**: 장기 지속형 GLP-1 노출이 수용체 적응·부작용과 연관된다는 문제의식은 본 위키의 [[Jay's Knowledge Base/wiki/glp1-muscle-loss\|glp1-muscle-loss]]에 정리된 **tachyphylaxis·치료 천장 가설(Roslin 2026)** 과 같은 방향이다. 식후 박동성을 복원하려는 접근은 **지속형 주사제의 약점을 겨냥한 차별화**로 읽힌다.
+3. **⚠️ 근손실 관점은 평가되지 않았다**: 초록에 **제지방·근기능 지표는 등장하지 않는다**. 내인성 GLP-1 분비를 높이는 접근이라도 **근손실 위험이 자동으로 해소되는 것은 아니므로**(cf. [[Jay's Knowledge Base/wiki/glp1-muscle-loss\|glp1-muscle-loss]]), companion 전략의 근거로 인용할 수 없다.
+4. **「GLP-1 불활성화 taxa 감소」는 주목할 신규 축**: 미생물이 **GLP-1을 분해/불활성화**하는 측면을 표적으로 삼는 발상은 「미생물이 GLP-1 분비를 자극한다」는 기존 축(cf. [[Jay's Knowledge Base/wiki/akkermansia-clinical-evidence\|akkermansia-clinical-evidence]])과 **방향이 다른 별도 레버**다. 다만 해당 taxa·효소가 미확보이므로 현재는 **가설 수준**이다.
+
 ## 출처
 
 - [[Jay's Knowledge Base/raw/06-microbiome-therapeutics-past-present-future\|raw/06-microbiome-therapeutics-past-present-future]]
@@ -105,4 +118,5 @@ GLP-1 수용체 작용제의 **근손실 부작용**을 해결하기 위한 마�
 - [[Jay's Knowledge Base/raw/240-khanna-2022-ser-109-an-oral-investigational-microbiome-thera\|raw/240-khanna-2022-ser-109-an-oral-investigational-microbiome-thera]] — SER-109(Vowst™) 경구 포자 기반 rCDI 치료제 임상 근거
 - [[Jay's Knowledge Base/raw/255-gilbert-2025-clinical-translation-of-microbiome-research\|raw/255-gilbert-2025-clinical-translation-of-microbiome-research]] — 마이크로바이옴 연구의 임상 중개 다학제 컨센서스
 - [[Jay's Knowledge Base/raw/350-wong-2019-estimation-of-clinical-trial-success-rates-and-rel\|raw/350-wong-2019-estimation-of-clinical-trial-success-rates-and-rel]] — 임상시험 성공률·소요기간 대규모 추정 (Wong, Siah & Lo, *Biostatistics* 20(2):273–286, 2019): 2000-01~2015-10 임상시험 406,038 entry·화합물 21,143개, 질환군·상·스폰서·바이오마커 유무·lead indication·시기별 세분화. 종양학 3.4%(선행 5.1%), 2012년 1.7% → 2014년 2.5% → 2015년 8.3%. **환자 선별에 바이오마커를 쓴 시험이 전체 성공 확률 더 높음** — responder 층화 설계의 정량적 근거
+- [[Jay's Knowledge Base/raw/667-wang-2026-diet-induced-programmable-glp-1-delivery-by-synthetic\|raw/667-wang-2026-diet-induced-programmable-glp-1-delivery-by-synthetic]] — **조작 합성 세균의 식이 유도 프로그램형 GLP-1 전달**: 식후 분비라는 GLP-1 생리를 복원하는 방향으로 항비만 효능 증강 + **GLP-1 불활성화 잠재력 보유 장내 taxa 감소** (*Genome Medicine* 2026, DOI 10.1186/s13073-026-01809-5). 자연 분리주가 아닌 **유전자 조작 생균(GMM 규제 경로)**. **초록 앞부분(배경·목적)만 확보 — 결과·회로 구성 미확보 · 모니터링**
 - [[Jay's Knowledge Base/raw/571-fassarella-2026-translational-human-gut-microbiome-research-what-are\|raw/571-fassarella-2026-translational-human-gut-microbiome-research-what-are]] — 인체 장 마이크로바이옴 연구의 번역 장벽·전략 통합 종설: 번역 성공사례·효과적 번역의 장벽·타 의학분야 프레임워크 적용가능성·번역 진전 강화 전략 4대 측면 평가, 번역의 missing pieces (Fassarella & Smidt, *Journal of Translational Medicine* 2026)
