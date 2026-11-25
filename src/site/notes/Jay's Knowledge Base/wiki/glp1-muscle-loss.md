@@ -34,6 +34,49 @@ GLP-1 수용체 작용제는 본래 2형 당뇨 치료제로 출발했으나 강
 
 **시사점**: STEP 1 DXA 하위연구(−5.26 kg, 34~45%)의 큰 수치는 단일 시험·고용량·장기(68주) 특성이 반영된 것으로, **풀링 추정치는 LBM 약 1~2 kg 손실**로 수렴하며 T2D에서는 작고 일관적이다. 즉 GLP-1RA 근손실은 "지방 우세 감량 속 소량의 LBM 손실"로 임상적으로 예측 가능하며, ActRII 차단·포스트바이오틱 companion·운동·단백질 중재는 **근감소증 위험군(노인·T2D·sarcopenic obesity)에서 표적화**하는 것이 비용효율적임을 정량적으로 뒷받침. cf. [[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]]·[[Jay's Knowledge Base/wiki/obesity-body-composition\|obesity-body-composition]]
 
+### EHR 자유기술 대규모 추출 — 감량분의 제지방 분율을 「중재별로 줄 세운」 실사용 근거 (Murugadoss 2026)
+
+위 Alaycı 2026이 **RCT 5편·505명**의 DXA 풀링이라면, Murugadoss et al. (*Biology Methods and Protocols* 2026, [[Jay's Knowledge Base/raw/675-murugadoss-2026-large-scale-data-extraction-from-clinical-notes\|raw/675-murugadoss-2026-large-scale-data-extraction-from-clinical-notes]])은 **전자의무기록(EHR) 자유기술 텍스트**를 LLM 파이프라인으로 추출해 **semaglutide·tirzepatide 개시 성인 670,422명** 규모로 같은 질문에 접근했다. 체성분 측정치가 구조화 필드가 아니라 노트 본문에 묻혀 있다는 문제를 겨냥한 방법론 연구다.
+
+| 항목 | 결과 |
+|---|---|
+| 추출 규모 | 29,154명에서 **조화된 LBM 측정치 158,573건**; 기저+추적 둘 다 보유 **7,965명** |
+| 추출 정확도 | LBM 값이 추출된 노트 32건 **전부 값·단위 정확**, 날짜 정확도 93.8%; 음성 선별 21건에 누락 없음; 반복 추출 일치도 **95~97%** |
+| **제지방 분율(lean-mass proportion of weight lost)** | 비만수술 **0.24** · semaglutide **0.27** · tirzepatide **0.26** ↔ **이화성 질환 0.70~0.74** |
+| 상대 위치 | 매칭 비교에서 incretin 요법은 **생활습관 상담과 비만수술 사이** |
+| tirzepatide vs semaglutide | 12개월 LBM 변화 보정 차이 **−1.9 %p** (95% CI −3.6~−0.3) → **체중 변화 보정 후 −0.1 %p** (95% CI −1.6~1.4)로 소실 |
+| 매칭쌍 465 | 12개월 제지방 분율 **0.24 vs 0.22** (차이 0.02, 95% CI −0.04~0.09, 비유의) |
+
+**시사점**:
+1. **제지방 분율 ≈ 0.25가 중재 무관 상수에 가깝다**: semaglutide 0.27·tirzepatide 0.26·비만수술 0.24가 사실상 겹치며, [[Jay's Knowledge Base/raw/651-ataei-2026-effects-of-glp-1related-therapies-on-lean-mass-and\|Ataei 2026]]의 「LM 손실은 동일 감량 폭의 칼로리 제한·비만수술과 일치」·[[Jay's Knowledge Base/wiki/glp1-muscle-loss#⛑ 「비례적 손실인가 선택적 손실인가」 — RCT 8편 + NMA 22편의 수렴 (Ataei 2026)\|비례적 손실]] 결론을 **수십만 명 실사용 규모에서 독립 재현**한다. 역으로 **이화성 질환의 0.70~0.74** 는 「진짜 선택적 근소모」의 대조 기준치를 제공한다.
+2. **tirzepatide의 더 큰 LBM 손실은 더 큰 체중 감량에 수반된 것**: 보정 전 −1.9 %p가 체중 변화 보정 후 −0.1 %p로 사라졌다. 즉 **약물 간 「근육 친화성」 차이를 주장할 근거가 아니다** — [[Jay's Knowledge Base/wiki/glp1-muscle-loss#GLP-1/GIP 이중 표적 — 차세대 incretin 약물 패러독스 (Davies 2026)\|Davies 2026]] 항목에서 미해결로 남겨둔 "tirzepatide의 낮은 LM 비율이 GIPR 작용 때문인가" 질문에 대해 **감량 규모 비례 쪽을 지지**하는 관찰 근거다.
+3. **companion 포지셔닝에 대한 압력**: 근손실이 중재 종류와 무관한 비례적 현상이라면, companion의 가치 주장은 「GLP-1 특유의 근손실을 막는다」가 아니라 **「감량에 수반되는 비례적 손실을 비례 이하로 낮춘다」** 로 재구성되어야 하며, 종결점은 근량보다 **근력·신체수행**이어야 한다(cf. [[Jay's Knowledge Base/raw/630-oh-2026-the-force-producing-fraction-muscle-quality-as-a\|Oh 2026]]·[[Jay's Knowledge Base/raw/662-travieso-2026-bridging-the-translational-gap-in-sarcopenia\|Travieso 2026]]).
+
+⚠️ **한계**: ① **관찰 설계**이며 저자들도 observational findings로 명시 — 인과 해석 불가. ② 체성분 측정 방법(DXA·BIA 등)이 노트별로 혼재하고 초록에 분포가 제시되지 않았다. ③ 수기 검증이 **노트 53건** 표본에 그쳐, 추출 정확도는 높지만 검증 규모 자체는 작다. ④ 체성분이 노트에 기록된 환자(29,154/670,422 ≈ 4.4%)는 **선택 편향** 가능성이 크다 — 체성분을 측정받는 환자는 이미 관리 집약적일 수 있다.
+
+### 약물요법의 기능 종결점 성적표 — 근감소증 RCT 메타분석 (Tsutsumi 2026)
+
+근손실 대응 약물의 「무엇을 얼마나 개선하는가」에 대해, 근감소증 영역 전체의 RCT를 묶은 pairwise 메타분석이 보고됐다 (Tsutsumi et al., *Metabolism* 2026, [[Jay's Knowledge Base/raw/679-tsutsumi-2026-functional-and-body-composition-outcomes-of\|raw/679-tsutsumi-2026-functional-and-body-composition-outcomes-of]]). ≥65세 대상 **RCT 26편·3,237명**, MEDLINE·Embase ~2026-02-09, random-effects.
+
+| 치료군(Group) | 결과 | 효과 크기 |
+|---|---|---|
+| 호르몬·동화 요법 | 악력 | MD **+1.003 kg** (95% CI 0.007–2.000) |
+| 호르몬·동화 요법 | 6분 보행거리 | MD **+12.335 m** (95% CI 5.043–19.627) |
+| **Myostatin 억제제** | 보행속도 | MD **+0.0300 m/s** (95% CI 0.0295–0.0305) |
+| **Myostatin 억제제** | 사지 제지방량(단일 연구) | SMD **0.573** (95% CI 0.291–0.855) |
+
+- **저자들의 핵심 결론**: 통계적으로 유의한 차이들조차 **「흔히 인용되는 임상적 의미 있는 변화 기준(meaningful-change benchmark) 미달」** 이었다. Class 수준 근거는 희박해 여러 계열이 **단일 시험**으로만 대표되며, RAAS 기반·대사 요법의 기능 추정치는 시험 수가 적고 결과 간 편차가 컸다.
+- **권고**: 향후 시험은 **지속적 이동능력(durable mobility)·독립성·안전성**을 우선 종결점으로 둘 것.
+
+💡 **함의 (본 문서의 추론, 확인 필요)**: ① **myostatin 억제제가 사지 제지방량은 SMD 0.573(중등도)인데 보행속도는 +0.030 m/s** 이다. 노인 보행속도의 임상적 의미 있는 변화 기준으로 널리 쓰이는 **0.1 m/s** 와 비교하면 **약 1/3** 에 그친다 — ⚠️ **단, 0.1 m/s라는 수치는 본 문서가 통용 기준으로 가져온 것이고, 논문 초록은 "commonly cited meaningful-change benchmarks"라고만 쓰며 구체적 임계값을 명시하지 않는다.** 이 비교는 본 문서의 해석이다. ② 이는 ActRII/myostatin 축의 「근량은 늘지만 기능은 덜 는다」 패턴을 **메타분석 수준에서 정량화**한 것으로, [[Jay's Knowledge Base/raw/630-oh-2026-the-force-producing-fraction-muscle-quality-as-a\|Oh 2026]]의 ActRII 반론·[[Jay's Knowledge Base/raw/662-travieso-2026-bridging-the-translational-gap-in-sarcopenia\|Travieso 2026]]의 번역 갭 지적과 **같은 방향의 수치 근거**다. ③ 포지셔닝상, 포스트바이오틱 companion이 ActRII 항체와 경쟁할 때 **「더 큰 근량 증가」가 아니라 「기능 종결점에서의 benchmark 도달」** 을 목표로 삼는 것이 이 근거 지형에 부합한다.
+
+> 🔴 **보행속도 수치의 신뢰성 경고 — 2026-11-26 검증 결과**: 보행속도 **+0.0300 m/s (95% CI 0.0295–0.0305)** 는 신뢰구간 폭이 **0.001 m/s**(±0.0005)에 불과해, 26편 규모 메타분석의 추정치로는 **통계적으로 성립하기 어렵다**(이 정밀도라면 표준오차가 ~0.00026 m/s여야 한다).
+> - **확인된 것**: 이 문자열은 **Europe PMC와 PubMed(PMID 42982100) 두 출처에서 문자 단위로 동일**하다 — 즉 **본 위키의 전사 오류가 아니라 출판된 초록 그대로**다.
+> - **더 이상하게 만드는 점**: 초록은 **사지 제지방량 추정치만 "a single-study estimate"로 명시**하고 보행속도에는 그 표시를 하지 않는다. 즉 보행속도는 **풀링 추정치로 제시**된 것이어서, 단일 시험이라서 CI가 좁다는 설명은 오히려 **배제되는 쪽**이다.
+> - **확인 불가**: 전문이 Elsevier 유료(**Metabolism** vol. 186, art. 156820; PMC 미수록, Semantic Scholar/OpenAlex 모두 OA 사본 없음 — `CLOSED`)여서 forest plot·k·이질성·단위 규약을 볼 수 없다. **오타(자릿수·단위)인지, 하위군 k=2의 우연한 근접인지, 다른 결과변수의 CI가 잘못 붙은 것인지 판별 불가.**
+> - **실무 지침**: **이 수치를 외부 자료(IR·BD 덱·규제 문서)에 인용하지 말 것.** 「myostatin 억제제의 기능 개선이 의미 있는 변화 기준에 미달했다」는 **질적 결론만** 인용하고(이는 초록이 명시), 숫자가 필요하면 원문 forest plot 확인 후 사용한다.
+> - 참고로 Crossref 참고문헌 목록에 **Perera 2006·Guralnik 2020·Bohannon 2019**(보행속도·악력 MCID 문헌)가 포함되어 있어, 본문에서는 구체적 benchmark를 명시했을 가능성이 높다(**추정**).
+
 ### 왜 위험한가
 
 - **60세 이상 비만 인구 40%** — 이미 근감소증 위험군에서 추가 근손실
@@ -57,6 +100,22 @@ GLP-1 근손실의 임상적 함의는 사용 인구의 절대 규모와 연령 
 - 성별 격차: 일반 인구 현재 사용 **여성 15% vs 남성 9%** (KFF). 비만 academic clinic에서는 환자의 약 85%가 여성. 폐경 후 근감소증(특히 50–64세 여성)이 GLP-1 근손실 부작용과 자연스러운 cross-over 인구를 형성.
 - T2DM 환자 내에서도 **BMI 의존성** — 비만(BMI≥30) T2DM 환자의 GLP-1 사용률 32.4% vs 정상체중 16.7% (NCHS 537).
 - 자가보고(KFF/RAND)와 청구 데이터(FAIR Health) 간 prevalence 차이는 지속률·중단 미반영에 기인. 자가보고는 과대 가능성 있음.
+
+#### 업데이트 — CDC MMWR 전국 추정과 「처방대로 쓰지 않는 사용자」 (Pierce 2026)
+
+CDC Rapid Surveys System 기반 전국 추정이 *MMWR*에 공식 발표되어, 위 표의 민간 조사 수치에 **정부 통계 출처**가 추가됐다 (Pierce et al., 2026, *MMWR* 75(44), [[Jay's Knowledge Base/raw/677-samantha-l.-pierce-2026-use-of-glucagon-like-peptide-1-medications-and\|raw/677-samantha-l.-pierce-2026-use-of-glucagon-like-peptide-1-medications-and]], PMID 43019237).
+
+| 항목 | 2025년 7–8월 미국 성인 |
+|---|---|
+| 지난 1년 GLP-1 사용 | **약 10명 중 1명** |
+| 사용자 중 **조제(compounded) 제품** 사용 | **약 5명 중 1명** |
+| 사용자 중 **처방과 다르게 사용(modified use)** | **약 5명 중 2명** — 주된 이유는 **비용·가용성** |
+| 변경이 두드러진 집단 | **젊은 성인** |
+
+- **조제 GLP-1의 위험**: CDC는 조제(compounded) 제품이 **FDA의 안전성·유효성·품질 심사를 받지 않은 채 유통**된다는 점을 명시적으로 경고한다.
+- **「modified use」의 의미**: 용량 축소·투여 간격 연장 등 비용 대응으로 보이며, 저자들은 이것이 **안전성과 유효성에 함의를 가질 수 있어 실사용 양태 파악이 중요**하다고 결론한다.
+
+💡 **근손실 관점의 함의 (본 문서의 추론, 확인 필요)**: ① **사용 인구가 성인 10%** 라는 전국 추정은 companion 시장의 분모를 확정해 주는 수치다 — 위 KFF 자가보고(12%)와 같은 자릿수로 수렴한다. ② **사용자의 40%가 처방을 변경**한다면, DXA 하위연구가 전제하는 「정량 투여·점진 증량」 조건은 실사용에서 상당 부분 깨진다. 즉 **on-off·저용량·불규칙 노출**이 흔하다는 뜻이고, 이는 본 문서가 위에서 지적한 **반복 사이클에 따른 점진적 체성분 악화** 경로가 실제로 더 광범위할 수 있음을 시사한다. ③ 변경이 **젊은 성인에 몰려 있다**는 점은 근감소증 위험이 가장 큰 고령층과는 다른 층이므로, 근손실 부담과 불규칙 사용 부담이 **서로 다른 인구에 분포**한다고 읽어야 한다. ⚠️ 본 조사는 **체성분·근기능을 측정하지 않았다** — 위 ②·③은 사용 양태로부터의 추론이다.
 
 ---
 
@@ -482,6 +541,9 @@ Roslin et al. (2026, *Journal of Clinical Medicine*, DOI 10.3390/jcm15218265, [[
 | Neeland, Linge & Birkenfeld, 2024 ([[Jay's Knowledge Base/raw/649-neeland-2024-changes-in-lean-body-mass-with-glucagon-like-peptide-1\|raw/649-neeland-2024-changes-in-lean-body-mass-with-glucagon-like-peptide-1]]) | *Diabetes, Obesity and Metabolism* / 10.1111/dom.15728 | GLP-1 기반 요법의 **lean body mass 변화와 완화 전략** | **초록 불완전(첫 문장만 수집) · 모니터링** |
 | Hendrickse, Xiao & Bowen, 2026 ([[Jay's Knowledge Base/raw/660-hendrickse-2026-effects-of-glp-1-medications-on-skeletal-muscle-and\|raw/660-hendrickse-2026-effects-of-glp-1-medications-on-skeletal-muscle-and]]) | *Journal of Sport and Health Science* / 10.1016/j.jshs.2026.101185 | GLP-1 약물의 **골격근 영향과 대응책으로서의 운동** | **Journal Pre-proof · 초록 미공개 · 모니터링** (PMID 42913786, 2026-10-29 확인) |
 | Shin, 2026 ([[Jay's Knowledge Base/raw/666-shin-2026-persistence-and-geographic-availability-of-medicare\|raw/666-shin-2026-persistence-and-geographic-availability-of-medicare]]) | 저널·DOI 미확보 | **비당뇨 적응증 GLP-1 치료제의 Medicare Part D 보험 적용 지속성·지역별 이용 가능성, 2024–2026** | **서지 불완전(저널·DOI·초록 모두 미확보) · 모니터링** (2026-11-05 Zotero 동기화) |
+| Mota, Aguiar & Fonseca, 2026 ([[Jay's Knowledge Base/raw/674-mota-2026-will-sarcopenia-preventative-pharmacology-ensure-the\|raw/674-mota-2026-will-sarcopenia-preventative-pharmacology-ensure-the]]) | *Expert Opinion on Pharmacotherapy* / 10.1080/14656566.2026.2764003 | **「근감소증 예방 약리요법이 GLP-1 계열 치료의 장기적 성공을 보장할 것인가」** | **초록 미확보 · 모니터링** (2026-11-25 Europe PMC·Crossref·Semantic Scholar·OpenAlex·PubMed 전 출처에서 초록 미등록 확인 — 출판사(Taylor & Francis) 미등록으로 추정, 원문 확인 필요) |
+
+Mota 2026은 제목만으로도 본 문서의 핵심 논제와 정면으로 겹친다 — 「근감소증 예방 약리요법이 GLP-1 치료의 **장기적 성공**을 보장하는가」는 곧 companion 전략의 존재 근거를 묻는 질문이다. 다만 **초록이 공개 API 어디에도 등록되어 있지 않아** 저자들의 결론 방향(낙관/회의)조차 알 수 없으므로, 확보 전까지는 **제목 외 어떤 내용도 인용하지 않는다.** 저널 성격상 **전문가 의견(editorial/expert opinion)** 이므로 새 데이터보다 관점 제시일 가능성이 높다(추정).
 
 위 문헌 모두 **초록이 확보되지 않았으므로 본 문서 어디에서도 내용을 인용하지 않는다.** 다만 제목 수준에서 판단할 때 (a) 근손실이 체중 감소에 부수적인 현상인지 아니면 수용체 매개 작용과 분리 가능한지, (b) 근감소증 위험이 가장 높은 고령 인구에서의 위험–편익 재평가, (c) 운동이 GLP-1 유도 근손실의 대응책이 될 수 있는가라는, 본 문서의 핵심 쟁점과 직결되는 주제에 해당한다. 특히 Gonzalez-Rellan & Drucker는 GLP-1 생물학 분야의 대표 연구그룹(Drucker lab) 발 *Cell Metabolism* 종설이므로 확보 우선순위가 높다. cf. [[Jay's Knowledge Base/wiki/sarcopenia\|sarcopenia]]·[[Jay's Knowledge Base/wiki/obesity-body-composition\|obesity-body-composition]]
 
@@ -530,6 +592,10 @@ Shin 2026은 성격이 다르다 — 기전·임상 문헌이 아니라 **미국
 - [[Jay's Knowledge Base/raw/633-ancel-2026-strengthening-muscle-for-healthy-ageing-innovative\|raw/633-ancel-2026-strengthening-muscle-for-healthy-ageing-innovative]] — 근감소증 신약 개발 종설 (*Nature Reviews Drug Discovery* 2026): 근육 표적 7개 약리 축, **GLP-1RA + 근육 보존제 병용 임상 급증** 지적
 - [[Jay's Knowledge Base/raw/654-han-2026-loss-of-intestinal-mstn-promotes-glp1-secretion\|raw/654-han-2026-loss-of-intestinal-mstn-promotes-glp1-secretion]] — **장 특이적 MSTN 결손 → YY1–ZDHHC20 → SGLT1 Cys301 S-팔미토일화·막 집적 → 포도당 자극 GLP-1 분비↑**, 고지방식 마우스 내당능 개선; simvastatin의 장 MSTN 상향이 GLP-1 분비 손상 (*Advanced Science* 2026, DOI 10.1002/advs.78302, 마우스·세포). 내인성 GLP-1 분비의 숙주 측 억제 인자
 - [[Jay's Knowledge Base/raw/657-munialo-2026-glp-1-revolution-and-future-of-food-systems-current\|raw/657-munialo-2026-glp-1-revolution-and-future-of-food-systems-current]] — GLP-1 확산의 식품 시스템 영향 서술적 종설 (*Food and Humanity* 2026): 근거를 확립·부상·시나리오 3단계로 분류, 구매·재설계·고단백 식품 수요 변화 가능성, **인구 수준 실증 근거는 제한적(업계 보고서 의존)**, 치료 지속률·장기 식이 전환 정량화 필요
+- [[Jay's Knowledge Base/raw/670-holst-2026-glp-1-based-therapy-of-obesity-and-type-2-diabetes\|raw/670-holst-2026-glp-1-based-therapy-of-obesity-and-type-2-diabetes]] — **GLP-1 생리학·치료의 기반 종설** (Jens Juul Holst, *Diabetology International* 2026, DOI 10.1007/s13340-026-00946-x). GLP-1 분비 기전(영양소 내강 노출·흡수·대사), **ileal brake** 로서의 역할과 2차 인크레틴 기능, 미주신경 구심성 + 뇌실주위기관 노출 뉴런 경유 중추 작용(식욕·보상 핵 활성화), 고용량의 오심·구토와 **점진적 증량으로 완화**; GLP-1RA는 A1c <5.7%·체중 최대 20% 감량에 저등급 염증 감소·혈관 보호를 통한 심혈관·간·신장·중추 합병증 예방 효과, 경구 제형 개발, **WHO 필수의약품 등재**. 저자는 ① **생활습관 교정 동반이 효능과 감량 부작용 예방에 필수**, ② **처방 시 치료 중단 시의 역효과 완화 계획 포함**을 강조 — 본 문서의 「중단 후 반등·체성분 악화」 논점과 직결되는 1차 저자급 근거. ※ 종설이며 lean mass 정량 데이터는 범위 외
+- [[Jay's Knowledge Base/raw/675-murugadoss-2026-large-scale-data-extraction-from-clinical-notes\|raw/675-murugadoss-2026-large-scale-data-extraction-from-clinical-notes]] — **EHR 자유기술 LLM 추출로 산출한 감량분의 제지방 분율** (Murugadoss, Venkatakrishnan & Soundararajan, *Biology Methods and Protocols* 2026, DOI 10.1093/biomethods/bpag067): semaglutide·tirzepatide 개시 **670,422명** 중 29,154명에서 LBM 158,573건 조화, 기저+추적 7,965명; **제지방 분율 비만수술 0.24·semaglutide 0.27·tirzepatide 0.26 ↔ 이화성 질환 0.70~0.74**; tirzepatide vs semaglutide 12개월 LBM 차이 −1.9 %p → **체중 변화 보정 후 −0.1 %p로 소실**, 매칭 465쌍 제지방 분율 0.24 vs 0.22(비유의). 추출 정확도 수기검증 53건·반복일치 95~97%. ⚠️ **관찰 설계·측정법 혼재·체성분 기록 환자 4.4%의 선택 편향**
+- [[Jay's Knowledge Base/raw/677-samantha-l.-pierce-2026-use-of-glucagon-like-peptide-1-medications-and\|raw/677-samantha-l.-pierce-2026-use-of-glucagon-like-peptide-1-medications-and]] — **CDC Rapid Surveys System 전국 추정** (Pierce et al., *MMWR* 2026, 75(44), DOI 10.15585/mmwr.mm7544a1, PMID 43019237): 2025년 7–8월 미국 성인 **약 10명 중 1명**이 지난 1년 GLP-1 사용, 사용자 중 **약 1/5이 조제(compounded) 제품**(FDA 심사 미경유 경고), **약 2/5가 처방과 다르게 사용** — 주 이유 **비용·가용성**, 젊은 성인에서 두드러짐. 실사용 용량·빈도 조정이 안전성·유효성에 함의. ※ 체성분·근기능 미측정
+- [[Jay's Knowledge Base/raw/679-tsutsumi-2026-functional-and-body-composition-outcomes-of\|raw/679-tsutsumi-2026-functional-and-body-composition-outcomes-of]] — **근감소증 약물요법 RCT pairwise 메타분석** (Tsutsumi et al., *Metabolism* 2026, DOI 10.1016/j.metabol.2026.156820): ≥65세 **RCT 26편·3,237명**. 호르몬·동화 요법 악력 **+1.003 kg**·6분 보행 **+12.335 m**; **myostatin 억제제 보행속도 +0.0300 m/s**(CI 0.0295–0.0305)·사지 제지방량 SMD 0.573(단일 연구). 저자 결론은 **유의한 기능 차이조차 통상 임상적 의미 기준 미달**이며 Class 수준 근거 희박 — 지속적 이동능력·독립성·안전성 중심 종결점 권고. ⚠️ 보행속도 CI 폭이 0.001 m/s로 비정상적으로 좁아 **원문 확인 필요**
 - [[Jay's Knowledge Base/raw/661-roslin-2026-durability-of-glp-1-based-therapies-in-obesity\|raw/661-roslin-2026-durability-of-glp-1-based-therapies-in-obesity]] — GLP-1 기반 비만 치료의 **장기 지속성·수용체 적응·tachyphylaxis·치료 천장** 개념적 종설 (Roslin et al., *J. Clin. Med.* 2026, DOI 10.3390/jcm15218265): 위 배출 효과의 빠른 내성은 입증, 장기 효과 특이적 약화는 기존 시험이 배제하지 못함, 중단 연구는 치료 의존성만 입증; 체성분·신체 기능 포함 다축 장기 평가와 유지·병용·전환·시술 결정 프레임 제안. ⚠️ 신규 임상 데이터 없음
 
 ### 비약물적 완화 전략 — 단백질·정밀영양·운동
@@ -547,6 +613,7 @@ Shin 2026은 성격이 다르다 — 기전·임상 문헌이 아니라 **미국
 - [[Jay's Knowledge Base/raw/615-maltese-2026-reappraisal-of-glp-1-receptor-agonists-in-older-adults\|raw/615-maltese-2026-reappraisal-of-glp-1-receptor-agonists-in-older-adults]] — 고령자에서의 GLP-1 수용체 작용제 재평가 (Maltese, Koufakis & Popovic, *Trends in Endocrinology & Metabolism* 2026, DOI 10.1016/j.tem.2026.07.009). **초록 미확보 · 모니터링** — 서지사항만 확보, 내용 인용 불가
 - [[Jay's Knowledge Base/raw/649-neeland-2024-changes-in-lean-body-mass-with-glucagon-like-peptide-1\|raw/649-neeland-2024-changes-in-lean-body-mass-with-glucagon-like-peptide-1]] — GLP-1 기반 요법의 lean body mass 변화와 완화 전략 (Neeland, Linge & Birkenfeld, *Diabetes, Obesity and Metabolism* 2024, DOI 10.1111/dom.15728). **초록 불완전 · 모니터링** — 내용 인용 불가
 - [[Jay's Knowledge Base/raw/660-hendrickse-2026-effects-of-glp-1-medications-on-skeletal-muscle-and\|raw/660-hendrickse-2026-effects-of-glp-1-medications-on-skeletal-muscle-and]] — GLP-1 약물의 골격근 영향과 대응책으로서의 운동 (Hendrickse, Xiao & Bowen, *Journal of Sport and Health Science* 2026, DOI 10.1016/j.jshs.2026.101185, PMID 42913786). **Journal Pre-proof · 초록 미공개 · 모니터링** — 서지사항만 확보, 내용 인용 불가
+- [[Jay's Knowledge Base/raw/674-mota-2026-will-sarcopenia-preventative-pharmacology-ensure-the\|raw/674-mota-2026-will-sarcopenia-preventative-pharmacology-ensure-the]] — 「근감소증 예방 약리요법이 GLP-1 계열 치료의 장기적 성공을 보장할 것인가」 (Mota, Aguiar & Fonseca, *Expert Opinion on Pharmacotherapy* 2026, DOI 10.1080/14656566.2026.2764003). **초록 미확보 · 모니터링** — 2026-11-25 Europe PMC·Crossref·Semantic Scholar·OpenAlex·PubMed 전 출처에서 초록 미등록 확인. 제목이 companion 전략의 존재 근거와 정면으로 겹치므로 확보 우선순위 높음, 내용 인용 불가
 - [[Jay's Knowledge Base/raw/651-ataei-2026-effects-of-glp-1related-therapies-on-lean-mass-and\|raw/651-ataei-2026-effects-of-glp-1related-therapies-on-lean-mass-and]] — incretin·multiagonist 요법의 lean mass·체성분 효과 서술적 종설 (Ataei & Ataei, *J. Fitness, Wellness, and Human Performance* 2026, DOI 10.70834/JFWHP-26-0004, 온라인 2026-10-16): **RCT 8편(순 감량 7편) 기반 — LM 감소가 총 감량의 약 25~40%** 로 **동일 감량 폭의 칼로리 제한·비만수술과 일치**하며, **총 체중 감소와 독립적인 선택적·불균형 LM 손실의 근거를 제시한 시험은 없음**(단 어느 시험도 이를 검출할 검정력 없음); 2025년 네트워크 메타분석(RCT 22편, 2024-11까지) LM ≈ 25%·LM 비율 불변으로 확증; **시상하부 비만(HO)은 에너지 결손 부재 시 LM 보존**이라는 예외; **중단 후 체중 재증가는 FM을 우선 회복해 기저 대비 체성분 악화**; 저항운동·충분한 단백질·지속가능한 생활습관 지원 권고(단 incretin 치료 인구에서의 직접 근거는 제한적)
 
 ### ActRII / SMAD2/3 기전 — primary literature

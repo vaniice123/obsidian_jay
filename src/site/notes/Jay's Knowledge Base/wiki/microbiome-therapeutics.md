@@ -109,6 +109,33 @@ GLP-1은 **식후(postprandially) 장내분비세포에서 주로 분비**되는
 3. **⚠️ 근손실 관점은 평가되지 않았다**: 초록에 **제지방·근기능 지표는 등장하지 않는다**. 내인성 GLP-1 분비를 높이는 접근이라도 **근손실 위험이 자동으로 해소되는 것은 아니므로**(cf. [[Jay's Knowledge Base/wiki/glp1-muscle-loss\|glp1-muscle-loss]]), companion 전략의 근거로 인용할 수 없다.
 4. **「GLP-1 불활성화 taxa 감소」는 주목할 신규 축**: 미생물이 **GLP-1을 분해/불활성화**하는 측면을 표적으로 삼는 발상은 「미생물이 GLP-1 분비를 자극한다」는 기존 축(cf. [[Jay's Knowledge Base/wiki/akkermansia-clinical-evidence\|akkermansia-clinical-evidence]])과 **방향이 다른 별도 레버**다. 다만 해당 taxa·효소가 미확보이므로 현재는 **가설 수준**이다.
 
+### 조작 미생물 GLP-1 플랫폼의 비판적 종합 — 「발현 입증 ≠ 활성 노출 입증」 (Lee 2026)
+
+위 Wang 2026이 단일 연구라면, Lee et al. (*Int. J. Mol. Sci.* 2026, [[Jay's Knowledge Base/raw/671-lee-2026-engineered-microorganisms-as-glp-1-oriented-living\|raw/671-lee-2026-engineered-microorganisms-as-glp-1-oriented-living]], DOI 10.3390/ijms27219977)은 **GLP-1 지향 조작 미생물(engineered microorganisms as living therapeutics)** 분야 전체의 전임상 근거를 비판적으로 검토한 종설이다. 출발점은 **펩타이드 치료제의 경구 전달을 가로막는 위장관 장벽**이며, 장내 미생물을 **장 내부의 GLP-1 생산 공장**으로 쓰려는 시도들을 다음 4개 설계 유형으로 분류한다.
+
+| 설계 유형 | 내용 |
+|---|---|
+| ① GLP-1 또는 유래 펩타이드 직접 생산 | 균체가 호르몬 자체를 분비 |
+| ② 변형 GLP-1RA·융합단백 발현 | 반감기·안정성 개량형 |
+| ③ 내인성 GLP-1 분비 자극 effector 방출 | 숙주 L세포를 자극 (cf. [[Jay's Knowledge Base/wiki/akkermansia-clinical-evidence\|akkermansia-clinical-evidence]]의 Yoon 2021 축) |
+| ④ (위 조합) | — |
+
+**저자들의 핵심 비판 — 근거의 비대칭**: 전임상에서 혈당 지표 개선과 일부 모델의 체중 감소·증가 억제가 보고되었으나, **① 재조합 산물의 발현과 ② 치료 연관 효과는 비교적 일관되게 입증되는 반면**, 다음은 **훨씬 덜 입증**되었다고 지적한다.
+
+- **온전한 생물학적 활성 산물에 대한 in vivo 노출(exposure to intact biologically active products)**
+- **수용체 또는 경로 의존성(receptor or pathway dependence)**
+- **조작된 유전 회로 vs 미생물 섀시(chassis) 자체의 기여분 분리**
+
+**번역의 물리적 제약**으로는 **단백질 분해(proteolysis)·점액층 상호작용·제한된 상피 투과성·수용체 국재화**를 들어, 장 및 전신 표적에 대한 접근 자체가 제한된다고 정리한다. 또한 **안전성·제조·규제 요구사항**을 임상 번역의 필수 관문으로 명시한다.
+
+💡 **HB05P/포스트바이오틱 관점의 함의 (본 문서의 해석)**:
+1. **경쟁 모달리티에 대한 가장 유용한 반론 자료**: 「조작 생균이 GLP-1을 장에서 만들어 준다」는 서사는 투자·BD 맥락에서 매력적이지만, 본 종설은 그 분야 내부에서 **활성 산물의 체내 노출과 경로 인과성이 미입증**이라고 평가한다. 자연 분리주 기반 포스트바이오틱이 **GMM 규제 경로·유전 안정성 부담을 지지 않는다**는 점과 함께 쓰면 포지셔닝 논거가 된다.
+2. **섀시 기여분 분리 요구는 우리에게도 적용된다**: 「조작 회로 vs 섀시」를 분리하라는 요구는, 포스트바이오틱에서 **「정제 effector(Amuc_1100) vs 살균 전균체」의 기여분 분리** 요구와 구조가 같다. 이 점에서 [[Jay's Knowledge Base/wiki/akkermansia-mechanisms#⭐ Amuc_1100 단독이 생균·살균 전균체의 효능을 「재현」 — PCOS 마우스 head-to-head (Peng 2026)\|Peng 2026의 3군 head-to-head]] 같은 설계가 방법론적으로 요구 수준을 충족하는 형태다.
+3. **「활성 산물 노출 미입증」은 우리 쪽 데이터에도 그대로 적용된다 (2026-11-26 추가)**: 이 비판을 경쟁 모달리티에만 쓰는 것은 자기기만이다. [[Jay's Knowledge Base/wiki/akkermansia-mechanisms#⭐ Amuc_1100 단독의 PCOS 마우스 효능 — 「재현」의 실제 강도 (Peng 2026, **전문 검증 완료**)\|Peng 2026]]의 전문 검증 결과, 경구 투여한 Amuc_1100의 난소 도달을 보인 형광 추적은 저자들 스스로 *"fluorescence imaging cannot distinguish intact fusion proteins from labeled fragments… do not establish that **intact, biologically active** Amuc_1100 reaches the ovary"* 로 한정했고, **군당 건강 마우스 1마리**의 탐색적 실험이었다. 즉 **「온전한 활성 산물의 in vivo 노출」은 조작 생균이든 정제 포스트바이오틱이든 공통의 미해결 관문**이다 — 분야 공통 과제로 정리하는 편이 정직하고, 역으로 이를 먼저 해결하면 차별점이 된다.
+4. **⚠️ 근손실·체성분은 다루지 않는다**: 본 종설의 결과변수는 **혈당·체중** 중심이며, 제지방량·근기능은 검토 범위에 없다. 조작 미생물이든 포스트바이오틱이든 **내인성 GLP-1 분비를 높이는 접근이 근손실을 자동으로 해소하지 않는다**는 본 위키의 기존 유보([[Jay's Knowledge Base/wiki/glp1-muscle-loss\|glp1-muscle-loss]])가 그대로 유지된다.
+
+⚠️ **한계**: 종설이므로 1차 데이터는 없고, 개별 연구의 균주·회로·용량·효과 크기는 초록 수준에서 확인되지 않는다. 또한 「덜 입증되었다」는 평가는 저자들의 판단이므로, 특정 경쟁사·후보를 겨냥한 근거로 인용하려면 **원문에서 해당 연구가 실제로 검토되었는지 확인**이 필요하다.
+
 ## 출처
 
 - [[Jay's Knowledge Base/raw/06-microbiome-therapeutics-past-present-future\|raw/06-microbiome-therapeutics-past-present-future]]
@@ -119,4 +146,5 @@ GLP-1은 **식후(postprandially) 장내분비세포에서 주로 분비**되는
 - [[Jay's Knowledge Base/raw/255-gilbert-2025-clinical-translation-of-microbiome-research\|raw/255-gilbert-2025-clinical-translation-of-microbiome-research]] — 마이크로바이옴 연구의 임상 중개 다학제 컨센서스
 - [[Jay's Knowledge Base/raw/350-wong-2019-estimation-of-clinical-trial-success-rates-and-rel\|raw/350-wong-2019-estimation-of-clinical-trial-success-rates-and-rel]] — 임상시험 성공률·소요기간 대규모 추정 (Wong, Siah & Lo, *Biostatistics* 20(2):273–286, 2019): 2000-01~2015-10 임상시험 406,038 entry·화합물 21,143개, 질환군·상·스폰서·바이오마커 유무·lead indication·시기별 세분화. 종양학 3.4%(선행 5.1%), 2012년 1.7% → 2014년 2.5% → 2015년 8.3%. **환자 선별에 바이오마커를 쓴 시험이 전체 성공 확률 더 높음** — responder 층화 설계의 정량적 근거
 - [[Jay's Knowledge Base/raw/667-wang-2026-diet-induced-programmable-glp-1-delivery-by-synthetic\|raw/667-wang-2026-diet-induced-programmable-glp-1-delivery-by-synthetic]] — **조작 합성 세균의 식이 유도 프로그램형 GLP-1 전달**: 식후 분비라는 GLP-1 생리를 복원하는 방향으로 항비만 효능 증강 + **GLP-1 불활성화 잠재력 보유 장내 taxa 감소** (*Genome Medicine* 2026, DOI 10.1186/s13073-026-01809-5). 자연 분리주가 아닌 **유전자 조작 생균(GMM 규제 경로)**. **초록 앞부분(배경·목적)만 확보 — 결과·회로 구성 미확보 · 모니터링**
+- [[Jay's Knowledge Base/raw/671-lee-2026-engineered-microorganisms-as-glp-1-oriented-living\|raw/671-lee-2026-engineered-microorganisms-as-glp-1-oriented-living]] — **GLP-1 지향 조작 미생물(living therapeutics) 전임상 근거 비판적 종설** (Lee, Khotina, Klychkova et al., *Int. J. Mol. Sci.* 2026, DOI 10.3390/ijms27219977): 설계 4유형(GLP-1 직접 생산 / 변형 GLP-1RA·융합단백 / 내인성 분비 자극 effector / 조합) 분류, 전임상 혈당·체중 개선 보고. **핵심 비판 — 재조합 산물 「발현」과 「치료 연관 효과」는 비교적 일관되게 입증되나, ① 온전한 활성 산물의 in vivo 노출 ② 수용체·경로 의존성 ③ 조작 회로 vs 미생물 섀시의 기여분 분리는 훨씬 덜 입증**. 번역 제약으로 단백질 분해·점액층 상호작용·제한된 상피 투과성·수용체 국재화, 그리고 안전성·제조·규제 요구를 명시. ※ **제지방량·근기능은 검토 범위 외** — cf. [[Jay's Knowledge Base/wiki/glp1-muscle-loss\|glp1-muscle-loss]]
 - [[Jay's Knowledge Base/raw/571-fassarella-2026-translational-human-gut-microbiome-research-what-are\|raw/571-fassarella-2026-translational-human-gut-microbiome-research-what-are]] — 인체 장 마이크로바이옴 연구의 번역 장벽·전략 통합 종설: 번역 성공사례·효과적 번역의 장벽·타 의학분야 프레임워크 적용가능성·번역 진전 강화 전략 4대 측면 평가, 번역의 missing pieces (Fassarella & Smidt, *Journal of Translational Medicine* 2026)

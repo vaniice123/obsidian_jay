@@ -43,6 +43,9 @@ Amuc_1100·GLP-1 유도 인자 외에도 *A. muciniphila*의 효능을 매개하
 - LPS 전위(translocation) 감소 → 전신 염증 억제
 - [[Jay's Knowledge Base/wiki/dysbiosis\|dysbiosis]] 상태에서 *A. muciniphila* 감소가 leaky gut의 핵심 원인
 
+> ⚠️ **조건부 서술 필요 — 「점막층 두께 증가」는 무조건적 효과가 아니다 (2026-11-06 보강)**: Patra et al. (2026, *Cell*, [[Jay's Knowledge Base/raw/664-patra-2026-lifestyle-induced-regulatory-t-cell-fragility-primes\|raw/664-patra-2026-lifestyle-induced-regulatory-t-cell-fragility-primes]])의 LISA 모델에서 ***A. muciniphila* 상대풍부도 30~40%** 와 **대장 뮤신층의 현저한 감소가 공존**했다(Derosa 2022의 환자 과증식 기준 **>4.799%** 를 크게 상회). 즉 **고풍부도와 얇은 뮤신층은 양립 가능**하다. 다만 같은 논문에서 **생균 ATCC BAA-835 모노콜로니제이션 단독은 뮤신층 감소를 재현하지 못했으므로**, Akk는 뮤신층 손상의 **원인이 아니라 섬유 결핍 환경의 지표**다. 따라서 본 절의 장벽 강화 효과는 ① **생리적 범위의 풍부도**, ② **뮤신 공급(식이섬유)이 유지되는 식이 맥락** 이라는 두 조건 아래에서 성립하는 **조건부 효과**로 기술해야 한다. 이는 위 effector 절 Dey 2026(설파타아제·과도한 뮤신 foraging)·Ghahari 2026(점액 활성 효소는 감수성 숙주에서 liability)과 같은 축이며, [[Jay's Knowledge Base/wiki/akkermansia-indications-applications\|pathobiont 양면성]]·[[Jay's Knowledge Base/wiki/akkermansia-clinical-evidence\|Rojas 2026 용량·조건 의존적 양면성]]과도 정합한다. 상세 분해는 아래 [[Jay's Knowledge Base/wiki/akkermansia-mechanisms#🔀 Liang 2026 vs Patra 2026 — *Akkermansia* 방향이 반대로 나타나는 두 축의 정합성\|Liang 2026 vs Patra 2026]] 절 참조. **대외 문구 주의**: 「장벽 강화」를 무조건적 효과로 기재하면 본 논문 앞에서 방어가 어렵다.
+
+
 #### 적응증 확장 — 재조합 Amuc_1100의 질 상피 배리어 조절 (Lee 2026)
 
 Amuc_1100–TLR2–tight junction 축이 **장 밖 상피(extra-intestinal epithelium)** 에서도 작동할 수 있음을 시사하는 첫 근거 (Lee et al., 2026, *Arch. Microbiol.*, [[Jay's Knowledge Base/raw/614-lee-2026-recombinant-amuc1100-from-akkermansia-muciniphila\|raw/614-lee-2026-recombinant-amuc1100-from-akkermansia-muciniphila]]).
@@ -60,6 +63,62 @@ Amuc_1100–TLR2–tight junction 축이 **장 밖 상피(extra-intestinal epith
 - LPS(TLR4 리간드)와 zymosan A(β-glucan, TLR2 리간드) **양쪽 자극에서 모두 ZO-1이 회복**된 점은, 작용이 단일 수용체 경쟁에 국한되지 않을 가능성을 시사한다.
 - **한계**: 저자 스스로 **예비 근거(preliminary evidence)** 로 규정 — TEER·투과도 등 **기능적 배리어 assay 부재**, 기전 연구·**in vivo 검증 미완**. 또한 정제 재조합 단백질 결과이므로 살균 균체·EV 제형에서 동일 효과가 재현되는지는 별도 확인이 필요하다 ([[Jay's Knowledge Base/wiki/probiotics-prebiotics-postbiotics\|정제 effector 포스트바이오틱]], [[Jay's Knowledge Base/wiki/bioprocess-engineering\|재조합 생산]]).
 
+#### ⭐ Amuc_1100 단독의 PCOS 마우스 효능 — 「재현」의 실제 강도 (Peng 2026, **전문 검증 완료**)
+
+> 🔍 **2026-11-26 전문 검증 완료**: 초록만으로 작성했던 초판을 **PDF 전문(22쪽) 대조 후 전면 수정**했다. 당초 본 위키는 이를 「정제 effector가 전균체를 대체할 수 있다」는 근거로 읽었으나, **본문은 그 해석을 지지하지 않는다.** 아래는 전문 기준 서술이다.
+
+*A. muciniphila*(이하 AKK) 포스트바이오틱 전략의 핵심 질문은 **「정제 effector 단독으로 전균체(whole-cell) 효능을 대체할 수 있는가」** 다. Peng et al. (*Microorganisms* 2026, 14(11):2552, [[Jay's Knowledge Base/raw/676-peng-2026-amuc1100-reproduces-protective-effects-of-live-and\|raw/676-peng-2026-amuc1100-reproduces-protective-effects-of-live-and]])은 **생균 AKK·살균 pAKK·정제 Amuc_1100** 을 같은 PCOS 모델에서 **5군 병렬 비교**했다.
+
+**검증된 실험 설계**
+
+| 항목 | 내용 |
+|---|---|
+| 동물 | **3주령 암컷 C57BL/6J**, SPF, **총 30마리 / 5군 × n=6** |
+| 군 구성 | Control · PCOS · PCOS-AKK · PCOS-pAKK · PCOS-Amuc_1100 |
+| 모델 유도 | **DHEA 6 mg/100 g 체중 s.c.**(참기름 용해) — 첫 21일 매일, 이후 3일마다 + **고지방식(60 kcal% fat, D12492)** |
+| 균주 | **AKK ATCC BAA-835**(BNCC323275), fluid thioglycollate 혐기배양 4~5일 |
+| 살균법 | **70 °C, 30분** 열처리 |
+| Amuc_1100 | ***E. coli* Rosetta(DE3) / pET-22b(+)** 재조합, His-tag 정제 후 **엔도톡신 제거 → <0.01 EU/mL** |
+| **투여량** | AKK **1×10⁹ CFU/마리** · pAKK **살균 전 1×10⁹ CFU 상당** · **Amuc_1100 100 µg/마리** (PBS + 2.5% 글리세롤) |
+| 투여 | **Day 0부터 Day 42까지 매일 경구 gavage** — 모델 유도와 **동시 개시(예방 설계)** |
+| 평가 | 체중 3일마다 · 성주기 D33–42 · GTT D43 · ITT D46 · 부검 D47 |
+| 통계 | GraphPad Prism 10, **one-way ANOVA + Tukey 다중비교**(쌍별 비교 가능), 종단자료는 two-way RM ANOVA |
+
+**🔴 「정량 동등」으로 읽을 수 없는 이유 — 전문 근거**
+
+1. **저자들이 본문에서 직접 비동등을 명시했다.** 고찰 첫 문단: *"All three administrations alleviated metabolic and reproductive abnormalities **to varying degrees**"* — 「정도가 서로 다르다」고 쓰여 있다.
+2. **결론부도 "some"으로 한정**: *"reproducing **some** of the effects observed with live and pasteurized AKK"*. 제목의 **"Reproduces"** 는 본문 수위를 넘는 표현이다.
+3. **중재별 반응 편차를 명시**: BAT 열생성 유전자(*Ucp1*·*Ppargc1a*·*Ppara*·*Dio2*·*Cited1*)에 대해 *"increased the expression of several of these genes, with the magnitude and statistical significance of the responses **varying by gene and intervention**"* — **유전자별·중재별로 유의성이 갈렸다**고 직접 서술한다.
+4. **🔺 체중 증가는 「개선 목록」에서 빠져 있다 — 초록에서 받은 의심이 본문에서 확인됨**: 체중은 3일마다 측정되어 **Figure 1B로 제시**되지만, 본문은 **PCOS군이 Control보다 체중 증가가 크다**는 서술에서 멈추고 **어떤 중재군도 이를 낮췄다고 기술하지 않는다.** 결정적으로 3.1절 요약은 개선 항목을 *"impaired glucose tolerance, reduced insulin responsiveness, periovarian adipocyte hypertrophy, altered BAT metabolic gene expression, and elevated circulating lipid levels"* 로 열거하며 **체중을 포함시키지 않는다.** → **고지방식 모델인데 체중 증가에 대한 중재 효과는 보고되지 않았다.**
+5. **용량 등가 근거가 없다**: 전균체 **1×10⁹ CFU** vs 정제 단백질 **100 µg** 의 대응 기준(균체 내 Amuc_1100 함량 환산, 몰 기준 등)이 **제시되지 않는다.** 따라서 세 군의 효과 차이를 **고유 효능 차이인지 용량 설정의 산물인지 분리할 수 없다.**
+6. **핵심 기전 축에는 3군 비교가 아예 없다**: 난소 **RNA-seq·Western blot은 Control / PCOS / PCOS-Amuc_1100 3군만** 수행되었고(WB는 **n=3**), **AKK·pAKK 군은 포함되지 않았다.** 즉 **TLR4/NF-κB·NLRP3/GSDMD 축에서 「전균체와 동등하다」고 말할 데이터는 존재하지 않는다.**
+7. FSH는 *"varied relatively little among groups"* — 유의한 변화 없음.
+
+**💡 그래도 남는 가치 (전문 기준)**
+
+- **생식·내분비 표현형에서 세 군이 모두 같은 방향으로 개선**: 성주기 교란 완화(estrus 편중 감소), **테스토스테론·LH·LH/FSH 비 감소**, 난소 **황체 수 증가**·낭성 난포 유사 구조 감소. 3.2절 결론은 *"The **similar** responses observed across the three intervention groups suggest that Amuc_1100 **may contribute to** the reproductive effects associated with AKK administration"* — **「기여한다」 수준의 주장**으로 읽는 것이 정확하다.
+- **장벽·전신염증 축도 3군 공통**: 대장 crypt 형태·배상세포 회복, *Tjp1*·*Ocln*·*Cldn1* mRNA 및 ZO-1·occludin·claudin-1 면역조직화학 증가, 혈청 **LBP·IL-1β·IL-18 감소**.
+- **신규 기전 축 — 난소 pyroptosis**: Amuc_1100군에서 **TLR4·MyD88·p-p65/p65 감소**, **NLRP3·ASC·cleaved caspase-1·cleaved GSDMD 감소**, 난소 *Lbp*·*Il1b*·*Il18* mRNA 감소. KEGG에서 NF-κB·IL-17·B세포 수용체 신호가 추출됐다. 기존 **TLR2–tight junction** 축 밖의 **원격 장기 항염 축**이라는 점에서 의미가 있다(cf. 아래 [[Jay's Knowledge Base/wiki/akkermansia-mechanisms#4. 면역 조절\|면역 조절]] 절). ⚠️ 단 위 6번대로 **이 축은 Amuc_1100 단독 데이터**다.
+- **경구 투여 후 난소에서 형광 검출** — 단, 아래 한계 참조.
+
+**⚠️ 저자들이 명시한 한계 (전문)**
+
+- **예방 효과만 평가**: *"because all interventions were initiated concurrently with PCOS induction, the present study evaluated **preventive effects only**. Whether these interventions are effective against **established PCOS** remains to be determined."*
+- **DHEA 단독군·HFD 단독군이 없다** → *"the **specificity of these effects to PCOS cannot be established**"*. 호르몬 요인과 식이 요인의 기여를 분리할 수 없다.
+- **🔺 형광 추적은 「온전한 단백질의 난소 도달」을 입증하지 못한다**: *"fluorescence imaging cannot distinguish intact fusion proteins from labeled fragments or other fluorescent species. Thus, the detected signals **do not establish that intact, biologically active Amuc_1100 reaches the ovary**."* 더구나 이 실험은 **건강 마우스 군당 1마리**의 탐색적 실험이며(저자 명시), **iRFP720·GFP 융합 단백질**(native 단백질 아님)로 수행됐다.
+- **장 투과도를 직접 측정하지 않았다** — LBP·tight junction 마커는 **간접 근거**이며, 장 변화–전신 염증–난소 TLR4/NF-κB 사이의 연결은 **연관(associative)**이고 인과가 아니다.
+- **BAT 열생성 활성·에너지 소비를 직접 측정하지 않았다** — 유전자 발현 변화만 확인.
+- DHEA+HFD 마우스 모델은 **인체 PCOS의 임상적 이질성을 반영하지 못한다.**
+- 난소 내 표적 세포군·직접 분자 표적·경로의 인과적 역할은 **미확립**.
+- **장내 미생물 조성(16S·메타지놈)은 측정되지 않았다** — 본 연구는 숙주 표현형·기전 중심이다.
+- **근육·체성분 지표는 측정되지 않았다** — 근감소·GLP-1 companion 맥락으로 전용할 수 없다.
+
+**🧭 플랫폼 전략상 결론 (본 문서의 판단)**
+
+1. **「정제 Amuc_1100이 살균 전균체를 대체한다」는 플랫폼 논거로 이 논문을 인용하면 안 된다.** 쓸 수 있는 최대치는 **「Amuc_1100이 AKK 효능의 일부를 설명하는 defined component일 수 있다」** 이며, 이는 저자들의 표현(*"a defined AKK-derived component with potential for further investigation"*)과도 일치한다.
+2. **동등성을 주장하려면 설계가 달라야 한다**: ① **용량–반응 곡선**으로 전균체와 정제 단백질을 등가 지점에서 비교, ② 모든 기전 축에 **전 군 포함**, ③ **사전 정의된 동등성/비열등성 마진**. 현 설계(각 군 vs 모델군 + Tukey)는 **「둘 다 유의」를 보여줄 뿐 「둘이 같다」를 보여주지 않는다.**
+3. **역설적으로 전균체(HB05P 등)에 유리한 독법도 가능하다**: 정제 단백질이 **체중 증가를 낮추지 못했고** BAT 유전자 반응이 중재별로 갈렸다면, **전균체가 가진 다중 effector(EV·SCFA·기타 표면 단백)** 의 기여를 시사하는 방향으로도 읽힌다 — ⚠️ 단 **본 논문이 그 비교를 통계적으로 수행하지 않았으므로 이는 가설**이다.
+4. **cf. [[Jay's Knowledge Base/wiki/microbiome-therapeutics\|microbiome-therapeutics]]의 Lee 2026 비판과 정확히 겹친다**: 「**온전한 활성 산물의 in vivo 노출**이 입증되지 않는다」는 조작 미생물 분야의 지적이, 여기서는 **정제 effector 경구 투여**에서 동일하게 나타난다(형광 ≠ 온전한 단백질). 이는 분야 전반의 공통 관문으로 정리해 둘 만하다.
 ### 2. 대사 조절
 - 인슐린 감수성 개선 (Depommier 2019 RCT)
 - 지방 조직 대사 조절 → 체지방 감소
@@ -102,6 +161,27 @@ Amuc_1100–TLR2–tight junction 축이 **장 밖 상피(extra-intestinal epith
 - **변형된 담즙산 풀 → 소장 지질흡수 증가**: 미생물에 의해 변형된 담즙산이 소장에서 **FXR–PLIN2 신호 활성화** + 장세포 **PPARα 의존 흡수경로 상향** → 지방 흡수 증가.
     - **용어** (담즙산 축 전반 → [[Jay's Knowledge Base/wiki/bile-acid-metabolism\|bile-acid-metabolism]]): **FXR**(farnesoid X receptor)은 담즙산을 리간드로 하는 **핵수용체**로, 미생물이 바꾼 담즙산 조성을 숙주 유전자 발현으로 번역하는 지점이다(장–근육 방향의 하류는 [[Jay's Knowledge Base/wiki/gut-muscle-axis\|gut-muscle-axis]] 참조). **PLIN2**(perilipin-2)는 **지질방울(lipid droplet) 피막 단백질**로, 흡수된 지방을 장세포 안에 축적·보관하는 마지막 실행 단계를 담당한다. **PPARα**는 지질 대사 전사인자이나 **여기서는 통상 알려진 지방산 산화 기능이 아니라 장세포의 지질 흡수 경로를 상향시키는 역할**로 등장하므로 해석에 주의가 필요하다. 즉 대장 점액-미생물 상호작용의 교란이 숙주 담즙산의 미생물 전환을 바꿔 **소장 지질 흡수를 원격으로 촉진**하는 대장 점액 niche ↔ 소장 지질대사 연결
 - **글루타민 rescue**: **글루타민 보충이 배상세포 기능과 미생물 유래 담즙산 풀을 회복** → FXR 활성·지질 흡수 감소. *A. muciniphila* 고갈이 단순 결과가 아니라 이 축의 회복 표적임을 시사 (cf. [[Jay's Knowledge Base/wiki/obesity-body-composition\|obesity-body-composition]], [[Jay's Knowledge Base/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]])
+
+#### 🔀 Liang 2026 vs Patra 2026 — *Akkermansia* 방향이 반대로 나타나는 두 축의 정합성
+
+위 Liang 2026(고지방식 → 배상세포 손상 → 점액층 박화 → ***A. muciniphila* 고갈**)과 Patra et al. (2026, *Cell*, [[Jay's Knowledge Base/raw/664-patra-2026-lifestyle-induced-regulatory-t-cell-fragility-primes\|raw/664-patra-2026-lifestyle-induced-regulatory-t-cell-fragility-primes]]; 주제노트 [[Jay's Knowledge Base/wiki/microbiome-cancer-immunotherapy\|microbiome-cancer-immunotherapy]])의 LISA 모델(서양식·저섬유 식이 → 점액층 박화 → ***A. muciniphila* 30~40%까지 증식**)은 **Akk의 변화 방향이 정반대로 보인다**. 아래와 같이 조건을 분해하면 모순이 아니라 **동일한 상류 변수의 서로 다른 하류 귀결**로 읽힌다.
+
+| 축 | Liang 2026 (*Nat Microbiol*) | Patra 2026 (*Cell*) |
+|---|---|---|
+| 식이 | **고지방식(HFD)** | **서양식(WD) · 저섬유식** |
+| anti-PD-1 / 종양 | 없음 | **있음** (종양 보유 + ICB) |
+| 점액층 | 얇아짐 | 얇아짐 |
+| *A. muciniphila* | **고갈** | **증식 (30~40%)** |
+| 지목된 상류 동인 | 배상세포 **글루타민 대사·redox 손상** → 뮤신 **생산** 감소 | **식이섬유 결핍** → 뮤신이 **유일 기질**로 남음 |
+| 주 결과 지표 | 담즙산 전환 변화 → 소장 지질흡수↑ | Treg fragility → irAE 감수성↑ |
+| 회복 중재 | **글루타민 보충** | **식이 되돌림 · 대사체 보충 · Treg IFN-γ 차단** |
+
+- **공통점이 핵심이다**: 두 연구 모두 **점액층 박화**가 일어나며, 상류 변수는 **숙주 측 배상세포·뮤신 생산**이다. *A. muciniphila* 풍부도는 어느 쪽에서도 독립 원인이 아니라 **종속 변수(지표)** 로 등장한다. Patra 2026에서 생균 모노콜로니제이션 단독이 뮤신층 감소를 재현하지 못한 것이 이를 직접 뒷받침한다.
+- **방향이 갈리는 이유 — 작업 가설**: **「뮤신 생산량 감소」와 「경쟁 기질 소멸」 중 어느 쪽이 지배적인가**로 설명될 수 있다. ① HFD는 배상세포 기능 자체를 손상시켜 **뮤신 공급량을 줄이므로 Akk의 기질도 함께 사라짐 → 고갈**. ② 저섬유식은 섬유라는 **대체 기질만 제거**하므로 뮤신 공급이 상대적으로 유지된 상태에서 **Akk가 뮤신으로 몰려 증식 → 뮤신층 소비**. 즉 Akk 풍부도의 방향은 **뮤신 공급과 대체 기질 가용성의 비(ratio)** 에 의해 결정된다는 해석이다. 여기에 Patra 2026은 **ICB로 인한 면역 활성화**라는 추가 교란 변수를 갖는다.
+- **🔎 세 번째 데이터포인트 — 뮤신 공급이 늘면 Akk도 늘고 뮤신층은 보존된다**: Wang et al. (2026, *Cell. Mol. Gastroenterol. Hepatol.*, [[Jay's Knowledge Base/raw/668-wang-2026-intestinal-gpr128-deficiency-protects-against\|raw/668-wang-2026-intestinal-gpr128-deficiency-protects-against]])에서 **장 GPR128 결핍 → 배상세포·점액층 보존 → 점액 연관 *Akkermansia* 농축**이 관찰되었다. 여기서는 Akk 농축이 **온전한 점액층과 공존**하며 숙주에 **유익한 하류 효과**(젠티스산 유리를 통한 아세트아미노펜 간손상 완화)로 이어진다. 이는 위 비(ratio) 가설의 **뮤신 공급 축을 반대 방향에서 지지**한다 — 공급이 보존·증가하면 Akk는 늘어나되 **층을 소비하지 않는다**. 세 연구를 묶으면 Akk 풍부도의 부호가 아니라 **「뮤신 공급 대비 소비」의 균형**이 장벽 결과를 결정한다는 틀이 선다: 공급↓·Akk↓ (Liang 2026) / 공급 유지·대체기질↓·Akk↑·층 소비 (Patra 2026) / 공급↑·Akk↑·층 보존 (Wang 2026). **따라서 Akk 풍부도 단독은 장벽 건강의 대리지표로 쓸 수 없다**
+- **검증 설계 제안**: 동일 코호트에서 **지방 × 섬유 2×2 교차 식이**를 두고 **배상세포 수·MUC2 발현(뮤신 생산량)** 과 **Akk 상대풍부도**를 동시 측정하면 위 비(ratio) 가설을 직접 시험할 수 있다. 추가로 **Liang 2026의 글루타민 보충이 Patra 2026의 저섬유 조건에서도 Akk 과증식을 억제하는지**가 교차 검증 지점이 된다.
+- ⚠️ **상태: 작업 가설**. 두 논문은 서로를 인용하거나 직접 비교하지 않았으며, 위 분해는 본 노트의 해석이다. 실험적 확증 없음 (cf. [[Jay's Knowledge Base/wiki/dysbiosis\|dysbiosis]], [[Jay's Knowledge Base/wiki/short-chain-fatty-acids\|short-chain-fatty-acids]], [[Jay's Knowledge Base/wiki/akkermansia-indications-applications\|pathobiont 양면성]]).
+
 
 > GLP-1RA(semaglutide 등)와의 대사 효과 시너지 및 그 데이터·해석 한계에 대한 비판적 검토는 [[Jay's Knowledge Base/wiki/akkermansia-clinical-evidence\|akkermansia-clinical-evidence]] 문서로 분리하였다.
 
